@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+.wrangler/
+.cloudflare/
+*.log
+verification.json
+setup-status.json
