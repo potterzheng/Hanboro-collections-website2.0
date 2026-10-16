@@ -2,7 +2,7 @@
 
 目标仓库：https://github.com/potterzheng/Hanboro-collections-website2.0
 
-注意：仓库名末尾确实有一个英文句点 `.`，不是文字标点。已通过 GitHub 官方接口核实该仓库存在且为公开仓库；不带末尾句点的地址会返回 404。
+
 
 这是一份独立的网站发布项目，沿用已有目录的设计。原来的离线目录和 G 盘产品资料没有改动。当前尚未上传到 GitHub，尚未在 Cloudflare 发布，也没有绑定域名。
 
