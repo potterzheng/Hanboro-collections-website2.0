@@ -1,0 +1,4 @@
+**/*.md
+web-images/image-index.json
+web-images/inquiry-previews.json
+**/*.log

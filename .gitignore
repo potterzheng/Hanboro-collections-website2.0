@@ -1,5 +1,4 @@
 node_modules/
-dist/
 .env
 .env.*
 .wrangler/
@@ -7,3 +6,7 @@ dist/
 *.log
 verification.json
 setup-status.json
+.test-tmp/
+dist/index.html
+dist/_headers
+dist/assets/

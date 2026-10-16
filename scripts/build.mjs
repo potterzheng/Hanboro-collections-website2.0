@@ -2,39 +2,49 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
+import { prepareCatalog } from './site-assets.mjs';
 
-const root = fileURLToPath(new URL('../', import.meta.url));
+const root = path.resolve(fileURLToPath(new URL('../', import.meta.url)));
 const out = path.join(root, 'dist');
-if (path.dirname(out) !== path.resolve(root) || path.basename(out) !== 'dist') throw new Error('Unsafe output directory');
-if (fs.existsSync(out)) {
-  if (fs.lstatSync(out).isSymbolicLink()) throw new Error('Output must not be a symlink');
-  console.log(`Replacing generated output only: ${out}`);
-  fs.rmSync(out, { recursive: true });
-}
-fs.mkdirSync(path.join(out, 'assets'), { recursive: true });
+if (fs.existsSync(out) && fs.lstatSync(out).isSymbolicLink()) throw new Error('dist must not be a symlink');
 
+// Validate every image before replacing any generated page or asset.
+const { catalog, references, remapped } = prepareCatalog(root);
+const icons = JSON.parse(fs.readFileSync(path.join(root, 'src/icons.json'), 'utf8'));
+const styles = fs.readFileSync(path.join(root, 'src/catalog.css'), 'utf8');
+const app = fs.readFileSync(path.join(root, 'src/online.js'), 'utf8') + '\n' + fs.readFileSync(path.join(root, 'src/catalog.js'), 'utf8');
+const template = fs.readFileSync(path.join(root, 'src/catalog.template.html'), 'utf8');
+fs.mkdirSync(path.join(out, 'assets'), { recursive: true });
+const generated = new Set();
 function asset(stem, extension, content) {
   const hash = crypto.createHash('sha256').update(content).digest('hex').slice(0, 12);
   const name = `assets/${stem}-${hash}.${extension}`;
   fs.writeFileSync(path.join(out, name), content);
+  generated.add(path.basename(name));
   return name;
 }
-
-const catalog = JSON.parse(fs.readFileSync(path.join(root, 'data/catalog.json'), 'utf8'));
-const imageUrls = new Set(catalog.models.flatMap(model => model.products.flatMap(product => [product.images.main, ...product.images.overview, ...product.images.gallery, ...product.variants.flatMap(variant => variant.images)]).filter(Boolean).flatMap(image => [image.url, image.thumb])));
-for (const url of imageUrls) {
-  if (!url.startsWith('web-images/') || url.includes('..')) throw new Error('Invalid image reference');
-  const destination = path.join(out, url);
-  fs.mkdirSync(path.dirname(destination), { recursive: true });
-  fs.copyFileSync(path.join(root, 'public', url), destination);
-}
-const icons = JSON.parse(fs.readFileSync(path.join(root, 'src/icons.json'), 'utf8'));
 const data = asset('catalog', 'js', `const CATALOG = ${JSON.stringify(catalog).replace(/</g, '\\u003c')};\nconst ICONS = ${JSON.stringify(icons)};\nconst MEDIA = {};\n`);
-const styles = asset('catalog', 'css', fs.readFileSync(path.join(root, 'src/catalog.css'), 'utf8'));
-const app = asset('app', 'js', fs.readFileSync(path.join(root, 'src/online.js'), 'utf8') + '\n' + fs.readFileSync(path.join(root, 'src/catalog.js'), 'utf8'));
-const html = fs.readFileSync(path.join(root, 'src/catalog.template.html'), 'utf8')
-  .replace('<style>__STYLES__</style>', `<link rel="stylesheet" href="${styles}">`)
-  .replace(/  <script>[\s\S]*?  <\/script>/, `  <script src="${data}" defer></script>\n  <script src="${app}" defer></script>`);
+const css = asset('catalog', 'css', styles);
+const js = asset('app', 'js', app);
+const html = template
+  .replace('<style>__STYLES__</style>', `<link rel="stylesheet" href="${css}">`)
+  .replace(/<script>[\s\S]*?<\/script>/, `<script src="${data}" defer></script>\n  <script src="${js}" defer></script>`);
+if (/__STYLES__|__DATA__|__APP__|__MEDIA__/.test(html)) throw new Error('Unresolved page template');
 fs.writeFileSync(path.join(out, 'index.html'), html);
-fs.writeFileSync(path.join(out, '_headers'), '/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n/\n  Cache-Control: no-cache\n/index.html\n  Cache-Control: no-cache\n/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/web-images/*\n  Cache-Control: public, max-age=31536000, immutable\n');
-console.log(`Built ${catalog.models.length} collections in dist/.`);
+fs.writeFileSync(path.join(out, '_headers'), '/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n/\n  Cache-Control: no-cache\n/index.html\n  Cache-Control: no-cache\n/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/web-images/*\n  Cache-Control: no-cache\n');
+
+// Only prune files owned by this generator; never delete the image directory.
+for (const name of fs.readdirSync(path.join(out, 'assets'))) {
+  if (/^(?:app|catalog)-[a-f0-9]{12}\.(?:js|css)$/.test(name) && !generated.has(name)) fs.unlinkSync(path.join(out, 'assets', name));
+}
+function removePrivateNotes(directory) {
+  if (!fs.existsSync(directory)) return;
+  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+    const file = path.join(directory, entry.name);
+    if (entry.isSymbolicLink()) throw new Error('Image directories must not contain symlinks');
+    if (entry.isDirectory()) removePrivateNotes(file);
+    else if (/\.md$/i.test(entry.name) || ['image-index.json', 'inquiry-previews.json'].includes(entry.name)) fs.unlinkSync(file);
+  }
+}
+removePrivateNotes(path.join(out, 'web-images'));
+console.log(`Built ${catalog.models.length} collections; verified ${references.length} image files; resolved ${remapped} legacy image names. Images preserved in dist/web-images/.`);

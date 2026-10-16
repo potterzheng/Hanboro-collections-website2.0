@@ -1,87 +1,62 @@
-# Hanboro 网站上线准备
+# Hanboro Collections Website 2.0
 
-目标仓库：https://github.com/potterzheng/Hanboro-collections-website2.0
+本仓库沿用现有产品目录的设计和交互，使用 Cloudflare Workers Static Assets 发布。产品图片直接保存在 `dist/web-images/`，不需要创建 `public` 文件夹。
 
+## Cloudflare 设置
 
+| 项目 | 内容 |
+| --- | --- |
+| GitHub 仓库 | `potterzheng/Hanboro-collections-website2.0` |
+| 生产分支 | `main` |
+| Cloudflare 项目名称 | `hanboro-collections-website2-0` |
+| 根目录 | 仓库根目录，即 package.json 所在位置 |
+| 构建命令 | `npm run build` |
+| 部署命令 | `npx wrangler deploy` |
+| 公开文件目录 | `dist`，已在 wrangler.jsonc 中指定 |
 
-这是一份独立的网站发布项目，沿用已有目录的设计。原来的离线目录和 G 盘产品资料没有改动。当前尚未上传到 GitHub，尚未在 Cloudflare 发布，也没有绑定域名。
+提交到 main 后，已经连接的 Cloudflare GitHub 集成会触发新构建。构建和部署结果以 Cloudflare 后台为准。域名、账户授权和部署凭据不写进仓库；不需要在聊天或代码中填写密码、验证码、API Token。
 
-## 目前包含
+## 文件分工
 
-- `src/`：可以继续修改的页面、样式、交互和图标。
-- `data/catalog.json`：用于公开网站的产品资料，已去掉电脑路径、审计信息和原参数文件路径。
-- `public/web-images/`：配套网页图片，按分类、型号和子型号分目录。文件名含内容校验值，更新图片后不会沿用旧缓存。
-- `scripts/`：在本机或 Cloudflare 生成网站的程序。
-- `dist/`：生成后的公开网站。只发布这个目录，不发布项目根目录。
+- `data/catalog.json`：产品、子型号、配色、参数和图片引用。
+- `src/`：可继续修改的页面、样式及交互源码。
+- `dist/web-images/`：需要保留并提交的网页图片和缩略图，继续按分类、型号、子型号归档。
+- `dist/index.html`、`dist/_headers` 和 `dist/assets/`：Cloudflare 构建时根据源码和产品数据生成，不重复提交到 GitHub。
+- `dist/.assetsignore`：防止内部图片备注等文件被当作网站资源发布。
+- `wrangler.jsonc`：与现有 Cloudflare Worker 同名的静态网站发布配置。
+- `scripts/`：构建、检查、本机预览和回归测试。
 
-网站页面与图片分开加载。导出询价单时，只为当前询价商品读取并内嵌缩略图，不再在首页预先加载全部图片预览。
+## 构建方式
 
-## 第一步：连接 GitHub
+构建首先核对全部图片，再生成网页。构建不会清空 dist，也不会删除或重命名产品图片。数据中的图片名与原目录仅相差追加的内容校验后缀时，构建会在确认对应文件确实存在后解析为实际路径；找不到文件时明确报错，不用其他颜色或包装图替代。
 
-读取公开仓库不需要登录，但提交和推送仍需要你授权 GitHub 账号。当前尚未确认写入权限，不会仅凭公开地址就向仓库推送。
+公开网页不发布图片备注、原始电脑路径和内部图片索引。G 盘原始产品资料与本仓库相互独立，构建不会访问 G 盘。
 
-将本项目的源码、产品数据和 `public/` 图片提交到目标仓库。不要将上一级的整个 `outputs/` 上传，里面还有本地审计信息、旧备份和其他资料。`.gitignore` 排除了生成文件、依赖和常见密钥文件；仍需在提交前检查。
+## 本机检查
 
-本项目图片数量较多，不适合用 GitHub 网页逐批拖放。建议连接 GitHub 后由代理提交，或使用 GitHub Desktop。当前仓库是公开的，提交的源码和图片会公开，所以只能提交这里清理过的资料；今后也可以把源码仓库设为私有，不影响把生成的网站公开给客户。
-
-## 第二步：通过 Cloudflare 自动发布
-
-遵循“先不在本机安装 cf”的选择，使用 Cloudflare 网页后台连接 GitHub。新项目建议 Workers Static Assets。
-
-1. Cloudflare 后台进入 **Workers & Pages**。
-2. 选择 **Create application → Import a repository**，授权访问上面的 GitHub 仓库。建议只授权需要的网站仓库。
-3. 生产分支选择仓库实际使用的主分支，通常是 `main`；需要先确认仓库内容。
-4. 项目根目录是本项目上传后的根目录，而不是旧的离线目录。
-5. 构建命令设置为 `npm run build`，生成目录为 `dist`。
-6. 检查后台识别出的静态资产发布配置，确认只上传 `dist`，Worker 名称保持 `hanboro-collections-website`。不要照搬旧教程里 Pages 的字段到 Workers 页面。
-7. 点击发布，等待成功后使用后台实际给出的 `workers.dev` 网址测试，不能自行拼接并当作已发布网址。
-
-Cloudflare 后台可能提供自动配置或自动配置合并请求。先检查它选择的发布目录和 Worker 名称，再接受。后台生成或使用的发布工具不需要安装到你的电脑。此项目目前刻意没有添加 Cloudflare 命令行依赖或虚构账号配置；最终发布命令应在读取仓库和后台实际配置后确认。
-
-官方说明：
-
-- GitHub 自动发布：https://developers.cloudflare.com/workers/ci-cd/builds/
-- 静态网站：https://developers.cloudflare.com/workers/static-assets/
-- 自有域名：https://developers.cloudflare.com/workers/configuration/routing/custom-domains/
-
-## 第三步：购买并绑定域名
-
-现在可以先用平台网址测试，不必急着购买域名。确定域名后，以你自己的账号购买并管理，购买和付费需你本人确认。
-
-将域名加入 Cloudflare，按照注册商和 Cloudflare 显示的指引配置域名解析。域名处于有效状态后，在对应 Worker 的 Domains & Routes 中添加 Custom Domain，等待域名解析和 HTTPS 证书就绪。根域名与 `www` 是不同地址，要分别处理或设置跳转。
-
-不要把 GitHub 仓库地址当作网站域名；GitHub 存储资料，Cloudflare 才负责这里的网站发布。上线后需要在不同地区、手机和电脑网络测试，不能承诺每个国家、每个网络始终都可访问。
-
-## 第四步：日常更新
-
-流程是：修改网站源码或产品数据 → 预览检查 → 提交到 GitHub 主分支 → Cloudflare 构建成功 → 客户在同一个网址看到新版。
-
-本机修改 G 盘文件不会自动修改云端。当前发布项目使用已导入的数据和网页图片；需要有明确的本地导入步骤，再提交更新后的数据和图片，不能让云端构建去读取 G 盘。
-
-默认排序、已知价格排序、红心收藏、手机切换配色、无货排除、无其他颜色时只显示主图等规则沿用旧版。移除型号时也要检查已不需要的图片，构建程序只发布产品数据仍引用的图片。
-
-## 后续设计与功能顺序
-
-1. 先确认目录、图片、手机交互及中英文内容可以在线使用。
-2. 补充真实的品牌介绍、公司资料、联系方式和询价收件方式，不生成虚构公司信息。
-3. 增加询价提交服务、垃圾信息防护和隐私说明。当前导出询价单不会自动发送给商家。
-4. 增加需要登录的管理后台，支持产品上下架、图片上传、配色、参数和中英文编辑。产品资料与图片应有独立存储，后台不能仅靠浏览器本地存储。
-5. 逐步完善独立产品链接、搜索引擎可读页面和统计。当前沿用 `#/product/...` 路由，适合第一版目录，不应当作已完成搜索引擎优化。
-
-## 本机预览和检查
+安装依赖后执行：
 
 ```powershell
+npm ci
 npm run build
 npm run check
+npm test
 npm run preview
 ```
 
-使用程序打印的本机网址打开。不要直接双击这个上线版的源文件；旧版离线 HTML 仍在原来的位置可用。
+使用预览程序打印的网址打开。部署前可以执行 `npx wrangler deploy --dry-run`，这一步不发布到线上。Wrangler 是项目内固定版本的开发依赖，不需要全局安装 cf。
 
-## 本次 Cloudflare 环境配置
+## 更新产品与设计
 
-已按你提供的官方指引安装 Cloudflare 的 18 个技能到本机 `%USERPROFILE%\.codex\skills\`，并将官方连接 `https://mcp.cloudflare.com/mcp` 添加到 Codex 配置。
+1. 修改产品时更新 `data/catalog.json`，新图片按对应分类和型号放到 `dist/web-images/`；主图和缩略图路径都必须存在。
+2. 修改页面外观或交互时编辑 `src/`，不要仅手工编辑生成后的 JavaScript。
+3. 构建、检查后，提交源码、数据、新图片和配置。生成后的 HTML、JS、CSS 不需要提交，Cloudflare 会重新生成。当前采用 dist 保存图片的方式，因此不能把整个 dist 加回 .gitignore。
+4. Cloudflare 从同一仓库分支构建并发布，客户继续访问同一个网址。
 
-官方连接的浏览器授权与 GitHub 账号连接需要分别完成。技能安装可在后续对话使用；新连接通常需要重启 Codex 加载。尚未确认授权成功时，不视为已取得账号访问权限。
+收藏红心、默认与价格排序、无货排除、无其他配色时仅显示主图、详情滑动切换配色和带图片的询价单导出继续保留。当前询价单导出不会自动发送给商家，接收询价和产品管理后台属于后续独立功能。
 
-按你的选择，没有安装可选的 `cf` 命令行工具，没有修改全局代理指令，也没有购买域名或启用付费服务。
+## 官方资料
+
+- 自动构建：https://developers.cloudflare.com/workers/ci-cd/builds/
+- 静态文件目录：https://developers.cloudflare.com/workers/static-assets/binding/
+- 自有域名：https://developers.cloudflare.com/workers/configuration/routing/custom-domains/
