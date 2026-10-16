@@ -1,0 +1,19 @@
+{
+  "preparedOn": "2026-10-15",
+  "repository": "https://github.com/potterzheng/Hanboro-collections-website.",
+  "repositoryPublicReadVerified": true,
+  "repositoryWriteAuthorized": false,
+  "pushedToGitHub": false,
+  "cloudflareSkillsInstalled": 18,
+  "cloudflareSkillsDirectory": "C:\\Users\\pozhengtter\\.codex\\skills",
+  "cloudflareMcpConfigured": true,
+  "cloudflareMcpUrl": "https://mcp.cloudflare.com/mcp",
+  "cloudflareMcpOAuth": "browser callback timed out; authorization not confirmed",
+  "cfCliInstalled": false,
+  "deploymentPreference": "GitHub automatic publishing",
+  "deployed": false,
+  "deployedUrl": null,
+  "domain": null,
+  "paidServicesEnabled": false,
+  "localBrowserChecks": "passed; see verification.json"
+}
