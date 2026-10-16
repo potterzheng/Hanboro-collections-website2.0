@@ -1,6 +1,6 @@
 # Hanboro 网站上线准备
 
-目标仓库：https://github.com/potterzheng/Hanboro-collections-website.
+目标仓库：https://github.com/potterzheng/Hanboro-collections-website2.0
 
 注意：仓库名末尾确实有一个英文句点 `.`，不是文字标点。已通过 GitHub 官方接口核实该仓库存在且为公开仓库；不带末尾句点的地址会返回 404。
 
