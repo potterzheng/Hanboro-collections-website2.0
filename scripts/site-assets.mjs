@@ -5,10 +5,30 @@ export function imageObjects(catalog) {
   return catalog.models.flatMap(model => [model.images.main, ...model.products.flatMap(product => [product.images.main, ...product.images.overview, ...product.images.gallery, ...product.variants.flatMap(variant => [variant.image, ...variant.images])])]).filter(Boolean);
 }
 
+export function readCatalog(root) {
+  function read(file) {
+    const text=fs.readFileSync(file,'utf8');
+    if (/"(?:sourcePath|sourceFolder|sourceRoots|sourceSha256|parameterFiles)"|[A-Z]:\\\\|file:\/\//i.test(text)) throw new Error('Product data contains private source metadata');
+    return JSON.parse(text);
+  }
+  const catalog=read(path.join(root,'data/catalog.json'));
+  const directory=path.join(root,'data/collections');
+  if(fs.existsSync(directory)) {
+    for(const name of fs.readdirSync(directory).filter(name=>name.endsWith('.json')).sort()) {
+      const model=read(path.join(directory,name));
+      if(typeof model.id!=='string' || !Array.isArray(model.products))throw new Error('Invalid collection: '+name);
+      catalog.models.push(model);
+    }
+  }
+  if(new Set(catalog.models.map(model=>model.id)).size!==catalog.models.length)throw new Error('Duplicate model IDs');
+  const products=catalog.models.flatMap(model=>model.products);
+  if(new Set(products.map(product=>product.id)).size!==products.length)throw new Error('Duplicate product IDs');
+  if(catalog.models.some(model=>model.series==='slim') && !catalog.categories?.includes('slim'))catalog.categories=[...(catalog.categories||[]),'slim'];
+  return catalog;
+}
+
 export function prepareCatalog(root) {
-  const text = fs.readFileSync(path.join(root, 'data/catalog.json'), 'utf8');
-  if (/"(?:sourcePath|sourceFolder|sourceRoots|sourceSha256|parameterFiles)"|[A-Z]:\\\\|file:\/\//i.test(text)) throw new Error('Product data contains private source metadata');
-  const catalog = JSON.parse(text);
+  const catalog = readCatalog(root);
   const resolved = new Map();
   const missing = new Set();
   let remapped = 0;

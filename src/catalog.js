@@ -2,7 +2,7 @@
 
 const TEXT = {
   catalog:['产品','Collections'], favorites:['收藏','Favorites'], cart:['购物车','Cart'], inquiry:['询价单','Inquiry sheet'],
-  all:['全部','All'], tonneau:['酒桶型','Tonneau'], men:['男款','Men'], women:['女款','Women'], round:['圆形','Round'],
+  all:['全部','All'], tonneau:['酒桶型','Tonneau'], men:['男款','Men'], women:['女款','Women'], round:['圆形','Round'], slim:['超薄款','Slim model'], backToTop:['返回顶部','Back to top'],
   search:['搜索型号','Search model'], clearSearch:['清除搜索','Clear search'], sort:['排序','Sort by'], default:['默认排序','Default'], low:['价格从低到高','Price: low to high'], high:['价格从高到低','Price: high to low'],
   products:['款产品','collections'], caseSize:['表壳直径','Case size'], price:['价格','Price'], color:['颜色','Colors'], from:['起','From'], unknown:['未提供','Not provided'], notLabeled:['未标注','Unspecified'],
   favoriteAdd:['收藏产品','Save to favorites'], favoriteRemove:['取消收藏','Remove from favorites'], back:['返回产品','Back to collections'],
@@ -49,6 +49,52 @@ const footer = document.getElementById('footer');
 const lightbox = document.getElementById('lightbox');
 let toastTimer;
 let swipeStart=null;
+let renderedPage=null;
+let catalogPosition=history.state?.hanboroCatalog || null;
+let resetCatalogRequested=false;
+let scrollFrame;
+try { history.scrollRestoration='manual'; } catch {}
+
+function rememberCatalog(card=null,persist=false) {
+  if(renderedPage!=='catalog')return;
+  catalogPosition={category:state.category,sort:state.sort,search:state.search,y:window.scrollY,anchor:card?.dataset.model || null,offset:card?.getBoundingClientRect().top || 0};
+  if(persist)try{history.replaceState({...history.state,hanboroCatalog:catalogPosition},'');}catch{}
+}
+function updateScrollControls() {
+  const button=document.querySelector('.back-to-top');
+  button.hidden=renderedPage!=='catalog' || window.scrollY<300;
+}
+function navigateRoute() {
+  const page=route().page;
+  const position=resetCatalogRequested?null:history.state?.hanboroCatalog || catalogPosition;
+  resetCatalogRequested=false;
+  if(page==='catalog') {
+    state.category=position?.category || 'all';
+    state.sort=position?.sort || 'default';
+    state.search=position?.search || '';
+  }
+  render();
+  if(page==='product' && catalogPosition)try{history.replaceState({...history.state,hanboroCatalog:catalogPosition},'');}catch{}
+  if(scrollFrame)cancelAnimationFrame(scrollFrame);
+  content.focus({preventScroll:true});
+  // Restore against the card, so viewport changes do not lose the product.
+  scrollFrame=requestAnimationFrame(()=>{
+    let top=page==='catalog'?(Number(position?.y)||0):0;
+    if(page==='catalog' && position?.anchor) {
+      const card=[...document.querySelectorAll('.product-card')].find(card=>card.dataset.model===position.anchor);
+      if(card)top=window.scrollY+card.getBoundingClientRect().top-(Number(position.offset)||0);
+    }
+    window.scrollTo({top:Math.max(0,top),left:0,behavior:'instant'});
+    if(page==='catalog')rememberCatalog(null,true);
+    updateScrollControls();
+  });
+}
+function catalogHome() {
+  state.category='all';state.sort='default';state.search='';
+  catalogPosition=null;resetCatalogRequested=true;
+  if(route().page==='catalog')navigateRoute();
+  else location.hash='/catalog';
+}
 
 function fitCardText() {
   document.querySelectorAll('.card-copy h2,.card-price').forEach(element=>{
@@ -94,11 +140,11 @@ function renderFooter() { footer.className='footer';footer.innerHTML='<span>© H
 function favoriteButton(model,isCard=false) { const active=favorites.has(model);return '<button type="button" class="icon-btn '+(isCard?'favorite-card':'favorite-toggle')+(active?' is-favorite':'')+'" data-action="favorite" data-model="'+esc(model)+'" aria-pressed="'+active+'" aria-label="'+esc(t(active?'favoriteRemove':'favoriteAdd'))+'" title="'+esc(t(active?'favoriteRemove':'favoriteAdd'))+'">'+icon('Heart')+'</button>'; }
 function colorSwatches(model) { const values=[...new Set(model.products.flatMap(p=>p.variants.map(v=>v.attributes.dial || v.attributes.strap || v.attributes.caseColor || v.attributes.color).filter(Boolean)))];return values.length ? values.slice(0,7).map(value=>'<span class="swatch" style="background:'+colorHex(value)+'" role="img" aria-label="'+esc(attrLabel(value))+'" title="'+esc(attrLabel(value))+'"></span>').join('')+(values.length>7?'<span class="muted">+'+(values.length-7)+'</span>':'') : '<span class="muted">'+t('unknown')+'</span>'; }
 function card(model,index) { const product=model.products.find(p=>p.sku===model.defaultSku);const prices=new Set(model.products.map(p=>p.specs.priceCny).filter(p=>p!==null));return '<article class="product-card" data-model="'+esc(model.id)+'">'+favoriteButton(model.id,true)+'<a class="card-main" href="'+productLink(model.id)+'" aria-label="'+esc(model.title)+'"><div class="card-copy"><h2>'+esc(model.title)+'</h2><p class="card-price">'+(prices.size>1&&lang==='en'?'<span class="from">'+t('from')+'</span>':'')+amount(model.priceFromCny)+(prices.size>1&&lang==='zh'?' <span class="from">'+t('from')+'</span>':'')+'</p><p class="card-spec">'+t('caseSize')+'<strong>'+esc(product?.specs.caseSize || t('unknown'))+'</strong></p><div class="card-colors"><span class="card-color-label">'+t('color')+'</span>'+colorSwatches(model)+'</div></div>'+imageMarkup(model.images.main,{className:'card-img',lazy:index>2,alt:model.title})+'</a></article>'; }
-function filteredModels(favoritesOnly=false) { let items=models.filter(m=>(!favoritesOnly || favorites.has(m.id)) && (state.category==='all'||m.gender===state.category||m.shape===state.category) && (!state.search||[m.model,m.title,...m.products.map(p=>p.sku)].some(s=>s.toLowerCase().includes(state.search.toLowerCase().trim()))));if(state.sort!=='default')items.sort((a,b)=>a.priceFromCny===null?(b.priceFromCny===null?0:1):b.priceFromCny===null?-1:(state.sort==='low'?1:-1)*(a.priceFromCny-b.priceFromCny));return items; }
+function filteredModels(favoritesOnly=false) { let items=models.filter(m=>(!favoritesOnly || favorites.has(m.id)) && (state.category==='all'||m.gender===state.category||m.shape===state.category||m.series===state.category) && (!state.search||[m.model,m.title,...m.products.map(p=>p.sku)].some(s=>s.toLowerCase().includes(state.search.toLowerCase().trim()))));if(state.sort!=='default')items.sort((a,b)=>a.priceFromCny===null?(b.priceFromCny===null?0:1):b.priceFromCny===null?-1:(state.sort==='low'?1:-1)*(a.priceFromCny-b.priceFromCny));return items; }
 function empty(title,ic='Search',reset=false) { return '<div class="empty">'+icon(ic)+'<h2>'+t(title)+'</h2>'+(reset?'<button type="button" class="secondary" data-action="reset">'+t('reset')+'</button>':'<a class="secondary" href="#/catalog">'+t('continue')+'</a>')+'</div>'; }
 function renderGrid(favoritesOnly=false) { const items=filteredModels(favoritesOnly); const target=document.getElementById('product-results');if(target) target.innerHTML=items.length?'<div class="product-grid">'+items.map(card).join('')+'</div>':empty(favoritesOnly&&!favorites.size?'noFavorites':'noMatch',favoritesOnly?'Heart':'Search',!favoritesOnly||favorites.size>0);const count=document.getElementById('product-count');if(count)count.textContent=items.length+' '+t('products');fitCardText(); }
 function renderCatalog(favoritesOnly=false) {
-  content.innerHTML='<div class="catalog-top"><div><h1>'+(favoritesOnly?t('favorites'):'Hanboro collections')+'</h1><p id="product-count" class="page-count"></p></div><div class="search">'+icon('Search')+'<input type="search" id="search-input" aria-label="'+esc(t('search'))+'" placeholder="'+esc(t('search'))+'" value="'+esc(state.search)+'"><button type="button" class="icon-btn" data-action="clear-search" aria-label="'+esc(t('clearSearch'))+'" title="'+esc(t('clearSearch'))+'">'+icon('X')+'</button></div></div><div class="toolbar"><div class="tabs" role="group" aria-label="'+t('catalog')+'">'+['all','tonneau','men','women','round'].map(key=>'<button class="tab" type="button" data-action="category" data-category="'+key+'" aria-pressed="'+(state.category===key)+'">'+t(key)+'</button>').join('')+'</div><label class="sort">'+t('sort')+'<select id="sort-select" aria-label="'+t('sort')+'">'+['default','low','high'].map(key=>'<option value="'+key+'" '+(state.sort===key?'selected':'')+'>'+t(key)+'</option>').join('')+'</select></label></div><div id="product-results"></div>';
+  content.innerHTML='<div class="catalog-top"><div><h1>'+(favoritesOnly?t('favorites'):'Hanboro collections')+'</h1><p id="product-count" class="page-count"></p></div><div class="search">'+icon('Search')+'<input type="search" id="search-input" aria-label="'+esc(t('search'))+'" placeholder="'+esc(t('search'))+'" value="'+esc(state.search)+'"><button type="button" class="icon-btn" data-action="clear-search" aria-label="'+esc(t('clearSearch'))+'" title="'+esc(t('clearSearch'))+'">'+icon('X')+'</button></div></div><div class="toolbar"><div class="tabs" role="group" aria-label="'+t('catalog')+'">'+['all','tonneau','men','women','round','slim'].map(key=>'<button class="tab" type="button" data-action="category" data-category="'+key+'" aria-pressed="'+(state.category===key)+'">'+t(key)+'</button>').join('')+'</div><label class="sort">'+t('sort')+'<select id="sort-select" aria-label="'+t('sort')+'">'+['default','low','high'].map(key=>'<option value="'+key+'" '+(state.sort===key?'selected':'')+'>'+t(key)+'</option>').join('')+'</select></label></div><div id="product-results"></div>';
   renderGrid(favoritesOnly);
 }
 function describe(product) {
@@ -148,7 +194,7 @@ function selectGalleryImage(item,resetFilter=false) {
   else if(item.role==='main')state.detail.variantId=null;
   state.detail.imageId=item.id;
   if(resetFilter)state.detail.galleryFilter='all';
-  try{history.replaceState(null,'',productLink(currentProduct().modelId,currentProduct().sku,state.detail.variantId));}catch{}
+  try{history.replaceState(history.state,'',productLink(currentProduct().modelId,currentProduct().sku,state.detail.variantId));}catch{}
   state.detail.routeHash=location.hash;
   updatePurchase();renderGallery();
   document.querySelectorAll('[data-action="gallery-filter"]').forEach(btn=>btn.setAttribute('aria-pressed',btn.dataset.role===state.detail.galleryFilter));
@@ -165,6 +211,11 @@ function renderInquiry() {
 }
 function render() {
   const r=route();
+  renderedPage=r.page;
+  content.classList.toggle('catalog-page',r.page==='catalog');
+  const topButton=document.querySelector('.back-to-top');
+  topButton.innerHTML=icon('ArrowUp');topButton.title=t('backToTop');topButton.setAttribute('aria-label',t('backToTop'));
+  updateScrollControls();
   document.documentElement.lang=lang==='zh'?'zh-CN':'en';
   document.querySelector('.skip-link').textContent=lang==='zh'?'跳至内容':'Skip to content';
   navigation(r.page);
@@ -192,8 +243,12 @@ function exportInquiry() {
 }
 
 document.addEventListener('click',event=>{
+  const link=event.target.closest('a[href^="#/"]');
+  if(link && event.button===0 && !event.metaKey && !event.ctrlKey && !event.shiftKey && !event.altKey)rememberCatalog(link.closest('.product-card'),true);
   const button=event.target.closest('[data-action]');if(!button)return;const action=button.dataset.action;
-  if(action==='favorite'){event.preventDefault();const id=button.dataset.model;if(favorites.has(id))favorites.delete(id);else favorites.add(id);save();if(route().page==='favorites')renderGrid(true);else document.querySelectorAll('[data-action="favorite"][data-model="'+id+'"]').forEach(btn=>{const active=favorites.has(id);btn.classList.toggle('is-favorite',active);btn.setAttribute('aria-pressed',active);btn.setAttribute('aria-label',t(active?'favoriteRemove':'favoriteAdd'));btn.title=t(active?'favoriteRemove':'favoriteAdd');});navigation(route().page);}
+  if(action==='catalog-home'){if(event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;event.preventDefault();catalogHome();}
+  else if(action==='back-to-top'){window.scrollTo({top:0,left:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});}
+  else if(action==='favorite'){event.preventDefault();const id=button.dataset.model;if(favorites.has(id))favorites.delete(id);else favorites.add(id);save();if(route().page==='favorites')renderGrid(true);else document.querySelectorAll('[data-action="favorite"][data-model="'+id+'"]').forEach(btn=>{const active=favorites.has(id);btn.classList.toggle('is-favorite',active);btn.setAttribute('aria-pressed',active);btn.setAttribute('aria-label',t(active?'favoriteRemove':'favoriteAdd'));btn.title=t(active?'favoriteRemove':'favoriteAdd');});navigation(route().page);}
   else if(action==='language'){if(lang===button.dataset.lang)return;lang=button.dataset.lang;save();render();document.querySelector('[data-lang="'+lang+'"]').focus({preventScroll:true});}
   else if(action==='category'){state.category=button.dataset.category;document.querySelectorAll('[data-action="category"]').forEach(btn=>btn.setAttribute('aria-pressed',btn.dataset.category===state.category));renderGrid(route().page==='favorites');}
   else if(action==='clear-search'){state.search='';document.getElementById('search-input').value='';renderGrid(route().page==='favorites');document.getElementById('search-input').focus();}
@@ -232,5 +287,7 @@ document.addEventListener('pointerup',event=>{
 document.addEventListener('pointercancel',()=>{swipeStart=null;});
 lightbox.addEventListener('click',event=>{if(event.target!==lightbox)return;const r=lightbox.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)lightbox.close();});
 document.addEventListener('error',event=>{if(event.target instanceof HTMLImageElement){const label=document.createElement('div');label.className='empty-image '+event.target.className;label.textContent=t('noImage');event.target.replaceWith(label);}},true);
-window.addEventListener('hashchange',()=>{if(lightbox.open)lightbox.close();render();window.scrollTo(0,0);content.focus({preventScroll:true});});
-render();
+window.addEventListener('scroll',()=>{if(route().page==='catalog')rememberCatalog();updateScrollControls();},{passive:true});
+window.addEventListener('pagehide',()=>rememberCatalog(null,true));
+window.addEventListener('hashchange',()=>{if(lightbox.open)lightbox.close();navigateRoute();});
+navigateRoute();

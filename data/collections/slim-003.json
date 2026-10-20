@@ -1,0 +1,1108 @@
+{
+  "id": "slim-003",
+  "model": "003",
+  "title": "HB-003",
+  "gender": null,
+  "shape": null,
+  "shapeLabel": null,
+  "series": "slim",
+  "defaultSku": "003-1",
+  "priceFromCny": 780,
+  "images": {
+    "main": {
+      "id": "c5d4d1339c912b",
+      "role": "main",
+      "fileName": "003-1_产品主图.png",
+      "width": 926,
+      "height": 1600,
+      "remark": "超薄系列 HB-003 / 产品主图",
+      "url": "web-images/slim/003/003-1/main-c5d4d1339c912b-f1bbd3237319.webp",
+      "thumb": "web-images/slim/003/003-1/thumbnails/main-c5d4d1339c912b-4db77650bec3.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "slim:003-1",
+      "modelId": "slim-003",
+      "model": "003",
+      "sku": "003-1",
+      "gender": null,
+      "shape": null,
+      "series": "slim",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 780,
+        "priceBasis": "list-price",
+        "caseSize": "39 mm",
+        "movement": "进口日本GM17石英机芯",
+        "thickness": "6.5 mm",
+        "strapWidth": "24 × 16 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "316精钢钻石刀拉丝工艺表壳，316精钢钻石刀工艺八角棱角圈口。",
+          "进口日本GM17石英机芯，走时精准。",
+          "钻石刀工艺蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花纹表盘，日历显示，强视夜光。",
+          "316精钢钻石刀批花工艺底部。",
+          "柔软硅胶表带，佩戴舒适，配置蝴蝶双按表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心。"
+        ],
+        "en": [
+          "316 stainless-steel case.",
+          "Imported Japanese GM17 quartz movement.",
+          "Sapphire crystal.",
+          "Date display.",
+          "Luminous details.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "c5d4d1339c912b",
+          "role": "main",
+          "fileName": "003-1_产品主图.png",
+          "width": 926,
+          "height": 1600,
+          "remark": "超薄系列 HB-003 / 产品主图",
+          "url": "web-images/slim/003/003-1/main-c5d4d1339c912b-f1bbd3237319.webp",
+          "thumb": "web-images/slim/003/003-1/thumbnails/main-c5d4d1339c912b-4db77650bec3.webp"
+        },
+        "packaging": [],
+        "overview": [
+          {
+            "id": "24b11339399a0c",
+            "role": "overview",
+            "fileName": "产品总图.png",
+            "width": 1152,
+            "height": 1600,
+            "remark": "超薄系列 HB-003 / 总体图片",
+            "url": "web-images/slim/003/003-1/overview-24b11339399a0c-a6e0b77b0f0a.webp",
+            "thumb": "web-images/slim/003/003-1/thumbnails/overview-24b11339399a0c-fb3548038140.webp"
+          }
+        ],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "slim:003-1:48a3fc2d8aa3",
+          "raw": "玫瑰金壳棕面棕带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "棕面",
+            "strap": "棕带"
+          },
+          "image": {
+            "id": "a969e193042ca6",
+            "role": "variant",
+            "fileName": "玫瑰金壳棕面棕带 (2).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+            "url": "web-images/slim/003/003-1/variant-a969e193042ca6-2572ffdde355.webp",
+            "thumb": "web-images/slim/003/003-1/thumbnails/variant-a969e193042ca6-05df46f8ccb1.webp",
+            "raw": "玫瑰金壳棕面棕带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "棕面",
+              "strap": "棕带"
+            }
+          },
+          "images": [
+            {
+              "id": "a969e193042ca6",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (2).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-a969e193042ca6-2572ffdde355.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-a969e193042ca6-05df46f8ccb1.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "4afab283d58b1a",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (3).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-4afab283d58b1a-4b2678c77c29.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-4afab283d58b1a-06f5ef6d96a0.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "d838b53fef3d25",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (4).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-d838b53fef3d25-34ab2622e0d5.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-d838b53fef3d25-2f32f603b214.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "ca9cfdc51ee3f7",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (5).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-ca9cfdc51ee3f7-5f96bcae13d3.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-ca9cfdc51ee3f7-0a688f2709ce.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "5c4dd5d427772b",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (6).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-5c4dd5d427772b-44f29792995c.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-5c4dd5d427772b-cc242b809eb9.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "f0e734deb6e233",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (7).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-f0e734deb6e233-cd10ab2519e6.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-f0e734deb6e233-104955b262dc.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "bf159f9a11d182",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (8).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-bf159f9a11d182-7772e9e0b942.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-bf159f9a11d182-f8aa72028abb.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "c3f321e840fafa",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (9).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-c3f321e840fafa-560a9de6d030.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-c3f321e840fafa-a430b2b7a32d.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "24a0372a540878",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (10).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-24a0372a540878-8e930dcf8451.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-24a0372a540878-7cea4a0a098a.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "b4146072ffd981",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (11).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-b4146072ffd981-769d59d54261.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-b4146072ffd981-0826fd103910.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "3cfe0def99e00a",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (12).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-3cfe0def99e00a-f5bfc769c933.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-3cfe0def99e00a-b0820981e826.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "84891b7e6414b8",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (13).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-84891b7e6414b8-e40575485c53.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-84891b7e6414b8-6b6343a3ee94.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "51756e95f6d16d",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (14).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-51756e95f6d16d-bf8b8612a8f6.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-51756e95f6d16d-bd482dba762c.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "80222642a5bade",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (15).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-80222642a5bade-4956aee29363.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-80222642a5bade-06cadf686a86.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "0c29002ced7bc8",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (16).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-0c29002ced7bc8-37b56773a61f.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-0c29002ced7bc8-6a7694a1b99b.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "0290cb62e88ba9",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (17).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-0290cb62e88ba9-5a2c0b8a31f2.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-0290cb62e88ba9-574f5d73f485.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            },
+            {
+              "id": "701dd23a058dfb",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面棕带 (18).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-701dd23a058dfb-871c303286ca.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-701dd23a058dfb-ff2c8454974f.webp",
+              "raw": "玫瑰金壳棕面棕带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-1:2a4b7dd975ee",
+          "raw": "金壳棕面棕带",
+          "attributes": {
+            "caseColor": "金壳",
+            "dial": "棕面",
+            "strap": "棕带"
+          },
+          "image": {
+            "id": "a2ddfdf201b797",
+            "role": "variant",
+            "fileName": "金壳棕面棕带 (1).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：金壳棕面棕带",
+            "url": "web-images/slim/003/003-1/variant-a2ddfdf201b797-1187e7e9595a.webp",
+            "thumb": "web-images/slim/003/003-1/thumbnails/variant-a2ddfdf201b797-3b9a0b5204ac.webp",
+            "raw": "金壳棕面棕带",
+            "attributes": {
+              "caseColor": "金壳",
+              "dial": "棕面",
+              "strap": "棕带"
+            }
+          },
+          "images": [
+            {
+              "id": "a2ddfdf201b797",
+              "role": "variant",
+              "fileName": "金壳棕面棕带 (1).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：金壳棕面棕带",
+              "url": "web-images/slim/003/003-1/variant-a2ddfdf201b797-1187e7e9595a.webp",
+              "thumb": "web-images/slim/003/003-1/thumbnails/variant-a2ddfdf201b797-3b9a0b5204ac.webp",
+              "raw": "金壳棕面棕带",
+              "attributes": {
+                "caseColor": "金壳",
+                "dial": "棕面",
+                "strap": "棕带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slim:003-2",
+      "modelId": "slim-003",
+      "model": "003",
+      "sku": "003-2",
+      "gender": null,
+      "shape": null,
+      "series": "slim",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 880,
+        "priceBasis": "list-price",
+        "caseSize": "39 mm",
+        "movement": "进口日本GM17石英机芯",
+        "thickness": "6.5 mm",
+        "strapWidth": "25 × 20 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "316精钢钻石刀拉丝工艺表壳，316精钢钻石刀工艺八角棱角圈口。",
+          "进口日本GM17石英机芯，走时精准。",
+          "钻石刀工艺蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花纹表盘，日历显示，强视夜光。",
+          "316精钢钻石刀批花工艺底部。",
+          "精钢表带，佩戴舒适，配置蝴蝶双按表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心。"
+        ],
+        "en": [
+          "316 stainless-steel case.",
+          "Imported Japanese GM17 quartz movement.",
+          "Sapphire crystal.",
+          "Date display.",
+          "Luminous details.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "36ed6a79a29734",
+          "role": "main",
+          "fileName": "003-2_产品主图.png",
+          "width": 980,
+          "height": 1600,
+          "remark": "超薄系列 HB-003 / 产品主图",
+          "url": "web-images/slim/003/003-2/main-36ed6a79a29734-f322ce4b5fe4.webp",
+          "thumb": "web-images/slim/003/003-2/thumbnails/main-36ed6a79a29734-9aca27bfac29.webp"
+        },
+        "packaging": [],
+        "overview": [
+          {
+            "id": "42afad05229603",
+            "role": "overview",
+            "fileName": "产品总图.png",
+            "width": 1200,
+            "height": 1552,
+            "remark": "超薄系列 HB-003 / 总体图片",
+            "url": "web-images/slim/003/003-2/overview-42afad05229603-81c0a9d20665.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/overview-42afad05229603-f2a917d8642e.webp"
+          }
+        ],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "slim:003-2:0b5e7420eed7",
+          "raw": "玫瑰金壳棕面玫瑰金纲带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "棕面",
+            "strap": "玫瑰金纲带"
+          },
+          "image": {
+            "id": "d76e8cc7ef06a0",
+            "role": "variant",
+            "fileName": "玫瑰金壳棕面玫瑰金纲带 (3).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面玫瑰金纲带",
+            "url": "web-images/slim/003/003-2/variant-d76e8cc7ef06a0-cabce1785500.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-d76e8cc7ef06a0-9727502f734a.webp",
+            "raw": "玫瑰金壳棕面玫瑰金纲带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "棕面",
+              "strap": "玫瑰金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "d76e8cc7ef06a0",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面玫瑰金纲带 (3).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳棕面玫瑰金纲带",
+              "url": "web-images/slim/003/003-2/variant-d76e8cc7ef06a0-cabce1785500.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-d76e8cc7ef06a0-9727502f734a.webp",
+              "raw": "玫瑰金壳棕面玫瑰金纲带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "玫瑰金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:0fb7ba5b0f3f",
+          "raw": "玫瑰金壳玫瑰金面玫瑰金纲带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "玫瑰金面",
+            "strap": "玫瑰金纲带"
+          },
+          "image": {
+            "id": "319ff565190b81",
+            "role": "variant",
+            "fileName": "玫瑰金壳玫瑰金面玫瑰金纲带 (2).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金纲带",
+            "url": "web-images/slim/003/003-2/variant-319ff565190b81-b745c92ae179.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-319ff565190b81-403f81baaeb2.webp",
+            "raw": "玫瑰金壳玫瑰金面玫瑰金纲带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "玫瑰金面",
+              "strap": "玫瑰金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "319ff565190b81",
+              "role": "variant",
+              "fileName": "玫瑰金壳玫瑰金面玫瑰金纲带 (2).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金纲带",
+              "url": "web-images/slim/003/003-2/variant-319ff565190b81-b745c92ae179.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-319ff565190b81-403f81baaeb2.webp",
+              "raw": "玫瑰金壳玫瑰金面玫瑰金纲带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "玫瑰金面",
+                "strap": "玫瑰金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:0f49d4315156",
+          "raw": "玫瑰金壳白面玫瑰金纲带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "玫瑰金纲带"
+          },
+          "image": {
+            "id": "6724ff41810706",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面玫瑰金纲带 (1).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳白面玫瑰金纲带",
+            "url": "web-images/slim/003/003-2/variant-6724ff41810706-082641197138.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-6724ff41810706-39230976e0d0.webp",
+            "raw": "玫瑰金壳白面玫瑰金纲带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "玫瑰金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "6724ff41810706",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面玫瑰金纲带 (1).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳白面玫瑰金纲带",
+              "url": "web-images/slim/003/003-2/variant-6724ff41810706-082641197138.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-6724ff41810706-39230976e0d0.webp",
+              "raw": "玫瑰金壳白面玫瑰金纲带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "玫瑰金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:55e785a2ef88",
+          "raw": "玫瑰金壳蓝面玫瑰金纲带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "蓝面",
+            "strap": "玫瑰金纲带"
+          },
+          "image": {
+            "id": "d33b991c5c7319",
+            "role": "variant",
+            "fileName": "玫瑰金壳蓝面玫瑰金纲带 (4).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳蓝面玫瑰金纲带",
+            "url": "web-images/slim/003/003-2/variant-d33b991c5c7319-69844e3b26af.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-d33b991c5c7319-69b4fa0c7ac7.webp",
+            "raw": "玫瑰金壳蓝面玫瑰金纲带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "蓝面",
+              "strap": "玫瑰金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "d33b991c5c7319",
+              "role": "variant",
+              "fileName": "玫瑰金壳蓝面玫瑰金纲带 (4).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：玫瑰金壳蓝面玫瑰金纲带",
+              "url": "web-images/slim/003/003-2/variant-d33b991c5c7319-69844e3b26af.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-d33b991c5c7319-69b4fa0c7ac7.webp",
+              "raw": "玫瑰金壳蓝面玫瑰金纲带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "蓝面",
+                "strap": "玫瑰金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:c9ef24ab4580",
+          "raw": "金壳棕面金纲带",
+          "attributes": {
+            "caseColor": "金壳",
+            "dial": "棕面",
+            "strap": "金纲带"
+          },
+          "image": {
+            "id": "669354469ad7ab",
+            "role": "variant",
+            "fileName": "金壳棕面金纲带 (12).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：金壳棕面金纲带",
+            "url": "web-images/slim/003/003-2/variant-669354469ad7ab-1c37cab4c99a.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-669354469ad7ab-b2c38752ff72.webp",
+            "raw": "金壳棕面金纲带",
+            "attributes": {
+              "caseColor": "金壳",
+              "dial": "棕面",
+              "strap": "金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "669354469ad7ab",
+              "role": "variant",
+              "fileName": "金壳棕面金纲带 (12).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：金壳棕面金纲带",
+              "url": "web-images/slim/003/003-2/variant-669354469ad7ab-1c37cab4c99a.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-669354469ad7ab-b2c38752ff72.webp",
+              "raw": "金壳棕面金纲带",
+              "attributes": {
+                "caseColor": "金壳",
+                "dial": "棕面",
+                "strap": "金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:b403b834d58a",
+          "raw": "金壳蓝面金纲带",
+          "attributes": {
+            "caseColor": "金壳",
+            "dial": "蓝面",
+            "strap": "金纲带"
+          },
+          "image": {
+            "id": "a41bfaba7e6016",
+            "role": "variant",
+            "fileName": "金壳蓝面金纲带 (13).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：金壳蓝面金纲带",
+            "url": "web-images/slim/003/003-2/variant-a41bfaba7e6016-5238e2f92d6c.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-a41bfaba7e6016-a394e36ec0ca.webp",
+            "raw": "金壳蓝面金纲带",
+            "attributes": {
+              "caseColor": "金壳",
+              "dial": "蓝面",
+              "strap": "金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "a41bfaba7e6016",
+              "role": "variant",
+              "fileName": "金壳蓝面金纲带 (13).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：金壳蓝面金纲带",
+              "url": "web-images/slim/003/003-2/variant-a41bfaba7e6016-5238e2f92d6c.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-a41bfaba7e6016-a394e36ec0ca.webp",
+              "raw": "金壳蓝面金纲带",
+              "attributes": {
+                "caseColor": "金壳",
+                "dial": "蓝面",
+                "strap": "金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:8533d7260bed",
+          "raw": "金壳金面金纲带",
+          "attributes": {
+            "caseColor": "金壳",
+            "dial": "金面",
+            "strap": "金纲带"
+          },
+          "image": {
+            "id": "c726751f88aa47",
+            "role": "variant",
+            "fileName": "金壳金面金纲带 (14).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：金壳金面金纲带",
+            "url": "web-images/slim/003/003-2/variant-c726751f88aa47-e1e5e62803bd.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-c726751f88aa47-23591473f669.webp",
+            "raw": "金壳金面金纲带",
+            "attributes": {
+              "caseColor": "金壳",
+              "dial": "金面",
+              "strap": "金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "c726751f88aa47",
+              "role": "variant",
+              "fileName": "金壳金面金纲带 (14).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：金壳金面金纲带",
+              "url": "web-images/slim/003/003-2/variant-c726751f88aa47-e1e5e62803bd.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-c726751f88aa47-23591473f669.webp",
+              "raw": "金壳金面金纲带",
+              "attributes": {
+                "caseColor": "金壳",
+                "dial": "金面",
+                "strap": "金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:aededc0a74a0",
+          "raw": "银壳棕面银纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "棕面",
+            "strap": "银纲带"
+          },
+          "image": {
+            "id": "b85085aa8682aa",
+            "role": "variant",
+            "fileName": "银壳棕面银纲带 (6).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：银壳棕面银纲带",
+            "url": "web-images/slim/003/003-2/variant-b85085aa8682aa-9f8102611aba.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-b85085aa8682aa-e0df7b53aae7.webp",
+            "raw": "银壳棕面银纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "棕面",
+              "strap": "银纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "b85085aa8682aa",
+              "role": "variant",
+              "fileName": "银壳棕面银纲带 (6).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：银壳棕面银纲带",
+              "url": "web-images/slim/003/003-2/variant-b85085aa8682aa-9f8102611aba.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-b85085aa8682aa-e0df7b53aae7.webp",
+              "raw": "银壳棕面银纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "棕面",
+                "strap": "银纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:808c0688c8ce",
+          "raw": "银壳白面银纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "白面",
+            "strap": "银纲带"
+          },
+          "image": {
+            "id": "6e86bb5fbd981b",
+            "role": "variant",
+            "fileName": "银壳白面银纲带 (7).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：银壳白面银纲带",
+            "url": "web-images/slim/003/003-2/variant-6e86bb5fbd981b-eba25f70dc1a.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-6e86bb5fbd981b-2d4862561026.webp",
+            "raw": "银壳白面银纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "白面",
+              "strap": "银纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "6e86bb5fbd981b",
+              "role": "variant",
+              "fileName": "银壳白面银纲带 (7).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：银壳白面银纲带",
+              "url": "web-images/slim/003/003-2/variant-6e86bb5fbd981b-eba25f70dc1a.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-6e86bb5fbd981b-2d4862561026.webp",
+              "raw": "银壳白面银纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "白面",
+                "strap": "银纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:d9716e698849",
+          "raw": "银壳绿面银纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "绿面",
+            "strap": "银纲带"
+          },
+          "image": {
+            "id": "3df4b0b63b565e",
+            "role": "variant",
+            "fileName": "银壳绿面银纲带 (5).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：银壳绿面银纲带",
+            "url": "web-images/slim/003/003-2/variant-3df4b0b63b565e-5bd25952c27f.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-3df4b0b63b565e-5848038b3ea8.webp",
+            "raw": "银壳绿面银纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "绿面",
+              "strap": "银纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "3df4b0b63b565e",
+              "role": "variant",
+              "fileName": "银壳绿面银纲带 (5).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：银壳绿面银纲带",
+              "url": "web-images/slim/003/003-2/variant-3df4b0b63b565e-5bd25952c27f.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-3df4b0b63b565e-5848038b3ea8.webp",
+              "raw": "银壳绿面银纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "绿面",
+                "strap": "银纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:81793031735c",
+          "raw": "银壳蓝面银纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "蓝面",
+            "strap": "银纲带"
+          },
+          "image": {
+            "id": "413f5df468ca26",
+            "role": "variant",
+            "fileName": "银壳蓝面银纲带 (8).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：银壳蓝面银纲带",
+            "url": "web-images/slim/003/003-2/variant-413f5df468ca26-d3529c168b07.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-413f5df468ca26-7fdefebcf7a4.webp",
+            "raw": "银壳蓝面银纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "蓝面",
+              "strap": "银纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "413f5df468ca26",
+              "role": "variant",
+              "fileName": "银壳蓝面银纲带 (8).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：银壳蓝面银纲带",
+              "url": "web-images/slim/003/003-2/variant-413f5df468ca26-d3529c168b07.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-413f5df468ca26-7fdefebcf7a4.webp",
+              "raw": "银壳蓝面银纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "蓝面",
+                "strap": "银纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:1905938152ad",
+          "raw": "间壳棕面间金纲带",
+          "attributes": {
+            "dial": "棕面",
+            "strap": "金纲带",
+            "unresolvedText": "间壳间"
+          },
+          "image": {
+            "id": "8cee85ac17b0fe",
+            "role": "variant",
+            "fileName": "间壳棕面间金纲带 (9).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：间壳棕面间金纲带",
+            "url": "web-images/slim/003/003-2/variant-8cee85ac17b0fe-3632032d4302.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-8cee85ac17b0fe-e20c5057871a.webp",
+            "raw": "间壳棕面间金纲带",
+            "attributes": {
+              "dial": "棕面",
+              "strap": "金纲带",
+              "unresolvedText": "间壳间"
+            }
+          },
+          "images": [
+            {
+              "id": "8cee85ac17b0fe",
+              "role": "variant",
+              "fileName": "间壳棕面间金纲带 (9).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：间壳棕面间金纲带",
+              "url": "web-images/slim/003/003-2/variant-8cee85ac17b0fe-3632032d4302.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-8cee85ac17b0fe-e20c5057871a.webp",
+              "raw": "间壳棕面间金纲带",
+              "attributes": {
+                "dial": "棕面",
+                "strap": "金纲带",
+                "unresolvedText": "间壳间"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:3d4eb7153f6b",
+          "raw": "间壳金面间金纲带",
+          "attributes": {
+            "dial": "金面",
+            "strap": "金纲带",
+            "unresolvedText": "间壳间"
+          },
+          "image": {
+            "id": "ef9965e7c57a07",
+            "role": "variant",
+            "fileName": "间壳金面间金纲带 (11).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：间壳金面间金纲带",
+            "url": "web-images/slim/003/003-2/variant-ef9965e7c57a07-3763d0eef1f2.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-ef9965e7c57a07-51326ebd5cfc.webp",
+            "raw": "间壳金面间金纲带",
+            "attributes": {
+              "dial": "金面",
+              "strap": "金纲带",
+              "unresolvedText": "间壳间"
+            }
+          },
+          "images": [
+            {
+              "id": "ef9965e7c57a07",
+              "role": "variant",
+              "fileName": "间壳金面间金纲带 (11).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：间壳金面间金纲带",
+              "url": "web-images/slim/003/003-2/variant-ef9965e7c57a07-3763d0eef1f2.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-ef9965e7c57a07-51326ebd5cfc.webp",
+              "raw": "间壳金面间金纲带",
+              "attributes": {
+                "dial": "金面",
+                "strap": "金纲带",
+                "unresolvedText": "间壳间"
+              }
+            }
+          ]
+        },
+        {
+          "id": "slim:003-2:f9938f37aded",
+          "raw": "间金壳蓝面间金纲带",
+          "attributes": {
+            "caseColor": "间金壳",
+            "dial": "蓝面",
+            "strap": "金纲带",
+            "unresolvedText": "间"
+          },
+          "image": {
+            "id": "416cf9f775c7e4",
+            "role": "variant",
+            "fileName": "间金壳蓝面间金纲带 (10).JPG",
+            "width": 800,
+            "height": 800,
+            "remark": "超薄系列 HB-003 / 配色与视角：间金壳蓝面间金纲带",
+            "url": "web-images/slim/003/003-2/variant-416cf9f775c7e4-a4258752452b.webp",
+            "thumb": "web-images/slim/003/003-2/thumbnails/variant-416cf9f775c7e4-e5c32b9ba2f9.webp",
+            "raw": "间金壳蓝面间金纲带",
+            "attributes": {
+              "caseColor": "间金壳",
+              "dial": "蓝面",
+              "strap": "金纲带",
+              "unresolvedText": "间"
+            }
+          },
+          "images": [
+            {
+              "id": "416cf9f775c7e4",
+              "role": "variant",
+              "fileName": "间金壳蓝面间金纲带 (10).JPG",
+              "width": 800,
+              "height": 800,
+              "remark": "超薄系列 HB-003 / 配色与视角：间金壳蓝面间金纲带",
+              "url": "web-images/slim/003/003-2/variant-416cf9f775c7e4-a4258752452b.webp",
+              "thumb": "web-images/slim/003/003-2/thumbnails/variant-416cf9f775c7e4-e5c32b9ba2f9.webp",
+              "raw": "间金壳蓝面间金纲带",
+              "attributes": {
+                "caseColor": "间金壳",
+                "dial": "蓝面",
+                "strap": "金纲带",
+                "unresolvedText": "间"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

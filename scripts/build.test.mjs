@@ -5,7 +5,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { prepareCatalog, publishedCatalog } from './site-assets.mjs';
+import { prepareCatalog, publishedCatalog, readCatalog } from './site-assets.mjs';
 
 const root = path.resolve(fileURLToPath(new URL('../', import.meta.url)));
 const temporary = path.join(root, '.test-tmp');
@@ -65,6 +65,33 @@ test('parent-directory image paths are rejected', () => fixture(directory => {
   assert.throws(() => prepareCatalog(directory), /Invalid image path/);
 }));
 
+test('supplemental collection files merge without replacing original data', () => fixture(directory => {
+  const source=path.join(directory,'data/catalog.json');
+  const before=digest(source);
+  const catalog=JSON.parse(fs.readFileSync(source,'utf8'));
+  catalog.models[0].id='original';catalog.models[0].products[0].id='original-product';
+  fs.writeFileSync(source,JSON.stringify(catalog));
+  const existing=digest(source);
+  fs.mkdirSync(path.join(directory,'data/collections'));
+  fs.writeFileSync(path.join(directory,'data/collections/slim.json'),JSON.stringify({id:'slim-test',series:'slim',products:[{id:'slim-product'}]}));
+  const merged=readCatalog(directory);
+  assert.equal(merged.models.length,2);
+  assert.equal(merged.models[0].id,'original');
+  assert(merged.categories.includes('slim'));
+  assert.equal(digest(source),existing);
+  assert.notEqual(before,existing);
+}));
+
+test('supplemental collections reject duplicate model IDs', () => fixture(directory => {
+  fs.mkdirSync(path.join(directory,'data/collections'));
+  fs.writeFileSync(path.join(directory,'data/collections/duplicate.json'),JSON.stringify({id:undefined,products:[]}));
+  assert.throws(()=>readCatalog(directory),/Invalid collection/);
+  const source=JSON.parse(fs.readFileSync(path.join(directory,'data/catalog.json'),'utf8'));
+  source.models[0].id='duplicate';fs.writeFileSync(path.join(directory,'data/catalog.json'),JSON.stringify(source));
+  fs.writeFileSync(path.join(directory,'data/collections/duplicate.json'),JSON.stringify({id:'duplicate',products:[]}));
+  assert.throws(()=>readCatalog(directory),/Duplicate model IDs/);
+}));
+
 test('a source-only checkout generates the complete site', () => fixture(directory => {
   assert(!fs.existsSync(path.join(directory, 'dist/index.html')));
   assert(!fs.existsSync(path.join(directory, 'dist/assets')));
@@ -96,5 +123,5 @@ test('repeated production builds are deterministic and keep photos intact', () =
   execFileSync(process.execPath, [path.join(root, 'scripts/build.mjs')]);
   assert.equal(digest(path.join(root, 'dist/index.html')), first);
   assert.deepEqual([digest(source), digest(sample)], before);
-  assert.equal(publishedCatalog(root).models.length, 172);
+  assert.equal(publishedCatalog(root).models.length, readCatalog(root).models.length);
 });
