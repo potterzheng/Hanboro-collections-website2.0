@@ -1,0 +1,1177 @@
+{
+  "id": "women-round-726",
+  "model": "726",
+  "title": "HB-726",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "726-1",
+  "images": {
+    "main": {
+      "id": "9b7269894475f8",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 875,
+      "height": 1496,
+      "remark": "women-round / 726-1 / 产品主图_0.png",
+      "url": "web-images/women-round/726/726-1/main-9b7269894475f8-f01ac027a6e7.webp",
+      "thumb": "web-images/women-round/726/726-1/thumbnails/main-9b7269894475f8-38416187028a.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:726-1",
+      "modelId": "women-round-726",
+      "model": "726",
+      "sku": "726-1",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1380,
+        "priceBasis": "list-price",
+        "caseSize": "36 mm",
+        "movement": "进口西铁城8215机械机芯",
+        "thickness": "11.5 mm",
+        "strapWidth": "22 × 18 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀批花拉丝工艺表壳。",
+          "进口西铁城8215机械机芯，40小时动力储存， 21600次/小时摆动频率。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花工艺表盘，日历显示。",
+          "镂空机械拉丝工艺自动陀底盖。",
+          "柔软硅胶表带，佩戴舒适，精钢双按保险表扣。",
+          "50米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Mechanical movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "9b7269894475f8",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 875,
+          "height": 1496,
+          "remark": "women-round / 726-1 / 产品主图_0.png",
+          "url": "web-images/women-round/726/726-1/main-9b7269894475f8-f01ac027a6e7.webp",
+          "thumb": "web-images/women-round/726/726-1/thumbnails/main-9b7269894475f8-38416187028a.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:726-1:367f78cc253f",
+          "raw": "玫瑰金壳深蓝面深蓝胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "深蓝面",
+            "strap": "深蓝胶带"
+          },
+          "image": {
+            "id": "d672bee8afd61d",
+            "role": "variant",
+            "fileName": "玫瑰金壳深蓝面深蓝胶带.jpeg",
+            "width": 569,
+            "height": 976,
+            "remark": "women-round / 726-1 / 玫瑰金壳深蓝面深蓝胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-d672bee8afd61d-3acb5fad9698.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-d672bee8afd61d-a2e651365fb1.webp",
+            "raw": "玫瑰金壳深蓝面深蓝胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "深蓝面",
+              "strap": "深蓝胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "d672bee8afd61d",
+              "role": "variant",
+              "fileName": "玫瑰金壳深蓝面深蓝胶带.jpeg",
+              "width": 569,
+              "height": 976,
+              "remark": "women-round / 726-1 / 玫瑰金壳深蓝面深蓝胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-d672bee8afd61d-3acb5fad9698.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-d672bee8afd61d-a2e651365fb1.webp",
+              "raw": "玫瑰金壳深蓝面深蓝胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "深蓝面",
+                "strap": "深蓝胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:ba263f7e32e0",
+          "raw": "玫瑰金壳灰面灰胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "灰面",
+            "strap": "灰胶带"
+          },
+          "image": {
+            "id": "fc70de7403b1a0",
+            "role": "variant",
+            "fileName": "玫瑰金壳灰面灰胶带.jpeg",
+            "width": 572,
+            "height": 980,
+            "remark": "women-round / 726-1 / 玫瑰金壳灰面灰胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-fc70de7403b1a0-fae2bd5af920.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-fc70de7403b1a0-89fbdd503cb5.webp",
+            "raw": "玫瑰金壳灰面灰胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "灰面",
+              "strap": "灰胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "fc70de7403b1a0",
+              "role": "variant",
+              "fileName": "玫瑰金壳灰面灰胶带.jpeg",
+              "width": 572,
+              "height": 980,
+              "remark": "women-round / 726-1 / 玫瑰金壳灰面灰胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-fc70de7403b1a0-fae2bd5af920.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-fc70de7403b1a0-89fbdd503cb5.webp",
+              "raw": "玫瑰金壳灰面灰胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "灰面",
+                "strap": "灰胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:232c9626e403",
+          "raw": "玫瑰金壳白面白胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "3b25e17184ee09",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面白胶带.jpeg",
+            "width": 574,
+            "height": 1007,
+            "remark": "women-round / 726-1 / 玫瑰金壳白面白胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-3b25e17184ee09-f0843d142333.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-3b25e17184ee09-e27a7ee371e3.webp",
+            "raw": "玫瑰金壳白面白胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "3b25e17184ee09",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面白胶带.jpeg",
+              "width": 574,
+              "height": 1007,
+              "remark": "women-round / 726-1 / 玫瑰金壳白面白胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-3b25e17184ee09-f0843d142333.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-3b25e17184ee09-e27a7ee371e3.webp",
+              "raw": "玫瑰金壳白面白胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:f7bbc2ad2a1e",
+          "raw": "玫瑰金壳白面黑胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "b223ed47e03ba9",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面黑胶带.jpeg",
+            "width": 562,
+            "height": 976,
+            "remark": "women-round / 726-1 / 玫瑰金壳白面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-b223ed47e03ba9-2578d42b5a64.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-b223ed47e03ba9-38c15d642766.webp",
+            "raw": "玫瑰金壳白面黑胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "b223ed47e03ba9",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面黑胶带.jpeg",
+              "width": 562,
+              "height": 976,
+              "remark": "women-round / 726-1 / 玫瑰金壳白面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-b223ed47e03ba9-2578d42b5a64.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-b223ed47e03ba9-38c15d642766.webp",
+              "raw": "玫瑰金壳白面黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:1ffcb85578c8",
+          "raw": "玫瑰金壳酒红面酒红胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "红面",
+            "strap": "红胶带",
+            "unresolvedText": "酒酒"
+          },
+          "image": {
+            "id": "3cd661fbbc7a13",
+            "role": "variant",
+            "fileName": "玫瑰金壳酒红面酒红胶带.jpeg",
+            "width": 567,
+            "height": 929,
+            "remark": "women-round / 726-1 / 玫瑰金壳酒红面酒红胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-3cd661fbbc7a13-8b654e1b5492.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-3cd661fbbc7a13-4d0256be572e.webp",
+            "raw": "玫瑰金壳酒红面酒红胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "红面",
+              "strap": "红胶带",
+              "unresolvedText": "酒酒"
+            }
+          },
+          "images": [
+            {
+              "id": "3cd661fbbc7a13",
+              "role": "variant",
+              "fileName": "玫瑰金壳酒红面酒红胶带.jpeg",
+              "width": 567,
+              "height": 929,
+              "remark": "women-round / 726-1 / 玫瑰金壳酒红面酒红胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-3cd661fbbc7a13-8b654e1b5492.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-3cd661fbbc7a13-4d0256be572e.webp",
+              "raw": "玫瑰金壳酒红面酒红胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "红面",
+                "strap": "红胶带",
+                "unresolvedText": "酒酒"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:6626b4e22112",
+          "raw": "玫瑰金壳黑面黑胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "黑面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "f4cacafc54b265",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑面黑胶带.jpeg",
+            "width": 598,
+            "height": 986,
+            "remark": "women-round / 726-1 / 玫瑰金壳黑面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-f4cacafc54b265-ae860512e7bc.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-f4cacafc54b265-8f4366570d47.webp",
+            "raw": "玫瑰金壳黑面黑胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "黑面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "f4cacafc54b265",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑面黑胶带.jpeg",
+              "width": 598,
+              "height": 986,
+              "remark": "women-round / 726-1 / 玫瑰金壳黑面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-f4cacafc54b265-ae860512e7bc.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-f4cacafc54b265-8f4366570d47.webp",
+              "raw": "玫瑰金壳黑面黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "黑面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:96cc84682897",
+          "raw": "银壳深蓝面深蓝胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "深蓝面",
+            "strap": "深蓝胶带"
+          },
+          "image": {
+            "id": "8aca09fa3a2293",
+            "role": "variant",
+            "fileName": "银壳深蓝面深蓝胶带.jpeg",
+            "width": 599,
+            "height": 1006,
+            "remark": "women-round / 726-1 / 银壳深蓝面深蓝胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-8aca09fa3a2293-f693d8c3f82e.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-8aca09fa3a2293-4679ec61ea1f.webp",
+            "raw": "银壳深蓝面深蓝胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "深蓝面",
+              "strap": "深蓝胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "8aca09fa3a2293",
+              "role": "variant",
+              "fileName": "银壳深蓝面深蓝胶带.jpeg",
+              "width": 599,
+              "height": 1006,
+              "remark": "women-round / 726-1 / 银壳深蓝面深蓝胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-8aca09fa3a2293-f693d8c3f82e.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-8aca09fa3a2293-4679ec61ea1f.webp",
+              "raw": "银壳深蓝面深蓝胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "深蓝面",
+                "strap": "深蓝胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:4a641c99c5ea",
+          "raw": "银壳灰面灰胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "灰面",
+            "strap": "灰胶带"
+          },
+          "image": {
+            "id": "f91579245adb49",
+            "role": "variant",
+            "fileName": "银壳灰面灰胶带.jpeg",
+            "width": 546,
+            "height": 955,
+            "remark": "women-round / 726-1 / 银壳灰面灰胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-f91579245adb49-d63295c851bb.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-f91579245adb49-522eb6f1cca0.webp",
+            "raw": "银壳灰面灰胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "灰面",
+              "strap": "灰胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "f91579245adb49",
+              "role": "variant",
+              "fileName": "银壳灰面灰胶带.jpeg",
+              "width": 546,
+              "height": 955,
+              "remark": "women-round / 726-1 / 银壳灰面灰胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-f91579245adb49-d63295c851bb.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-f91579245adb49-522eb6f1cca0.webp",
+              "raw": "银壳灰面灰胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "灰面",
+                "strap": "灰胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:252d18b341a9",
+          "raw": "银壳白面白胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "白面",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "286d00e394f8cc",
+            "role": "variant",
+            "fileName": "银壳白面白胶带.jpeg",
+            "width": 543,
+            "height": 990,
+            "remark": "women-round / 726-1 / 银壳白面白胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-286d00e394f8cc-26a403c12dc5.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-286d00e394f8cc-c67f1acbc432.webp",
+            "raw": "银壳白面白胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "白面",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "286d00e394f8cc",
+              "role": "variant",
+              "fileName": "银壳白面白胶带.jpeg",
+              "width": 543,
+              "height": 990,
+              "remark": "women-round / 726-1 / 银壳白面白胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-286d00e394f8cc-26a403c12dc5.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-286d00e394f8cc-c67f1acbc432.webp",
+              "raw": "银壳白面白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "白面",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:c4e05fa05811",
+          "raw": "银壳白面黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "白面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "802d6e14872726",
+            "role": "variant",
+            "fileName": "银壳白面黑胶带.jpeg",
+            "width": 562,
+            "height": 979,
+            "remark": "women-round / 726-1 / 银壳白面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-802d6e14872726-041890da644b.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-802d6e14872726-2df944bf4941.webp",
+            "raw": "银壳白面黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "白面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "802d6e14872726",
+              "role": "variant",
+              "fileName": "银壳白面黑胶带.jpeg",
+              "width": 562,
+              "height": 979,
+              "remark": "women-round / 726-1 / 银壳白面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-802d6e14872726-041890da644b.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-802d6e14872726-2df944bf4941.webp",
+              "raw": "银壳白面黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "白面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:49c6c15ecc6c",
+          "raw": "银壳酒红面酒红胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "红面",
+            "strap": "红胶带",
+            "unresolvedText": "酒酒"
+          },
+          "image": {
+            "id": "8b7445d3912aef",
+            "role": "variant",
+            "fileName": "银壳酒红面酒红胶带.jpeg",
+            "width": 541,
+            "height": 937,
+            "remark": "women-round / 726-1 / 银壳酒红面酒红胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-8b7445d3912aef-793b0079c7fe.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-8b7445d3912aef-8b18d2d3f797.webp",
+            "raw": "银壳酒红面酒红胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "红面",
+              "strap": "红胶带",
+              "unresolvedText": "酒酒"
+            }
+          },
+          "images": [
+            {
+              "id": "8b7445d3912aef",
+              "role": "variant",
+              "fileName": "银壳酒红面酒红胶带.jpeg",
+              "width": 541,
+              "height": 937,
+              "remark": "women-round / 726-1 / 银壳酒红面酒红胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-8b7445d3912aef-793b0079c7fe.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-8b7445d3912aef-8b18d2d3f797.webp",
+              "raw": "银壳酒红面酒红胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "红面",
+                "strap": "红胶带",
+                "unresolvedText": "酒酒"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-1:c00ee7b6a953",
+          "raw": "银壳黑面黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "黑面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "763980d6975314",
+            "role": "variant",
+            "fileName": "银壳黑面黑胶带.jpeg",
+            "width": 575,
+            "height": 962,
+            "remark": "women-round / 726-1 / 银壳黑面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-1/variant-763980d6975314-268825f5f7f0.webp",
+            "thumb": "web-images/women-round/726/726-1/thumbnails/variant-763980d6975314-16081b651f26.webp",
+            "raw": "银壳黑面黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "黑面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "763980d6975314",
+              "role": "variant",
+              "fileName": "银壳黑面黑胶带.jpeg",
+              "width": 575,
+              "height": 962,
+              "remark": "women-round / 726-1 / 银壳黑面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-1/variant-763980d6975314-268825f5f7f0.webp",
+              "thumb": "web-images/women-round/726/726-1/thumbnails/variant-763980d6975314-16081b651f26.webp",
+              "raw": "银壳黑面黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "黑面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:726-2",
+      "modelId": "women-round-726",
+      "model": "726",
+      "sku": "726-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1480,
+        "priceBasis": "list-price",
+        "caseSize": "36 mm",
+        "movement": "进口西铁城8215机械机芯",
+        "thickness": "11.5 mm",
+        "strapWidth": "22 × 18 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀批花拉丝工艺表壳。圈口镶嵌52粒水晶钻。",
+          "进口西铁城8215机械机芯，40小时动力储存， 21600次/小时摆动频率。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花工艺表盘，日历显示。",
+          "镂空机械拉丝工艺自动陀底盖。",
+          "柔软硅胶表带，佩戴舒适，精钢双按保险表扣。",
+          "50米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Mechanical movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "bc94e697f5fe95",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 875,
+          "height": 1496,
+          "remark": "women-round / 726-2 / 产品主图_0.png",
+          "url": "web-images/women-round/726/726-2/main-bc94e697f5fe95-4a17a3a26043.webp",
+          "thumb": "web-images/women-round/726/726-2/thumbnails/main-bc94e697f5fe95-347de8180052.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:726-2:367f78cc253f",
+          "raw": "玫瑰金壳深蓝面深蓝胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "深蓝面",
+            "strap": "深蓝胶带"
+          },
+          "image": {
+            "id": "ef36ba55a1940d",
+            "role": "variant",
+            "fileName": "玫瑰金壳深蓝面深蓝胶带.jpeg",
+            "width": 564,
+            "height": 978,
+            "remark": "women-round / 726-2 / 玫瑰金壳深蓝面深蓝胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-ef36ba55a1940d-fa5a0a3beb81.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-ef36ba55a1940d-a870a80b5887.webp",
+            "raw": "玫瑰金壳深蓝面深蓝胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "深蓝面",
+              "strap": "深蓝胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "ef36ba55a1940d",
+              "role": "variant",
+              "fileName": "玫瑰金壳深蓝面深蓝胶带.jpeg",
+              "width": 564,
+              "height": 978,
+              "remark": "women-round / 726-2 / 玫瑰金壳深蓝面深蓝胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-ef36ba55a1940d-fa5a0a3beb81.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-ef36ba55a1940d-a870a80b5887.webp",
+              "raw": "玫瑰金壳深蓝面深蓝胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "深蓝面",
+                "strap": "深蓝胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:ba263f7e32e0",
+          "raw": "玫瑰金壳灰面灰胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "灰面",
+            "strap": "灰胶带"
+          },
+          "image": {
+            "id": "0b2937e927e21f",
+            "role": "variant",
+            "fileName": "玫瑰金壳灰面灰胶带.jpeg",
+            "width": 568,
+            "height": 943,
+            "remark": "women-round / 726-2 / 玫瑰金壳灰面灰胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-0b2937e927e21f-282c7260930c.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-0b2937e927e21f-93a88f9293e8.webp",
+            "raw": "玫瑰金壳灰面灰胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "灰面",
+              "strap": "灰胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "0b2937e927e21f",
+              "role": "variant",
+              "fileName": "玫瑰金壳灰面灰胶带.jpeg",
+              "width": 568,
+              "height": 943,
+              "remark": "women-round / 726-2 / 玫瑰金壳灰面灰胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-0b2937e927e21f-282c7260930c.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-0b2937e927e21f-93a88f9293e8.webp",
+              "raw": "玫瑰金壳灰面灰胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "灰面",
+                "strap": "灰胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:232c9626e403",
+          "raw": "玫瑰金壳白面白胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "ac26785f3a24c1",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面白胶带.jpeg",
+            "width": 569,
+            "height": 1013,
+            "remark": "women-round / 726-2 / 玫瑰金壳白面白胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-ac26785f3a24c1-2eb50350b9b0.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-ac26785f3a24c1-870dc0cfa077.webp",
+            "raw": "玫瑰金壳白面白胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "ac26785f3a24c1",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面白胶带.jpeg",
+              "width": 569,
+              "height": 1013,
+              "remark": "women-round / 726-2 / 玫瑰金壳白面白胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-ac26785f3a24c1-2eb50350b9b0.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-ac26785f3a24c1-870dc0cfa077.webp",
+              "raw": "玫瑰金壳白面白胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:f7bbc2ad2a1e",
+          "raw": "玫瑰金壳白面黑胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "9c0e2b4f051947",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面黑胶带.jpeg",
+            "width": 581,
+            "height": 954,
+            "remark": "women-round / 726-2 / 玫瑰金壳白面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-9c0e2b4f051947-1cfa6ba53b76.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-9c0e2b4f051947-e29fd5f22a8f.webp",
+            "raw": "玫瑰金壳白面黑胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "9c0e2b4f051947",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面黑胶带.jpeg",
+              "width": 581,
+              "height": 954,
+              "remark": "women-round / 726-2 / 玫瑰金壳白面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-9c0e2b4f051947-1cfa6ba53b76.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-9c0e2b4f051947-e29fd5f22a8f.webp",
+              "raw": "玫瑰金壳白面黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:1ffcb85578c8",
+          "raw": "玫瑰金壳酒红面酒红胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "红面",
+            "strap": "红胶带",
+            "unresolvedText": "酒酒"
+          },
+          "image": {
+            "id": "94b94560db32c8",
+            "role": "variant",
+            "fileName": "玫瑰金壳酒红面酒红胶带.jpeg",
+            "width": 543,
+            "height": 975,
+            "remark": "women-round / 726-2 / 玫瑰金壳酒红面酒红胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-94b94560db32c8-0f9de30bf7cd.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-94b94560db32c8-a16eebe97d79.webp",
+            "raw": "玫瑰金壳酒红面酒红胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "红面",
+              "strap": "红胶带",
+              "unresolvedText": "酒酒"
+            }
+          },
+          "images": [
+            {
+              "id": "94b94560db32c8",
+              "role": "variant",
+              "fileName": "玫瑰金壳酒红面酒红胶带.jpeg",
+              "width": 543,
+              "height": 975,
+              "remark": "women-round / 726-2 / 玫瑰金壳酒红面酒红胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-94b94560db32c8-0f9de30bf7cd.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-94b94560db32c8-a16eebe97d79.webp",
+              "raw": "玫瑰金壳酒红面酒红胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "红面",
+                "strap": "红胶带",
+                "unresolvedText": "酒酒"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:6626b4e22112",
+          "raw": "玫瑰金壳黑面黑胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "黑面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "94137929296a9c",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑面黑胶带.jpeg",
+            "width": 566,
+            "height": 981,
+            "remark": "women-round / 726-2 / 玫瑰金壳黑面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-94137929296a9c-2b90a9a81286.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-94137929296a9c-8852145cc1c2.webp",
+            "raw": "玫瑰金壳黑面黑胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "黑面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "94137929296a9c",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑面黑胶带.jpeg",
+              "width": 566,
+              "height": 981,
+              "remark": "women-round / 726-2 / 玫瑰金壳黑面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-94137929296a9c-2b90a9a81286.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-94137929296a9c-8852145cc1c2.webp",
+              "raw": "玫瑰金壳黑面黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "黑面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:1c07331d796a",
+          "raw": "银壳深蓝面深蓝带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "深蓝面",
+            "strap": "深蓝带"
+          },
+          "image": {
+            "id": "32848a91ddb34b",
+            "role": "variant",
+            "fileName": "银壳深蓝面深蓝带.jpeg",
+            "width": 558,
+            "height": 965,
+            "remark": "women-round / 726-2 / 银壳深蓝面深蓝带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-32848a91ddb34b-6788af8a40de.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-32848a91ddb34b-41f2617d572a.webp",
+            "raw": "银壳深蓝面深蓝带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "深蓝面",
+              "strap": "深蓝带"
+            }
+          },
+          "images": [
+            {
+              "id": "32848a91ddb34b",
+              "role": "variant",
+              "fileName": "银壳深蓝面深蓝带.jpeg",
+              "width": 558,
+              "height": 965,
+              "remark": "women-round / 726-2 / 银壳深蓝面深蓝带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-32848a91ddb34b-6788af8a40de.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-32848a91ddb34b-41f2617d572a.webp",
+              "raw": "银壳深蓝面深蓝带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "深蓝面",
+                "strap": "深蓝带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:4a641c99c5ea",
+          "raw": "银壳灰面灰胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "灰面",
+            "strap": "灰胶带"
+          },
+          "image": {
+            "id": "91f51818d3a1fd",
+            "role": "variant",
+            "fileName": "银壳灰面灰胶带.jpeg",
+            "width": 561,
+            "height": 1012,
+            "remark": "women-round / 726-2 / 银壳灰面灰胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-91f51818d3a1fd-29e21a6c0aa6.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-91f51818d3a1fd-92d150f7c936.webp",
+            "raw": "银壳灰面灰胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "灰面",
+              "strap": "灰胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "91f51818d3a1fd",
+              "role": "variant",
+              "fileName": "银壳灰面灰胶带.jpeg",
+              "width": 561,
+              "height": 1012,
+              "remark": "women-round / 726-2 / 银壳灰面灰胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-91f51818d3a1fd-29e21a6c0aa6.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-91f51818d3a1fd-92d150f7c936.webp",
+              "raw": "银壳灰面灰胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "灰面",
+                "strap": "灰胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:252d18b341a9",
+          "raw": "银壳白面白胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "白面",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "fe9b20201777a1",
+            "role": "variant",
+            "fileName": "银壳白面白胶带.jpeg",
+            "width": 567,
+            "height": 989,
+            "remark": "women-round / 726-2 / 银壳白面白胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-fe9b20201777a1-0f701e79e396.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-fe9b20201777a1-287bada02626.webp",
+            "raw": "银壳白面白胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "白面",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "fe9b20201777a1",
+              "role": "variant",
+              "fileName": "银壳白面白胶带.jpeg",
+              "width": 567,
+              "height": 989,
+              "remark": "women-round / 726-2 / 银壳白面白胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-fe9b20201777a1-0f701e79e396.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-fe9b20201777a1-287bada02626.webp",
+              "raw": "银壳白面白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "白面",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:c4e05fa05811",
+          "raw": "银壳白面黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "白面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "f83d0ae319cb72",
+            "role": "variant",
+            "fileName": "银壳白面黑胶带.jpeg",
+            "width": 564,
+            "height": 995,
+            "remark": "women-round / 726-2 / 银壳白面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-f83d0ae319cb72-061af70a4b8f.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-f83d0ae319cb72-dadc477f638c.webp",
+            "raw": "银壳白面黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "白面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "f83d0ae319cb72",
+              "role": "variant",
+              "fileName": "银壳白面黑胶带.jpeg",
+              "width": 564,
+              "height": 995,
+              "remark": "women-round / 726-2 / 银壳白面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-f83d0ae319cb72-061af70a4b8f.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-f83d0ae319cb72-dadc477f638c.webp",
+              "raw": "银壳白面黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "白面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:49c6c15ecc6c",
+          "raw": "银壳酒红面酒红胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "红面",
+            "strap": "红胶带",
+            "unresolvedText": "酒酒"
+          },
+          "image": {
+            "id": "458d1de0d746e7",
+            "role": "variant",
+            "fileName": "银壳酒红面酒红胶带.jpeg",
+            "width": 561,
+            "height": 976,
+            "remark": "women-round / 726-2 / 银壳酒红面酒红胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-458d1de0d746e7-f080004a4f8c.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-458d1de0d746e7-00ea855fcbd3.webp",
+            "raw": "银壳酒红面酒红胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "红面",
+              "strap": "红胶带",
+              "unresolvedText": "酒酒"
+            }
+          },
+          "images": [
+            {
+              "id": "458d1de0d746e7",
+              "role": "variant",
+              "fileName": "银壳酒红面酒红胶带.jpeg",
+              "width": 561,
+              "height": 976,
+              "remark": "women-round / 726-2 / 银壳酒红面酒红胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-458d1de0d746e7-f080004a4f8c.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-458d1de0d746e7-00ea855fcbd3.webp",
+              "raw": "银壳酒红面酒红胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "红面",
+                "strap": "红胶带",
+                "unresolvedText": "酒酒"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:726-2:c00ee7b6a953",
+          "raw": "银壳黑面黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "黑面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "0aa65d1f6f33ef",
+            "role": "variant",
+            "fileName": "银壳黑面黑胶带.jpeg",
+            "width": 638,
+            "height": 1037,
+            "remark": "women-round / 726-2 / 银壳黑面黑胶带.jpeg",
+            "url": "web-images/women-round/726/726-2/variant-0aa65d1f6f33ef-a020c67eb860.webp",
+            "thumb": "web-images/women-round/726/726-2/thumbnails/variant-0aa65d1f6f33ef-200a81ce5090.webp",
+            "raw": "银壳黑面黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "黑面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "0aa65d1f6f33ef",
+              "role": "variant",
+              "fileName": "银壳黑面黑胶带.jpeg",
+              "width": 638,
+              "height": 1037,
+              "remark": "women-round / 726-2 / 银壳黑面黑胶带.jpeg",
+              "url": "web-images/women-round/726/726-2/variant-0aa65d1f6f33ef-a020c67eb860.webp",
+              "thumb": "web-images/women-round/726/726-2/thumbnails/variant-0aa65d1f6f33ef-200a81ce5090.webp",
+              "raw": "银壳黑面黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "黑面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1380
+}

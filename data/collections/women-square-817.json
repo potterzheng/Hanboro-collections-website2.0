@@ -1,0 +1,318 @@
+{
+  "id": "women-square-817",
+  "model": "817",
+  "title": "HB-817",
+  "gender": "women",
+  "shape": "square",
+  "shapeLabel": "女款方形",
+  "category": "women-square",
+  "defaultSku": "817",
+  "images": {
+    "main": {
+      "id": "fe9bf5cb0cf34b",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 881,
+      "height": 1600,
+      "remark": "women-square / 817 / 产品主图_0.png",
+      "url": "web-images/women-square/817/817/main-fe9bf5cb0cf34b-749127cebc62.webp",
+      "thumb": "web-images/women-square/817/817/thumbnails/main-fe9bf5cb0cf34b-36b1ded0ddab.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-square:817",
+      "modelId": "women-square-817",
+      "model": "817",
+      "sku": "817",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1380,
+        "priceBasis": "list-price",
+        "caseSize": "31 × 44 mm",
+        "movement": "进口石英机芯",
+        "thickness": "13 mm",
+        "strapWidth": "25 × 20 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304 精钢钻石刀工艺表壳，彰显时尚潮流",
+          "圈口镶嵌水晶钻，炫彩闪耀",
+          "进口石英机芯，走时精准",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠",
+          "圆钉强视夜光表面，夜间散发出炫酷夜光效果",
+          "柔软硅胶表带，佩戴舒适，配置精钢镶钻U字扣，操作方便简单",
+          "50米深度防水性能，日常洗手、下雨、游泳、佩戴更安心"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "fe9bf5cb0cf34b",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 881,
+          "height": 1600,
+          "remark": "women-square / 817 / 产品主图_0.png",
+          "url": "web-images/women-square/817/817/main-fe9bf5cb0cf34b-749127cebc62.webp",
+          "thumb": "web-images/women-square/817/817/thumbnails/main-fe9bf5cb0cf34b-36b1ded0ddab.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-square:817:8d8ea2986066",
+          "raw": "玫瑰金壳白胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "ff9a9dde1a79ba",
+            "role": "variant",
+            "fileName": "玫瑰金壳白胶带.jpeg",
+            "width": 667,
+            "height": 1227,
+            "remark": "women-square / 817 / 玫瑰金壳白胶带.jpeg",
+            "url": "web-images/women-square/817/817/variant-ff9a9dde1a79ba-6f8b3d92d737.webp",
+            "thumb": "web-images/women-square/817/817/thumbnails/variant-ff9a9dde1a79ba-ab6ed80a58fa.webp",
+            "raw": "玫瑰金壳白胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "ff9a9dde1a79ba",
+              "role": "variant",
+              "fileName": "玫瑰金壳白胶带.jpeg",
+              "width": 667,
+              "height": 1227,
+              "remark": "women-square / 817 / 玫瑰金壳白胶带.jpeg",
+              "url": "web-images/women-square/817/817/variant-ff9a9dde1a79ba-6f8b3d92d737.webp",
+              "thumb": "web-images/women-square/817/817/thumbnails/variant-ff9a9dde1a79ba-ab6ed80a58fa.webp",
+              "raw": "玫瑰金壳白胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:817:3b3e111b8df9",
+          "raw": "玫瑰金壳红胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "红胶带"
+          },
+          "image": {
+            "id": "32a9b9439d5561",
+            "role": "variant",
+            "fileName": "玫瑰金壳红胶带.jpeg",
+            "width": 670,
+            "height": 1248,
+            "remark": "women-square / 817 / 玫瑰金壳红胶带.jpeg",
+            "url": "web-images/women-square/817/817/variant-32a9b9439d5561-eb751219bf60.webp",
+            "thumb": "web-images/women-square/817/817/thumbnails/variant-32a9b9439d5561-87b3bf7907c1.webp",
+            "raw": "玫瑰金壳红胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "红胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "32a9b9439d5561",
+              "role": "variant",
+              "fileName": "玫瑰金壳红胶带.jpeg",
+              "width": 670,
+              "height": 1248,
+              "remark": "women-square / 817 / 玫瑰金壳红胶带.jpeg",
+              "url": "web-images/women-square/817/817/variant-32a9b9439d5561-eb751219bf60.webp",
+              "thumb": "web-images/women-square/817/817/thumbnails/variant-32a9b9439d5561-87b3bf7907c1.webp",
+              "raw": "玫瑰金壳红胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "红胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:817:1e1faf90c709",
+          "raw": "玫瑰金壳黑胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "7e22bf29646a86",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑胶带.jpeg",
+            "width": 725,
+            "height": 1233,
+            "remark": "women-square / 817 / 玫瑰金壳黑胶带.jpeg",
+            "url": "web-images/women-square/817/817/variant-7e22bf29646a86-1a4ca0e4e940.webp",
+            "thumb": "web-images/women-square/817/817/thumbnails/variant-7e22bf29646a86-364d97b2c700.webp",
+            "raw": "玫瑰金壳黑胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "7e22bf29646a86",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑胶带.jpeg",
+              "width": 725,
+              "height": 1233,
+              "remark": "women-square / 817 / 玫瑰金壳黑胶带.jpeg",
+              "url": "web-images/women-square/817/817/variant-7e22bf29646a86-1a4ca0e4e940.webp",
+              "thumb": "web-images/women-square/817/817/thumbnails/variant-7e22bf29646a86-364d97b2c700.webp",
+              "raw": "玫瑰金壳黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:817:47ae4ec92d15",
+          "raw": "银壳白胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "0c91a3586e3605",
+            "role": "variant",
+            "fileName": "银壳白胶带.jpeg",
+            "width": 678,
+            "height": 1247,
+            "remark": "women-square / 817 / 银壳白胶带.jpeg",
+            "url": "web-images/women-square/817/817/variant-0c91a3586e3605-be59caebd3b6.webp",
+            "thumb": "web-images/women-square/817/817/thumbnails/variant-0c91a3586e3605-35a18fe6abd6.webp",
+            "raw": "银壳白胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "0c91a3586e3605",
+              "role": "variant",
+              "fileName": "银壳白胶带.jpeg",
+              "width": 678,
+              "height": 1247,
+              "remark": "women-square / 817 / 银壳白胶带.jpeg",
+              "url": "web-images/women-square/817/817/variant-0c91a3586e3605-be59caebd3b6.webp",
+              "thumb": "web-images/women-square/817/817/thumbnails/variant-0c91a3586e3605-35a18fe6abd6.webp",
+              "raw": "银壳白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:817:0a742bcc1323",
+          "raw": "银壳红胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "红胶带"
+          },
+          "image": {
+            "id": "93b41ff5142d73",
+            "role": "variant",
+            "fileName": "银壳红胶带.jpeg",
+            "width": 669,
+            "height": 1219,
+            "remark": "women-square / 817 / 银壳红胶带.jpeg",
+            "url": "web-images/women-square/817/817/variant-93b41ff5142d73-66851366bd43.webp",
+            "thumb": "web-images/women-square/817/817/thumbnails/variant-93b41ff5142d73-a736fd46987b.webp",
+            "raw": "银壳红胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "红胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "93b41ff5142d73",
+              "role": "variant",
+              "fileName": "银壳红胶带.jpeg",
+              "width": 669,
+              "height": 1219,
+              "remark": "women-square / 817 / 银壳红胶带.jpeg",
+              "url": "web-images/women-square/817/817/variant-93b41ff5142d73-66851366bd43.webp",
+              "thumb": "web-images/women-square/817/817/thumbnails/variant-93b41ff5142d73-a736fd46987b.webp",
+              "raw": "银壳红胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "红胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:817:8cffeb68a158",
+          "raw": "银壳黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "f0324b0e4310fd",
+            "role": "variant",
+            "fileName": "银壳黑胶带.jpeg",
+            "width": 705,
+            "height": 1244,
+            "remark": "women-square / 817 / 银壳黑胶带.jpeg",
+            "url": "web-images/women-square/817/817/variant-f0324b0e4310fd-b20c5a6a2ab8.webp",
+            "thumb": "web-images/women-square/817/817/thumbnails/variant-f0324b0e4310fd-c1877379aaa1.webp",
+            "raw": "银壳黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "f0324b0e4310fd",
+              "role": "variant",
+              "fileName": "银壳黑胶带.jpeg",
+              "width": 705,
+              "height": 1244,
+              "remark": "women-square / 817 / 银壳黑胶带.jpeg",
+              "url": "web-images/women-square/817/817/variant-f0324b0e4310fd-b20c5a6a2ab8.webp",
+              "thumb": "web-images/women-square/817/817/thumbnails/variant-f0324b0e4310fd-c1877379aaa1.webp",
+              "raw": "银壳黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1380
+}

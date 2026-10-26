@@ -1,0 +1,82 @@
+{
+  "id": "packaging-2e402d7c1c79",
+  "model": "麻将礼盒",
+  "title": "麻将礼盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "麻将礼盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "c7dfb52f1e50a5",
+      "role": "main",
+      "fileName": "麻将礼盒.jpg",
+      "width": 570,
+      "height": 359,
+      "remark": "packaging / 麻将礼盒 / 麻将礼盒.jpg",
+      "url": "web-images/packaging/麻将礼盒/麻将礼盒/main-c7dfb52f1e50a5-423a0065ed62.webp",
+      "thumb": "web-images/packaging/麻将礼盒/麻将礼盒/thumbnails/main-c7dfb52f1e50a5-c84729a22ba1.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:2e402d7c1c79",
+      "modelId": "packaging-2e402d7c1c79",
+      "model": "麻将礼盒",
+      "sku": "麻将礼盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "麻将礼盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "c7dfb52f1e50a5",
+          "role": "main",
+          "fileName": "麻将礼盒.jpg",
+          "width": 570,
+          "height": 359,
+          "remark": "packaging / 麻将礼盒 / 麻将礼盒.jpg",
+          "url": "web-images/packaging/麻将礼盒/麻将礼盒/main-c7dfb52f1e50a5-423a0065ed62.webp",
+          "thumb": "web-images/packaging/麻将礼盒/麻将礼盒/thumbnails/main-c7dfb52f1e50a5-c84729a22ba1.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "c7dfb52f1e50a5-view",
+            "role": "gallery",
+            "fileName": "麻将礼盒.jpg",
+            "width": 570,
+            "height": 359,
+            "remark": "packaging / 麻将礼盒 / 麻将礼盒.jpg",
+            "url": "web-images/packaging/麻将礼盒/麻将礼盒/main-c7dfb52f1e50a5-423a0065ed62.webp",
+            "thumb": "web-images/packaging/麻将礼盒/麻将礼盒/thumbnails/main-c7dfb52f1e50a5-c84729a22ba1.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

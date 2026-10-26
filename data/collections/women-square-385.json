@@ -1,0 +1,118 @@
+{
+  "id": "women-square-385",
+  "model": "385",
+  "title": "HB-385",
+  "gender": "women",
+  "shape": "square",
+  "shapeLabel": "女款方形",
+  "category": "women-square",
+  "defaultSku": "385",
+  "images": {
+    "main": {
+      "id": "dac0a6f1c6d387",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 890,
+      "height": 1600,
+      "remark": "women-square / 385 / 产品主图_0.png",
+      "url": "web-images/women-square/385/385/main-dac0a6f1c6d387-7a56e80f3c36.webp",
+      "thumb": "web-images/women-square/385/385/thumbnails/main-dac0a6f1c6d387-64d8a4ff3bd2.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-square:385",
+      "modelId": "women-square-385",
+      "model": "385",
+      "sku": "385",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": "33.6 × 40 mm",
+        "movement": "进口2115石英机芯",
+        "thickness": "10 mm",
+        "strapWidth": "20 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "铜壳钻石刀批角工艺表壳，彰显时尚潮流",
+          "铜壳钻石刀镶嵌96粒水晶钻圈口。",
+          "进口2115石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠",
+          "满天星钻石刀镶嵌350粒水晶钻表盘，日历显示。",
+          "钻石刀精雕镶嵌644粒水晶钻表带，配置双按保险表扣，操作方便。",
+          "30米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "dac0a6f1c6d387",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 890,
+          "height": 1600,
+          "remark": "women-square / 385 / 产品主图_0.png",
+          "url": "web-images/women-square/385/385/main-dac0a6f1c6d387-7a56e80f3c36.webp",
+          "thumb": "web-images/women-square/385/385/thumbnails/main-dac0a6f1c6d387-64d8a4ff3bd2.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-square:385:2011d3f8cc0f",
+          "raw": "银壳银钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "银钢带"
+          },
+          "image": {
+            "id": "53a971572ef4ae",
+            "role": "variant",
+            "fileName": "银壳银钢带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-square / 385 / 银壳银钢带.jpg",
+            "url": "web-images/women-square/385/385/variant-53a971572ef4ae-1c2aabe562ec.webp",
+            "thumb": "web-images/women-square/385/385/thumbnails/variant-53a971572ef4ae-eadecaf810d6.webp",
+            "raw": "银壳银钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "银钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "53a971572ef4ae",
+              "role": "variant",
+              "fileName": "银壳银钢带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-square / 385 / 银壳银钢带.jpg",
+              "url": "web-images/women-square/385/385/variant-53a971572ef4ae-1c2aabe562ec.webp",
+              "thumb": "web-images/women-square/385/385/thumbnails/variant-53a971572ef4ae-eadecaf810d6.webp",
+              "raw": "银壳银钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "银钢带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 980
+}

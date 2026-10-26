@@ -1,0 +1,385 @@
+{
+  "id": "women-round-88570",
+  "model": "88570",
+  "title": "HB-88570",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "88570-1A",
+  "images": {
+    "main": {
+      "id": "ac2d65a2467533",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 612,
+      "height": 1168,
+      "remark": "women-round / 88570-1A / 产品主图_0.png",
+      "url": "web-images/women-round/88570/88570-1A/main-ac2d65a2467533-13dad4f4521f.webp",
+      "thumb": "web-images/women-round/88570/88570-1A/thumbnails/main-ac2d65a2467533-7109743433f2.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:88570-1A",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-1A",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "ac2d65a2467533",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 612,
+          "height": 1168,
+          "remark": "women-round / 88570-1A / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-1A/main-ac2d65a2467533-13dad4f4521f.webp",
+          "thumb": "web-images/women-round/88570/88570-1A/thumbnails/main-ac2d65a2467533-7109743433f2.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:88570-1B",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-1B",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1180,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "0ea69acdbe8945",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 612,
+          "height": 1170,
+          "remark": "women-round / 88570-1B / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-1B/main-0ea69acdbe8945-5dcdcca371ae.webp",
+          "thumb": "web-images/women-round/88570/88570-1B/thumbnails/main-0ea69acdbe8945-f6489dcd9aab.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:88570-2A",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-2A",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "e83212f662f51c",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 612,
+          "height": 1168,
+          "remark": "women-round / 88570-2A / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-2A/main-e83212f662f51c-58b9e55e9dcd.webp",
+          "thumb": "web-images/women-round/88570/88570-2A/thumbnails/main-e83212f662f51c-97fc412df2bd.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:88570-2B",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-2B",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1180,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "e0164817d738cd",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 612,
+          "height": 1171,
+          "remark": "women-round / 88570-2B / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-2B/main-e0164817d738cd-d59aeb6e9ca5.webp",
+          "thumb": "web-images/women-round/88570/88570-2B/thumbnails/main-e0164817d738cd-74f51288248b.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:88570-4A",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-4A",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "59f6503c13d1af",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 621,
+          "height": 1173,
+          "remark": "women-round / 88570-4A / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-4A/main-59f6503c13d1af-b98ef7ed6eeb.webp",
+          "thumb": "web-images/women-round/88570/88570-4A/thumbnails/main-59f6503c13d1af-40b42acbf5f5.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:88570-4B",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-4B",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "063fb5ff074358",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 621,
+          "height": 1163,
+          "remark": "women-round / 88570-4B / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-4B/main-063fb5ff074358-dd7d844fa2d8.webp",
+          "thumb": "web-images/women-round/88570/88570-4B/thumbnails/main-063fb5ff074358-5d06beabcee6.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:88570-5A",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-5A",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "284cbf250f942a",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 612,
+          "height": 1171,
+          "remark": "women-round / 88570-5A / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-5A/main-284cbf250f942a-f3ba8fc76032.webp",
+          "thumb": "web-images/women-round/88570/88570-5A/thumbnails/main-284cbf250f942a-81f5af639dbb.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:88570-5B",
+      "modelId": "women-round-88570",
+      "model": "88570",
+      "sku": "88570-5B",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "41ad10cdc6e798",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 505,
+          "height": 944,
+          "remark": "women-round / 88570-5B / 产品主图_0.png",
+          "url": "web-images/women-round/88570/88570-5B/main-41ad10cdc6e798-c36d6a0eb72b.webp",
+          "thumb": "web-images/women-round/88570/88570-5B/thumbnails/main-41ad10cdc6e798-0657643d7aaf.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    }
+  ],
+  "priceFromCny": 980
+}

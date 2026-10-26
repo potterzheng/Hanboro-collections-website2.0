@@ -1,0 +1,111 @@
+{
+  "id": "women-round-8824",
+  "model": "8824",
+  "title": "HB-8824",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "8824",
+  "images": {
+    "main": {
+      "id": "b60654b357f816",
+      "role": "main",
+      "fileName": "产品主图.jpg",
+      "width": 806,
+      "height": 1600,
+      "remark": "women-round / 8824 / 产品主图.jpg",
+      "url": "web-images/women-round/8824/8824/main-b60654b357f816-8b1e1fad9ea5.webp",
+      "thumb": "web-images/women-round/8824/8824/thumbnails/main-b60654b357f816-0ef736ffc26e.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:8824",
+      "modelId": "women-round-8824",
+      "model": "8824",
+      "sku": "8824",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1580,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "b60654b357f816",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 806,
+          "height": 1600,
+          "remark": "women-round / 8824 / 产品主图.jpg",
+          "url": "web-images/women-round/8824/8824/main-b60654b357f816-8b1e1fad9ea5.webp",
+          "thumb": "web-images/women-round/8824/8824/thumbnails/main-b60654b357f816-0ef736ffc26e.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:8824:2011d3f8cc0f",
+          "raw": "银壳银钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "银钢带"
+          },
+          "image": {
+            "id": "6aa4376efaf03b",
+            "role": "variant",
+            "fileName": "银壳银钢带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-round / 8824 / 银壳银钢带.jpg",
+            "url": "web-images/women-round/8824/8824/variant-6aa4376efaf03b-3a3607a686ec.webp",
+            "thumb": "web-images/women-round/8824/8824/thumbnails/variant-6aa4376efaf03b-dfe8e1f18cc2.webp",
+            "raw": "银壳银钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "银钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "6aa4376efaf03b",
+              "role": "variant",
+              "fileName": "银壳银钢带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-round / 8824 / 银壳银钢带.jpg",
+              "url": "web-images/women-round/8824/8824/variant-6aa4376efaf03b-3a3607a686ec.webp",
+              "thumb": "web-images/women-round/8824/8824/thumbnails/variant-6aa4376efaf03b-dfe8e1f18cc2.webp",
+              "raw": "银壳银钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "银钢带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1580
+}

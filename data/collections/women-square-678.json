@@ -1,0 +1,121 @@
+{
+  "id": "women-square-678",
+  "model": "678",
+  "title": "HB-678",
+  "gender": "women",
+  "shape": "square",
+  "shapeLabel": "女款方形",
+  "category": "women-square",
+  "defaultSku": "678",
+  "images": {
+    "main": {
+      "id": "3978a6c77a42c0",
+      "role": "main",
+      "fileName": "产品主图.jpg",
+      "width": 704,
+      "height": 1600,
+      "remark": "women-square / 678 / 产品主图.jpg",
+      "url": "web-images/women-square/678/678/main-3978a6c77a42c0-4f5f06b8e979.webp",
+      "thumb": "web-images/women-square/678/678/thumbnails/main-3978a6c77a42c0-9b1907dd9380.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-square:678",
+      "modelId": "women-square-678",
+      "model": "678",
+      "sku": "678",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1180,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "进口石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304 精钢钻石刀工艺表壳，彰显时尚潮流",
+          "圈口镶嵌水晶钻，炫彩闪耀",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠",
+          "时尚简约表盘，日历显示。",
+          "柔软硅胶表带，佩戴舒适，配置精钢双按蝴蝶表扣，操作方便。",
+          "30米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "3978a6c77a42c0",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 704,
+          "height": 1600,
+          "remark": "women-square / 678 / 产品主图.jpg",
+          "url": "web-images/women-square/678/678/main-3978a6c77a42c0-4f5f06b8e979.webp",
+          "thumb": "web-images/women-square/678/678/thumbnails/main-3978a6c77a42c0-9b1907dd9380.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-square:678:b09ffaa6ef04",
+          "raw": "玫瑰金壳白面白胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "3f74e411a06204",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面白胶带.jpg",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 678 / 玫瑰金壳白面白胶带.jpg",
+            "url": "web-images/women-square/678/678/variant-3f74e411a06204-54cf5be6b125.webp",
+            "thumb": "web-images/women-square/678/678/thumbnails/variant-3f74e411a06204-580dd7c0927e.webp",
+            "raw": "玫瑰金壳白面白胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "3f74e411a06204",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面白胶带.jpg",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 678 / 玫瑰金壳白面白胶带.jpg",
+              "url": "web-images/women-square/678/678/variant-3f74e411a06204-54cf5be6b125.webp",
+              "thumb": "web-images/women-square/678/678/thumbnails/variant-3f74e411a06204-580dd7c0927e.webp",
+              "raw": "玫瑰金壳白面白胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1180
+}

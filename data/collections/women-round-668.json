@@ -1,0 +1,118 @@
+{
+  "id": "women-round-668",
+  "model": "668",
+  "title": "HB-668",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "668",
+  "images": {
+    "main": {
+      "id": "2bc83463175065",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 943,
+      "height": 1600,
+      "remark": "women-round / 668 / 产品主图_0.png",
+      "url": "web-images/women-round/668/668/main-2bc83463175065-984473188f40.webp",
+      "thumb": "web-images/women-round/668/668/thumbnails/main-2bc83463175065-e4069c5120b7.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:668",
+      "modelId": "women-round-668",
+      "model": "668",
+      "sku": "668",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "进口石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304 精钢钻石刀工艺表壳，彰显时尚潮流",
+          "圈口镶嵌水晶钻，炫彩闪耀",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠",
+          "时尚简约表盘，日历显示，强视夜光数字面。",
+          "柔软硅胶表带，佩戴舒适，配置精钢双按蝴蝶表扣，操作方便。",
+          "30米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "2bc83463175065",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 943,
+          "height": 1600,
+          "remark": "women-round / 668 / 产品主图_0.png",
+          "url": "web-images/women-round/668/668/main-2bc83463175065-984473188f40.webp",
+          "thumb": "web-images/women-round/668/668/thumbnails/main-2bc83463175065-e4069c5120b7.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:668:fc2ccb797fb1",
+          "raw": "玫瑰金壳白胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "19f650692c383d",
+            "role": "variant",
+            "fileName": "玫瑰金壳白胶带.png",
+            "width": 1066,
+            "height": 1600,
+            "remark": "women-round / 668 / 玫瑰金壳白胶带.png",
+            "url": "web-images/women-round/668/668/variant-19f650692c383d-3070b7aee934.webp",
+            "thumb": "web-images/women-round/668/668/thumbnails/variant-19f650692c383d-364d33d59f94.webp",
+            "raw": "玫瑰金壳白胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "19f650692c383d",
+              "role": "variant",
+              "fileName": "玫瑰金壳白胶带.png",
+              "width": 1066,
+              "height": 1600,
+              "remark": "women-round / 668 / 玫瑰金壳白胶带.png",
+              "url": "web-images/women-round/668/668/variant-19f650692c383d-3070b7aee934.webp",
+              "thumb": "web-images/women-round/668/668/thumbnails/variant-19f650692c383d-364d33d59f94.webp",
+              "raw": "玫瑰金壳白胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 980
+}

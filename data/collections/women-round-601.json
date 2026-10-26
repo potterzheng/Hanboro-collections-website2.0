@@ -1,0 +1,317 @@
+{
+  "id": "women-round-601",
+  "model": "601",
+  "title": "HB-601",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "601",
+  "images": {
+    "main": {
+      "id": "f1cfd8dc2486f6",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 605,
+      "height": 1142,
+      "remark": "women-round / 601 / 产品主图_0.png",
+      "url": "web-images/women-round/601/601/main-f1cfd8dc2486f6-f6a0760a8de7.webp",
+      "thumb": "web-images/women-round/601/601/thumbnails/main-f1cfd8dc2486f6-ccb91bca1ee4.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:601",
+      "modelId": "women-round-601",
+      "model": "601",
+      "sku": "601",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 780,
+        "priceBasis": "list-price",
+        "caseSize": "32 mm",
+        "movement": "进口石英机芯",
+        "thickness": "11 mm",
+        "strapWidth": "18 × 16 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "精钢钻石刀批角工艺表壳，圈口镶嵌44粒水晶钻。",
+          "进口石英机芯",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠。",
+          "老虎镶嵌水晶钻表盘。",
+          "真皮表带，针扣，佩戴舒适，多颜色可选。",
+          "30米防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "f1cfd8dc2486f6",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 605,
+          "height": 1142,
+          "remark": "women-round / 601 / 产品主图_0.png",
+          "url": "web-images/women-round/601/601/main-f1cfd8dc2486f6-f6a0760a8de7.webp",
+          "thumb": "web-images/women-round/601/601/thumbnails/main-f1cfd8dc2486f6-ccb91bca1ee4.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:601:aa11e11bcc88",
+          "raw": "玫瑰金壳白皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "白皮带"
+          },
+          "image": {
+            "id": "5fc0ce266239b4",
+            "role": "variant",
+            "fileName": "玫瑰金壳白皮带.jpg",
+            "width": 699,
+            "height": 923,
+            "remark": "women-round / 601 / 玫瑰金壳白皮带.jpg",
+            "url": "web-images/women-round/601/601/variant-5fc0ce266239b4-5cd3d952c2f3.webp",
+            "thumb": "web-images/women-round/601/601/thumbnails/variant-5fc0ce266239b4-aedaeb08ef61.webp",
+            "raw": "玫瑰金壳白皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "白皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "5fc0ce266239b4",
+              "role": "variant",
+              "fileName": "玫瑰金壳白皮带.jpg",
+              "width": 699,
+              "height": 923,
+              "remark": "women-round / 601 / 玫瑰金壳白皮带.jpg",
+              "url": "web-images/women-round/601/601/variant-5fc0ce266239b4-5cd3d952c2f3.webp",
+              "thumb": "web-images/women-round/601/601/thumbnails/variant-5fc0ce266239b4-aedaeb08ef61.webp",
+              "raw": "玫瑰金壳白皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "白皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:601:69d2529f8c52",
+          "raw": "玫瑰金壳红皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "红皮带"
+          },
+          "image": {
+            "id": "7cea3311a6f4d6",
+            "role": "variant",
+            "fileName": "玫瑰金壳红皮带.jpg",
+            "width": 561,
+            "height": 710,
+            "remark": "women-round / 601 / 玫瑰金壳红皮带.jpg",
+            "url": "web-images/women-round/601/601/variant-7cea3311a6f4d6-a7c7c8bf7a35.webp",
+            "thumb": "web-images/women-round/601/601/thumbnails/variant-7cea3311a6f4d6-0b03580d8c4c.webp",
+            "raw": "玫瑰金壳红皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "红皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "7cea3311a6f4d6",
+              "role": "variant",
+              "fileName": "玫瑰金壳红皮带.jpg",
+              "width": 561,
+              "height": 710,
+              "remark": "women-round / 601 / 玫瑰金壳红皮带.jpg",
+              "url": "web-images/women-round/601/601/variant-7cea3311a6f4d6-a7c7c8bf7a35.webp",
+              "thumb": "web-images/women-round/601/601/thumbnails/variant-7cea3311a6f4d6-0b03580d8c4c.webp",
+              "raw": "玫瑰金壳红皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "红皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:601:7f7ad5dc4d51",
+          "raw": "玫瑰金壳黑皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑皮带"
+          },
+          "image": {
+            "id": "01199f553c3308",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑皮带.jpg",
+            "width": 581,
+            "height": 692,
+            "remark": "women-round / 601 / 玫瑰金壳黑皮带.jpg",
+            "url": "web-images/women-round/601/601/variant-01199f553c3308-e8f69e4c147d.webp",
+            "thumb": "web-images/women-round/601/601/thumbnails/variant-01199f553c3308-65aef1587c6a.webp",
+            "raw": "玫瑰金壳黑皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "01199f553c3308",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑皮带.jpg",
+              "width": 581,
+              "height": 692,
+              "remark": "women-round / 601 / 玫瑰金壳黑皮带.jpg",
+              "url": "web-images/women-round/601/601/variant-01199f553c3308-e8f69e4c147d.webp",
+              "thumb": "web-images/women-round/601/601/thumbnails/variant-01199f553c3308-65aef1587c6a.webp",
+              "raw": "玫瑰金壳黑皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:601:9e78d6fd9b3b",
+          "raw": "银壳白皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白皮带"
+          },
+          "image": {
+            "id": "f2a794b3092b96",
+            "role": "variant",
+            "fileName": "银壳白皮带.jpg",
+            "width": 532,
+            "height": 786,
+            "remark": "women-round / 601 / 银壳白皮带.jpg",
+            "url": "web-images/women-round/601/601/variant-f2a794b3092b96-55494ff89a53.webp",
+            "thumb": "web-images/women-round/601/601/thumbnails/variant-f2a794b3092b96-94ab104a8565.webp",
+            "raw": "银壳白皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "f2a794b3092b96",
+              "role": "variant",
+              "fileName": "银壳白皮带.jpg",
+              "width": 532,
+              "height": 786,
+              "remark": "women-round / 601 / 银壳白皮带.jpg",
+              "url": "web-images/women-round/601/601/variant-f2a794b3092b96-55494ff89a53.webp",
+              "thumb": "web-images/women-round/601/601/thumbnails/variant-f2a794b3092b96-94ab104a8565.webp",
+              "raw": "银壳白皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:601:19a6ecb71f09",
+          "raw": "银壳红皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "红皮带"
+          },
+          "image": {
+            "id": "070d4ea4d74061",
+            "role": "variant",
+            "fileName": "银壳红皮带.jpg",
+            "width": 548,
+            "height": 768,
+            "remark": "women-round / 601 / 银壳红皮带.jpg",
+            "url": "web-images/women-round/601/601/variant-070d4ea4d74061-20a682f6f718.webp",
+            "thumb": "web-images/women-round/601/601/thumbnails/variant-070d4ea4d74061-99b31e144d28.webp",
+            "raw": "银壳红皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "红皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "070d4ea4d74061",
+              "role": "variant",
+              "fileName": "银壳红皮带.jpg",
+              "width": 548,
+              "height": 768,
+              "remark": "women-round / 601 / 银壳红皮带.jpg",
+              "url": "web-images/women-round/601/601/variant-070d4ea4d74061-20a682f6f718.webp",
+              "thumb": "web-images/women-round/601/601/thumbnails/variant-070d4ea4d74061-99b31e144d28.webp",
+              "raw": "银壳红皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "红皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:601:ba6346da3a9d",
+          "raw": "银壳黑皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "黑皮带"
+          },
+          "image": {
+            "id": "2b3b67af0b4a26",
+            "role": "variant",
+            "fileName": "银壳黑皮带.jpg",
+            "width": 509,
+            "height": 768,
+            "remark": "women-round / 601 / 银壳黑皮带.jpg",
+            "url": "web-images/women-round/601/601/variant-2b3b67af0b4a26-11ac573d8149.webp",
+            "thumb": "web-images/women-round/601/601/thumbnails/variant-2b3b67af0b4a26-3f944eb32c25.webp",
+            "raw": "银壳黑皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "黑皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "2b3b67af0b4a26",
+              "role": "variant",
+              "fileName": "银壳黑皮带.jpg",
+              "width": 509,
+              "height": 768,
+              "remark": "women-round / 601 / 银壳黑皮带.jpg",
+              "url": "web-images/women-round/601/601/variant-2b3b67af0b4a26-11ac573d8149.webp",
+              "thumb": "web-images/women-round/601/601/thumbnails/variant-2b3b67af0b4a26-3f944eb32c25.webp",
+              "raw": "银壳黑皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "黑皮带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 780
+}

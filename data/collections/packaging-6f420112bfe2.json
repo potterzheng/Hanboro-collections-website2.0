@@ -1,0 +1,82 @@
+{
+  "id": "packaging-6f420112bfe2",
+  "model": "大木盒 (2)",
+  "title": "大木盒 (2)",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "大木盒 (2)",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "19a21df2e2ecd1",
+      "role": "main",
+      "fileName": "大木盒 (2).jpg",
+      "width": 325,
+      "height": 540,
+      "remark": "packaging / 大木盒 (2) / 大木盒 (2).jpg",
+      "url": "web-images/packaging/大木盒 (2)/大木盒 (2)/main-19a21df2e2ecd1-6dacd938c305.webp",
+      "thumb": "web-images/packaging/大木盒 (2)/大木盒 (2)/thumbnails/main-19a21df2e2ecd1-cdde52650d0a.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:6f420112bfe2",
+      "modelId": "packaging-6f420112bfe2",
+      "model": "大木盒 (2)",
+      "sku": "大木盒 (2)",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "大木盒 (2)"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "19a21df2e2ecd1",
+          "role": "main",
+          "fileName": "大木盒 (2).jpg",
+          "width": 325,
+          "height": 540,
+          "remark": "packaging / 大木盒 (2) / 大木盒 (2).jpg",
+          "url": "web-images/packaging/大木盒 (2)/大木盒 (2)/main-19a21df2e2ecd1-6dacd938c305.webp",
+          "thumb": "web-images/packaging/大木盒 (2)/大木盒 (2)/thumbnails/main-19a21df2e2ecd1-cdde52650d0a.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "19a21df2e2ecd1-view",
+            "role": "gallery",
+            "fileName": "大木盒 (2).jpg",
+            "width": 325,
+            "height": 540,
+            "remark": "packaging / 大木盒 (2) / 大木盒 (2).jpg",
+            "url": "web-images/packaging/大木盒 (2)/大木盒 (2)/main-19a21df2e2ecd1-6dacd938c305.webp",
+            "thumb": "web-images/packaging/大木盒 (2)/大木盒 (2)/thumbnails/main-19a21df2e2ecd1-cdde52650d0a.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

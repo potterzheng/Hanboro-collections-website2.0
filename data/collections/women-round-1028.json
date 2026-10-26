@@ -1,0 +1,209 @@
+{
+  "id": "women-round-1028",
+  "model": "1028",
+  "title": "HB-1028",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "1028-1",
+  "images": {
+    "main": {
+      "id": "d322b7373c3130",
+      "role": "main",
+      "fileName": "产品主图.png",
+      "width": 168,
+      "height": 310,
+      "remark": "women-round / 1028-1 / 产品主图.png",
+      "url": "web-images/women-round/1028/1028-1/main-d322b7373c3130-e7c3206ff096.webp",
+      "thumb": "web-images/women-round/1028/1028-1/thumbnails/main-d322b7373c3130-45b082266a2b.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:1028-1",
+      "modelId": "women-round-1028",
+      "model": "1028",
+      "sku": "1028-1",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1280,
+        "priceBasis": "list-price",
+        "caseSize": "40 mm",
+        "movement": "进口石英机芯",
+        "thickness": "10 mm",
+        "strapWidth": "18 × 16 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "316精钢钻石刀工艺镂空表壳，316精钢钻石刀工艺圈口。",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀工艺镂空五芒星彩钻，珍珠贝壳表盘。",
+          "真皮表带，佩戴舒适，精钢U字表扣，操作简单。",
+          "100米防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "d322b7373c3130",
+          "role": "main",
+          "fileName": "产品主图.png",
+          "width": 168,
+          "height": 310,
+          "remark": "women-round / 1028-1 / 产品主图.png",
+          "url": "web-images/women-round/1028/1028-1/main-d322b7373c3130-e7c3206ff096.webp",
+          "thumb": "web-images/women-round/1028/1028-1/thumbnails/main-d322b7373c3130-45b082266a2b.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:1028-1:e0f55d77de4e",
+          "raw": "玫瑰金壳黑皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑皮带"
+          },
+          "image": {
+            "id": "a812201f779742",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑皮带.png",
+            "width": 342,
+            "height": 347,
+            "remark": "women-round / 1028-1 / 玫瑰金壳黑皮带.png",
+            "url": "web-images/women-round/1028/1028-1/variant-a812201f779742-29a20e173d8d.webp",
+            "thumb": "web-images/women-round/1028/1028-1/thumbnails/variant-a812201f779742-ed432f2a8037.webp",
+            "raw": "玫瑰金壳黑皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "a812201f779742",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑皮带.png",
+              "width": 342,
+              "height": 347,
+              "remark": "women-round / 1028-1 / 玫瑰金壳黑皮带.png",
+              "url": "web-images/women-round/1028/1028-1/variant-a812201f779742-29a20e173d8d.webp",
+              "thumb": "web-images/women-round/1028/1028-1/thumbnails/variant-a812201f779742-ed432f2a8037.webp",
+              "raw": "玫瑰金壳黑皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑皮带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:1028-2",
+      "modelId": "women-round-1028",
+      "model": "1028",
+      "sku": "1028-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1380,
+        "priceBasis": "list-price",
+        "caseSize": "40 mm",
+        "movement": "进口石英机芯",
+        "thickness": "10 mm",
+        "strapWidth": "18 × 16 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "316精钢钻石刀工艺镂空表壳，圈口镶嵌64粒水晶钻。",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀工艺镂空五芒星彩钻，珍珠贝壳表盘。",
+          "真皮表带，佩戴舒适，精钢U字表扣，操作简单。",
+          "100米防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "46a1cea14ac7ce",
+          "role": "main",
+          "fileName": "产品主图.png",
+          "width": 180,
+          "height": 341,
+          "remark": "women-round / 1028-2 / 产品主图.png",
+          "url": "web-images/women-round/1028/1028-2/main-46a1cea14ac7ce-4c9b8ef62ac8.webp",
+          "thumb": "web-images/women-round/1028/1028-2/thumbnails/main-46a1cea14ac7ce-78ec8d62e4c5.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:1028-2:93f0e9513cc6",
+          "raw": "玫瑰金壳粉皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "粉皮带"
+          },
+          "image": {
+            "id": "e78b0a6a3f89bc",
+            "role": "variant",
+            "fileName": "玫瑰金壳粉皮带.png",
+            "width": 366,
+            "height": 383,
+            "remark": "women-round / 1028-2 / 玫瑰金壳粉皮带.png",
+            "url": "web-images/women-round/1028/1028-2/variant-e78b0a6a3f89bc-358ca2d1dfb3.webp",
+            "thumb": "web-images/women-round/1028/1028-2/thumbnails/variant-e78b0a6a3f89bc-f73cc56961ba.webp",
+            "raw": "玫瑰金壳粉皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "粉皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "e78b0a6a3f89bc",
+              "role": "variant",
+              "fileName": "玫瑰金壳粉皮带.png",
+              "width": 366,
+              "height": 383,
+              "remark": "women-round / 1028-2 / 玫瑰金壳粉皮带.png",
+              "url": "web-images/women-round/1028/1028-2/variant-e78b0a6a3f89bc-358ca2d1dfb3.webp",
+              "thumb": "web-images/women-round/1028/1028-2/thumbnails/variant-e78b0a6a3f89bc-f73cc56961ba.webp",
+              "raw": "玫瑰金壳粉皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "粉皮带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1280
+}

@@ -1,0 +1,249 @@
+{
+  "id": "women-round-9220L",
+  "model": "9220L",
+  "title": "HB-9220L",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "9220L",
+  "images": {
+    "main": {
+      "id": "ecb73f82df161e",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 429,
+      "height": 729,
+      "remark": "women-round / 9220L / 产品主图_0.png",
+      "url": "web-images/women-round/9220L/9220L/main-ecb73f82df161e-6996f7def172.webp",
+      "thumb": "web-images/women-round/9220L/9220L/thumbnails/main-ecb73f82df161e-2de4431b43b3.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:9220L",
+      "modelId": "women-round-9220L",
+      "model": "9220L",
+      "sku": "9220L",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": "34.5 mm",
+        "movement": "进口2115石英机芯",
+        "thickness": "10 mm",
+        "strapWidth": "20 × 18 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢表壳镶嵌100粒水晶钻，圈口镶嵌36粒水晶钻，彰显时尚潮流。",
+          "进口2115石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀拉沙工艺表盘，日历显示。",
+          "柔软硅胶表带，双按保险表扣，操作方便简单。",
+          "50米深度防水性能，日常洗手、下雨、游泳、佩戴更安心."
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "ecb73f82df161e",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 429,
+          "height": 729,
+          "remark": "women-round / 9220L / 产品主图_0.png",
+          "url": "web-images/women-round/9220L/9220L/main-ecb73f82df161e-6996f7def172.webp",
+          "thumb": "web-images/women-round/9220L/9220L/thumbnails/main-ecb73f82df161e-2de4431b43b3.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:9220L:fe6b35d57235",
+          "raw": "玫瑰金壳黑面黑胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "黑面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "36ae2c60ade77c",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑面黑胶带.jpg",
+            "width": 800,
+            "height": 800,
+            "remark": "women-round / 9220L / 玫瑰金壳黑面黑胶带.jpg",
+            "url": "web-images/women-round/9220L/9220L/variant-36ae2c60ade77c-f797813d083a.webp",
+            "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-36ae2c60ade77c-6dcd59bde83e.webp",
+            "raw": "玫瑰金壳黑面黑胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "黑面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "36ae2c60ade77c",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑面黑胶带.jpg",
+              "width": 800,
+              "height": 800,
+              "remark": "women-round / 9220L / 玫瑰金壳黑面黑胶带.jpg",
+              "url": "web-images/women-round/9220L/9220L/variant-36ae2c60ade77c-f797813d083a.webp",
+              "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-36ae2c60ade77c-6dcd59bde83e.webp",
+              "raw": "玫瑰金壳黑面黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "黑面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:9220L:1d22d16a44de",
+          "raw": "银壳紫面黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "紫面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "2929b93dceb751",
+            "role": "variant",
+            "fileName": "银壳紫面黑胶带.jpg",
+            "width": 674,
+            "height": 1255,
+            "remark": "women-round / 9220L / 银壳紫面黑胶带.jpg",
+            "url": "web-images/women-round/9220L/9220L/variant-2929b93dceb751-b579732a2ef9.webp",
+            "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-2929b93dceb751-90a3d38dd0eb.webp",
+            "raw": "银壳紫面黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "紫面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "2929b93dceb751",
+              "role": "variant",
+              "fileName": "银壳紫面黑胶带.jpg",
+              "width": 674,
+              "height": 1255,
+              "remark": "women-round / 9220L / 银壳紫面黑胶带.jpg",
+              "url": "web-images/women-round/9220L/9220L/variant-2929b93dceb751-b579732a2ef9.webp",
+              "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-2929b93dceb751-90a3d38dd0eb.webp",
+              "raw": "银壳紫面黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "紫面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:9220L:44a6c7e4aa31",
+          "raw": "银壳绿面黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "绿面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "c866e07dbe6af0",
+            "role": "variant",
+            "fileName": "银壳绿面黑胶带.jpg",
+            "width": 664,
+            "height": 1256,
+            "remark": "women-round / 9220L / 银壳绿面黑胶带.jpg",
+            "url": "web-images/women-round/9220L/9220L/variant-c866e07dbe6af0-271231923c64.webp",
+            "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-c866e07dbe6af0-79524e7398ce.webp",
+            "raw": "银壳绿面黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "绿面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "c866e07dbe6af0",
+              "role": "variant",
+              "fileName": "银壳绿面黑胶带.jpg",
+              "width": 664,
+              "height": 1256,
+              "remark": "women-round / 9220L / 银壳绿面黑胶带.jpg",
+              "url": "web-images/women-round/9220L/9220L/variant-c866e07dbe6af0-271231923c64.webp",
+              "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-c866e07dbe6af0-79524e7398ce.webp",
+              "raw": "银壳绿面黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "绿面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:9220L:0ce741968b57",
+          "raw": "银壳黑面黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "黑面",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "8dd97d92dba339",
+            "role": "variant",
+            "fileName": "银壳黑面黑胶带.jpg",
+            "width": 666,
+            "height": 1272,
+            "remark": "women-round / 9220L / 银壳黑面黑胶带.jpg",
+            "url": "web-images/women-round/9220L/9220L/variant-8dd97d92dba339-53e124f516ec.webp",
+            "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-8dd97d92dba339-443af3082178.webp",
+            "raw": "银壳黑面黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "黑面",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "8dd97d92dba339",
+              "role": "variant",
+              "fileName": "银壳黑面黑胶带.jpg",
+              "width": 666,
+              "height": 1272,
+              "remark": "women-round / 9220L / 银壳黑面黑胶带.jpg",
+              "url": "web-images/women-round/9220L/9220L/variant-8dd97d92dba339-53e124f516ec.webp",
+              "thumb": "web-images/women-round/9220L/9220L/thumbnails/variant-8dd97d92dba339-443af3082178.webp",
+              "raw": "银壳黑面黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "黑面",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1080
+}

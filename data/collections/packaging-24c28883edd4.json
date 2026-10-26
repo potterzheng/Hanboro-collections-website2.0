@@ -1,0 +1,82 @@
+{
+  "id": "packaging-24c28883edd4",
+  "model": "钢笔礼盒",
+  "title": "钢笔礼盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "钢笔礼盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "3516d791c2f884",
+      "role": "main",
+      "fileName": "钢笔礼盒.jpg",
+      "width": 428,
+      "height": 601,
+      "remark": "packaging / 钢笔礼盒 / 钢笔礼盒.jpg",
+      "url": "web-images/packaging/钢笔礼盒/钢笔礼盒/main-3516d791c2f884-bf581434cdb1.webp",
+      "thumb": "web-images/packaging/钢笔礼盒/钢笔礼盒/thumbnails/main-3516d791c2f884-5cd54181a7cd.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:24c28883edd4",
+      "modelId": "packaging-24c28883edd4",
+      "model": "钢笔礼盒",
+      "sku": "钢笔礼盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "钢笔礼盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "3516d791c2f884",
+          "role": "main",
+          "fileName": "钢笔礼盒.jpg",
+          "width": 428,
+          "height": 601,
+          "remark": "packaging / 钢笔礼盒 / 钢笔礼盒.jpg",
+          "url": "web-images/packaging/钢笔礼盒/钢笔礼盒/main-3516d791c2f884-bf581434cdb1.webp",
+          "thumb": "web-images/packaging/钢笔礼盒/钢笔礼盒/thumbnails/main-3516d791c2f884-5cd54181a7cd.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "3516d791c2f884-view",
+            "role": "gallery",
+            "fileName": "钢笔礼盒.jpg",
+            "width": 428,
+            "height": 601,
+            "remark": "packaging / 钢笔礼盒 / 钢笔礼盒.jpg",
+            "url": "web-images/packaging/钢笔礼盒/钢笔礼盒/main-3516d791c2f884-bf581434cdb1.webp",
+            "thumb": "web-images/packaging/钢笔礼盒/钢笔礼盒/thumbnails/main-3516d791c2f884-5cd54181a7cd.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

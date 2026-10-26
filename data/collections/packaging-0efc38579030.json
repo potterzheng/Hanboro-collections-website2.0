@@ -1,0 +1,82 @@
+{
+  "id": "packaging-0efc38579030",
+  "model": "马到成功",
+  "title": "马到成功",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "马到成功",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "da6857205047e2",
+      "role": "main",
+      "fileName": "马到成功.jpg",
+      "width": 698,
+      "height": 485,
+      "remark": "packaging / 马到成功 / 马到成功.jpg",
+      "url": "web-images/packaging/马到成功/马到成功/main-da6857205047e2-e848e1a1e2a7.webp",
+      "thumb": "web-images/packaging/马到成功/马到成功/thumbnails/main-da6857205047e2-22aa2710d173.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:0efc38579030",
+      "modelId": "packaging-0efc38579030",
+      "model": "马到成功",
+      "sku": "马到成功",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "马到成功"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "da6857205047e2",
+          "role": "main",
+          "fileName": "马到成功.jpg",
+          "width": 698,
+          "height": 485,
+          "remark": "packaging / 马到成功 / 马到成功.jpg",
+          "url": "web-images/packaging/马到成功/马到成功/main-da6857205047e2-e848e1a1e2a7.webp",
+          "thumb": "web-images/packaging/马到成功/马到成功/thumbnails/main-da6857205047e2-22aa2710d173.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "da6857205047e2-view",
+            "role": "gallery",
+            "fileName": "马到成功.jpg",
+            "width": 698,
+            "height": 485,
+            "remark": "packaging / 马到成功 / 马到成功.jpg",
+            "url": "web-images/packaging/马到成功/马到成功/main-da6857205047e2-e848e1a1e2a7.webp",
+            "thumb": "web-images/packaging/马到成功/马到成功/thumbnails/main-da6857205047e2-22aa2710d173.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

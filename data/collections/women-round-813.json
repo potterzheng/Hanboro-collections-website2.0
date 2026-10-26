@@ -1,0 +1,117 @@
+{
+  "id": "women-round-813",
+  "model": "813",
+  "title": "HB-813",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "813",
+  "images": {
+    "main": {
+      "id": "98ef9700f8883e",
+      "role": "main",
+      "fileName": "产品主图.jpg",
+      "width": 883,
+      "height": 1600,
+      "remark": "women-round / 813 / 产品主图.jpg",
+      "url": "web-images/women-round/813/813/main-98ef9700f8883e-8d05d8d928a3.webp",
+      "thumb": "web-images/women-round/813/813/thumbnails/main-98ef9700f8883e-75eb11a6bc40.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:813",
+      "modelId": "women-round-813",
+      "model": "813",
+      "sku": "813",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": "32 mm",
+        "movement": "进口石英机芯",
+        "thickness": "8 mm",
+        "strapWidth": "19 × 12 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀工艺批角表壳，精钢八角雪花沙丁圈口。",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀镂空批花纹表盘，强视夜光面。",
+          "304精钢雪花沙丁钢带，双按保险表扣，操作方便简单。",
+          "30米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "98ef9700f8883e",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 883,
+          "height": 1600,
+          "remark": "women-round / 813 / 产品主图.jpg",
+          "url": "web-images/women-round/813/813/main-98ef9700f8883e-8d05d8d928a3.webp",
+          "thumb": "web-images/women-round/813/813/thumbnails/main-98ef9700f8883e-75eb11a6bc40.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:813:ca85522d861f",
+          "raw": "银壳白钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白钢带"
+          },
+          "image": {
+            "id": "d495de2d403a96",
+            "role": "variant",
+            "fileName": "银壳白钢带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-round / 813 / 银壳白钢带.jpg",
+            "url": "web-images/women-round/813/813/variant-d495de2d403a96-3db6630b6bd6.webp",
+            "thumb": "web-images/women-round/813/813/thumbnails/variant-d495de2d403a96-b74d7308d1db.webp",
+            "raw": "银壳白钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "d495de2d403a96",
+              "role": "variant",
+              "fileName": "银壳白钢带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-round / 813 / 银壳白钢带.jpg",
+              "url": "web-images/women-round/813/813/variant-d495de2d403a96-3db6630b6bd6.webp",
+              "thumb": "web-images/women-round/813/813/thumbnails/variant-d495de2d403a96-b74d7308d1db.webp",
+              "raw": "银壳白钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白钢带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 980
+}

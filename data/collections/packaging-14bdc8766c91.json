@@ -1,0 +1,82 @@
+{
+  "id": "packaging-14bdc8766c91",
+  "model": "刺青礼盒",
+  "title": "刺青礼盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "刺青礼盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "dbae99d0e75150",
+      "role": "main",
+      "fileName": "刺青礼盒.jpg",
+      "width": 696,
+      "height": 286,
+      "remark": "packaging / 刺青礼盒 / 刺青礼盒.jpg",
+      "url": "web-images/packaging/刺青礼盒/刺青礼盒/main-dbae99d0e75150-71353722c4ad.webp",
+      "thumb": "web-images/packaging/刺青礼盒/刺青礼盒/thumbnails/main-dbae99d0e75150-7590fd76881a.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:14bdc8766c91",
+      "modelId": "packaging-14bdc8766c91",
+      "model": "刺青礼盒",
+      "sku": "刺青礼盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "刺青礼盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "dbae99d0e75150",
+          "role": "main",
+          "fileName": "刺青礼盒.jpg",
+          "width": 696,
+          "height": 286,
+          "remark": "packaging / 刺青礼盒 / 刺青礼盒.jpg",
+          "url": "web-images/packaging/刺青礼盒/刺青礼盒/main-dbae99d0e75150-71353722c4ad.webp",
+          "thumb": "web-images/packaging/刺青礼盒/刺青礼盒/thumbnails/main-dbae99d0e75150-7590fd76881a.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "dbae99d0e75150-view",
+            "role": "gallery",
+            "fileName": "刺青礼盒.jpg",
+            "width": 696,
+            "height": 286,
+            "remark": "packaging / 刺青礼盒 / 刺青礼盒.jpg",
+            "url": "web-images/packaging/刺青礼盒/刺青礼盒/main-dbae99d0e75150-71353722c4ad.webp",
+            "thumb": "web-images/packaging/刺青礼盒/刺青礼盒/thumbnails/main-dbae99d0e75150-7590fd76881a.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

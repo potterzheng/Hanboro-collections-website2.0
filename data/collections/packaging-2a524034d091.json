@@ -1,0 +1,82 @@
+{
+  "id": "packaging-2a524034d091",
+  "model": "迪拜烤漆盒",
+  "title": "迪拜烤漆盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "迪拜烤漆盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "2b640cd2e3a797",
+      "role": "main",
+      "fileName": "迪拜烤漆盒.jpg",
+      "width": 649,
+      "height": 493,
+      "remark": "packaging / 迪拜烤漆盒 / 迪拜烤漆盒.jpg",
+      "url": "web-images/packaging/迪拜烤漆盒/迪拜烤漆盒/main-2b640cd2e3a797-eaa8901e1605.webp",
+      "thumb": "web-images/packaging/迪拜烤漆盒/迪拜烤漆盒/thumbnails/main-2b640cd2e3a797-0d01598154ac.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:2a524034d091",
+      "modelId": "packaging-2a524034d091",
+      "model": "迪拜烤漆盒",
+      "sku": "迪拜烤漆盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "迪拜烤漆盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "2b640cd2e3a797",
+          "role": "main",
+          "fileName": "迪拜烤漆盒.jpg",
+          "width": 649,
+          "height": 493,
+          "remark": "packaging / 迪拜烤漆盒 / 迪拜烤漆盒.jpg",
+          "url": "web-images/packaging/迪拜烤漆盒/迪拜烤漆盒/main-2b640cd2e3a797-eaa8901e1605.webp",
+          "thumb": "web-images/packaging/迪拜烤漆盒/迪拜烤漆盒/thumbnails/main-2b640cd2e3a797-0d01598154ac.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "2b640cd2e3a797-view",
+            "role": "gallery",
+            "fileName": "迪拜烤漆盒.jpg",
+            "width": 649,
+            "height": 493,
+            "remark": "packaging / 迪拜烤漆盒 / 迪拜烤漆盒.jpg",
+            "url": "web-images/packaging/迪拜烤漆盒/迪拜烤漆盒/main-2b640cd2e3a797-eaa8901e1605.webp",
+            "thumb": "web-images/packaging/迪拜烤漆盒/迪拜烤漆盒/thumbnails/main-2b640cd2e3a797-0d01598154ac.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

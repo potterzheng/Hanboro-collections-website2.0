@@ -23,7 +23,22 @@ export function readCatalog(root) {
   if(new Set(catalog.models.map(model=>model.id)).size!==catalog.models.length)throw new Error('Duplicate model IDs');
   const products=catalog.models.flatMap(model=>model.products);
   if(new Set(products.map(product=>product.id)).size!==products.length)throw new Error('Duplicate product IDs');
-  if(catalog.models.some(model=>model.series==='slim') && !catalog.categories?.includes('slim'))catalog.categories=[...(catalog.categories||[]),'slim'];
+  const availabilityFile=path.join(root,'data/availability.json');
+  const availability=fs.existsSync(availabilityFile)?read(availabilityFile):{};
+  const unavailableProducts=new Set(availability.unavailableProducts||[]);
+  const unavailableModels=new Set(availability.unavailableModels||[]);
+  catalog.models=catalog.models.filter(model=>!unavailableModels.has(model.id)).map(model=>{
+    const active=model.products.filter(product=>!product.outOfStock&&!unavailableProducts.has(product.id));
+    if(active.length===model.products.length)return model;
+    model.products=active;
+    if(!model.products.length)return null;
+    const featured=model.products.find(product=>product.sku===model.defaultSku)||model.products.find(product=>product.images.main)||model.products[0];
+    model.defaultSku=featured.sku;model.images.main=featured.images.main;
+    const prices=model.products.map(product=>product.specs?.priceCny).filter(value=>value!==null&&value!==undefined);
+    model.priceFromCny=prices.length?Math.min(...prices):null;
+    return model;
+  }).filter(Boolean);
+  for(const category of ['slim','women-square','women-round','packaging'])if(catalog.models.some(model=>model.series===category||model.category===category)&&!catalog.categories?.includes(category))catalog.categories=[...(catalog.categories||[]),category];
   return catalog;
 }
 

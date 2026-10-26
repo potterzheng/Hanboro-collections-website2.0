@@ -1,0 +1,111 @@
+{
+  "id": "women-square-672",
+  "model": "672",
+  "title": "HB-672",
+  "gender": "women",
+  "shape": "square",
+  "shapeLabel": "女款方形",
+  "category": "women-square",
+  "defaultSku": "672",
+  "images": {
+    "main": {
+      "id": "ea78617f63e79e",
+      "role": "main",
+      "fileName": "产品主图.jpg",
+      "width": 845,
+      "height": 1600,
+      "remark": "women-square / 672 / 产品主图.jpg",
+      "url": "web-images/women-square/672/672/main-ea78617f63e79e-c8ad5f749edf.webp",
+      "thumb": "web-images/women-square/672/672/thumbnails/main-ea78617f63e79e-e7e28e5b451e.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-square:672",
+      "modelId": "women-square-672",
+      "model": "672",
+      "sku": "672",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1180,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "ea78617f63e79e",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 845,
+          "height": 1600,
+          "remark": "women-square / 672 / 产品主图.jpg",
+          "url": "web-images/women-square/672/672/main-ea78617f63e79e-c8ad5f749edf.webp",
+          "thumb": "web-images/women-square/672/672/thumbnails/main-ea78617f63e79e-e7e28e5b451e.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-square:672:f7de47f5e262",
+          "raw": "银壳白胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "83e4bb8df6d7a4",
+            "role": "variant",
+            "fileName": "银壳白胶带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-square / 672 / 银壳白胶带.jpg",
+            "url": "web-images/women-square/672/672/variant-83e4bb8df6d7a4-32489dc296eb.webp",
+            "thumb": "web-images/women-square/672/672/thumbnails/variant-83e4bb8df6d7a4-a62fd1e303a9.webp",
+            "raw": "银壳白胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "83e4bb8df6d7a4",
+              "role": "variant",
+              "fileName": "银壳白胶带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-square / 672 / 银壳白胶带.jpg",
+              "url": "web-images/women-square/672/672/variant-83e4bb8df6d7a4-32489dc296eb.webp",
+              "thumb": "web-images/women-square/672/672/thumbnails/variant-83e4bb8df6d7a4-a62fd1e303a9.webp",
+              "raw": "银壳白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1180
+}

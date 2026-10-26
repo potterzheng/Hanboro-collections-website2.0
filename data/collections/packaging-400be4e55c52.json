@@ -1,0 +1,82 @@
+{
+  "id": "packaging-400be4e55c52",
+  "model": "车模礼盒",
+  "title": "车模礼盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "车模礼盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "7a7d2b4acaf479",
+      "role": "main",
+      "fileName": "车模礼盒.jpg",
+      "width": 552,
+      "height": 497,
+      "remark": "packaging / 车模礼盒 / 车模礼盒.jpg",
+      "url": "web-images/packaging/车模礼盒/车模礼盒/main-7a7d2b4acaf479-bb072955a7d4.webp",
+      "thumb": "web-images/packaging/车模礼盒/车模礼盒/thumbnails/main-7a7d2b4acaf479-dd70e5ddc9da.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:400be4e55c52",
+      "modelId": "packaging-400be4e55c52",
+      "model": "车模礼盒",
+      "sku": "车模礼盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "车模礼盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "7a7d2b4acaf479",
+          "role": "main",
+          "fileName": "车模礼盒.jpg",
+          "width": 552,
+          "height": 497,
+          "remark": "packaging / 车模礼盒 / 车模礼盒.jpg",
+          "url": "web-images/packaging/车模礼盒/车模礼盒/main-7a7d2b4acaf479-bb072955a7d4.webp",
+          "thumb": "web-images/packaging/车模礼盒/车模礼盒/thumbnails/main-7a7d2b4acaf479-dd70e5ddc9da.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "7a7d2b4acaf479-view",
+            "role": "gallery",
+            "fileName": "车模礼盒.jpg",
+            "width": 552,
+            "height": 497,
+            "remark": "packaging / 车模礼盒 / 车模礼盒.jpg",
+            "url": "web-images/packaging/车模礼盒/车模礼盒/main-7a7d2b4acaf479-bb072955a7d4.webp",
+            "thumb": "web-images/packaging/车模礼盒/车模礼盒/thumbnails/main-7a7d2b4acaf479-dd70e5ddc9da.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "women-round-8026L",
+  "model": "8026L",
+  "title": "HB-8026L",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "8026L-1",
+  "images": {
+    "main": {
+      "id": "e51c488106be6b",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 860,
+      "height": 1600,
+      "remark": "women-round / 8026L-1 / 产品主图_0.png",
+      "url": "web-images/women-round/8026L/8026L-1/main-e51c488106be6b-dcb91d8e1d1f.webp",
+      "thumb": "web-images/women-round/8026L/8026L-1/thumbnails/main-e51c488106be6b-137eac3eda94.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:8026L-1",
+      "modelId": "women-round-8026L",
+      "model": "8026L",
+      "sku": "8026L-1",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "e51c488106be6b",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 860,
+          "height": 1600,
+          "remark": "women-round / 8026L-1 / 产品主图_0.png",
+          "url": "web-images/women-round/8026L/8026L-1/main-e51c488106be6b-dcb91d8e1d1f.webp",
+          "thumb": "web-images/women-round/8026L/8026L-1/thumbnails/main-e51c488106be6b-137eac3eda94.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:8026L-1:ec3d0e16908d",
+          "raw": "玫瑰金壳玫瑰金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "玫瑰金钢带"
+          },
+          "image": {
+            "id": "a9dcd4ffda7fcd",
+            "role": "variant",
+            "fileName": "玫瑰金壳玫瑰金钢带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 8026L-1 / 玫瑰金壳玫瑰金钢带.png",
+            "url": "web-images/women-round/8026L/8026L-1/variant-a9dcd4ffda7fcd-a4e9590258f1.webp",
+            "thumb": "web-images/women-round/8026L/8026L-1/thumbnails/variant-a9dcd4ffda7fcd-a9347603cc69.webp",
+            "raw": "玫瑰金壳玫瑰金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "玫瑰金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "a9dcd4ffda7fcd",
+              "role": "variant",
+              "fileName": "玫瑰金壳玫瑰金钢带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 8026L-1 / 玫瑰金壳玫瑰金钢带.png",
+              "url": "web-images/women-round/8026L/8026L-1/variant-a9dcd4ffda7fcd-a4e9590258f1.webp",
+              "thumb": "web-images/women-round/8026L/8026L-1/thumbnails/variant-a9dcd4ffda7fcd-a9347603cc69.webp",
+              "raw": "玫瑰金壳玫瑰金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "玫瑰金钢带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:8026L-2",
+      "modelId": "women-round-8026L",
+      "model": "8026L",
+      "sku": "8026L-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "b59b8864409214",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 795,
+          "height": 1600,
+          "remark": "women-round / 8026L-2 / 产品主图_0.png",
+          "url": "web-images/women-round/8026L/8026L-2/main-b59b8864409214-bed8a2798fe4.webp",
+          "thumb": "web-images/women-round/8026L/8026L-2/thumbnails/main-b59b8864409214-c490552caf69.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:8026L-2:161ce7a94c42",
+          "raw": "玫瑰金壳浅绿胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "绿胶带",
+            "unresolvedText": "浅"
+          },
+          "image": {
+            "id": "3596dd4ed154d0",
+            "role": "variant",
+            "fileName": "玫瑰金壳浅绿胶带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 8026L-2 / 玫瑰金壳浅绿胶带.png",
+            "url": "web-images/women-round/8026L/8026L-2/variant-3596dd4ed154d0-405d35b52452.webp",
+            "thumb": "web-images/women-round/8026L/8026L-2/thumbnails/variant-3596dd4ed154d0-369ec5d2484c.webp",
+            "raw": "玫瑰金壳浅绿胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "绿胶带",
+              "unresolvedText": "浅"
+            }
+          },
+          "images": [
+            {
+              "id": "3596dd4ed154d0",
+              "role": "variant",
+              "fileName": "玫瑰金壳浅绿胶带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 8026L-2 / 玫瑰金壳浅绿胶带.png",
+              "url": "web-images/women-round/8026L/8026L-2/variant-3596dd4ed154d0-405d35b52452.webp",
+              "thumb": "web-images/women-round/8026L/8026L-2/thumbnails/variant-3596dd4ed154d0-369ec5d2484c.webp",
+              "raw": "玫瑰金壳浅绿胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "绿胶带",
+                "unresolvedText": "浅"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1080
+}

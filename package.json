@@ -8,7 +8,7 @@
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
     "preview": "node scripts/preview.mjs",
-    "test": "node --test scripts/build.test.mjs",
+    "test": "node --test scripts/build.test.mjs scripts/purchase-state.test.mjs",
     "deploy": "wrangler deploy"
   },
   "devDependencies": { "wrangler": "4.151.1" }

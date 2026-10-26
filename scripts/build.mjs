@@ -12,7 +12,7 @@ if (fs.existsSync(out) && fs.lstatSync(out).isSymbolicLink()) throw new Error('d
 const { catalog, references, remapped } = prepareCatalog(root);
 const icons = JSON.parse(fs.readFileSync(path.join(root, 'src/icons.json'), 'utf8'));
 const styles = fs.readFileSync(path.join(root, 'src/catalog.css'), 'utf8');
-const app = fs.readFileSync(path.join(root, 'src/online.js'), 'utf8') + '\n' + fs.readFileSync(path.join(root, 'src/catalog.js'), 'utf8');
+const app = ['purchase-state.js', 'online.js', 'inquiry-document.js', 'catalog.js'].map(name => fs.readFileSync(path.join(root, 'src', name), 'utf8')).join('\n');
 const template = fs.readFileSync(path.join(root, 'src/catalog.template.html'), 'utf8');
 fs.mkdirSync(path.join(out, 'assets'), { recursive: true });
 const generated = new Set();

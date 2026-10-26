@@ -1,0 +1,837 @@
+{
+  "id": "women-square-822",
+  "model": "822",
+  "title": "HB-822",
+  "gender": "women",
+  "shape": "square",
+  "shapeLabel": "女款方形",
+  "category": "women-square",
+  "defaultSku": "822-1L",
+  "images": {
+    "main": {
+      "id": "41b61fce8cea00",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 799,
+      "height": 1600,
+      "remark": "women-square / 822-1L / 产品主图_0.png",
+      "url": "web-images/women-square/822/822-1L/main-41b61fce8cea00-d324a7384c42.webp",
+      "thumb": "web-images/women-square/822/822-1L/thumbnails/main-41b61fce8cea00-11c257dde368.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-square:822-1L",
+      "modelId": "women-square-822",
+      "model": "822",
+      "sku": "822-1L",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 880,
+        "priceBasis": "list-price",
+        "caseSize": "33 mm",
+        "movement": "进口2115石英机芯",
+        "thickness": "9 mm",
+        "strapWidth": "21 × 16 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀批花工艺表壳，钻石刀拉丝工艺圈口，彰显时尚潮流。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花雕刻纹表盘，强视夜光面，日历显示，星期显示。",
+          "进口2115石英机芯，走时精准。",
+          "柔软真皮表带，精钢U字表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心."
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "41b61fce8cea00",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 799,
+          "height": 1600,
+          "remark": "women-square / 822-1L / 产品主图_0.png",
+          "url": "web-images/women-square/822/822-1L/main-41b61fce8cea00-d324a7384c42.webp",
+          "thumb": "web-images/women-square/822/822-1L/thumbnails/main-41b61fce8cea00-11c257dde368.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-square:822-1L:d79bd334aa30",
+          "raw": "玫瑰金壳咖啡面咖啡皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "咖啡面",
+            "strap": "咖啡皮带"
+          },
+          "image": {
+            "id": "391edff270283a",
+            "role": "variant",
+            "fileName": "玫瑰金壳咖啡面咖啡皮带.jpg",
+            "width": 506,
+            "height": 988,
+            "remark": "women-square / 822-1L / 玫瑰金壳咖啡面咖啡皮带.jpg",
+            "url": "web-images/women-square/822/822-1L/variant-391edff270283a-773a416d863a.webp",
+            "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-391edff270283a-1851616708ea.webp",
+            "raw": "玫瑰金壳咖啡面咖啡皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "咖啡面",
+              "strap": "咖啡皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "391edff270283a",
+              "role": "variant",
+              "fileName": "玫瑰金壳咖啡面咖啡皮带.jpg",
+              "width": 506,
+              "height": 988,
+              "remark": "women-square / 822-1L / 玫瑰金壳咖啡面咖啡皮带.jpg",
+              "url": "web-images/women-square/822/822-1L/variant-391edff270283a-773a416d863a.webp",
+              "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-391edff270283a-1851616708ea.webp",
+              "raw": "玫瑰金壳咖啡面咖啡皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "咖啡面",
+                "strap": "咖啡皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-1L:2c6fc68ea73e",
+          "raw": "玫瑰金壳白面白皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "白皮带"
+          },
+          "image": {
+            "id": "fe732f7ed16e0e",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面白皮带.jpg",
+            "width": 643,
+            "height": 1037,
+            "remark": "women-square / 822-1L / 玫瑰金壳白面白皮带.jpg",
+            "url": "web-images/women-square/822/822-1L/variant-fe732f7ed16e0e-520b68b841bb.webp",
+            "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-fe732f7ed16e0e-1fba6916437c.webp",
+            "raw": "玫瑰金壳白面白皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "白皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "fe732f7ed16e0e",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面白皮带.jpg",
+              "width": 643,
+              "height": 1037,
+              "remark": "women-square / 822-1L / 玫瑰金壳白面白皮带.jpg",
+              "url": "web-images/women-square/822/822-1L/variant-fe732f7ed16e0e-520b68b841bb.webp",
+              "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-fe732f7ed16e0e-1fba6916437c.webp",
+              "raw": "玫瑰金壳白面白皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "白皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-1L:9ca881bf0284",
+          "raw": "玫瑰金壳白面黑皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "黑皮带"
+          },
+          "image": {
+            "id": "d11acadad1a494",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面黑皮带.jpg",
+            "width": 532,
+            "height": 983,
+            "remark": "women-square / 822-1L / 玫瑰金壳白面黑皮带.jpg",
+            "url": "web-images/women-square/822/822-1L/variant-d11acadad1a494-a4002bb90f1c.webp",
+            "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-d11acadad1a494-47bb546228b2.webp",
+            "raw": "玫瑰金壳白面黑皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "黑皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "d11acadad1a494",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面黑皮带.jpg",
+              "width": 532,
+              "height": 983,
+              "remark": "women-square / 822-1L / 玫瑰金壳白面黑皮带.jpg",
+              "url": "web-images/women-square/822/822-1L/variant-d11acadad1a494-a4002bb90f1c.webp",
+              "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-d11acadad1a494-47bb546228b2.webp",
+              "raw": "玫瑰金壳白面黑皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "黑皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-1L:29cab0fbeae4",
+          "raw": "银壳绿面绿皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "绿面",
+            "strap": "绿皮带"
+          },
+          "image": {
+            "id": "4015cf3f510c8b",
+            "role": "variant",
+            "fileName": "银壳绿面绿皮带.jpg",
+            "width": 529,
+            "height": 969,
+            "remark": "women-square / 822-1L / 银壳绿面绿皮带.jpg",
+            "url": "web-images/women-square/822/822-1L/variant-4015cf3f510c8b-b967557262bd.webp",
+            "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-4015cf3f510c8b-fe632a889456.webp",
+            "raw": "银壳绿面绿皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "绿面",
+              "strap": "绿皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "4015cf3f510c8b",
+              "role": "variant",
+              "fileName": "银壳绿面绿皮带.jpg",
+              "width": 529,
+              "height": 969,
+              "remark": "women-square / 822-1L / 银壳绿面绿皮带.jpg",
+              "url": "web-images/women-square/822/822-1L/variant-4015cf3f510c8b-b967557262bd.webp",
+              "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-4015cf3f510c8b-fe632a889456.webp",
+              "raw": "银壳绿面绿皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "绿面",
+                "strap": "绿皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-1L:9bac1dda0f6a",
+          "raw": "银壳蓝面蓝皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "蓝面",
+            "strap": "蓝皮带"
+          },
+          "image": {
+            "id": "e3b9af53d7a6ef",
+            "role": "variant",
+            "fileName": "银壳蓝面蓝皮带.jpg",
+            "width": 533,
+            "height": 965,
+            "remark": "women-square / 822-1L / 银壳蓝面蓝皮带.jpg",
+            "url": "web-images/women-square/822/822-1L/variant-e3b9af53d7a6ef-52ea4f6e2913.webp",
+            "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-e3b9af53d7a6ef-eeb2b1a41555.webp",
+            "raw": "银壳蓝面蓝皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "蓝面",
+              "strap": "蓝皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "e3b9af53d7a6ef",
+              "role": "variant",
+              "fileName": "银壳蓝面蓝皮带.jpg",
+              "width": 533,
+              "height": 965,
+              "remark": "women-square / 822-1L / 银壳蓝面蓝皮带.jpg",
+              "url": "web-images/women-square/822/822-1L/variant-e3b9af53d7a6ef-52ea4f6e2913.webp",
+              "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-e3b9af53d7a6ef-eeb2b1a41555.webp",
+              "raw": "银壳蓝面蓝皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "蓝面",
+                "strap": "蓝皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-1L:2bcc68f0f987",
+          "raw": "银壳蓝面黑皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "蓝面",
+            "strap": "黑皮带"
+          },
+          "image": {
+            "id": "5db767e7745b6d",
+            "role": "variant",
+            "fileName": "银壳蓝面黑皮带.jpg",
+            "width": 506,
+            "height": 964,
+            "remark": "women-square / 822-1L / 银壳蓝面黑皮带.jpg",
+            "url": "web-images/women-square/822/822-1L/variant-5db767e7745b6d-e4cfc23a6488.webp",
+            "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-5db767e7745b6d-ead34c702fbd.webp",
+            "raw": "银壳蓝面黑皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "蓝面",
+              "strap": "黑皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "5db767e7745b6d",
+              "role": "variant",
+              "fileName": "银壳蓝面黑皮带.jpg",
+              "width": 506,
+              "height": 964,
+              "remark": "women-square / 822-1L / 银壳蓝面黑皮带.jpg",
+              "url": "web-images/women-square/822/822-1L/variant-5db767e7745b6d-e4cfc23a6488.webp",
+              "thumb": "web-images/women-square/822/822-1L/thumbnails/variant-5db767e7745b6d-ead34c702fbd.webp",
+              "raw": "银壳蓝面黑皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "蓝面",
+                "strap": "黑皮带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-square:822-2L",
+      "modelId": "women-square-822",
+      "model": "822",
+      "sku": "822-2L",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": "33 mm",
+        "movement": "进口2115石英机芯",
+        "thickness": "9 mm",
+        "strapWidth": "21 × 16 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀批花工艺表壳，钻石刀拉丝工艺圈口，彰显时尚潮流。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花雕刻纹表盘，强视夜光面，日历显示，星期显示。",
+          "进口2115石英机芯，走时精准。",
+          "精钢表带，双按保险表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心."
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "ba5e1bb2ca7631",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 763,
+          "height": 1600,
+          "remark": "women-square / 822-2L / 产品主图_0.png",
+          "url": "web-images/women-square/822/822-2L/main-ba5e1bb2ca7631-993ba0f03d2a.webp",
+          "thumb": "web-images/women-square/822/822-2L/thumbnails/main-ba5e1bb2ca7631-7d9e9ab15538.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-square:822-2L:b28f4a7a3f60",
+          "raw": "玫瑰金壳棕面玫瑰金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "棕面",
+            "strap": "玫瑰金钢带"
+          },
+          "image": {
+            "id": "1f929bedaf3ab2",
+            "role": "variant",
+            "fileName": "玫瑰金壳棕面玫瑰金钢带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 玫瑰金壳棕面玫瑰金钢带.png",
+            "url": "web-images/women-square/822/822-2L/variant-1f929bedaf3ab2-1b9e1b58b6ea.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-1f929bedaf3ab2-efe037d9ce22.webp",
+            "raw": "玫瑰金壳棕面玫瑰金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "棕面",
+              "strap": "玫瑰金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "1f929bedaf3ab2",
+              "role": "variant",
+              "fileName": "玫瑰金壳棕面玫瑰金钢带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 玫瑰金壳棕面玫瑰金钢带.png",
+              "url": "web-images/women-square/822/822-2L/variant-1f929bedaf3ab2-1b9e1b58b6ea.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-1f929bedaf3ab2-efe037d9ce22.webp",
+              "raw": "玫瑰金壳棕面玫瑰金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "棕面",
+                "strap": "玫瑰金钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-2L:c16e2cd057e4",
+          "raw": "玫瑰金壳白面玫瑰金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "玫瑰金钢带"
+          },
+          "image": {
+            "id": "f64d66eaeea525",
+            "role": "variant",
+            "fileName": "玫瑰金壳白面玫瑰金钢带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 玫瑰金壳白面玫瑰金钢带.png",
+            "url": "web-images/women-square/822/822-2L/variant-f64d66eaeea525-ca346bf48caf.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-f64d66eaeea525-5d6dec8544e3.webp",
+            "raw": "玫瑰金壳白面玫瑰金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "玫瑰金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "f64d66eaeea525",
+              "role": "variant",
+              "fileName": "玫瑰金壳白面玫瑰金钢带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 玫瑰金壳白面玫瑰金钢带.png",
+              "url": "web-images/women-square/822/822-2L/variant-f64d66eaeea525-ca346bf48caf.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-f64d66eaeea525-5d6dec8544e3.webp",
+              "raw": "玫瑰金壳白面玫瑰金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "玫瑰金钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-2L:2b7506add4af",
+          "raw": "玫瑰金壳蓝面玫瑰金纲带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "蓝面",
+            "strap": "玫瑰金纲带"
+          },
+          "image": {
+            "id": "b4d14e1814e38d",
+            "role": "variant",
+            "fileName": "玫瑰金壳蓝面玫瑰金纲带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 玫瑰金壳蓝面玫瑰金纲带.png",
+            "url": "web-images/women-square/822/822-2L/variant-b4d14e1814e38d-5302bed757d6.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-b4d14e1814e38d-dd8f9472cff5.webp",
+            "raw": "玫瑰金壳蓝面玫瑰金纲带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "蓝面",
+              "strap": "玫瑰金纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "b4d14e1814e38d",
+              "role": "variant",
+              "fileName": "玫瑰金壳蓝面玫瑰金纲带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 玫瑰金壳蓝面玫瑰金纲带.png",
+              "url": "web-images/women-square/822/822-2L/variant-b4d14e1814e38d-5302bed757d6.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-b4d14e1814e38d-dd8f9472cff5.webp",
+              "raw": "玫瑰金壳蓝面玫瑰金纲带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "蓝面",
+                "strap": "玫瑰金纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-2L:e8f8e19c7937",
+          "raw": "银壳棕面白钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "棕面",
+            "strap": "白钢带"
+          },
+          "image": {
+            "id": "413344b8c7db0b",
+            "role": "variant",
+            "fileName": "银壳棕面白钢带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 银壳棕面白钢带.png",
+            "url": "web-images/women-square/822/822-2L/variant-413344b8c7db0b-8bdce8780ba5.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-413344b8c7db0b-056645877b4c.webp",
+            "raw": "银壳棕面白钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "棕面",
+              "strap": "白钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "413344b8c7db0b",
+              "role": "variant",
+              "fileName": "银壳棕面白钢带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 银壳棕面白钢带.png",
+              "url": "web-images/women-square/822/822-2L/variant-413344b8c7db0b-8bdce8780ba5.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-413344b8c7db0b-056645877b4c.webp",
+              "raw": "银壳棕面白钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "棕面",
+                "strap": "白钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-2L:664319cc3b0f",
+          "raw": "银壳浅蓝面白纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "浅蓝面",
+            "strap": "白纲带"
+          },
+          "image": {
+            "id": "de5f7bb9d42033",
+            "role": "variant",
+            "fileName": "银壳浅蓝面白纲带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 银壳浅蓝面白纲带.png",
+            "url": "web-images/women-square/822/822-2L/variant-de5f7bb9d42033-3e144c1a889d.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-de5f7bb9d42033-84c211cad93a.webp",
+            "raw": "银壳浅蓝面白纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "浅蓝面",
+              "strap": "白纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "de5f7bb9d42033",
+              "role": "variant",
+              "fileName": "银壳浅蓝面白纲带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 银壳浅蓝面白纲带.png",
+              "url": "web-images/women-square/822/822-2L/variant-de5f7bb9d42033-3e144c1a889d.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-de5f7bb9d42033-84c211cad93a.webp",
+              "raw": "银壳浅蓝面白纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "浅蓝面",
+                "strap": "白纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-2L:bcee4058a81f",
+          "raw": "银壳绿面白纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "绿面",
+            "strap": "白纲带"
+          },
+          "image": {
+            "id": "ab876a74b5dcff",
+            "role": "variant",
+            "fileName": "银壳绿面白纲带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 银壳绿面白纲带.png",
+            "url": "web-images/women-square/822/822-2L/variant-ab876a74b5dcff-2f8db70310a2.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-ab876a74b5dcff-cf2badb6cbc9.webp",
+            "raw": "银壳绿面白纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "绿面",
+              "strap": "白纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "ab876a74b5dcff",
+              "role": "variant",
+              "fileName": "银壳绿面白纲带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 银壳绿面白纲带.png",
+              "url": "web-images/women-square/822/822-2L/variant-ab876a74b5dcff-2f8db70310a2.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-ab876a74b5dcff-cf2badb6cbc9.webp",
+              "raw": "银壳绿面白纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "绿面",
+                "strap": "白纲带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-2L:228ebe597330",
+          "raw": "银壳蓝面白钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "蓝面",
+            "strap": "白钢带"
+          },
+          "image": {
+            "id": "de36e6afc4525c",
+            "role": "variant",
+            "fileName": "银壳蓝面白钢带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 银壳蓝面白钢带.png",
+            "url": "web-images/women-square/822/822-2L/variant-de36e6afc4525c-b68b564506cb.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-de36e6afc4525c-fb9c7c99b270.webp",
+            "raw": "银壳蓝面白钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "蓝面",
+              "strap": "白钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "de36e6afc4525c",
+              "role": "variant",
+              "fileName": "银壳蓝面白钢带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 银壳蓝面白钢带.png",
+              "url": "web-images/women-square/822/822-2L/variant-de36e6afc4525c-b68b564506cb.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-de36e6afc4525c-fb9c7c99b270.webp",
+              "raw": "银壳蓝面白钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "蓝面",
+                "strap": "白钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-square:822-2L:cc8c4c7644c5",
+          "raw": "银壳黑面白纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "黑面",
+            "strap": "白纲带"
+          },
+          "image": {
+            "id": "c7f56e76211d39",
+            "role": "variant",
+            "fileName": "银壳黑面白纲带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-square / 822-2L / 银壳黑面白纲带.png",
+            "url": "web-images/women-square/822/822-2L/variant-c7f56e76211d39-c6868d7fac93.webp",
+            "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-c7f56e76211d39-ee509b9ef2cb.webp",
+            "raw": "银壳黑面白纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "黑面",
+              "strap": "白纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "c7f56e76211d39",
+              "role": "variant",
+              "fileName": "银壳黑面白纲带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-square / 822-2L / 银壳黑面白纲带.png",
+              "url": "web-images/women-square/822/822-2L/variant-c7f56e76211d39-c6868d7fac93.webp",
+              "thumb": "web-images/women-square/822/822-2L/thumbnails/variant-c7f56e76211d39-ee509b9ef2cb.webp",
+              "raw": "银壳黑面白纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "黑面",
+                "strap": "白纲带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-square:822-3L",
+      "modelId": "women-square-822",
+      "model": "822",
+      "sku": "822-3L",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": "33 mm",
+        "movement": "进口2115石英机芯",
+        "thickness": "9 mm",
+        "strapWidth": "21 × 16 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀批花工艺表壳，圈口镶嵌32粒方形水晶钻，彰显时尚潮流。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花雕刻纹表盘，强视夜光面，日历显示，星期显示。",
+          "进口2115石英机芯，走时精准。",
+          "柔软真皮表带，精钢U字表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心."
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "a4f77f576d7bd0",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 796,
+          "height": 1600,
+          "remark": "women-square / 822-3L / 产品主图_0.png",
+          "url": "web-images/women-square/822/822-3L/main-a4f77f576d7bd0-d9508d27a156.webp",
+          "thumb": "web-images/women-square/822/822-3L/thumbnails/main-a4f77f576d7bd0-b63aa03ef643.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-square:822-4L",
+      "modelId": "women-square-822",
+      "model": "822",
+      "sku": "822-4L",
+      "gender": "women",
+      "shape": "square",
+      "category": "women-square",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1180,
+        "priceBasis": "list-price",
+        "caseSize": "33 mm",
+        "movement": "进口2115石英机芯",
+        "thickness": "9 mm",
+        "strapWidth": "21 × 16 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀批花工艺表壳，圈口镶嵌32粒方形水晶钻，彰显时尚潮流。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀批花雕刻纹表盘，强视夜光面，日历显示，星期显示。",
+          "进口2115石英机芯，走时精准。",
+          "精钢表带，双按保险表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心."
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "aa186404e3f967",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 770,
+          "height": 1600,
+          "remark": "women-square / 822-4L / 产品主图_0.png",
+          "url": "web-images/women-square/822/822-4L/main-aa186404e3f967-e1e29c44d603.webp",
+          "thumb": "web-images/women-square/822/822-4L/thumbnails/main-aa186404e3f967-c30692cb1803.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    }
+  ],
+  "priceFromCny": 880
+}

@@ -1,0 +1,82 @@
+{
+  "id": "packaging-ebb94a55d634",
+  "model": "烤漆盒",
+  "title": "烤漆盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "烤漆盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "291beaba38a962",
+      "role": "main",
+      "fileName": "烤漆盒.jpg",
+      "width": 580,
+      "height": 523,
+      "remark": "packaging / 烤漆盒 / 烤漆盒.jpg",
+      "url": "web-images/packaging/烤漆盒/烤漆盒/main-291beaba38a962-23b3078ebfaf.webp",
+      "thumb": "web-images/packaging/烤漆盒/烤漆盒/thumbnails/main-291beaba38a962-c4fc279d0d57.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:ebb94a55d634",
+      "modelId": "packaging-ebb94a55d634",
+      "model": "烤漆盒",
+      "sku": "烤漆盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "烤漆盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "291beaba38a962",
+          "role": "main",
+          "fileName": "烤漆盒.jpg",
+          "width": 580,
+          "height": 523,
+          "remark": "packaging / 烤漆盒 / 烤漆盒.jpg",
+          "url": "web-images/packaging/烤漆盒/烤漆盒/main-291beaba38a962-23b3078ebfaf.webp",
+          "thumb": "web-images/packaging/烤漆盒/烤漆盒/thumbnails/main-291beaba38a962-c4fc279d0d57.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "291beaba38a962-view",
+            "role": "gallery",
+            "fileName": "烤漆盒.jpg",
+            "width": 580,
+            "height": 523,
+            "remark": "packaging / 烤漆盒 / 烤漆盒.jpg",
+            "url": "web-images/packaging/烤漆盒/烤漆盒/main-291beaba38a962-23b3078ebfaf.webp",
+            "thumb": "web-images/packaging/烤漆盒/烤漆盒/thumbnails/main-291beaba38a962-c4fc279d0d57.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

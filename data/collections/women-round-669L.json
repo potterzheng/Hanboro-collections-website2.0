@@ -1,0 +1,511 @@
+{
+  "id": "women-round-669L",
+  "model": "669L",
+  "title": "HB-669L",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "669L-1",
+  "images": {
+    "main": {
+      "id": "c908e8bcd6e6be",
+      "role": "main",
+      "fileName": "产品主图_0.jpeg",
+      "width": 493,
+      "height": 736,
+      "remark": "women-round / 669L-1 / 产品主图_0.jpeg",
+      "url": "web-images/women-round/669L/669L-1/main-c908e8bcd6e6be-65f2045e3cee.webp",
+      "thumb": "web-images/women-round/669L/669L-1/thumbnails/main-c908e8bcd6e6be-25b734389c1e.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:669L-1",
+      "modelId": "women-round-669L",
+      "model": "669L",
+      "sku": "669L-1",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": "37.5 mm",
+        "movement": "进口2115石英机芯",
+        "thickness": "12 mm",
+        "strapWidth": "22 × 18 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀批花工艺表壳，精钢圈口镶嵌42粒水晶钻。",
+          "进口2115石英机芯，走时精准稳定。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠。",
+          "镂空钻石刀批花工艺菊花表盘，强视夜光针。",
+          "硅胶表带，佩戴舒适，配置双按保险扣，操作方便简单。",
+          "50米防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "c908e8bcd6e6be",
+          "role": "main",
+          "fileName": "产品主图_0.jpeg",
+          "width": 493,
+          "height": 736,
+          "remark": "women-round / 669L-1 / 产品主图_0.jpeg",
+          "url": "web-images/women-round/669L/669L-1/main-c908e8bcd6e6be-65f2045e3cee.webp",
+          "thumb": "web-images/women-round/669L/669L-1/thumbnails/main-c908e8bcd6e6be-25b734389c1e.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:669L-1:c9b77d43bc47",
+          "raw": "玫瑰金间白壳白胶带",
+          "attributes": {
+            "caseColor": "白壳",
+            "strap": "白胶带",
+            "unresolvedText": "玫瑰金间"
+          },
+          "image": {
+            "id": "4d19dd1b02838b",
+            "role": "variant",
+            "fileName": "玫瑰金间白壳白胶带.jpg",
+            "width": 668,
+            "height": 1029,
+            "remark": "women-round / 669L-1 / 玫瑰金间白壳白胶带.jpg",
+            "url": "web-images/women-round/669L/669L-1/variant-4d19dd1b02838b-19d07dfc13df.webp",
+            "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-4d19dd1b02838b-0463c6f4a583.webp",
+            "raw": "玫瑰金间白壳白胶带",
+            "attributes": {
+              "caseColor": "白壳",
+              "strap": "白胶带",
+              "unresolvedText": "玫瑰金间"
+            }
+          },
+          "images": [
+            {
+              "id": "4d19dd1b02838b",
+              "role": "variant",
+              "fileName": "玫瑰金间白壳白胶带.jpg",
+              "width": 668,
+              "height": 1029,
+              "remark": "women-round / 669L-1 / 玫瑰金间白壳白胶带.jpg",
+              "url": "web-images/women-round/669L/669L-1/variant-4d19dd1b02838b-19d07dfc13df.webp",
+              "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-4d19dd1b02838b-0463c6f4a583.webp",
+              "raw": "玫瑰金间白壳白胶带",
+              "attributes": {
+                "caseColor": "白壳",
+                "strap": "白胶带",
+                "unresolvedText": "玫瑰金间"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:669L-1:f409d9a58b0f",
+          "raw": "玫瑰金间黑壳黑胶带",
+          "attributes": {
+            "caseColor": "黑壳",
+            "strap": "黑胶带",
+            "unresolvedText": "玫瑰金间"
+          },
+          "image": {
+            "id": "f757dd22e4f0fc",
+            "role": "variant",
+            "fileName": "玫瑰金间黑壳黑胶带.jpg",
+            "width": 689,
+            "height": 1050,
+            "remark": "women-round / 669L-1 / 玫瑰金间黑壳黑胶带.jpg",
+            "url": "web-images/women-round/669L/669L-1/variant-f757dd22e4f0fc-ac24a14429ac.webp",
+            "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-f757dd22e4f0fc-7fca62c06b57.webp",
+            "raw": "玫瑰金间黑壳黑胶带",
+            "attributes": {
+              "caseColor": "黑壳",
+              "strap": "黑胶带",
+              "unresolvedText": "玫瑰金间"
+            }
+          },
+          "images": [
+            {
+              "id": "f757dd22e4f0fc",
+              "role": "variant",
+              "fileName": "玫瑰金间黑壳黑胶带.jpg",
+              "width": 689,
+              "height": 1050,
+              "remark": "women-round / 669L-1 / 玫瑰金间黑壳黑胶带.jpg",
+              "url": "web-images/women-round/669L/669L-1/variant-f757dd22e4f0fc-ac24a14429ac.webp",
+              "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-f757dd22e4f0fc-7fca62c06b57.webp",
+              "raw": "玫瑰金间黑壳黑胶带",
+              "attributes": {
+                "caseColor": "黑壳",
+                "strap": "黑胶带",
+                "unresolvedText": "玫瑰金间"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:669L-1:f7de47f5e262",
+          "raw": "银壳白胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "62cdbda87b6798",
+            "role": "variant",
+            "fileName": "银壳白胶带.jpg",
+            "width": 673,
+            "height": 1056,
+            "remark": "women-round / 669L-1 / 银壳白胶带.jpg",
+            "url": "web-images/women-round/669L/669L-1/variant-62cdbda87b6798-826689edaea4.webp",
+            "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-62cdbda87b6798-30026ea95b55.webp",
+            "raw": "银壳白胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "62cdbda87b6798",
+              "role": "variant",
+              "fileName": "银壳白胶带.jpg",
+              "width": 673,
+              "height": 1056,
+              "remark": "women-round / 669L-1 / 银壳白胶带.jpg",
+              "url": "web-images/women-round/669L/669L-1/variant-62cdbda87b6798-826689edaea4.webp",
+              "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-62cdbda87b6798-30026ea95b55.webp",
+              "raw": "银壳白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:669L-1:326b6ecd05a9",
+          "raw": "银间黑壳黑胶带",
+          "attributes": {
+            "caseColor": "黑壳",
+            "strap": "黑胶带",
+            "unresolvedText": "银间"
+          },
+          "image": {
+            "id": "f627cf5bbbd0ec",
+            "role": "variant",
+            "fileName": "银间黑壳黑胶带.jpg",
+            "width": 662,
+            "height": 1032,
+            "remark": "women-round / 669L-1 / 银间黑壳黑胶带.jpg",
+            "url": "web-images/women-round/669L/669L-1/variant-f627cf5bbbd0ec-01e40d44c103.webp",
+            "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-f627cf5bbbd0ec-12cb2c08ca2b.webp",
+            "raw": "银间黑壳黑胶带",
+            "attributes": {
+              "caseColor": "黑壳",
+              "strap": "黑胶带",
+              "unresolvedText": "银间"
+            }
+          },
+          "images": [
+            {
+              "id": "f627cf5bbbd0ec",
+              "role": "variant",
+              "fileName": "银间黑壳黑胶带.jpg",
+              "width": 662,
+              "height": 1032,
+              "remark": "women-round / 669L-1 / 银间黑壳黑胶带.jpg",
+              "url": "web-images/women-round/669L/669L-1/variant-f627cf5bbbd0ec-01e40d44c103.webp",
+              "thumb": "web-images/women-round/669L/669L-1/thumbnails/variant-f627cf5bbbd0ec-12cb2c08ca2b.webp",
+              "raw": "银间黑壳黑胶带",
+              "attributes": {
+                "caseColor": "黑壳",
+                "strap": "黑胶带",
+                "unresolvedText": "银间"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:669L-2",
+      "modelId": "women-round-669L",
+      "model": "669L",
+      "sku": "669L-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "7cce9cf7fd73d9",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 866,
+          "height": 1600,
+          "remark": "women-round / 669L-2 / 产品主图.jpg",
+          "url": "web-images/women-round/669L/669L-2/main-7cce9cf7fd73d9-cc8f351faf4e.webp",
+          "thumb": "web-images/women-round/669L/669L-2/thumbnails/main-7cce9cf7fd73d9-25897f69bf65.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:669L-2:7f7ad5dc4d51",
+          "raw": "玫瑰金壳黑皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑皮带"
+          },
+          "image": {
+            "id": "90a0fd6fca781a",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑皮带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-round / 669L-2 / 玫瑰金壳黑皮带.jpg",
+            "url": "web-images/women-round/669L/669L-2/variant-90a0fd6fca781a-272314a0f635.webp",
+            "thumb": "web-images/women-round/669L/669L-2/thumbnails/variant-90a0fd6fca781a-74689a521a86.webp",
+            "raw": "玫瑰金壳黑皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "90a0fd6fca781a",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑皮带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-round / 669L-2 / 玫瑰金壳黑皮带.jpg",
+              "url": "web-images/women-round/669L/669L-2/variant-90a0fd6fca781a-272314a0f635.webp",
+              "thumb": "web-images/women-round/669L/669L-2/thumbnails/variant-90a0fd6fca781a-74689a521a86.webp",
+              "raw": "玫瑰金壳黑皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:669L-2:9e78d6fd9b3b",
+          "raw": "银壳白皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白皮带"
+          },
+          "image": {
+            "id": "8b05590ec41787",
+            "role": "variant",
+            "fileName": "银壳白皮带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-round / 669L-2 / 银壳白皮带.jpg",
+            "url": "web-images/women-round/669L/669L-2/variant-8b05590ec41787-b6809ad3efce.webp",
+            "thumb": "web-images/women-round/669L/669L-2/thumbnails/variant-8b05590ec41787-895e8dad388a.webp",
+            "raw": "银壳白皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "8b05590ec41787",
+              "role": "variant",
+              "fileName": "银壳白皮带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-round / 669L-2 / 银壳白皮带.jpg",
+              "url": "web-images/women-round/669L/669L-2/variant-8b05590ec41787-b6809ad3efce.webp",
+              "thumb": "web-images/women-round/669L/669L-2/thumbnails/variant-8b05590ec41787-895e8dad388a.webp",
+              "raw": "银壳白皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白皮带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:669L-4",
+      "modelId": "women-round-669L",
+      "model": "669L",
+      "sku": "669L-4",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "进口石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304 精钢钻石刀工艺表壳，彰显时尚潮流",
+          "圈口镶嵌水晶钻，炫彩闪耀",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠",
+          "镶嵌水晶钻表盘，日历显示。",
+          "柔软硅胶皮表带，佩戴舒适，配置精钢双按蝴蝶表扣，操作方便。",
+          "30米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "9e8aa661d41766",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 828,
+          "height": 1237,
+          "remark": "women-round / 669L-4 / 产品主图_0.png",
+          "url": "web-images/women-round/669L/669L-4/main-9e8aa661d41766-2f70ca33cd26.webp",
+          "thumb": "web-images/women-round/669L/669L-4/thumbnails/main-9e8aa661d41766-29021d4b1c51.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:669L-4:f409d9a58b0f",
+          "raw": "玫瑰金间黑壳黑胶带",
+          "attributes": {
+            "caseColor": "黑壳",
+            "strap": "黑胶带",
+            "unresolvedText": "玫瑰金间"
+          },
+          "image": {
+            "id": "7df60c5f50cee2",
+            "role": "variant",
+            "fileName": "玫瑰金间黑壳黑胶带.jpg",
+            "width": 779,
+            "height": 1078,
+            "remark": "women-round / 669L-4 / 玫瑰金间黑壳黑胶带.jpg",
+            "url": "web-images/women-round/669L/669L-4/variant-7df60c5f50cee2-44d0d95d9c27.webp",
+            "thumb": "web-images/women-round/669L/669L-4/thumbnails/variant-7df60c5f50cee2-b027fe091a46.webp",
+            "raw": "玫瑰金间黑壳黑胶带",
+            "attributes": {
+              "caseColor": "黑壳",
+              "strap": "黑胶带",
+              "unresolvedText": "玫瑰金间"
+            }
+          },
+          "images": [
+            {
+              "id": "7df60c5f50cee2",
+              "role": "variant",
+              "fileName": "玫瑰金间黑壳黑胶带.jpg",
+              "width": 779,
+              "height": 1078,
+              "remark": "women-round / 669L-4 / 玫瑰金间黑壳黑胶带.jpg",
+              "url": "web-images/women-round/669L/669L-4/variant-7df60c5f50cee2-44d0d95d9c27.webp",
+              "thumb": "web-images/women-round/669L/669L-4/thumbnails/variant-7df60c5f50cee2-b027fe091a46.webp",
+              "raw": "玫瑰金间黑壳黑胶带",
+              "attributes": {
+                "caseColor": "黑壳",
+                "strap": "黑胶带",
+                "unresolvedText": "玫瑰金间"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:669L-4:f69a12bf8750",
+          "raw": "银间黑壳黑胶带",
+          "attributes": {
+            "caseColor": "黑壳",
+            "strap": "黑胶带",
+            "unresolvedText": "银间"
+          },
+          "image": {
+            "id": "afc8e84fc33c8d",
+            "role": "variant",
+            "fileName": "银间黑壳黑胶带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 669L-4 / 银间黑壳黑胶带.png",
+            "url": "web-images/women-round/669L/669L-4/variant-afc8e84fc33c8d-65a1b3633746.webp",
+            "thumb": "web-images/women-round/669L/669L-4/thumbnails/variant-afc8e84fc33c8d-f96b2f5b0656.webp",
+            "raw": "银间黑壳黑胶带",
+            "attributes": {
+              "caseColor": "黑壳",
+              "strap": "黑胶带",
+              "unresolvedText": "银间"
+            }
+          },
+          "images": [
+            {
+              "id": "afc8e84fc33c8d",
+              "role": "variant",
+              "fileName": "银间黑壳黑胶带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 669L-4 / 银间黑壳黑胶带.png",
+              "url": "web-images/women-round/669L/669L-4/variant-afc8e84fc33c8d-65a1b3633746.webp",
+              "thumb": "web-images/women-round/669L/669L-4/thumbnails/variant-afc8e84fc33c8d-f96b2f5b0656.webp",
+              "raw": "银间黑壳黑胶带",
+              "attributes": {
+                "caseColor": "黑壳",
+                "strap": "黑胶带",
+                "unresolvedText": "银间"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 980
+}

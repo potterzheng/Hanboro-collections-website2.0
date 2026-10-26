@@ -1,0 +1,240 @@
+{
+  "id": "women-round-754",
+  "model": "754",
+  "title": "HB-754",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "754",
+  "images": {
+    "main": {
+      "id": "b26d3ffdcfadc9",
+      "role": "main",
+      "fileName": "产品主图_0.jpeg",
+      "width": 951,
+      "height": 1600,
+      "remark": "women-round / 754 / 产品主图_0.jpeg",
+      "url": "web-images/women-round/754/754/main-b26d3ffdcfadc9-b8cf38cbaed7.webp",
+      "thumb": "web-images/women-round/754/754/thumbnails/main-b26d3ffdcfadc9-918f4de73fae.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:754",
+      "modelId": "women-round-754",
+      "model": "754",
+      "sku": "754",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1780,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "机械机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "机械机芯"
+        ],
+        "en": [
+          "Mechanical movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "b26d3ffdcfadc9",
+          "role": "main",
+          "fileName": "产品主图_0.jpeg",
+          "width": 951,
+          "height": 1600,
+          "remark": "women-round / 754 / 产品主图_0.jpeg",
+          "url": "web-images/women-round/754/754/main-b26d3ffdcfadc9-b8cf38cbaed7.webp",
+          "thumb": "web-images/women-round/754/754/thumbnails/main-b26d3ffdcfadc9-918f4de73fae.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:754:aa0675e49765",
+          "raw": "深蓝壳彩钻深蓝胶带 (2)",
+          "attributes": {
+            "strap": "深蓝胶带",
+            "unresolvedText": "深蓝壳彩钻 (2)"
+          },
+          "image": {
+            "id": "4c93640ea976e9",
+            "role": "variant",
+            "fileName": "深蓝壳彩钻深蓝胶带 (2).jpeg",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 754 / 深蓝壳彩钻深蓝胶带 (2).jpeg",
+            "url": "web-images/women-round/754/754/variant-4c93640ea976e9-89e9a0934d42.webp",
+            "thumb": "web-images/women-round/754/754/thumbnails/variant-4c93640ea976e9-cbf1c13e7720.webp",
+            "raw": "深蓝壳彩钻深蓝胶带 (2)",
+            "attributes": {
+              "strap": "深蓝胶带",
+              "unresolvedText": "深蓝壳彩钻 (2)"
+            }
+          },
+          "images": [
+            {
+              "id": "4c93640ea976e9",
+              "role": "variant",
+              "fileName": "深蓝壳彩钻深蓝胶带 (2).jpeg",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 754 / 深蓝壳彩钻深蓝胶带 (2).jpeg",
+              "url": "web-images/women-round/754/754/variant-4c93640ea976e9-89e9a0934d42.webp",
+              "thumb": "web-images/women-round/754/754/thumbnails/variant-4c93640ea976e9-cbf1c13e7720.webp",
+              "raw": "深蓝壳彩钻深蓝胶带 (2)",
+              "attributes": {
+                "strap": "深蓝胶带",
+                "unresolvedText": "深蓝壳彩钻 (2)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:754:ceae469f302b",
+          "raw": "玫瑰金壳彩钻橙胶带 (1)",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "橙胶带",
+            "unresolvedText": "彩钻 (1)"
+          },
+          "image": {
+            "id": "15fcf9e3aeb9c1",
+            "role": "variant",
+            "fileName": "玫瑰金壳彩钻橙胶带 (1).png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 754 / 玫瑰金壳彩钻橙胶带 (1).png",
+            "url": "web-images/women-round/754/754/variant-15fcf9e3aeb9c1-40318b6a5bd4.webp",
+            "thumb": "web-images/women-round/754/754/thumbnails/variant-15fcf9e3aeb9c1-3af2b804156c.webp",
+            "raw": "玫瑰金壳彩钻橙胶带 (1)",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "橙胶带",
+              "unresolvedText": "彩钻 (1)"
+            }
+          },
+          "images": [
+            {
+              "id": "15fcf9e3aeb9c1",
+              "role": "variant",
+              "fileName": "玫瑰金壳彩钻橙胶带 (1).png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 754 / 玫瑰金壳彩钻橙胶带 (1).png",
+              "url": "web-images/women-round/754/754/variant-15fcf9e3aeb9c1-40318b6a5bd4.webp",
+              "thumb": "web-images/women-round/754/754/thumbnails/variant-15fcf9e3aeb9c1-3af2b804156c.webp",
+              "raw": "玫瑰金壳彩钻橙胶带 (1)",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "橙胶带",
+                "unresolvedText": "彩钻 (1)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:754:abf0995eb92b",
+          "raw": "玫瑰金壳彩钻黑胶带 (1)",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑胶带",
+            "unresolvedText": "彩钻 (1)"
+          },
+          "image": {
+            "id": "9bff374a8f237f",
+            "role": "variant",
+            "fileName": "玫瑰金壳彩钻黑胶带 (1).jpeg",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 754 / 玫瑰金壳彩钻黑胶带 (1).jpeg",
+            "url": "web-images/women-round/754/754/variant-9bff374a8f237f-c0d3c7f53469.webp",
+            "thumb": "web-images/women-round/754/754/thumbnails/variant-9bff374a8f237f-dc60593fdbe7.webp",
+            "raw": "玫瑰金壳彩钻黑胶带 (1)",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑胶带",
+              "unresolvedText": "彩钻 (1)"
+            }
+          },
+          "images": [
+            {
+              "id": "9bff374a8f237f",
+              "role": "variant",
+              "fileName": "玫瑰金壳彩钻黑胶带 (1).jpeg",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 754 / 玫瑰金壳彩钻黑胶带 (1).jpeg",
+              "url": "web-images/women-round/754/754/variant-9bff374a8f237f-c0d3c7f53469.webp",
+              "thumb": "web-images/women-round/754/754/thumbnails/variant-9bff374a8f237f-dc60593fdbe7.webp",
+              "raw": "玫瑰金壳彩钻黑胶带 (1)",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑胶带",
+                "unresolvedText": "彩钻 (1)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:754:084eeb78d3c4",
+          "raw": "银壳白钻红胶带 (3)",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "红胶带",
+            "unresolvedText": "白钻 (3)"
+          },
+          "image": {
+            "id": "ff07d29eb4ef60",
+            "role": "variant",
+            "fileName": "银壳白钻红胶带 (3).jpeg",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 754 / 银壳白钻红胶带 (3).jpeg",
+            "url": "web-images/women-round/754/754/variant-ff07d29eb4ef60-9135fe048cbe.webp",
+            "thumb": "web-images/women-round/754/754/thumbnails/variant-ff07d29eb4ef60-cc195eeb30b4.webp",
+            "raw": "银壳白钻红胶带 (3)",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "红胶带",
+              "unresolvedText": "白钻 (3)"
+            }
+          },
+          "images": [
+            {
+              "id": "ff07d29eb4ef60",
+              "role": "variant",
+              "fileName": "银壳白钻红胶带 (3).jpeg",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 754 / 银壳白钻红胶带 (3).jpeg",
+              "url": "web-images/women-round/754/754/variant-ff07d29eb4ef60-9135fe048cbe.webp",
+              "thumb": "web-images/women-round/754/754/thumbnails/variant-ff07d29eb4ef60-cc195eeb30b4.webp",
+              "raw": "银壳白钻红胶带 (3)",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "红胶带",
+                "unresolvedText": "白钻 (3)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1780
+}

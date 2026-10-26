@@ -1,0 +1,78 @@
+{
+  "id": "women-round-88491L",
+  "model": "88491L",
+  "title": "HB-88491L",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "88491L",
+  "images": {
+    "main": {
+      "id": "afc2b2016f0512",
+      "role": "main",
+      "fileName": "产品主图_0.jpeg",
+      "width": 509,
+      "height": 937,
+      "remark": "women-round / 88491L / 产品主图_0.jpeg",
+      "url": "web-images/women-round/88491L/88491L/main-afc2b2016f0512-693158e65b27.webp",
+      "thumb": "web-images/women-round/88491L/88491L/thumbnails/main-afc2b2016f0512-3582b564ed2a.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:88491L",
+      "modelId": "women-round-88491L",
+      "model": "88491L",
+      "sku": "88491L",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1290,
+        "priceBasis": "list-price",
+        "caseSize": "34 mm",
+        "movement": "进口机械机芯",
+        "thickness": "13 mm",
+        "strapWidth": "17 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "钻石刀工艺304精钢表壳",
+          "进口机械机芯，40小时动力储存， 21600次/小时摆动频率。日差5秒,摆幅250以上,偏振0.5以内。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠、",
+          "简约太阳纹表盘，日历显示。",
+          "真皮表带，双控蝴蝶表扣，操作简单方便。",
+          "镂空透视精钢底部，机芯运转一览无遗。",
+          "30米深度防水性能，日常洗手、下雨、游泳、佩戴更安心。"
+        ],
+        "en": [
+          "Mechanical movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "afc2b2016f0512",
+          "role": "main",
+          "fileName": "产品主图_0.jpeg",
+          "width": 509,
+          "height": 937,
+          "remark": "women-round / 88491L / 产品主图_0.jpeg",
+          "url": "web-images/women-round/88491L/88491L/main-afc2b2016f0512-693158e65b27.webp",
+          "thumb": "web-images/women-round/88491L/88491L/thumbnails/main-afc2b2016f0512-3582b564ed2a.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    }
+  ],
+  "priceFromCny": 1290
+}

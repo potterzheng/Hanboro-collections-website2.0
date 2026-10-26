@@ -1,0 +1,82 @@
+{
+  "id": "packaging-668ea17e218c",
+  "model": "大皮盒",
+  "title": "大皮盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "大皮盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "2a60cbd142b23c",
+      "role": "main",
+      "fileName": "大皮盒.jpg",
+      "width": 626,
+      "height": 348,
+      "remark": "packaging / 大皮盒 / 大皮盒.jpg",
+      "url": "web-images/packaging/大皮盒/大皮盒/main-2a60cbd142b23c-d1935c5b0ed8.webp",
+      "thumb": "web-images/packaging/大皮盒/大皮盒/thumbnails/main-2a60cbd142b23c-9f1e0ea13a8e.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:668ea17e218c",
+      "modelId": "packaging-668ea17e218c",
+      "model": "大皮盒",
+      "sku": "大皮盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "大皮盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "2a60cbd142b23c",
+          "role": "main",
+          "fileName": "大皮盒.jpg",
+          "width": 626,
+          "height": 348,
+          "remark": "packaging / 大皮盒 / 大皮盒.jpg",
+          "url": "web-images/packaging/大皮盒/大皮盒/main-2a60cbd142b23c-d1935c5b0ed8.webp",
+          "thumb": "web-images/packaging/大皮盒/大皮盒/thumbnails/main-2a60cbd142b23c-9f1e0ea13a8e.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "2a60cbd142b23c-view",
+            "role": "gallery",
+            "fileName": "大皮盒.jpg",
+            "width": 626,
+            "height": 348,
+            "remark": "packaging / 大皮盒 / 大皮盒.jpg",
+            "url": "web-images/packaging/大皮盒/大皮盒/main-2a60cbd142b23c-d1935c5b0ed8.webp",
+            "thumb": "web-images/packaging/大皮盒/大皮盒/thumbnails/main-2a60cbd142b23c-9f1e0ea13a8e.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

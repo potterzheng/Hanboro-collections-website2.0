@@ -13,12 +13,12 @@ function readImageData(blob) {
 
 // Only fetch export images for the items actually selected by the visitor.
 document.addEventListener('click', async event => {
-  const button = event.target.closest('[data-action="export"]');
+  const button = event.target.closest('[data-action="export"],[data-action="print"]');
   if (!button) return;
   event.preventDefault();
   event.stopImmediatePropagation();
   if (preparingInquiry) return;
-  const urls = [...new Set(cart.map(entry => resolveEntry(entry).image?.thumb).filter(Boolean))];
+  const urls = [...new Set(cart.map(entry => resolveEntry(entry).image?.url).filter(Boolean))];
   preparingInquiry = true;
   button.disabled = true;
   button.setAttribute('aria-busy', 'true');
@@ -35,7 +35,8 @@ document.addEventListener('click', async event => {
         MEDIA[url] = await readImageData(blob);
       }
     }));
-    exportInquiry();
+    if(button.dataset.action==='print')await printInquiry();
+    else exportInquiry();
   } catch {
     toast(lang === 'zh' ? '\u56fe\u7247\u52a0\u8f7d\u5931\u8d25\uff0c\u8bf7\u68c0\u67e5\u7f51\u7edc\u540e\u91cd\u8bd5' : 'Images could not be loaded. Please try again.');
   } finally {

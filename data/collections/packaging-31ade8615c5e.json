@@ -1,0 +1,82 @@
+{
+  "id": "packaging-31ade8615c5e",
+  "model": "橙色礼盒",
+  "title": "橙色礼盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "橙色礼盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "03ca335cfc8e63",
+      "role": "main",
+      "fileName": "橙色礼盒.jpg",
+      "width": 313,
+      "height": 503,
+      "remark": "packaging / 橙色礼盒 / 橙色礼盒.jpg",
+      "url": "web-images/packaging/橙色礼盒/橙色礼盒/main-03ca335cfc8e63-46d1b4a8e1dc.webp",
+      "thumb": "web-images/packaging/橙色礼盒/橙色礼盒/thumbnails/main-03ca335cfc8e63-287d605d92ad.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:31ade8615c5e",
+      "modelId": "packaging-31ade8615c5e",
+      "model": "橙色礼盒",
+      "sku": "橙色礼盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "橙色礼盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "03ca335cfc8e63",
+          "role": "main",
+          "fileName": "橙色礼盒.jpg",
+          "width": 313,
+          "height": 503,
+          "remark": "packaging / 橙色礼盒 / 橙色礼盒.jpg",
+          "url": "web-images/packaging/橙色礼盒/橙色礼盒/main-03ca335cfc8e63-46d1b4a8e1dc.webp",
+          "thumb": "web-images/packaging/橙色礼盒/橙色礼盒/thumbnails/main-03ca335cfc8e63-287d605d92ad.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "03ca335cfc8e63-view",
+            "role": "gallery",
+            "fileName": "橙色礼盒.jpg",
+            "width": 313,
+            "height": 503,
+            "remark": "packaging / 橙色礼盒 / 橙色礼盒.jpg",
+            "url": "web-images/packaging/橙色礼盒/橙色礼盒/main-03ca335cfc8e63-46d1b4a8e1dc.webp",
+            "thumb": "web-images/packaging/橙色礼盒/橙色礼盒/thumbnails/main-03ca335cfc8e63-287d605d92ad.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

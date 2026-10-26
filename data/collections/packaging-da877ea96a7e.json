@@ -1,0 +1,82 @@
+{
+  "id": "packaging-da877ea96a7e",
+  "model": "3",
+  "title": "3",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "3",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "b9a303cf43e07b",
+      "role": "main",
+      "fileName": "3.jpg",
+      "width": 1200,
+      "height": 800,
+      "remark": "packaging / 3 / 3.jpg",
+      "url": "web-images/packaging/3/3/main-b9a303cf43e07b-304480c65060.webp",
+      "thumb": "web-images/packaging/3/3/thumbnails/main-b9a303cf43e07b-12f9926ff938.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:da877ea96a7e",
+      "modelId": "packaging-da877ea96a7e",
+      "model": "3",
+      "sku": "3",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "3"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "b9a303cf43e07b",
+          "role": "main",
+          "fileName": "3.jpg",
+          "width": 1200,
+          "height": 800,
+          "remark": "packaging / 3 / 3.jpg",
+          "url": "web-images/packaging/3/3/main-b9a303cf43e07b-304480c65060.webp",
+          "thumb": "web-images/packaging/3/3/thumbnails/main-b9a303cf43e07b-12f9926ff938.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "b9a303cf43e07b-view",
+            "role": "gallery",
+            "fileName": "3.jpg",
+            "width": 1200,
+            "height": 800,
+            "remark": "packaging / 3 / 3.jpg",
+            "url": "web-images/packaging/3/3/main-b9a303cf43e07b-304480c65060.webp",
+            "thumb": "web-images/packaging/3/3/thumbnails/main-b9a303cf43e07b-12f9926ff938.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

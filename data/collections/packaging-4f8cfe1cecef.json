@@ -1,0 +1,82 @@
+{
+  "id": "packaging-4f8cfe1cecef",
+  "model": "天体1",
+  "title": "天体1",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "天体1",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "a8dc89a33bc2f9",
+      "role": "main",
+      "fileName": "天体1.jpg",
+      "width": 712,
+      "height": 912,
+      "remark": "packaging / 天体1 / 天体1.jpg",
+      "url": "web-images/packaging/天体1/天体1/main-a8dc89a33bc2f9-f6c5151083b2.webp",
+      "thumb": "web-images/packaging/天体1/天体1/thumbnails/main-a8dc89a33bc2f9-9615de94850e.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:4f8cfe1cecef",
+      "modelId": "packaging-4f8cfe1cecef",
+      "model": "天体1",
+      "sku": "天体1",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "天体1"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "a8dc89a33bc2f9",
+          "role": "main",
+          "fileName": "天体1.jpg",
+          "width": 712,
+          "height": 912,
+          "remark": "packaging / 天体1 / 天体1.jpg",
+          "url": "web-images/packaging/天体1/天体1/main-a8dc89a33bc2f9-f6c5151083b2.webp",
+          "thumb": "web-images/packaging/天体1/天体1/thumbnails/main-a8dc89a33bc2f9-9615de94850e.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "a8dc89a33bc2f9-view",
+            "role": "gallery",
+            "fileName": "天体1.jpg",
+            "width": 712,
+            "height": 912,
+            "remark": "packaging / 天体1 / 天体1.jpg",
+            "url": "web-images/packaging/天体1/天体1/main-a8dc89a33bc2f9-f6c5151083b2.webp",
+            "thumb": "web-images/packaging/天体1/天体1/thumbnails/main-a8dc89a33bc2f9-9615de94850e.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

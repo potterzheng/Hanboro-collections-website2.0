@@ -1,0 +1,118 @@
+{
+  "id": "women-round-8038L",
+  "model": "8038L",
+  "title": "HB-8038L",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "8038L",
+  "images": {
+    "main": {
+      "id": "1d93b3474626cf",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 791,
+      "height": 1600,
+      "remark": "women-round / 8038L / 产品主图_0.png",
+      "url": "web-images/women-round/8038L/8038L/main-1d93b3474626cf-dc864921c87b.webp",
+      "thumb": "web-images/women-round/8038L/8038L/thumbnails/main-1d93b3474626cf-5a4b7238fe99.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:8038L",
+      "modelId": "women-round-8038L",
+      "model": "8038L",
+      "sku": "8038L",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": "34 mm",
+        "movement": "进口2105双历石英机芯",
+        "thickness": "10 mm",
+        "strapWidth": "16 × 14 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢钻石刀工艺镶嵌16粒水晶钻表壳，圈口镶嵌43粒水晶方钻，彰显时尚潮流。",
+          "进口2105双历石英机芯，走时精准。",
+          "蓝宝石玻璃镜面，防刮耐磨，亮泽通透，滴水成珠。",
+          "表面锤沙钻石刀批花纹双色梵高工艺，铂金真离子电镀批花航船，一帆风顺强视夜光钉，双历窗口显示。",
+          "柔软真皮表带，佩戴舒适，配置精钢U字表扣，操作方便简单。",
+          "50米深度防水性能，日常洗手、下雨、游泳、佩戴更安心."
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "1d93b3474626cf",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 791,
+          "height": 1600,
+          "remark": "women-round / 8038L / 产品主图_0.png",
+          "url": "web-images/women-round/8038L/8038L/main-1d93b3474626cf-dc864921c87b.webp",
+          "thumb": "web-images/women-round/8038L/8038L/thumbnails/main-1d93b3474626cf-5a4b7238fe99.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:8038L:69eb4a143d9d",
+          "raw": "玫瑰金壳蓝皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "蓝皮带"
+          },
+          "image": {
+            "id": "a56045762f6b5f",
+            "role": "variant",
+            "fileName": "玫瑰金壳蓝皮带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 8038L / 玫瑰金壳蓝皮带.png",
+            "url": "web-images/women-round/8038L/8038L/variant-a56045762f6b5f-a35c1e11ccb2.webp",
+            "thumb": "web-images/women-round/8038L/8038L/thumbnails/variant-a56045762f6b5f-cf012528e30b.webp",
+            "raw": "玫瑰金壳蓝皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "蓝皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "a56045762f6b5f",
+              "role": "variant",
+              "fileName": "玫瑰金壳蓝皮带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 8038L / 玫瑰金壳蓝皮带.png",
+              "url": "web-images/women-round/8038L/8038L/variant-a56045762f6b5f-a35c1e11ccb2.webp",
+              "thumb": "web-images/women-round/8038L/8038L/thumbnails/variant-a56045762f6b5f-cf012528e30b.webp",
+              "raw": "玫瑰金壳蓝皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "蓝皮带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": null
+}

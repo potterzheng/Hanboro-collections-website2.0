@@ -1,0 +1,164 @@
+{
+  "id": "women-round-673",
+  "model": "673",
+  "title": "HB-673",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "673",
+  "images": {
+    "main": {
+      "id": "9bfad9b59f7eae",
+      "role": "main",
+      "fileName": "产品主图_1.png",
+      "width": 503,
+      "height": 788,
+      "remark": "women-round / 673 / 产品主图_1.png",
+      "url": "web-images/women-round/673/673/main-9bfad9b59f7eae-c281d7c087ca.webp",
+      "thumb": "web-images/women-round/673/673/thumbnails/main-9bfad9b59f7eae-6b6accf47681.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:673",
+      "modelId": "women-round-673",
+      "model": "673",
+      "sku": "673",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1180,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "原厂镂空机械机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304 精钢钻石刀工艺表壳，彰显时尚潮流",
+          "圈口镶嵌水晶钻，炫彩闪耀",
+          "原厂镂空机械机芯，40小时动力储存，21600次/小时摆动频率。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠",
+          "镂空镂摆飞轮表盘，强视夜光钉。",
+          "柔软硅胶表带，佩戴舒适，配置精钢双按蝴蝶表扣，操作方便。",
+          "30米深度防水性能，日常洗手、下雨、佩戴更安心。 --- 石英机芯"
+        ],
+        "en": [
+          "Mechanical movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "9bfad9b59f7eae",
+          "role": "main",
+          "fileName": "产品主图_1.png",
+          "width": 503,
+          "height": 788,
+          "remark": "women-round / 673 / 产品主图_1.png",
+          "url": "web-images/women-round/673/673/main-9bfad9b59f7eae-c281d7c087ca.webp",
+          "thumb": "web-images/women-round/673/673/thumbnails/main-9bfad9b59f7eae-6b6accf47681.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:673:d3c5b5cbcee2",
+          "raw": "玫瑰金间黑壳黑胶带",
+          "attributes": {
+            "caseColor": "黑壳",
+            "strap": "黑胶带",
+            "unresolvedText": "玫瑰金间"
+          },
+          "image": {
+            "id": "81733682a1701b",
+            "role": "variant",
+            "fileName": "玫瑰金间黑壳黑胶带.jpeg",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 673 / 玫瑰金间黑壳黑胶带.jpeg",
+            "url": "web-images/women-round/673/673/variant-81733682a1701b-2429b2cc0046.webp",
+            "thumb": "web-images/women-round/673/673/thumbnails/variant-81733682a1701b-e9d58a10b9cb.webp",
+            "raw": "玫瑰金间黑壳黑胶带",
+            "attributes": {
+              "caseColor": "黑壳",
+              "strap": "黑胶带",
+              "unresolvedText": "玫瑰金间"
+            }
+          },
+          "images": [
+            {
+              "id": "81733682a1701b",
+              "role": "variant",
+              "fileName": "玫瑰金间黑壳黑胶带.jpeg",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 673 / 玫瑰金间黑壳黑胶带.jpeg",
+              "url": "web-images/women-round/673/673/variant-81733682a1701b-2429b2cc0046.webp",
+              "thumb": "web-images/women-round/673/673/thumbnails/variant-81733682a1701b-e9d58a10b9cb.webp",
+              "raw": "玫瑰金间黑壳黑胶带",
+              "attributes": {
+                "caseColor": "黑壳",
+                "strap": "黑胶带",
+                "unresolvedText": "玫瑰金间"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:673:f69a12bf8750",
+          "raw": "银间黑壳黑胶带",
+          "attributes": {
+            "caseColor": "黑壳",
+            "strap": "黑胶带",
+            "unresolvedText": "银间"
+          },
+          "image": {
+            "id": "adc5468950233c",
+            "role": "variant",
+            "fileName": "银间黑壳黑胶带.png",
+            "width": 571,
+            "height": 850,
+            "remark": "women-round / 673 / 银间黑壳黑胶带.png",
+            "url": "web-images/women-round/673/673/variant-adc5468950233c-87ab3ccbade8.webp",
+            "thumb": "web-images/women-round/673/673/thumbnails/variant-adc5468950233c-06a42873aa7d.webp",
+            "raw": "银间黑壳黑胶带",
+            "attributes": {
+              "caseColor": "黑壳",
+              "strap": "黑胶带",
+              "unresolvedText": "银间"
+            }
+          },
+          "images": [
+            {
+              "id": "adc5468950233c",
+              "role": "variant",
+              "fileName": "银间黑壳黑胶带.png",
+              "width": 571,
+              "height": 850,
+              "remark": "women-round / 673 / 银间黑壳黑胶带.png",
+              "url": "web-images/women-round/673/673/variant-adc5468950233c-87ab3ccbade8.webp",
+              "thumb": "web-images/women-round/673/673/thumbnails/variant-adc5468950233c-06a42873aa7d.webp",
+              "raw": "银间黑壳黑胶带",
+              "attributes": {
+                "caseColor": "黑壳",
+                "strap": "黑胶带",
+                "unresolvedText": "银间"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1180
+}

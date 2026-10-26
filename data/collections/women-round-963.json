@@ -1,0 +1,119 @@
+{
+  "id": "women-round-963",
+  "model": "963",
+  "title": "HB-963",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "963-2",
+  "images": {
+    "main": {
+      "id": "110a2f3e45e0ff",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 1054,
+      "height": 1600,
+      "remark": "women-round / 963-2 / 产品主图_0.png",
+      "url": "web-images/women-round/963/963-2/main-110a2f3e45e0ff-8d6f7bac55b6.webp",
+      "thumb": "web-images/women-round/963/963-2/thumbnails/main-110a2f3e45e0ff-ab0779d1324a.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:963-2",
+      "modelId": "women-round-963",
+      "model": "963",
+      "sku": "963-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1630,
+        "priceBasis": "list-price",
+        "caseSize": "41.5 mm",
+        "movement": "原厂上海条机LG0801镂空机械机芯",
+        "thickness": "13.5 mm",
+        "strapWidth": "25 × 22 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "进口亚克力透明强视夜光表壳设计，彰显时尚潮流。",
+          "陶瓷圈口，圈口可换。",
+          "国内原厂上海条机LG0801镂空机械机芯，40小时动力储存，21600次/小时摆动频率,日差5秒,摆幅250以上,偏振0.5以内。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠、防刮耐磨。",
+          "镂空雕刻鱼鳞纹表盘，数字强视夜光黑夜散发夜光效果。",
+          "柔软硅胶表带，佩戴舒适，配置双控保险扣，操作方便简单。",
+          "50米深度防水性能，日常洗手、下雨、游泳、佩戴更安心。"
+        ],
+        "en": [
+          "Mechanical movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "110a2f3e45e0ff",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 1054,
+          "height": 1600,
+          "remark": "women-round / 963-2 / 产品主图_0.png",
+          "url": "web-images/women-round/963/963-2/main-110a2f3e45e0ff-8d6f7bac55b6.webp",
+          "thumb": "web-images/women-round/963/963-2/thumbnails/main-110a2f3e45e0ff-ab0779d1324a.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:963-2:a867028ae9fd",
+          "raw": "白壳白胶带",
+          "attributes": {
+            "caseColor": "白壳",
+            "strap": "白胶带"
+          },
+          "image": {
+            "id": "37791638969db1",
+            "role": "variant",
+            "fileName": "白壳白胶带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 963-2 / 白壳白胶带.png",
+            "url": "web-images/women-round/963/963-2/variant-37791638969db1-fdf69ab8b4a3.webp",
+            "thumb": "web-images/women-round/963/963-2/thumbnails/variant-37791638969db1-6ebc99c52323.webp",
+            "raw": "白壳白胶带",
+            "attributes": {
+              "caseColor": "白壳",
+              "strap": "白胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "37791638969db1",
+              "role": "variant",
+              "fileName": "白壳白胶带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 963-2 / 白壳白胶带.png",
+              "url": "web-images/women-round/963/963-2/variant-37791638969db1-fdf69ab8b4a3.webp",
+              "thumb": "web-images/women-round/963/963-2/thumbnails/variant-37791638969db1-6ebc99c52323.webp",
+              "raw": "白壳白胶带",
+              "attributes": {
+                "caseColor": "白壳",
+                "strap": "白胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1630
+}

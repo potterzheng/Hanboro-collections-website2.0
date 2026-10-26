@@ -1,0 +1,82 @@
+{
+  "id": "packaging-e6e8996b48e4",
+  "model": "天体钢笔",
+  "title": "天体钢笔",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "天体钢笔",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "cfe74d00a83f72",
+      "role": "main",
+      "fileName": "天体钢笔.jpg",
+      "width": 715,
+      "height": 534,
+      "remark": "packaging / 天体钢笔 / 天体钢笔.jpg",
+      "url": "web-images/packaging/天体钢笔/天体钢笔/main-cfe74d00a83f72-863beac1c6e0.webp",
+      "thumb": "web-images/packaging/天体钢笔/天体钢笔/thumbnails/main-cfe74d00a83f72-3dc5fb848ed1.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:e6e8996b48e4",
+      "modelId": "packaging-e6e8996b48e4",
+      "model": "天体钢笔",
+      "sku": "天体钢笔",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "天体钢笔"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "cfe74d00a83f72",
+          "role": "main",
+          "fileName": "天体钢笔.jpg",
+          "width": 715,
+          "height": 534,
+          "remark": "packaging / 天体钢笔 / 天体钢笔.jpg",
+          "url": "web-images/packaging/天体钢笔/天体钢笔/main-cfe74d00a83f72-863beac1c6e0.webp",
+          "thumb": "web-images/packaging/天体钢笔/天体钢笔/thumbnails/main-cfe74d00a83f72-3dc5fb848ed1.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "cfe74d00a83f72-view",
+            "role": "gallery",
+            "fileName": "天体钢笔.jpg",
+            "width": 715,
+            "height": 534,
+            "remark": "packaging / 天体钢笔 / 天体钢笔.jpg",
+            "url": "web-images/packaging/天体钢笔/天体钢笔/main-cfe74d00a83f72-863beac1c6e0.webp",
+            "thumb": "web-images/packaging/天体钢笔/天体钢笔/thumbnails/main-cfe74d00a83f72-3dc5fb848ed1.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

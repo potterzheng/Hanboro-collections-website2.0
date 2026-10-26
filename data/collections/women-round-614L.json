@@ -1,0 +1,111 @@
+{
+  "id": "women-round-614L",
+  "model": "614L",
+  "title": "HB-614L",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "614L",
+  "images": {
+    "main": {
+      "id": "bd32c1851971a8",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 922,
+      "height": 1600,
+      "remark": "women-round / 614L / 产品主图_0.png",
+      "url": "web-images/women-round/614L/614L/main-bd32c1851971a8-f8278db6fa45.webp",
+      "thumb": "web-images/women-round/614L/614L/thumbnails/main-bd32c1851971a8-459b4e81a014.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:614L",
+      "modelId": "women-round-614L",
+      "model": "614L",
+      "sku": "614L",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1180,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "bd32c1851971a8",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 922,
+          "height": 1600,
+          "remark": "women-round / 614L / 产品主图_0.png",
+          "url": "web-images/women-round/614L/614L/main-bd32c1851971a8-f8278db6fa45.webp",
+          "thumb": "web-images/women-round/614L/614L/thumbnails/main-bd32c1851971a8-459b4e81a014.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:614L:e330acfac189",
+          "raw": "玫瑰金壳黑胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑胶带"
+          },
+          "image": {
+            "id": "8b230afcc8d0f4",
+            "role": "variant",
+            "fileName": "玫瑰金壳黑胶带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 614L / 玫瑰金壳黑胶带.png",
+            "url": "web-images/women-round/614L/614L/variant-8b230afcc8d0f4-d8286e1f6920.webp",
+            "thumb": "web-images/women-round/614L/614L/thumbnails/variant-8b230afcc8d0f4-bd89147b0499.webp",
+            "raw": "玫瑰金壳黑胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "8b230afcc8d0f4",
+              "role": "variant",
+              "fileName": "玫瑰金壳黑胶带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 614L / 玫瑰金壳黑胶带.png",
+              "url": "web-images/women-round/614L/614L/variant-8b230afcc8d0f4-d8286e1f6920.webp",
+              "thumb": "web-images/women-round/614L/614L/thumbnails/variant-8b230afcc8d0f4-bd89147b0499.webp",
+              "raw": "玫瑰金壳黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1180
+}

@@ -18,7 +18,7 @@ function fixture(run) {
     fs.mkdirSync(path.join(directory, 'scripts'), { recursive: true });
     for (const name of ['build.mjs', 'site-assets.mjs']) fs.copyFileSync(path.join(root, 'scripts', name), path.join(directory, 'scripts', name));
     fs.mkdirSync(path.join(directory, 'src'));
-    for (const name of ['icons.json', 'catalog.css', 'catalog.js', 'online.js', 'catalog.template.html']) fs.copyFileSync(path.join(root, 'src', name), path.join(directory, 'src', name));
+    for (const name of ['icons.json', 'catalog.css', 'catalog.js', 'online.js', 'catalog.template.html', 'purchase-state.js', 'inquiry-document.js']) fs.copyFileSync(path.join(root, 'src', name), path.join(directory, 'src', name));
     fs.mkdirSync(path.join(directory, 'data'));
     fs.mkdirSync(path.join(directory, 'dist/web-images/test'), { recursive: true });
     const main = { role: 'main', url: 'web-images/test/main-12345678901234-aaaaaaaaaaaa.webp', thumb: 'web-images/test/thumb-12345678901234-bbbbbbbbbbbb.webp' };
@@ -63,6 +63,23 @@ test('parent-directory image paths are rejected', () => fixture(directory => {
   data.models[0].products[0].images.main.url = 'web-images/../../private.webp';
   fs.writeFileSync(source, JSON.stringify(data));
   assert.throws(() => prepareCatalog(directory), /Invalid image path/);
+}));
+
+test('availability removes marked products and empty models', () => fixture(directory => {
+  const source=path.join(directory,'data/catalog.json');
+  const catalog=JSON.parse(fs.readFileSync(source,'utf8'));
+  const product=catalog.models[0].products[0];
+  product.id='sold';product.sku='sold';product.specs={priceCny:100};
+  catalog.models[0].id='collection';catalog.models[0].defaultSku='sold';
+  catalog.models[0].products.push({...product,id:'available',sku:'available',specs:{priceCny:200}});
+  fs.writeFileSync(source,JSON.stringify(catalog));
+  fs.writeFileSync(path.join(directory,'data/availability.json'),JSON.stringify({unavailableProducts:['sold']}));
+  const available=readCatalog(directory);
+  assert.equal(available.models[0].products.length,1);
+  assert.equal(available.models[0].defaultSku,'available');
+  assert.equal(available.models[0].priceFromCny,200);
+  fs.writeFileSync(path.join(directory,'data/availability.json'),JSON.stringify({unavailableModels:['collection']}));
+  assert.equal(readCatalog(directory).models.length,0);
 }));
 
 test('supplemental collection files merge without replacing original data', () => fixture(directory => {

@@ -1,0 +1,161 @@
+{
+  "id": "women-round-602",
+  "model": "602",
+  "title": "HB-602",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "602",
+  "images": {
+    "main": {
+      "id": "2b8a77e1d26362",
+      "role": "variant",
+      "fileName": "玫瑰金壳红皮带.png",
+      "width": 1200,
+      "height": 1200,
+      "remark": "主图未提供；目录使用实际配色图片：玫瑰金壳红皮带.png",
+      "url": "web-images/women-round/602/602/variant-2b8a77e1d26362-a95a7f883448.webp",
+      "thumb": "web-images/women-round/602/602/thumbnails/variant-2b8a77e1d26362-d29a0b629b84.webp",
+      "raw": "玫瑰金壳红皮带",
+      "attributes": {
+        "caseColor": "玫瑰金壳",
+        "strap": "红皮带"
+      }
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:602",
+      "modelId": "women-round-602",
+      "model": "602",
+      "sku": "602",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 780,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "2b8a77e1d26362",
+          "role": "variant",
+          "fileName": "玫瑰金壳红皮带.png",
+          "width": 1200,
+          "height": 1200,
+          "remark": "主图未提供；目录使用实际配色图片：玫瑰金壳红皮带.png",
+          "url": "web-images/women-round/602/602/variant-2b8a77e1d26362-a95a7f883448.webp",
+          "thumb": "web-images/women-round/602/602/thumbnails/variant-2b8a77e1d26362-d29a0b629b84.webp",
+          "raw": "玫瑰金壳红皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "红皮带"
+          }
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:602:eeb952fee7ed",
+          "raw": "玫瑰金壳红皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "红皮带"
+          },
+          "image": {
+            "id": "2b8a77e1d26362",
+            "role": "variant",
+            "fileName": "玫瑰金壳红皮带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 602 / 玫瑰金壳红皮带.png",
+            "url": "web-images/women-round/602/602/variant-2b8a77e1d26362-a95a7f883448.webp",
+            "thumb": "web-images/women-round/602/602/thumbnails/variant-2b8a77e1d26362-d29a0b629b84.webp",
+            "raw": "玫瑰金壳红皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "红皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "2b8a77e1d26362",
+              "role": "variant",
+              "fileName": "玫瑰金壳红皮带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 602 / 玫瑰金壳红皮带.png",
+              "url": "web-images/women-round/602/602/variant-2b8a77e1d26362-a95a7f883448.webp",
+              "thumb": "web-images/women-round/602/602/thumbnails/variant-2b8a77e1d26362-d29a0b629b84.webp",
+              "raw": "玫瑰金壳红皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "红皮带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:602:b1022e18756b",
+          "raw": "银壳红皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "红皮带"
+          },
+          "image": {
+            "id": "22da326279eca5",
+            "role": "variant",
+            "fileName": "银壳红皮带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 602 / 银壳红皮带.png",
+            "url": "web-images/women-round/602/602/variant-22da326279eca5-d26efbcd1f34.webp",
+            "thumb": "web-images/women-round/602/602/thumbnails/variant-22da326279eca5-d39f729489a9.webp",
+            "raw": "银壳红皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "红皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "22da326279eca5",
+              "role": "variant",
+              "fileName": "银壳红皮带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 602 / 银壳红皮带.png",
+              "url": "web-images/women-round/602/602/variant-22da326279eca5-d26efbcd1f34.webp",
+              "thumb": "web-images/women-round/602/602/thumbnails/variant-22da326279eca5-d39f729489a9.webp",
+              "raw": "银壳红皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "红皮带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 780
+}

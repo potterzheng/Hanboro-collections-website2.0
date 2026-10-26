@@ -1,0 +1,224 @@
+{
+  "id": "women-round-H008",
+  "model": "H008",
+  "title": "HB-H008",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "H008B",
+  "images": {
+    "main": {
+      "id": "dcbc7c85db19bf",
+      "role": "main",
+      "fileName": "产品主图.jpg",
+      "width": 792,
+      "height": 1600,
+      "remark": "women-round / H008B / 产品主图.jpg",
+      "url": "web-images/women-round/H008/H008B/main-dcbc7c85db19bf-50b43f5e229e.webp",
+      "thumb": "web-images/women-round/H008/H008B/thumbnails/main-dcbc7c85db19bf-b98a8a63c835.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:H008A",
+      "modelId": "women-round-H008",
+      "model": "H008",
+      "sku": "H008A",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 680,
+        "priceBasis": "list-price",
+        "caseSize": "36.5 mm",
+        "movement": "进口石英机芯",
+        "thickness": "12 mm",
+        "strapWidth": "16 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": null,
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": []
+    },
+    {
+      "id": "women-round:H008B",
+      "modelId": "women-round-H008",
+      "model": "H008",
+      "sku": "H008B",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 680,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [],
+        "en": []
+      },
+      "images": {
+        "main": {
+          "id": "dcbc7c85db19bf",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 792,
+          "height": 1600,
+          "remark": "women-round / H008B / 产品主图.jpg",
+          "url": "web-images/women-round/H008/H008B/main-dcbc7c85db19bf-50b43f5e229e.webp",
+          "thumb": "web-images/women-round/H008/H008B/thumbnails/main-dcbc7c85db19bf-b98a8a63c835.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:H008B:aa11e11bcc88",
+          "raw": "玫瑰金壳白皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "白皮带"
+          },
+          "image": {
+            "id": "034618f3cd0615",
+            "role": "variant",
+            "fileName": "玫瑰金壳白皮带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-round / H008B / 玫瑰金壳白皮带.jpg",
+            "url": "web-images/women-round/H008/H008B/variant-034618f3cd0615-c5d8accac2a9.webp",
+            "thumb": "web-images/women-round/H008/H008B/thumbnails/variant-034618f3cd0615-b71573340738.webp",
+            "raw": "玫瑰金壳白皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "白皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "034618f3cd0615",
+              "role": "variant",
+              "fileName": "玫瑰金壳白皮带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-round / H008B / 玫瑰金壳白皮带.jpg",
+              "url": "web-images/women-round/H008/H008B/variant-034618f3cd0615-c5d8accac2a9.webp",
+              "thumb": "web-images/women-round/H008/H008B/thumbnails/variant-034618f3cd0615-b71573340738.webp",
+              "raw": "玫瑰金壳白皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "白皮带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:H008C",
+      "modelId": "women-round-H008",
+      "model": "H008",
+      "sku": "H008C",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 680,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [],
+        "en": []
+      },
+      "images": {
+        "main": {
+          "id": "839b34d38ed486",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 700,
+          "height": 1600,
+          "remark": "women-round / H008C / 产品主图.jpg",
+          "url": "web-images/women-round/H008/H008C/main-839b34d38ed486-99085c9c27f5.webp",
+          "thumb": "web-images/women-round/H008/H008C/thumbnails/main-839b34d38ed486-ecae6900e23a.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:H008C:5aaf2f21ab52",
+          "raw": "玫瑰金壳粉皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "粉皮带"
+          },
+          "image": {
+            "id": "53b600f2ed8f3b",
+            "role": "variant",
+            "fileName": "玫瑰金壳粉皮带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-round / H008C / 玫瑰金壳粉皮带.jpg",
+            "url": "web-images/women-round/H008/H008C/variant-53b600f2ed8f3b-36463c30782e.webp",
+            "thumb": "web-images/women-round/H008/H008C/thumbnails/variant-53b600f2ed8f3b-b5f6dd5229e7.webp",
+            "raw": "玫瑰金壳粉皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "粉皮带"
+            }
+          },
+          "images": [
+            {
+              "id": "53b600f2ed8f3b",
+              "role": "variant",
+              "fileName": "玫瑰金壳粉皮带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-round / H008C / 玫瑰金壳粉皮带.jpg",
+              "url": "web-images/women-round/H008/H008C/variant-53b600f2ed8f3b-36463c30782e.webp",
+              "thumb": "web-images/women-round/H008/H008C/thumbnails/variant-53b600f2ed8f3b-b5f6dd5229e7.webp",
+              "raw": "玫瑰金壳粉皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "粉皮带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 680
+}

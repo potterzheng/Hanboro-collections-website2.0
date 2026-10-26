@@ -1,0 +1,208 @@
+{
+  "id": "women-round-982",
+  "model": "982",
+  "title": "HB-982",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "982",
+  "images": {
+    "main": {
+      "id": "d33e1b4d85aa70",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 1075,
+      "height": 1600,
+      "remark": "women-round / 982 / 产品主图_0.png",
+      "url": "web-images/women-round/982/982/main-d33e1b4d85aa70-0ac007879298.webp",
+      "thumb": "web-images/women-round/982/982/thumbnails/main-d33e1b4d85aa70-5314582afe9c.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:982",
+      "modelId": "women-round-982",
+      "model": "982",
+      "sku": "982",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1380,
+        "priceBasis": "list-price",
+        "caseSize": "42 mm",
+        "movement": "原厂杭州7500机械机芯",
+        "thickness": "10.8 mm",
+        "strapWidth": "26 × 22 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "进口亚克力透明表壳设计，彰显时尚潮流。",
+          "圈口镶嵌 52粒水晶方钻，炫彩闪耀",
+          "国内原厂杭州7500机械机芯，21600次/小时摆动频率40小时动力储存",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠、防刮耐磨.",
+          "镂空齿轮数字强视夜光面，夜间散发炫酷夜光。",
+          "柔软硅胶表带，佩舒适，配置双控保险扣，操作方便简单",
+          "50米深度防水性能，日常洗手、下雨、游泳、佩戴更安心"
+        ],
+        "en": [
+          "Mechanical movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "d33e1b4d85aa70",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 1075,
+          "height": 1600,
+          "remark": "women-round / 982 / 产品主图_0.png",
+          "url": "web-images/women-round/982/982/main-d33e1b4d85aa70-0ac007879298.webp",
+          "thumb": "web-images/women-round/982/982/thumbnails/main-d33e1b4d85aa70-5314582afe9c.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:982:7aebf1a5f545",
+          "raw": "银壳彩钻白胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白胶带",
+            "unresolvedText": "彩钻"
+          },
+          "image": {
+            "id": "1cc88c87be861f",
+            "role": "variant",
+            "fileName": "银壳彩钻白胶带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 982 / 银壳彩钻白胶带.png",
+            "url": "web-images/women-round/982/982/variant-1cc88c87be861f-2b645356f86f.webp",
+            "thumb": "web-images/women-round/982/982/thumbnails/variant-1cc88c87be861f-7e2c7f5e1c26.webp",
+            "raw": "银壳彩钻白胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白胶带",
+              "unresolvedText": "彩钻"
+            }
+          },
+          "images": [
+            {
+              "id": "1cc88c87be861f",
+              "role": "variant",
+              "fileName": "银壳彩钻白胶带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 982 / 银壳彩钻白胶带.png",
+              "url": "web-images/women-round/982/982/variant-1cc88c87be861f-2b645356f86f.webp",
+              "thumb": "web-images/women-round/982/982/thumbnails/variant-1cc88c87be861f-7e2c7f5e1c26.webp",
+              "raw": "银壳彩钻白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白胶带",
+                "unresolvedText": "彩钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:982:d52d82fb2b2c",
+          "raw": "银壳白钻白胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白胶带",
+            "unresolvedText": "白钻"
+          },
+          "image": {
+            "id": "c221a5764b64b5",
+            "role": "variant",
+            "fileName": "银壳白钻白胶带.jpg",
+            "width": 800,
+            "height": 800,
+            "remark": "women-round / 982 / 银壳白钻白胶带.jpg",
+            "url": "web-images/women-round/982/982/variant-c221a5764b64b5-73187b05d260.webp",
+            "thumb": "web-images/women-round/982/982/thumbnails/variant-c221a5764b64b5-e65695d2ba01.webp",
+            "raw": "银壳白钻白胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白胶带",
+              "unresolvedText": "白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "c221a5764b64b5",
+              "role": "variant",
+              "fileName": "银壳白钻白胶带.jpg",
+              "width": 800,
+              "height": 800,
+              "remark": "women-round / 982 / 银壳白钻白胶带.jpg",
+              "url": "web-images/women-round/982/982/variant-c221a5764b64b5-73187b05d260.webp",
+              "thumb": "web-images/women-round/982/982/thumbnails/variant-c221a5764b64b5-e65695d2ba01.webp",
+              "raw": "银壳白钻白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白胶带",
+                "unresolvedText": "白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:982:262837ada50a",
+          "raw": "银壳白钻黑胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "黑胶带",
+            "unresolvedText": "白钻"
+          },
+          "image": {
+            "id": "41b03cd371d7b2",
+            "role": "variant",
+            "fileName": "银壳白钻黑胶带.jpg",
+            "width": 800,
+            "height": 800,
+            "remark": "women-round / 982 / 银壳白钻黑胶带.jpg",
+            "url": "web-images/women-round/982/982/variant-41b03cd371d7b2-d1e04f88ede7.webp",
+            "thumb": "web-images/women-round/982/982/thumbnails/variant-41b03cd371d7b2-8fd85a15c7b7.webp",
+            "raw": "银壳白钻黑胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "黑胶带",
+              "unresolvedText": "白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "41b03cd371d7b2",
+              "role": "variant",
+              "fileName": "银壳白钻黑胶带.jpg",
+              "width": 800,
+              "height": 800,
+              "remark": "women-round / 982 / 银壳白钻黑胶带.jpg",
+              "url": "web-images/women-round/982/982/variant-41b03cd371d7b2-d1e04f88ede7.webp",
+              "thumb": "web-images/women-round/982/982/thumbnails/variant-41b03cd371d7b2-8fd85a15c7b7.webp",
+              "raw": "银壳白钻黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "黑胶带",
+                "unresolvedText": "白钻"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1380
+}

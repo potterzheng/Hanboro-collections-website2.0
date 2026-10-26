@@ -1,0 +1,991 @@
+{
+  "id": "women-round-820",
+  "model": "820",
+  "title": "HB-820",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "820-1",
+  "images": {
+    "main": {
+      "id": "57c3d75f52601c",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 811,
+      "height": 1600,
+      "remark": "women-round / 820-1 / 产品主图_0.png",
+      "url": "web-images/women-round/820/820-1/main-57c3d75f52601c-b59384fc8fa5.webp",
+      "thumb": "web-images/women-round/820/820-1/thumbnails/main-57c3d75f52601c-699559b0c1c0.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:820-1",
+      "modelId": "women-round-820",
+      "model": "820",
+      "sku": "820-1",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1280,
+        "priceBasis": "list-price",
+        "caseSize": "34 mm",
+        "movement": "进口GN12石英机芯",
+        "thickness": "8 mm",
+        "strapWidth": "22 × 16 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢表壳镶嵌80粒水晶钻，圈口镶嵌38粒方形水晶钻，彰显时尚潮流。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀镶嵌246粒水晶钻表盘，超强夜光表针，日历显示。",
+          "进口GN12石英机芯，走时精准。",
+          "柔软牛皮表带，精钢双按蝴蝶表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "57c3d75f52601c",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 811,
+          "height": 1600,
+          "remark": "women-round / 820-1 / 产品主图_0.png",
+          "url": "web-images/women-round/820/820-1/main-57c3d75f52601c-b59384fc8fa5.webp",
+          "thumb": "web-images/women-round/820/820-1/thumbnails/main-57c3d75f52601c-699559b0c1c0.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:820-1:9c52562dfb98",
+          "raw": "玫瑰金壳绿条钉白钻白皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "白皮带",
+            "unresolvedText": "绿条钉白钻"
+          },
+          "image": {
+            "id": "c7ad6e5b51f580",
+            "role": "variant",
+            "fileName": "玫瑰金壳绿条钉白钻白皮带.jpg",
+            "width": 859,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻白皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-c7ad6e5b51f580-28ff3e4b001e.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-c7ad6e5b51f580-1dd34b3d9d2b.webp",
+            "raw": "玫瑰金壳绿条钉白钻白皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "白皮带",
+              "unresolvedText": "绿条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "c7ad6e5b51f580",
+              "role": "variant",
+              "fileName": "玫瑰金壳绿条钉白钻白皮带.jpg",
+              "width": 859,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻白皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-c7ad6e5b51f580-28ff3e4b001e.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-c7ad6e5b51f580-1dd34b3d9d2b.webp",
+              "raw": "玫瑰金壳绿条钉白钻白皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "白皮带",
+                "unresolvedText": "绿条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:30163b5539c4",
+          "raw": "玫瑰金壳绿条钉白钻粉皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "粉皮带",
+            "unresolvedText": "绿条钉白钻"
+          },
+          "image": {
+            "id": "041822284ca7f8",
+            "role": "variant",
+            "fileName": "玫瑰金壳绿条钉白钻粉皮带.jpg",
+            "width": 816,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻粉皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-041822284ca7f8-356402be9e12.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-041822284ca7f8-e46a8e6eb5d9.webp",
+            "raw": "玫瑰金壳绿条钉白钻粉皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "粉皮带",
+              "unresolvedText": "绿条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "041822284ca7f8",
+              "role": "variant",
+              "fileName": "玫瑰金壳绿条钉白钻粉皮带.jpg",
+              "width": 816,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻粉皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-041822284ca7f8-356402be9e12.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-041822284ca7f8-e46a8e6eb5d9.webp",
+              "raw": "玫瑰金壳绿条钉白钻粉皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "粉皮带",
+                "unresolvedText": "绿条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:2dc0e6e79aa2",
+          "raw": "玫瑰金壳绿条钉白钻紫皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "紫皮带",
+            "unresolvedText": "绿条钉白钻"
+          },
+          "image": {
+            "id": "32ddf1d082a275",
+            "role": "variant",
+            "fileName": "玫瑰金壳绿条钉白钻紫皮带.jpg",
+            "width": 840,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻紫皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-32ddf1d082a275-99659c3948d9.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-32ddf1d082a275-3b3e689e53fe.webp",
+            "raw": "玫瑰金壳绿条钉白钻紫皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "紫皮带",
+              "unresolvedText": "绿条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "32ddf1d082a275",
+              "role": "variant",
+              "fileName": "玫瑰金壳绿条钉白钻紫皮带.jpg",
+              "width": 840,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻紫皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-32ddf1d082a275-99659c3948d9.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-32ddf1d082a275-3b3e689e53fe.webp",
+              "raw": "玫瑰金壳绿条钉白钻紫皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "紫皮带",
+                "unresolvedText": "绿条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:c53a7324c405",
+          "raw": "玫瑰金壳绿条钉白钻黑皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑皮带",
+            "unresolvedText": "绿条钉白钻"
+          },
+          "image": {
+            "id": "ba9f78ef507e13",
+            "role": "variant",
+            "fileName": "玫瑰金壳绿条钉白钻黑皮带.jpg",
+            "width": 827,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻黑皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-ba9f78ef507e13-d447ff9ed560.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-ba9f78ef507e13-31d727665e7f.webp",
+            "raw": "玫瑰金壳绿条钉白钻黑皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑皮带",
+              "unresolvedText": "绿条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "ba9f78ef507e13",
+              "role": "variant",
+              "fileName": "玫瑰金壳绿条钉白钻黑皮带.jpg",
+              "width": 827,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 玫瑰金壳绿条钉白钻黑皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-ba9f78ef507e13-d447ff9ed560.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-ba9f78ef507e13-31d727665e7f.webp",
+              "raw": "玫瑰金壳绿条钉白钻黑皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑皮带",
+                "unresolvedText": "绿条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:14057575c149",
+          "raw": "玫瑰金壳蓝条钉白钻棕皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "棕皮带",
+            "unresolvedText": "蓝条钉白钻"
+          },
+          "image": {
+            "id": "c24cd8f20d39c7",
+            "role": "variant",
+            "fileName": "玫瑰金壳蓝条钉白钻棕皮带.jpg",
+            "width": 840,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 玫瑰金壳蓝条钉白钻棕皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-c24cd8f20d39c7-4e4241a6c93c.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-c24cd8f20d39c7-fcf6ccd78972.webp",
+            "raw": "玫瑰金壳蓝条钉白钻棕皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "棕皮带",
+              "unresolvedText": "蓝条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "c24cd8f20d39c7",
+              "role": "variant",
+              "fileName": "玫瑰金壳蓝条钉白钻棕皮带.jpg",
+              "width": 840,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 玫瑰金壳蓝条钉白钻棕皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-c24cd8f20d39c7-4e4241a6c93c.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-c24cd8f20d39c7-fcf6ccd78972.webp",
+              "raw": "玫瑰金壳蓝条钉白钻棕皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "棕皮带",
+                "unresolvedText": "蓝条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:3c3692a4f6e1",
+          "raw": "玫瑰金壳蓝条钉白钻白皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "白皮带",
+            "unresolvedText": "蓝条钉白钻"
+          },
+          "image": {
+            "id": "b16e6962eec5bc",
+            "role": "variant",
+            "fileName": "玫瑰金壳蓝条钉白钻白皮带.jpg",
+            "width": 760,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 玫瑰金壳蓝条钉白钻白皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-b16e6962eec5bc-2b5d1eb65c9f.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b16e6962eec5bc-39d808df814a.webp",
+            "raw": "玫瑰金壳蓝条钉白钻白皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "白皮带",
+              "unresolvedText": "蓝条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "b16e6962eec5bc",
+              "role": "variant",
+              "fileName": "玫瑰金壳蓝条钉白钻白皮带.jpg",
+              "width": 760,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 玫瑰金壳蓝条钉白钻白皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-b16e6962eec5bc-2b5d1eb65c9f.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b16e6962eec5bc-39d808df814a.webp",
+              "raw": "玫瑰金壳蓝条钉白钻白皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "白皮带",
+                "unresolvedText": "蓝条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:50ce06629b7c",
+          "raw": "玫瑰金壳蓝条钉白钻黑皮带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "黑皮带",
+            "unresolvedText": "蓝条钉白钻"
+          },
+          "image": {
+            "id": "b8545084ea33ef",
+            "role": "variant",
+            "fileName": "玫瑰金壳蓝条钉白钻黑皮带.jpg",
+            "width": 800,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 玫瑰金壳蓝条钉白钻黑皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-b8545084ea33ef-aa662777bf38.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b8545084ea33ef-9a32f17a82e3.webp",
+            "raw": "玫瑰金壳蓝条钉白钻黑皮带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "黑皮带",
+              "unresolvedText": "蓝条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "b8545084ea33ef",
+              "role": "variant",
+              "fileName": "玫瑰金壳蓝条钉白钻黑皮带.jpg",
+              "width": 800,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 玫瑰金壳蓝条钉白钻黑皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-b8545084ea33ef-aa662777bf38.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b8545084ea33ef-9a32f17a82e3.webp",
+              "raw": "玫瑰金壳蓝条钉白钻黑皮带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑皮带",
+                "unresolvedText": "蓝条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:5691e7ca1893",
+          "raw": "银壳紫条钉红钻紫皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "紫皮带",
+            "unresolvedText": "紫条钉红钻"
+          },
+          "image": {
+            "id": "691ddaf246036c",
+            "role": "variant",
+            "fileName": "银壳紫条钉红钻紫皮带.jpg",
+            "width": 840,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳紫条钉红钻紫皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-691ddaf246036c-52ef555943d5.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-691ddaf246036c-0c3d92c742fc.webp",
+            "raw": "银壳紫条钉红钻紫皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "紫皮带",
+              "unresolvedText": "紫条钉红钻"
+            }
+          },
+          "images": [
+            {
+              "id": "691ddaf246036c",
+              "role": "variant",
+              "fileName": "银壳紫条钉红钻紫皮带.jpg",
+              "width": 840,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳紫条钉红钻紫皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-691ddaf246036c-52ef555943d5.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-691ddaf246036c-0c3d92c742fc.webp",
+              "raw": "银壳紫条钉红钻紫皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "紫皮带",
+                "unresolvedText": "紫条钉红钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:8caf65330c6d",
+          "raw": "银壳绿条钉绿钻粉皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "粉皮带",
+            "unresolvedText": "绿条钉绿钻"
+          },
+          "image": {
+            "id": "0987856e8246c0",
+            "role": "variant",
+            "fileName": "银壳绿条钉绿钻粉皮带.jpg",
+            "width": 889,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳绿条钉绿钻粉皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-0987856e8246c0-0309de942c79.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-0987856e8246c0-8adf7946f86a.webp",
+            "raw": "银壳绿条钉绿钻粉皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "粉皮带",
+              "unresolvedText": "绿条钉绿钻"
+            }
+          },
+          "images": [
+            {
+              "id": "0987856e8246c0",
+              "role": "variant",
+              "fileName": "银壳绿条钉绿钻粉皮带.jpg",
+              "width": 889,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳绿条钉绿钻粉皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-0987856e8246c0-0309de942c79.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-0987856e8246c0-8adf7946f86a.webp",
+              "raw": "银壳绿条钉绿钻粉皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "粉皮带",
+                "unresolvedText": "绿条钉绿钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:bad2b235e6da",
+          "raw": "银壳绿条钉绿钻紫皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "紫皮带",
+            "unresolvedText": "绿条钉绿钻"
+          },
+          "image": {
+            "id": "e330177fe01655",
+            "role": "variant",
+            "fileName": "银壳绿条钉绿钻紫皮带.jpg",
+            "width": 917,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳绿条钉绿钻紫皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-e330177fe01655-ee794cf172e2.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-e330177fe01655-86a6e248cf06.webp",
+            "raw": "银壳绿条钉绿钻紫皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "紫皮带",
+              "unresolvedText": "绿条钉绿钻"
+            }
+          },
+          "images": [
+            {
+              "id": "e330177fe01655",
+              "role": "variant",
+              "fileName": "银壳绿条钉绿钻紫皮带.jpg",
+              "width": 917,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳绿条钉绿钻紫皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-e330177fe01655-ee794cf172e2.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-e330177fe01655-86a6e248cf06.webp",
+              "raw": "银壳绿条钉绿钻紫皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "紫皮带",
+                "unresolvedText": "绿条钉绿钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:1669a1caf382",
+          "raw": "银壳绿条钉绿钻绿皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "绿皮带",
+            "unresolvedText": "绿条钉绿钻"
+          },
+          "image": {
+            "id": "b243ff51147eb2",
+            "role": "variant",
+            "fileName": "银壳绿条钉绿钻绿皮带.jpg",
+            "width": 790,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳绿条钉绿钻绿皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-b243ff51147eb2-6713eba3d7ea.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b243ff51147eb2-e6659a2e0643.webp",
+            "raw": "银壳绿条钉绿钻绿皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "绿皮带",
+              "unresolvedText": "绿条钉绿钻"
+            }
+          },
+          "images": [
+            {
+              "id": "b243ff51147eb2",
+              "role": "variant",
+              "fileName": "银壳绿条钉绿钻绿皮带.jpg",
+              "width": 790,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳绿条钉绿钻绿皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-b243ff51147eb2-6713eba3d7ea.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b243ff51147eb2-e6659a2e0643.webp",
+              "raw": "银壳绿条钉绿钻绿皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "绿皮带",
+                "unresolvedText": "绿条钉绿钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:06d9543c26ef",
+          "raw": "银壳绿条钉绿钻黑皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "黑皮带",
+            "unresolvedText": "绿条钉绿钻"
+          },
+          "image": {
+            "id": "5b8b358dfa0111",
+            "role": "variant",
+            "fileName": "银壳绿条钉绿钻黑皮带.jpg",
+            "width": 819,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳绿条钉绿钻黑皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-5b8b358dfa0111-217c454d70fc.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-5b8b358dfa0111-a95856c5acf8.webp",
+            "raw": "银壳绿条钉绿钻黑皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "黑皮带",
+              "unresolvedText": "绿条钉绿钻"
+            }
+          },
+          "images": [
+            {
+              "id": "5b8b358dfa0111",
+              "role": "variant",
+              "fileName": "银壳绿条钉绿钻黑皮带.jpg",
+              "width": 819,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳绿条钉绿钻黑皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-5b8b358dfa0111-217c454d70fc.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-5b8b358dfa0111-a95856c5acf8.webp",
+              "raw": "银壳绿条钉绿钻黑皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "黑皮带",
+                "unresolvedText": "绿条钉绿钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:3c1066178415",
+          "raw": "银壳蓝条钉白钻棕皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "棕皮带",
+            "unresolvedText": "蓝条钉白钻"
+          },
+          "image": {
+            "id": "bc5a25c996a787",
+            "role": "variant",
+            "fileName": "银壳蓝条钉白钻棕皮带.jpg",
+            "width": 874,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳蓝条钉白钻棕皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-bc5a25c996a787-1e4426f7f61b.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-bc5a25c996a787-afa08aa943d9.webp",
+            "raw": "银壳蓝条钉白钻棕皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "棕皮带",
+              "unresolvedText": "蓝条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "bc5a25c996a787",
+              "role": "variant",
+              "fileName": "银壳蓝条钉白钻棕皮带.jpg",
+              "width": 874,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳蓝条钉白钻棕皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-bc5a25c996a787-1e4426f7f61b.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-bc5a25c996a787-afa08aa943d9.webp",
+              "raw": "银壳蓝条钉白钻棕皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "棕皮带",
+                "unresolvedText": "蓝条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:1d2e676eac59",
+          "raw": "银壳蓝条钉白钻白皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白皮带",
+            "unresolvedText": "蓝条钉白钻"
+          },
+          "image": {
+            "id": "b200678b3a09db",
+            "role": "variant",
+            "fileName": "银壳蓝条钉白钻白皮带.jpg",
+            "width": 817,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳蓝条钉白钻白皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-b200678b3a09db-3d0aeaf3a33d.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b200678b3a09db-22966e29da30.webp",
+            "raw": "银壳蓝条钉白钻白皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白皮带",
+              "unresolvedText": "蓝条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "b200678b3a09db",
+              "role": "variant",
+              "fileName": "银壳蓝条钉白钻白皮带.jpg",
+              "width": 817,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳蓝条钉白钻白皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-b200678b3a09db-3d0aeaf3a33d.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-b200678b3a09db-22966e29da30.webp",
+              "raw": "银壳蓝条钉白钻白皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白皮带",
+                "unresolvedText": "蓝条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:01e93e6d724c",
+          "raw": "银壳蓝条钉白钻黑皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "黑皮带",
+            "unresolvedText": "蓝条钉白钻"
+          },
+          "image": {
+            "id": "bfdbe090c8c951",
+            "role": "variant",
+            "fileName": "银壳蓝条钉白钻黑皮带.jpg",
+            "width": 837,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳蓝条钉白钻黑皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-bfdbe090c8c951-3d84440e5487.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-bfdbe090c8c951-77bba3487a0a.webp",
+            "raw": "银壳蓝条钉白钻黑皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "黑皮带",
+              "unresolvedText": "蓝条钉白钻"
+            }
+          },
+          "images": [
+            {
+              "id": "bfdbe090c8c951",
+              "role": "variant",
+              "fileName": "银壳蓝条钉白钻黑皮带.jpg",
+              "width": 837,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳蓝条钉白钻黑皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-bfdbe090c8c951-3d84440e5487.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-bfdbe090c8c951-77bba3487a0a.webp",
+              "raw": "银壳蓝条钉白钻黑皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "黑皮带",
+                "unresolvedText": "蓝条钉白钻"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-1:a468ae8474bd",
+          "raw": "银壳蓝条钉蓝钻黑皮带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "黑皮带",
+            "unresolvedText": "蓝条钉蓝钻"
+          },
+          "image": {
+            "id": "eeb0a9520145bb",
+            "role": "variant",
+            "fileName": "银壳蓝条钉蓝钻黑皮带.jpg",
+            "width": 769,
+            "height": 1600,
+            "remark": "women-round / 820-1 / 银壳蓝条钉蓝钻黑皮带.jpg",
+            "url": "web-images/women-round/820/820-1/variant-eeb0a9520145bb-9b1c12e85511.webp",
+            "thumb": "web-images/women-round/820/820-1/thumbnails/variant-eeb0a9520145bb-60539787fe38.webp",
+            "raw": "银壳蓝条钉蓝钻黑皮带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "黑皮带",
+              "unresolvedText": "蓝条钉蓝钻"
+            }
+          },
+          "images": [
+            {
+              "id": "eeb0a9520145bb",
+              "role": "variant",
+              "fileName": "银壳蓝条钉蓝钻黑皮带.jpg",
+              "width": 769,
+              "height": 1600,
+              "remark": "women-round / 820-1 / 银壳蓝条钉蓝钻黑皮带.jpg",
+              "url": "web-images/women-round/820/820-1/variant-eeb0a9520145bb-9b1c12e85511.webp",
+              "thumb": "web-images/women-round/820/820-1/thumbnails/variant-eeb0a9520145bb-60539787fe38.webp",
+              "raw": "银壳蓝条钉蓝钻黑皮带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "黑皮带",
+                "unresolvedText": "蓝条钉蓝钻"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:820-2",
+      "modelId": "women-round-820",
+      "model": "820",
+      "sku": "820-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 2080,
+        "priceBasis": "list-price",
+        "caseSize": "34 mm",
+        "movement": "进口GN12石英机芯",
+        "thickness": "8 mm",
+        "strapWidth": "22 × 16 mm",
+        "strapLength": "17 cm",
+        "waterResistance": "100 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢表壳镶嵌80粒水晶钻，圈口镶嵌38粒方形水晶钻，彰显时尚潮流。",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀镶嵌246粒水晶钻表盘，超强夜光表针，日历显示。",
+          "进口GN12石英机芯，走时精准。",
+          "304精钢钻石刀镶嵌584粒水晶钻表带，双按保险表扣，操作方便简单。",
+          "100米深度防水性能，日常洗手、下雨、游泳、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 100 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "6d2ad1b4ab9ef8",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 308,
+          "height": 601,
+          "remark": "women-round / 820-2 / 产品主图_0.png",
+          "url": "web-images/women-round/820/820-2/main-6d2ad1b4ab9ef8-c247748f754b.webp",
+          "thumb": "web-images/women-round/820/820-2/thumbnails/main-6d2ad1b4ab9ef8-395318c0e5a3.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:820-2:f973ef4d8b2d",
+          "raw": "银壳白钻蓝条钉白钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白钢带",
+            "unresolvedText": "白钻蓝条钉"
+          },
+          "image": {
+            "id": "4d63a938b44628",
+            "role": "variant",
+            "fileName": "银壳白钻蓝条钉白钢带.png",
+            "width": 564,
+            "height": 1136,
+            "remark": "women-round / 820-2 / 银壳白钻蓝条钉白钢带.png",
+            "url": "web-images/women-round/820/820-2/variant-4d63a938b44628-d93eb7f0d0d8.webp",
+            "thumb": "web-images/women-round/820/820-2/thumbnails/variant-4d63a938b44628-94b041fe5d53.webp",
+            "raw": "银壳白钻蓝条钉白钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白钢带",
+              "unresolvedText": "白钻蓝条钉"
+            }
+          },
+          "images": [
+            {
+              "id": "4d63a938b44628",
+              "role": "variant",
+              "fileName": "银壳白钻蓝条钉白钢带.png",
+              "width": 564,
+              "height": 1136,
+              "remark": "women-round / 820-2 / 银壳白钻蓝条钉白钢带.png",
+              "url": "web-images/women-round/820/820-2/variant-4d63a938b44628-d93eb7f0d0d8.webp",
+              "thumb": "web-images/women-round/820/820-2/thumbnails/variant-4d63a938b44628-94b041fe5d53.webp",
+              "raw": "银壳白钻蓝条钉白钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白钢带",
+                "unresolvedText": "白钻蓝条钉"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-2:33dd65ce7e4e",
+          "raw": "银壳粉钻红条钉银粉钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "粉钢带",
+            "unresolvedText": "粉钻红条钉银"
+          },
+          "image": {
+            "id": "493b0a91ffd8e5",
+            "role": "variant",
+            "fileName": "银壳粉钻红条钉银粉钢带.png",
+            "width": 601,
+            "height": 1149,
+            "remark": "women-round / 820-2 / 银壳粉钻红条钉银粉钢带.png",
+            "url": "web-images/women-round/820/820-2/variant-493b0a91ffd8e5-776982c8c981.webp",
+            "thumb": "web-images/women-round/820/820-2/thumbnails/variant-493b0a91ffd8e5-68f542a2f3f6.webp",
+            "raw": "银壳粉钻红条钉银粉钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "粉钢带",
+              "unresolvedText": "粉钻红条钉银"
+            }
+          },
+          "images": [
+            {
+              "id": "493b0a91ffd8e5",
+              "role": "variant",
+              "fileName": "银壳粉钻红条钉银粉钢带.png",
+              "width": 601,
+              "height": 1149,
+              "remark": "women-round / 820-2 / 银壳粉钻红条钉银粉钢带.png",
+              "url": "web-images/women-round/820/820-2/variant-493b0a91ffd8e5-776982c8c981.webp",
+              "thumb": "web-images/women-round/820/820-2/thumbnails/variant-493b0a91ffd8e5-68f542a2f3f6.webp",
+              "raw": "银壳粉钻红条钉银粉钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "粉钢带",
+                "unresolvedText": "粉钻红条钉银"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-2:7c530508a8f7",
+          "raw": "银壳绿钻绿条钉白绿钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "绿钢带",
+            "unresolvedText": "绿钻绿条钉白"
+          },
+          "image": {
+            "id": "41b35b6d72cf41",
+            "role": "variant",
+            "fileName": "银壳绿钻绿条钉白绿钢带.png",
+            "width": 585,
+            "height": 1178,
+            "remark": "women-round / 820-2 / 银壳绿钻绿条钉白绿钢带.png",
+            "url": "web-images/women-round/820/820-2/variant-41b35b6d72cf41-367d5ada795c.webp",
+            "thumb": "web-images/women-round/820/820-2/thumbnails/variant-41b35b6d72cf41-1428f9929a13.webp",
+            "raw": "银壳绿钻绿条钉白绿钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "绿钢带",
+              "unresolvedText": "绿钻绿条钉白"
+            }
+          },
+          "images": [
+            {
+              "id": "41b35b6d72cf41",
+              "role": "variant",
+              "fileName": "银壳绿钻绿条钉白绿钢带.png",
+              "width": 585,
+              "height": 1178,
+              "remark": "women-round / 820-2 / 银壳绿钻绿条钉白绿钢带.png",
+              "url": "web-images/women-round/820/820-2/variant-41b35b6d72cf41-367d5ada795c.webp",
+              "thumb": "web-images/women-round/820/820-2/thumbnails/variant-41b35b6d72cf41-1428f9929a13.webp",
+              "raw": "银壳绿钻绿条钉白绿钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "绿钢带",
+                "unresolvedText": "绿钻绿条钉白"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:820-2:86b4a4c105c2",
+          "raw": "银壳蓝钻蓝条钉白蓝钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "蓝钢带",
+            "unresolvedText": "蓝钻蓝条钉白"
+          },
+          "image": {
+            "id": "ee0effd9c73e13",
+            "role": "variant",
+            "fileName": "银壳蓝钻蓝条钉白蓝钢带.png",
+            "width": 566,
+            "height": 1159,
+            "remark": "women-round / 820-2 / 银壳蓝钻蓝条钉白蓝钢带.png",
+            "url": "web-images/women-round/820/820-2/variant-ee0effd9c73e13-c6f661d66008.webp",
+            "thumb": "web-images/women-round/820/820-2/thumbnails/variant-ee0effd9c73e13-13448bb4ab65.webp",
+            "raw": "银壳蓝钻蓝条钉白蓝钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "蓝钢带",
+              "unresolvedText": "蓝钻蓝条钉白"
+            }
+          },
+          "images": [
+            {
+              "id": "ee0effd9c73e13",
+              "role": "variant",
+              "fileName": "银壳蓝钻蓝条钉白蓝钢带.png",
+              "width": 566,
+              "height": 1159,
+              "remark": "women-round / 820-2 / 银壳蓝钻蓝条钉白蓝钢带.png",
+              "url": "web-images/women-round/820/820-2/variant-ee0effd9c73e13-c6f661d66008.webp",
+              "thumb": "web-images/women-round/820/820-2/thumbnails/variant-ee0effd9c73e13-13448bb4ab65.webp",
+              "raw": "银壳蓝钻蓝条钉白蓝钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "蓝钢带",
+                "unresolvedText": "蓝钻蓝条钉白"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1280
+}

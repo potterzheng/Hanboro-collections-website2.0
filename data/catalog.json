@@ -7145,12 +7145,12 @@
         "main": {
           "id": "6fcc6e4b416c3f",
           "role": "main",
-          "fileName": "923-1_产品图片.png",
-          "width": 172,
-          "height": 364,
-          "remark": "产品卡与详情页主图",
-          "url": "web-images/tonneau/923/923-1/main-main-6fcc6e4b416c3f-14100e0a5a05.webp",
-          "thumb": "web-images/tonneau/923/923-1/thumbnails/main-6fcc6e4b416c3f-660d28138fb3.webp"
+          "fileName": "产品主图.jpg",
+          "width": 686,
+          "height": 1600,
+          "remark": "tonneau / 923-1 / 产品主图.jpg",
+          "url": "web-images/tonneau/923/923-1/main-6fcc6e4b416c3f-44f1e7b5014d.webp",
+          "thumb": "web-images/tonneau/923/923-1/thumbnails/main-6fcc6e4b416c3f-60daed612bd9.webp"
         }
       },
       "products": [
@@ -7196,18 +7196,148 @@
             "main": {
               "id": "6fcc6e4b416c3f",
               "role": "main",
-              "fileName": "923-1_产品图片.png",
-              "width": 172,
-              "height": 364,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/tonneau/923/923-1/main-main-6fcc6e4b416c3f-14100e0a5a05.webp",
-              "thumb": "web-images/tonneau/923/923-1/thumbnails/main-6fcc6e4b416c3f-660d28138fb3.webp"
+              "fileName": "产品主图.jpg",
+              "width": 686,
+              "height": 1600,
+              "remark": "tonneau / 923-1 / 产品主图.jpg",
+              "url": "web-images/tonneau/923/923-1/main-6fcc6e4b416c3f-44f1e7b5014d.webp",
+              "thumb": "web-images/tonneau/923/923-1/thumbnails/main-6fcc6e4b416c3f-60daed612bd9.webp"
             },
             "packaging": [],
             "overview": [],
             "gallery": []
           },
-          "variants": []
+          "variants": [
+            {
+              "id": "tonneau:923-1:fca0dbb39068",
+              "raw": "玫瑰金壳红条红带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "红带",
+                "unresolvedText": "红条"
+              },
+              "image": {
+                "id": "5c61244c6c1ee4",
+                "role": "variant",
+                "fileName": "玫瑰金壳红条红带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "tonneau / 923-1 / 玫瑰金壳红条红带.jpg",
+                "url": "web-images/tonneau/923/923-1/variant-5c61244c6c1ee4-4010400982ba.webp",
+                "thumb": "web-images/tonneau/923/923-1/thumbnails/variant-5c61244c6c1ee4-75d2240e4b3f.webp",
+                "raw": "玫瑰金壳红条红带",
+                "attributes": {
+                  "caseColor": "玫瑰金壳",
+                  "strap": "红带",
+                  "unresolvedText": "红条"
+                }
+              },
+              "images": [
+                {
+                  "id": "5c61244c6c1ee4",
+                  "role": "variant",
+                  "fileName": "玫瑰金壳红条红带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "tonneau / 923-1 / 玫瑰金壳红条红带.jpg",
+                  "url": "web-images/tonneau/923/923-1/variant-5c61244c6c1ee4-4010400982ba.webp",
+                  "thumb": "web-images/tonneau/923/923-1/thumbnails/variant-5c61244c6c1ee4-75d2240e4b3f.webp",
+                  "raw": "玫瑰金壳红条红带",
+                  "attributes": {
+                    "caseColor": "玫瑰金壳",
+                    "strap": "红带",
+                    "unresolvedText": "红条"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:923-1:3b6670448709",
+              "raw": "玫瑰金壳红条黑带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑带",
+                "unresolvedText": "红条"
+              },
+              "image": {
+                "id": "3ff3d7b09d5999",
+                "role": "variant",
+                "fileName": "玫瑰金壳红条黑带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "tonneau / 923-1 / 玫瑰金壳红条黑带.jpg",
+                "url": "web-images/tonneau/923/923-1/variant-3ff3d7b09d5999-71ee7d1c30b8.webp",
+                "thumb": "web-images/tonneau/923/923-1/thumbnails/variant-3ff3d7b09d5999-3786bc7587f3.webp",
+                "raw": "玫瑰金壳红条黑带",
+                "attributes": {
+                  "caseColor": "玫瑰金壳",
+                  "strap": "黑带",
+                  "unresolvedText": "红条"
+                }
+              },
+              "images": [
+                {
+                  "id": "3ff3d7b09d5999",
+                  "role": "variant",
+                  "fileName": "玫瑰金壳红条黑带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "tonneau / 923-1 / 玫瑰金壳红条黑带.jpg",
+                  "url": "web-images/tonneau/923/923-1/variant-3ff3d7b09d5999-71ee7d1c30b8.webp",
+                  "thumb": "web-images/tonneau/923/923-1/thumbnails/variant-3ff3d7b09d5999-3786bc7587f3.webp",
+                  "raw": "玫瑰金壳红条黑带",
+                  "attributes": {
+                    "caseColor": "玫瑰金壳",
+                    "strap": "黑带",
+                    "unresolvedText": "红条"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:923-1:1878184fe48f",
+              "raw": "玫瑰金壳黑条黑带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑带",
+                "unresolvedText": "黑条"
+              },
+              "image": {
+                "id": "d2fe2ec1f4be59",
+                "role": "variant",
+                "fileName": "玫瑰金壳黑条黑带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "tonneau / 923-1 / 玫瑰金壳黑条黑带.jpg",
+                "url": "web-images/tonneau/923/923-1/variant-d2fe2ec1f4be59-684056599043.webp",
+                "thumb": "web-images/tonneau/923/923-1/thumbnails/variant-d2fe2ec1f4be59-3b6b830b2122.webp",
+                "raw": "玫瑰金壳黑条黑带",
+                "attributes": {
+                  "caseColor": "玫瑰金壳",
+                  "strap": "黑带",
+                  "unresolvedText": "黑条"
+                }
+              },
+              "images": [
+                {
+                  "id": "d2fe2ec1f4be59",
+                  "role": "variant",
+                  "fileName": "玫瑰金壳黑条黑带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "tonneau / 923-1 / 玫瑰金壳黑条黑带.jpg",
+                  "url": "web-images/tonneau/923/923-1/variant-d2fe2ec1f4be59-684056599043.webp",
+                  "thumb": "web-images/tonneau/923/923-1/thumbnails/variant-d2fe2ec1f4be59-3b6b830b2122.webp",
+                  "raw": "玫瑰金壳黑条黑带",
+                  "attributes": {
+                    "caseColor": "玫瑰金壳",
+                    "strap": "黑带",
+                    "unresolvedText": "黑条"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "tonneau:923-2",
@@ -7254,71 +7384,15 @@
               "fileName": "923-2_产品主图.png",
               "width": 290,
               "height": 510,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/tonneau/923/923-2/main-main-38bba909c9ea8e-2894c78221e8.webp",
-              "thumb": "web-images/tonneau/923/923-2/thumbnails/main-38bba909c9ea8e-c3df1c63347e.webp"
+              "remark": "tonneau / 923-2 / 923-2_产品主图.png",
+              "url": "web-images/tonneau/923/923-2/main-38bba909c9ea8e-030a8fc804e0.webp",
+              "thumb": "web-images/tonneau/923/923-2/thumbnails/main-38bba909c9ea8e-f54e9b8aeeb3.webp"
             },
             "packaging": [],
-            "overview": [
-              {
-                "id": "413bc87e37aca3",
-                "role": "overview",
-                "fileName": "产品总图.png",
-                "width": 1600,
-                "height": 1508,
-                "remark": "总体图片",
-                "url": "web-images/tonneau/923/923-2/overview-overview-413bc87e37aca3-599e41b21cbd.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/overview-413bc87e37aca3-6fcfbd03926d.webp"
-              }
-            ],
+            "overview": [],
             "gallery": []
           },
           "variants": [
-            {
-              "id": "tonneau:923-2:29f22904a99e",
-              "raw": "黑壳_白胶带_黑面",
-              "attributes": {
-                "caseColor": "黑壳",
-                "dial": "黑面",
-                "strap": "白胶带"
-              },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "1ed2e50baf30bd",
-                "role": "variant",
-                "fileName": "923-2_黑壳_白胶带_黑面.jpg",
-                "width": 532,
-                "height": 948,
-                "remark": "可选配色：黑壳_白胶带_黑面",
-                "raw": "黑壳_白胶带_黑面",
-                "attributes": {
-                  "caseColor": "黑壳",
-                  "dial": "黑面",
-                  "strap": "白胶带"
-                },
-                "url": "web-images/tonneau/923/923-2/variant-黑壳_白胶带_黑面-1ed2e50baf30bd-6c92bfc98968.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-1ed2e50baf30bd-7c3dbeba2254.webp"
-              },
-              "images": [
-                {
-                  "id": "1ed2e50baf30bd",
-                  "role": "variant",
-                  "fileName": "923-2_黑壳_白胶带_黑面.jpg",
-                  "width": 532,
-                  "height": 948,
-                  "remark": "可选配色：黑壳_白胶带_黑面",
-                  "raw": "黑壳_白胶带_黑面",
-                  "attributes": {
-                    "caseColor": "黑壳",
-                    "dial": "黑面",
-                    "strap": "白胶带"
-                  },
-                  "url": "web-images/tonneau/923/923-2/variant-黑壳_白胶带_黑面-1ed2e50baf30bd-6c92bfc98968.webp",
-                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-1ed2e50baf30bd-7c3dbeba2254.webp"
-                }
-              ]
-            },
             {
               "id": "tonneau:923-2:d1a25440605e",
               "raw": "黑壳_橙胶带_黑面",
@@ -7327,23 +7401,21 @@
                 "dial": "黑面",
                 "strap": "橙胶带"
               },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "349efe92e004c2",
                 "role": "variant",
                 "fileName": "923-2_黑壳_橙胶带_黑面.jpg",
                 "width": 532,
                 "height": 951,
-                "remark": "可选配色：黑壳_橙胶带_黑面",
+                "remark": "tonneau / 923-2 / 923-2_黑壳_橙胶带_黑面.jpg",
+                "url": "web-images/tonneau/923/923-2/variant-349efe92e004c2-d8bb522ac35f.webp",
+                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-349efe92e004c2-ecfaf543b91c.webp",
                 "raw": "黑壳_橙胶带_黑面",
                 "attributes": {
                   "caseColor": "黑壳",
                   "dial": "黑面",
                   "strap": "橙胶带"
-                },
-                "url": "web-images/tonneau/923/923-2/variant-黑壳_橙胶带_黑面-349efe92e004c2-8a5968ee7115.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-349efe92e004c2-b58100de875b.webp"
+                }
               },
               "images": [
                 {
@@ -7352,60 +7424,58 @@
                   "fileName": "923-2_黑壳_橙胶带_黑面.jpg",
                   "width": 532,
                   "height": 951,
-                  "remark": "可选配色：黑壳_橙胶带_黑面",
+                  "remark": "tonneau / 923-2 / 923-2_黑壳_橙胶带_黑面.jpg",
+                  "url": "web-images/tonneau/923/923-2/variant-349efe92e004c2-d8bb522ac35f.webp",
+                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-349efe92e004c2-ecfaf543b91c.webp",
                   "raw": "黑壳_橙胶带_黑面",
                   "attributes": {
                     "caseColor": "黑壳",
                     "dial": "黑面",
                     "strap": "橙胶带"
-                  },
-                  "url": "web-images/tonneau/923/923-2/variant-黑壳_橙胶带_黑面-349efe92e004c2-8a5968ee7115.webp",
-                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-349efe92e004c2-b58100de875b.webp"
+                  }
                 }
               ]
             },
             {
-              "id": "tonneau:923-2:1c2a870bf7d2",
-              "raw": "黑壳_黑胶带_黑面",
+              "id": "tonneau:923-2:29f22904a99e",
+              "raw": "黑壳_白胶带_黑面",
               "attributes": {
                 "caseColor": "黑壳",
                 "dial": "黑面",
-                "strap": "黑胶带"
+                "strap": "白胶带"
               },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
               "image": {
-                "id": "f38b4fd2bce625",
+                "id": "1ed2e50baf30bd",
                 "role": "variant",
-                "fileName": "923-2_黑壳_黑胶带_黑面.jpg",
-                "width": 534,
-                "height": 951,
-                "remark": "可选配色：黑壳_黑胶带_黑面",
-                "raw": "黑壳_黑胶带_黑面",
+                "fileName": "923-2_黑壳_白胶带_黑面.jpg",
+                "width": 532,
+                "height": 948,
+                "remark": "tonneau / 923-2 / 923-2_黑壳_白胶带_黑面.jpg",
+                "url": "web-images/tonneau/923/923-2/variant-1ed2e50baf30bd-2624c11ddcdb.webp",
+                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-1ed2e50baf30bd-441aadcd3922.webp",
+                "raw": "黑壳_白胶带_黑面",
                 "attributes": {
                   "caseColor": "黑壳",
                   "dial": "黑面",
-                  "strap": "黑胶带"
-                },
-                "url": "web-images/tonneau/923/923-2/variant-黑壳_黑胶带_黑面-f38b4fd2bce625-b31e5449c501.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-f38b4fd2bce625-333baff6ffa8.webp"
+                  "strap": "白胶带"
+                }
               },
               "images": [
                 {
-                  "id": "f38b4fd2bce625",
+                  "id": "1ed2e50baf30bd",
                   "role": "variant",
-                  "fileName": "923-2_黑壳_黑胶带_黑面.jpg",
-                  "width": 534,
-                  "height": 951,
-                  "remark": "可选配色：黑壳_黑胶带_黑面",
-                  "raw": "黑壳_黑胶带_黑面",
+                  "fileName": "923-2_黑壳_白胶带_黑面.jpg",
+                  "width": 532,
+                  "height": 948,
+                  "remark": "tonneau / 923-2 / 923-2_黑壳_白胶带_黑面.jpg",
+                  "url": "web-images/tonneau/923/923-2/variant-1ed2e50baf30bd-2624c11ddcdb.webp",
+                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-1ed2e50baf30bd-441aadcd3922.webp",
+                  "raw": "黑壳_白胶带_黑面",
                   "attributes": {
                     "caseColor": "黑壳",
                     "dial": "黑面",
-                    "strap": "黑胶带"
-                  },
-                  "url": "web-images/tonneau/923/923-2/variant-黑壳_黑胶带_黑面-f38b4fd2bce625-b31e5449c501.webp",
-                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-f38b4fd2bce625-333baff6ffa8.webp"
+                    "strap": "白胶带"
+                  }
                 }
               ]
             },
@@ -7417,23 +7487,21 @@
                 "dial": "黑面",
                 "strap": "红胶带"
               },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "14fd3c0230ed2d",
                 "role": "variant",
                 "fileName": "923-2_黑壳_红胶带_黑面.jpg",
                 "width": 532,
                 "height": 951,
-                "remark": "可选配色：黑壳_红胶带_黑面",
+                "remark": "tonneau / 923-2 / 923-2_黑壳_红胶带_黑面.jpg",
+                "url": "web-images/tonneau/923/923-2/variant-14fd3c0230ed2d-aa0c2eb12277.webp",
+                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-14fd3c0230ed2d-0fa3129dc4d8.webp",
                 "raw": "黑壳_红胶带_黑面",
                 "attributes": {
                   "caseColor": "黑壳",
                   "dial": "黑面",
                   "strap": "红胶带"
-                },
-                "url": "web-images/tonneau/923/923-2/variant-黑壳_红胶带_黑面-14fd3c0230ed2d-b5e30bedd1d2.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-14fd3c0230ed2d-6fb730102923.webp"
+                }
               },
               "images": [
                 {
@@ -7442,105 +7510,15 @@
                   "fileName": "923-2_黑壳_红胶带_黑面.jpg",
                   "width": 532,
                   "height": 951,
-                  "remark": "可选配色：黑壳_红胶带_黑面",
+                  "remark": "tonneau / 923-2 / 923-2_黑壳_红胶带_黑面.jpg",
+                  "url": "web-images/tonneau/923/923-2/variant-14fd3c0230ed2d-aa0c2eb12277.webp",
+                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-14fd3c0230ed2d-0fa3129dc4d8.webp",
                   "raw": "黑壳_红胶带_黑面",
                   "attributes": {
                     "caseColor": "黑壳",
                     "dial": "黑面",
                     "strap": "红胶带"
-                  },
-                  "url": "web-images/tonneau/923/923-2/variant-黑壳_红胶带_黑面-14fd3c0230ed2d-b5e30bedd1d2.webp",
-                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-14fd3c0230ed2d-6fb730102923.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:923-2:7ea4193ae34c",
-              "raw": "黑壳_黄胶带_黑面",
-              "attributes": {
-                "caseColor": "黑壳",
-                "dial": "黑面",
-                "strap": "黄胶带"
-              },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "69841c06d765a0",
-                "role": "variant",
-                "fileName": "923-2_黑壳_黄胶带_黑面.jpg",
-                "width": 534,
-                "height": 951,
-                "remark": "可选配色：黑壳_黄胶带_黑面",
-                "raw": "黑壳_黄胶带_黑面",
-                "attributes": {
-                  "caseColor": "黑壳",
-                  "dial": "黑面",
-                  "strap": "黄胶带"
-                },
-                "url": "web-images/tonneau/923/923-2/variant-黑壳_黄胶带_黑面-69841c06d765a0-6034f62b7a8c.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-69841c06d765a0-d944191f206f.webp"
-              },
-              "images": [
-                {
-                  "id": "69841c06d765a0",
-                  "role": "variant",
-                  "fileName": "923-2_黑壳_黄胶带_黑面.jpg",
-                  "width": 534,
-                  "height": 951,
-                  "remark": "可选配色：黑壳_黄胶带_黑面",
-                  "raw": "黑壳_黄胶带_黑面",
-                  "attributes": {
-                    "caseColor": "黑壳",
-                    "dial": "黑面",
-                    "strap": "黄胶带"
-                  },
-                  "url": "web-images/tonneau/923/923-2/variant-黑壳_黄胶带_黑面-69841c06d765a0-6034f62b7a8c.webp",
-                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-69841c06d765a0-d944191f206f.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:923-2:282592385d09",
-              "raw": "黑壳_蓝胶带_黑面",
-              "attributes": {
-                "caseColor": "黑壳",
-                "dial": "黑面",
-                "strap": "蓝胶带"
-              },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "8ef86111236c42",
-                "role": "variant",
-                "fileName": "923-2_黑壳_蓝胶带_黑面.jpg",
-                "width": 532,
-                "height": 951,
-                "remark": "可选配色：黑壳_蓝胶带_黑面",
-                "raw": "黑壳_蓝胶带_黑面",
-                "attributes": {
-                  "caseColor": "黑壳",
-                  "dial": "黑面",
-                  "strap": "蓝胶带"
-                },
-                "url": "web-images/tonneau/923/923-2/variant-黑壳_蓝胶带_黑面-8ef86111236c42-e451441c4aad.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-8ef86111236c42-854a50545533.webp"
-              },
-              "images": [
-                {
-                  "id": "8ef86111236c42",
-                  "role": "variant",
-                  "fileName": "923-2_黑壳_蓝胶带_黑面.jpg",
-                  "width": 532,
-                  "height": 951,
-                  "remark": "可选配色：黑壳_蓝胶带_黑面",
-                  "raw": "黑壳_蓝胶带_黑面",
-                  "attributes": {
-                    "caseColor": "黑壳",
-                    "dial": "黑面",
-                    "strap": "蓝胶带"
-                  },
-                  "url": "web-images/tonneau/923/923-2/variant-黑壳_蓝胶带_黑面-8ef86111236c42-e451441c4aad.webp",
-                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-8ef86111236c42-854a50545533.webp"
+                  }
                 }
               ]
             },
@@ -7552,23 +7530,21 @@
                 "dial": "黑面",
                 "strap": "绿胶带"
               },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "0f1a44d931641f",
                 "role": "variant",
                 "fileName": "923-2_黑壳_绿胶带_黑面.jpg",
                 "width": 532,
                 "height": 951,
-                "remark": "可选配色：黑壳_绿胶带_黑面",
+                "remark": "tonneau / 923-2 / 923-2_黑壳_绿胶带_黑面.jpg",
+                "url": "web-images/tonneau/923/923-2/variant-0f1a44d931641f-cb00626ead36.webp",
+                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-0f1a44d931641f-9486ef46f81a.webp",
                 "raw": "黑壳_绿胶带_黑面",
                 "attributes": {
                   "caseColor": "黑壳",
                   "dial": "黑面",
                   "strap": "绿胶带"
-                },
-                "url": "web-images/tonneau/923/923-2/variant-黑壳_绿胶带_黑面-0f1a44d931641f-10874419777c.webp",
-                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-0f1a44d931641f-a1457a56aaac.webp"
+                }
               },
               "images": [
                 {
@@ -7577,15 +7553,144 @@
                   "fileName": "923-2_黑壳_绿胶带_黑面.jpg",
                   "width": 532,
                   "height": 951,
-                  "remark": "可选配色：黑壳_绿胶带_黑面",
+                  "remark": "tonneau / 923-2 / 923-2_黑壳_绿胶带_黑面.jpg",
+                  "url": "web-images/tonneau/923/923-2/variant-0f1a44d931641f-cb00626ead36.webp",
+                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-0f1a44d931641f-9486ef46f81a.webp",
                   "raw": "黑壳_绿胶带_黑面",
                   "attributes": {
                     "caseColor": "黑壳",
                     "dial": "黑面",
                     "strap": "绿胶带"
-                  },
-                  "url": "web-images/tonneau/923/923-2/variant-黑壳_绿胶带_黑面-0f1a44d931641f-10874419777c.webp",
-                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-0f1a44d931641f-a1457a56aaac.webp"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:923-2:282592385d09",
+              "raw": "黑壳_蓝胶带_黑面",
+              "attributes": {
+                "caseColor": "黑壳",
+                "dial": "黑面",
+                "strap": "蓝胶带"
+              },
+              "image": {
+                "id": "8ef86111236c42",
+                "role": "variant",
+                "fileName": "923-2_黑壳_蓝胶带_黑面.jpg",
+                "width": 532,
+                "height": 951,
+                "remark": "tonneau / 923-2 / 923-2_黑壳_蓝胶带_黑面.jpg",
+                "url": "web-images/tonneau/923/923-2/variant-8ef86111236c42-8f5fd25c4f7a.webp",
+                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-8ef86111236c42-a8639a98edf8.webp",
+                "raw": "黑壳_蓝胶带_黑面",
+                "attributes": {
+                  "caseColor": "黑壳",
+                  "dial": "黑面",
+                  "strap": "蓝胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "8ef86111236c42",
+                  "role": "variant",
+                  "fileName": "923-2_黑壳_蓝胶带_黑面.jpg",
+                  "width": 532,
+                  "height": 951,
+                  "remark": "tonneau / 923-2 / 923-2_黑壳_蓝胶带_黑面.jpg",
+                  "url": "web-images/tonneau/923/923-2/variant-8ef86111236c42-8f5fd25c4f7a.webp",
+                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-8ef86111236c42-a8639a98edf8.webp",
+                  "raw": "黑壳_蓝胶带_黑面",
+                  "attributes": {
+                    "caseColor": "黑壳",
+                    "dial": "黑面",
+                    "strap": "蓝胶带"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:923-2:7ea4193ae34c",
+              "raw": "黑壳_黄胶带_黑面",
+              "attributes": {
+                "caseColor": "黑壳",
+                "dial": "黑面",
+                "unresolvedText": "黄胶带"
+              },
+              "image": {
+                "id": "69841c06d765a0",
+                "role": "variant",
+                "fileName": "923-2_黑壳_黄胶带_黑面.jpg",
+                "width": 534,
+                "height": 951,
+                "remark": "tonneau / 923-2 / 923-2_黑壳_黄胶带_黑面.jpg",
+                "url": "web-images/tonneau/923/923-2/variant-69841c06d765a0-d9ab33b74ead.webp",
+                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-69841c06d765a0-51da96bf5734.webp",
+                "raw": "黑壳_黄胶带_黑面",
+                "attributes": {
+                  "caseColor": "黑壳",
+                  "dial": "黑面",
+                  "unresolvedText": "黄胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "69841c06d765a0",
+                  "role": "variant",
+                  "fileName": "923-2_黑壳_黄胶带_黑面.jpg",
+                  "width": 534,
+                  "height": 951,
+                  "remark": "tonneau / 923-2 / 923-2_黑壳_黄胶带_黑面.jpg",
+                  "url": "web-images/tonneau/923/923-2/variant-69841c06d765a0-d9ab33b74ead.webp",
+                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-69841c06d765a0-51da96bf5734.webp",
+                  "raw": "黑壳_黄胶带_黑面",
+                  "attributes": {
+                    "caseColor": "黑壳",
+                    "dial": "黑面",
+                    "unresolvedText": "黄胶带"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:923-2:1c2a870bf7d2",
+              "raw": "黑壳_黑胶带_黑面",
+              "attributes": {
+                "caseColor": "黑壳",
+                "dial": "黑面",
+                "strap": "黑胶带"
+              },
+              "image": {
+                "id": "f38b4fd2bce625",
+                "role": "variant",
+                "fileName": "923-2_黑壳_黑胶带_黑面.jpg",
+                "width": 534,
+                "height": 951,
+                "remark": "tonneau / 923-2 / 923-2_黑壳_黑胶带_黑面.jpg",
+                "url": "web-images/tonneau/923/923-2/variant-f38b4fd2bce625-27d30fd53881.webp",
+                "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-f38b4fd2bce625-43c60632d10a.webp",
+                "raw": "黑壳_黑胶带_黑面",
+                "attributes": {
+                  "caseColor": "黑壳",
+                  "dial": "黑面",
+                  "strap": "黑胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "f38b4fd2bce625",
+                  "role": "variant",
+                  "fileName": "923-2_黑壳_黑胶带_黑面.jpg",
+                  "width": 534,
+                  "height": 951,
+                  "remark": "tonneau / 923-2 / 923-2_黑壳_黑胶带_黑面.jpg",
+                  "url": "web-images/tonneau/923/923-2/variant-f38b4fd2bce625-27d30fd53881.webp",
+                  "thumb": "web-images/tonneau/923/923-2/thumbnails/variant-f38b4fd2bce625-43c60632d10a.webp",
+                  "raw": "黑壳_黑胶带_黑面",
+                  "attributes": {
+                    "caseColor": "黑壳",
+                    "dial": "黑面",
+                    "strap": "黑胶带"
+                  }
                 }
               ]
             }
@@ -8017,9 +8122,9 @@
           "fileName": "927-2_产品主图.jpeg",
           "width": 509,
           "height": 738,
-          "remark": "产品卡与详情页主图",
-          "url": "web-images/tonneau/927/927-2/main-main-2f19292fc6c28d-6fe0a8e3a367.webp",
-          "thumb": "web-images/tonneau/927/927-2/thumbnails/main-2f19292fc6c28d-4fa1d523a1aa.webp"
+          "remark": "tonneau / 927-2 / 927-2_产品主图.jpeg",
+          "url": "web-images/tonneau/927/927-2/main-2f19292fc6c28d-015ebcef3980.webp",
+          "thumb": "web-images/tonneau/927/927-2/thumbnails/main-2f19292fc6c28d-d17704d15f30.webp"
         }
       },
       "products": [
@@ -8070,396 +8175,335 @@
               "fileName": "927-2_产品主图.jpeg",
               "width": 509,
               "height": 738,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/tonneau/927/927-2/main-main-2f19292fc6c28d-6fe0a8e3a367.webp",
-              "thumb": "web-images/tonneau/927/927-2/thumbnails/main-2f19292fc6c28d-4fa1d523a1aa.webp"
+              "remark": "tonneau / 927-2 / 927-2_产品主图.jpeg",
+              "url": "web-images/tonneau/927/927-2/main-2f19292fc6c28d-015ebcef3980.webp",
+              "thumb": "web-images/tonneau/927/927-2/thumbnails/main-2f19292fc6c28d-d17704d15f30.webp"
             },
             "packaging": [],
-            "overview": [
-              {
-                "id": "e6ee4a253e042f",
-                "role": "overview",
-                "fileName": "产品总图.jpg",
-                "width": 893,
-                "height": 1600,
-                "remark": "总体图片",
-                "url": "web-images/tonneau/927/927-2/overview-overview-e6ee4a253e042f-3056ea1c7d97.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/overview-e6ee4a253e042f-2ec72e40efbd.webp"
-              },
-              {
-                "id": "120c4d08d91ad0",
-                "role": "overview",
-                "fileName": "产品总图1.jpeg",
-                "width": 790,
-                "height": 1000,
-                "remark": "总体图片",
-                "url": "web-images/tonneau/927/927-2/overview-overview-120c4d08d91ad0-6e3fed43b76e.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/overview-120c4d08d91ad0-dff336110141.webp"
-              }
-            ],
+            "overview": [],
             "gallery": []
           },
           "variants": [
             {
-              "id": "tonneau:927-2:56b4458acf6d",
-              "raw": "白壳_白胶带_黑面",
+              "id": "tonneau:927-2:72dac668c23c",
+              "raw": "玫瑰金壳_红胶带",
               "attributes": {
-                "caseColor": "白壳",
-                "dial": "黑面",
-                "strap": "白胶带"
-              },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "83c23ddbd528dd",
-                "role": "variant",
-                "fileName": "927-2_白壳_白胶带_黑面.jpg",
-                "width": 278,
-                "height": 392,
-                "remark": "可选配色：白壳_白胶带_黑面",
-                "raw": "白壳_白胶带_黑面",
-                "attributes": {
-                  "caseColor": "白壳",
-                  "dial": "黑面",
-                  "strap": "白胶带"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-白壳_白胶带_黑面-83c23ddbd528dd-b7e12ce2438f.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-83c23ddbd528dd-1e8da2fe5ca5.webp"
-              },
-              "images": [
-                {
-                  "id": "83c23ddbd528dd",
-                  "role": "variant",
-                  "fileName": "927-2_白壳_白胶带_黑面.jpg",
-                  "width": 278,
-                  "height": 392,
-                  "remark": "可选配色：白壳_白胶带_黑面",
-                  "raw": "白壳_白胶带_黑面",
-                  "attributes": {
-                    "caseColor": "白壳",
-                    "dial": "黑面",
-                    "strap": "白胶带"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-白壳_白胶带_黑面-83c23ddbd528dd-b7e12ce2438f.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-83c23ddbd528dd-1e8da2fe5ca5.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:927-2:80671e84a1ce",
-              "raw": "白壳_黑胶带_黑面",
-              "attributes": {
-                "caseColor": "白壳",
-                "dial": "黑面",
-                "strap": "黑胶带"
-              },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "1040eb7c171299",
-                "role": "variant",
-                "fileName": "927-2_白壳_黑胶带_黑面.jpg",
-                "width": 278,
-                "height": 392,
-                "remark": "可选配色：白壳_黑胶带_黑面",
-                "raw": "白壳_黑胶带_黑面",
-                "attributes": {
-                  "caseColor": "白壳",
-                  "dial": "黑面",
-                  "strap": "黑胶带"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-白壳_黑胶带_黑面-1040eb7c171299-98558769c5d2.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-1040eb7c171299-359030232e04.webp"
-              },
-              "images": [
-                {
-                  "id": "1040eb7c171299",
-                  "role": "variant",
-                  "fileName": "927-2_白壳_黑胶带_黑面.jpg",
-                  "width": 278,
-                  "height": 392,
-                  "remark": "可选配色：白壳_黑胶带_黑面",
-                  "raw": "白壳_黑胶带_黑面",
-                  "attributes": {
-                    "caseColor": "白壳",
-                    "dial": "黑面",
-                    "strap": "黑胶带"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-白壳_黑胶带_黑面-1040eb7c171299-98558769c5d2.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-1040eb7c171299-359030232e04.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:927-2:8248ef6a2b62",
-              "raw": "白壳_红胶带_黑面",
-              "attributes": {
-                "caseColor": "白壳",
-                "dial": "黑面",
+                "caseColor": "玫瑰金壳",
                 "strap": "红胶带"
               },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
               "image": {
-                "id": "7223534b7ad373",
+                "id": "38614dfd08b23b",
                 "role": "variant",
-                "fileName": "927-2_白壳_红胶带_黑面.jpg",
-                "width": 278,
-                "height": 392,
-                "remark": "可选配色：白壳_红胶带_黑面",
-                "raw": "白壳_红胶带_黑面",
-                "attributes": {
-                  "caseColor": "白壳",
-                  "dial": "黑面",
-                  "strap": "红胶带"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-白壳_红胶带_黑面-7223534b7ad373-dc116c0c2768.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-7223534b7ad373-cb9b0d440fa5.webp"
-              },
-              "images": [
-                {
-                  "id": "7223534b7ad373",
-                  "role": "variant",
-                  "fileName": "927-2_白壳_红胶带_黑面.jpg",
-                  "width": 278,
-                  "height": 392,
-                  "remark": "可选配色：白壳_红胶带_黑面",
-                  "raw": "白壳_红胶带_黑面",
-                  "attributes": {
-                    "caseColor": "白壳",
-                    "dial": "黑面",
-                    "strap": "红胶带"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-白壳_红胶带_黑面-7223534b7ad373-dc116c0c2768.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-7223534b7ad373-cb9b0d440fa5.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:927-2:a83ec4cdc7f4",
-              "raw": "白壳_绿胶带_黑面",
-              "attributes": {
-                "caseColor": "白壳",
-                "dial": "黑面",
-                "strap": "绿胶带"
-              },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "8a9983851ed5ee",
-                "role": "variant",
-                "fileName": "927-2_白壳_绿胶带_黑面.jpg",
-                "width": 736,
-                "height": 1076,
-                "remark": "可选配色：白壳_绿胶带_黑面",
-                "raw": "白壳_绿胶带_黑面",
-                "attributes": {
-                  "caseColor": "白壳",
-                  "dial": "黑面",
-                  "strap": "绿胶带"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-白壳_绿胶带_黑面-8a9983851ed5ee-35d5856a398c.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-8a9983851ed5ee-9799046be2bb.webp"
-              },
-              "images": [
-                {
-                  "id": "8a9983851ed5ee",
-                  "role": "variant",
-                  "fileName": "927-2_白壳_绿胶带_黑面.jpg",
-                  "width": 736,
-                  "height": 1076,
-                  "remark": "可选配色：白壳_绿胶带_黑面",
-                  "raw": "白壳_绿胶带_黑面",
-                  "attributes": {
-                    "caseColor": "白壳",
-                    "dial": "黑面",
-                    "strap": "绿胶带"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-白壳_绿胶带_黑面-8a9983851ed5ee-35d5856a398c.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-8a9983851ed5ee-9799046be2bb.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:927-2:6c8c69927c49",
-              "raw": "白壳_浅蓝胶带_黑面",
-              "attributes": {
-                "caseColor": "白壳",
-                "dial": "黑面",
-                "strap": "浅蓝胶带"
-              },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "cbdb2c7e9df16f",
-                "role": "variant",
-                "fileName": "927-2_白壳_浅蓝胶带_黑面.jpg",
+                "fileName": "927-2_玫瑰金壳_红胶带.jpg",
                 "width": 735,
-                "height": 1076,
-                "remark": "可选配色：白壳_浅蓝胶带_黑面",
-                "raw": "白壳_浅蓝胶带_黑面",
-                "attributes": {
-                  "caseColor": "白壳",
-                  "dial": "黑面",
-                  "strap": "浅蓝胶带"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-白壳_浅蓝胶带_黑面-cbdb2c7e9df16f-52f5d5cd9d70.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-cbdb2c7e9df16f-67ff0a5cceaf.webp"
-              },
-              "images": [
-                {
-                  "id": "cbdb2c7e9df16f",
-                  "role": "variant",
-                  "fileName": "927-2_白壳_浅蓝胶带_黑面.jpg",
-                  "width": 735,
-                  "height": 1076,
-                  "remark": "可选配色：白壳_浅蓝胶带_黑面",
-                  "raw": "白壳_浅蓝胶带_黑面",
-                  "attributes": {
-                    "caseColor": "白壳",
-                    "dial": "黑面",
-                    "strap": "浅蓝胶带"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-白壳_浅蓝胶带_黑面-cbdb2c7e9df16f-52f5d5cd9d70.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-cbdb2c7e9df16f-67ff0a5cceaf.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:927-2:6291ba5503f1",
-              "raw": "玫瑰金壳_黑胶带_黑面",
-              "attributes": {
-                "caseColor": "玫瑰金壳",
-                "dial": "黑面",
-                "strap": "黑胶带"
-              },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "dc2d3d6d350b18",
-                "role": "variant",
-                "fileName": "927-2_玫瑰金壳_黑胶带_黑面.jpg",
-                "width": 278,
-                "height": 392,
-                "remark": "可选配色：玫瑰金壳_黑胶带_黑面",
-                "raw": "玫瑰金壳_黑胶带_黑面",
+                "height": 1075,
+                "remark": "tonneau / 927-2 / 927-2_玫瑰金壳_红胶带.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-38614dfd08b23b-d54e3e66e1d8.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-38614dfd08b23b-189e86f55185.webp",
+                "raw": "玫瑰金壳_红胶带",
                 "attributes": {
                   "caseColor": "玫瑰金壳",
-                  "dial": "黑面",
-                  "strap": "黑胶带"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-玫瑰金壳_黑胶带_黑面-dc2d3d6d350b18-10d66748d8ad.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-dc2d3d6d350b18-dd97a140d8b8.webp"
+                  "strap": "红胶带"
+                }
               },
               "images": [
                 {
-                  "id": "dc2d3d6d350b18",
+                  "id": "38614dfd08b23b",
                   "role": "variant",
-                  "fileName": "927-2_玫瑰金壳_黑胶带_黑面.jpg",
-                  "width": 278,
-                  "height": 392,
-                  "remark": "可选配色：玫瑰金壳_黑胶带_黑面",
-                  "raw": "玫瑰金壳_黑胶带_黑面",
+                  "fileName": "927-2_玫瑰金壳_红胶带.jpg",
+                  "width": 735,
+                  "height": 1075,
+                  "remark": "tonneau / 927-2 / 927-2_玫瑰金壳_红胶带.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-38614dfd08b23b-d54e3e66e1d8.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-38614dfd08b23b-189e86f55185.webp",
+                  "raw": "玫瑰金壳_红胶带",
                   "attributes": {
                     "caseColor": "玫瑰金壳",
-                    "dial": "黑面",
-                    "strap": "黑胶带"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-玫瑰金壳_黑胶带_黑面-dc2d3d6d350b18-10d66748d8ad.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-dc2d3d6d350b18-dd97a140d8b8.webp"
+                    "strap": "红胶带"
+                  }
                 }
               ]
             },
             {
-              "id": "tonneau:927-2:44e245178db5",
-              "raw": "玫瑰金壳_黑胶带_黑面_2",
+              "id": "tonneau:927-2:bf183f838b25",
+              "raw": "玫瑰金壳_黑胶带_2",
               "attributes": {
                 "caseColor": "玫瑰金壳",
-                "dial": "黑面",
                 "strap": "黑胶带",
                 "unresolvedText": "2"
               },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
               "image": {
-                "id": "4bd5cc69d102d6",
+                "id": "00c7db71d00b46",
                 "role": "variant",
-                "fileName": "927-2_玫瑰金壳_黑胶带_黑面_2.jpg",
+                "fileName": "927-2_玫瑰金壳_黑胶带_2.jpg",
                 "width": 736,
                 "height": 1075,
-                "remark": "可选配色：玫瑰金壳_黑胶带_黑面_2",
-                "raw": "玫瑰金壳_黑胶带_黑面_2",
+                "remark": "tonneau / 927-2 / 927-2_玫瑰金壳_黑胶带_2.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-00c7db71d00b46-d14b09c3416f.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-00c7db71d00b46-62b4088b417c.webp",
+                "raw": "玫瑰金壳_黑胶带_2",
                 "attributes": {
                   "caseColor": "玫瑰金壳",
-                  "dial": "黑面",
                   "strap": "黑胶带",
                   "unresolvedText": "2"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-玫瑰金壳_黑胶带_黑面_2-4bd5cc69d102d6-ec5dc1315a51.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-4bd5cc69d102d6-680dd77a0c93.webp"
+                }
               },
               "images": [
                 {
-                  "id": "4bd5cc69d102d6",
+                  "id": "00c7db71d00b46",
                   "role": "variant",
-                  "fileName": "927-2_玫瑰金壳_黑胶带_黑面_2.jpg",
+                  "fileName": "927-2_玫瑰金壳_黑胶带_2.jpg",
                   "width": 736,
                   "height": 1075,
-                  "remark": "可选配色：玫瑰金壳_黑胶带_黑面_2",
-                  "raw": "玫瑰金壳_黑胶带_黑面_2",
+                  "remark": "tonneau / 927-2 / 927-2_玫瑰金壳_黑胶带_2.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-00c7db71d00b46-d14b09c3416f.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-00c7db71d00b46-62b4088b417c.webp",
+                  "raw": "玫瑰金壳_黑胶带_2",
                   "attributes": {
                     "caseColor": "玫瑰金壳",
-                    "dial": "黑面",
                     "strap": "黑胶带",
                     "unresolvedText": "2"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-玫瑰金壳_黑胶带_黑面_2-4bd5cc69d102d6-ec5dc1315a51.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-4bd5cc69d102d6-680dd77a0c93.webp"
+                  }
                 }
               ]
             },
             {
-              "id": "tonneau:927-2:3c9600902632",
-              "raw": "玫瑰金壳_红胶带_黑面",
+              "id": "tonneau:927-2:db1a06fec885",
+              "raw": "白壳_浅蓝胶带",
               "attributes": {
-                "caseColor": "玫瑰金壳",
-                "dial": "黑面",
-                "strap": "红胶带"
+                "caseColor": "白壳",
+                "strap": "浅蓝胶带"
               },
-              "priceCny": 3580,
-              "priceSource": "sku-list-price",
               "image": {
-                "id": "8ddd27e368fa6b",
+                "id": "e91eea7f23d16c",
                 "role": "variant",
-                "fileName": "927-2_玫瑰金壳_红胶带_黑面.jpg",
+                "fileName": "927-2_白壳_浅蓝胶带.jpg",
                 "width": 735,
-                "height": 1075,
-                "remark": "可选配色：玫瑰金壳_红胶带_黑面",
-                "raw": "玫瑰金壳_红胶带_黑面",
+                "height": 1076,
+                "remark": "tonneau / 927-2 / 927-2_白壳_浅蓝胶带.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-e91eea7f23d16c-aff4206cbe11.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-e91eea7f23d16c-aa2b2bfc59de.webp",
+                "raw": "白壳_浅蓝胶带",
                 "attributes": {
-                  "caseColor": "玫瑰金壳",
-                  "dial": "黑面",
-                  "strap": "红胶带"
-                },
-                "url": "web-images/tonneau/927/927-2/variant-玫瑰金壳_红胶带_黑面-8ddd27e368fa6b-e81194834edd.webp",
-                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-8ddd27e368fa6b-af4928402db1.webp"
+                  "caseColor": "白壳",
+                  "strap": "浅蓝胶带"
+                }
               },
               "images": [
                 {
-                  "id": "8ddd27e368fa6b",
+                  "id": "e91eea7f23d16c",
                   "role": "variant",
-                  "fileName": "927-2_玫瑰金壳_红胶带_黑面.jpg",
+                  "fileName": "927-2_白壳_浅蓝胶带.jpg",
                   "width": 735,
-                  "height": 1075,
-                  "remark": "可选配色：玫瑰金壳_红胶带_黑面",
-                  "raw": "玫瑰金壳_红胶带_黑面",
+                  "height": 1076,
+                  "remark": "tonneau / 927-2 / 927-2_白壳_浅蓝胶带.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-e91eea7f23d16c-aff4206cbe11.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-e91eea7f23d16c-aa2b2bfc59de.webp",
+                  "raw": "白壳_浅蓝胶带",
+                  "attributes": {
+                    "caseColor": "白壳",
+                    "strap": "浅蓝胶带"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:927-2:449e8b2a9403",
+              "raw": "白壳_绿胶带",
+              "attributes": {
+                "caseColor": "白壳",
+                "strap": "绿胶带"
+              },
+              "image": {
+                "id": "98a2b39861b0a8",
+                "role": "variant",
+                "fileName": "927-2_白壳_绿胶带.jpg",
+                "width": 736,
+                "height": 1076,
+                "remark": "tonneau / 927-2 / 927-2_白壳_绿胶带.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-98a2b39861b0a8-3ffe1d6bf0ef.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-98a2b39861b0a8-463614b5f2a1.webp",
+                "raw": "白壳_绿胶带",
+                "attributes": {
+                  "caseColor": "白壳",
+                  "strap": "绿胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "98a2b39861b0a8",
+                  "role": "variant",
+                  "fileName": "927-2_白壳_绿胶带.jpg",
+                  "width": 736,
+                  "height": 1076,
+                  "remark": "tonneau / 927-2 / 927-2_白壳_绿胶带.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-98a2b39861b0a8-3ffe1d6bf0ef.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-98a2b39861b0a8-463614b5f2a1.webp",
+                  "raw": "白壳_绿胶带",
+                  "attributes": {
+                    "caseColor": "白壳",
+                    "strap": "绿胶带"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:927-2:4bbd33fa57cb",
+              "raw": "玫瑰金壳黑胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "黑胶带"
+              },
+              "image": {
+                "id": "451fc02bc7bee5",
+                "role": "variant",
+                "fileName": "927-2玫瑰金壳黑胶带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "tonneau / 927-2 / 927-2玫瑰金壳黑胶带.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-451fc02bc7bee5-918c3b8b0402.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-451fc02bc7bee5-5a919274ba93.webp",
+                "raw": "玫瑰金壳黑胶带",
+                "attributes": {
+                  "caseColor": "玫瑰金壳",
+                  "strap": "黑胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "451fc02bc7bee5",
+                  "role": "variant",
+                  "fileName": "927-2玫瑰金壳黑胶带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "tonneau / 927-2 / 927-2玫瑰金壳黑胶带.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-451fc02bc7bee5-918c3b8b0402.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-451fc02bc7bee5-5a919274ba93.webp",
+                  "raw": "玫瑰金壳黑胶带",
                   "attributes": {
                     "caseColor": "玫瑰金壳",
-                    "dial": "黑面",
+                    "strap": "黑胶带"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:927-2:01d308b734bd",
+              "raw": "银壳-黑胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "黑胶带"
+              },
+              "image": {
+                "id": "3d6821d6fe6d17",
+                "role": "variant",
+                "fileName": "927-2银壳-黑胶带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "tonneau / 927-2 / 927-2银壳-黑胶带.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-3d6821d6fe6d17-1f44290fabd2.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-3d6821d6fe6d17-8f6a0fe01441.webp",
+                "raw": "银壳-黑胶带",
+                "attributes": {
+                  "caseColor": "银壳",
+                  "strap": "黑胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "3d6821d6fe6d17",
+                  "role": "variant",
+                  "fileName": "927-2银壳-黑胶带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "tonneau / 927-2 / 927-2银壳-黑胶带.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-3d6821d6fe6d17-1f44290fabd2.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-3d6821d6fe6d17-8f6a0fe01441.webp",
+                  "raw": "银壳-黑胶带",
+                  "attributes": {
+                    "caseColor": "银壳",
+                    "strap": "黑胶带"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:927-2:bb08777da669",
+              "raw": "银壳白胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白胶带"
+              },
+              "image": {
+                "id": "b68bc2b556a83b",
+                "role": "variant",
+                "fileName": "927-2银壳白胶带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "tonneau / 927-2 / 927-2银壳白胶带.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-b68bc2b556a83b-74d4dfd995b5.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-b68bc2b556a83b-ea895821e584.webp",
+                "raw": "银壳白胶带",
+                "attributes": {
+                  "caseColor": "银壳",
+                  "strap": "白胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "b68bc2b556a83b",
+                  "role": "variant",
+                  "fileName": "927-2银壳白胶带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "tonneau / 927-2 / 927-2银壳白胶带.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-b68bc2b556a83b-74d4dfd995b5.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-b68bc2b556a83b-ea895821e584.webp",
+                  "raw": "银壳白胶带",
+                  "attributes": {
+                    "caseColor": "银壳",
+                    "strap": "白胶带"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:927-2:e590652df923",
+              "raw": "银壳红胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "红胶带"
+              },
+              "image": {
+                "id": "8be23b4f281937",
+                "role": "variant",
+                "fileName": "927-2银壳红胶带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "tonneau / 927-2 / 927-2银壳红胶带.jpg",
+                "url": "web-images/tonneau/927/927-2/variant-8be23b4f281937-4226ea625c10.webp",
+                "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-8be23b4f281937-26191a2fa424.webp",
+                "raw": "银壳红胶带",
+                "attributes": {
+                  "caseColor": "银壳",
+                  "strap": "红胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "8be23b4f281937",
+                  "role": "variant",
+                  "fileName": "927-2银壳红胶带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "tonneau / 927-2 / 927-2银壳红胶带.jpg",
+                  "url": "web-images/tonneau/927/927-2/variant-8be23b4f281937-4226ea625c10.webp",
+                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-8be23b4f281937-26191a2fa424.webp",
+                  "raw": "银壳红胶带",
+                  "attributes": {
+                    "caseColor": "银壳",
                     "strap": "红胶带"
-                  },
-                  "url": "web-images/tonneau/927/927-2/variant-玫瑰金壳_红胶带_黑面-8ddd27e368fa6b-e81194834edd.webp",
-                  "thumb": "web-images/tonneau/927/927-2/thumbnails/variant-8ddd27e368fa6b-af4928402db1.webp"
+                  }
                 }
               ]
             }
@@ -18707,9 +18751,9 @@
           "fileName": "991_产品图片.png",
           "width": 1017,
           "height": 1600,
-          "remark": "产品卡与详情页主图",
-          "url": "web-images/tonneau/991/991/main-main-069e554dcd8c27-ae41a537fbae.webp",
-          "thumb": "web-images/tonneau/991/991/thumbnails/main-069e554dcd8c27-788b27eb2381.webp"
+          "remark": "tonneau / 991 / 991_产品图片.png",
+          "url": "web-images/tonneau/991/991/main-069e554dcd8c27-fc5bad69f836.webp",
+          "thumb": "web-images/tonneau/991/991/thumbnails/main-069e554dcd8c27-4ce9953f969c.webp"
         }
       },
       "products": [
@@ -18759,284 +18803,36 @@
               "fileName": "991_产品图片.png",
               "width": 1017,
               "height": 1600,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/tonneau/991/991/main-main-069e554dcd8c27-ae41a537fbae.webp",
-              "thumb": "web-images/tonneau/991/991/thumbnails/main-069e554dcd8c27-788b27eb2381.webp"
+              "remark": "tonneau / 991 / 991_产品图片.png",
+              "url": "web-images/tonneau/991/991/main-069e554dcd8c27-fc5bad69f836.webp",
+              "thumb": "web-images/tonneau/991/991/thumbnails/main-069e554dcd8c27-4ce9953f969c.webp"
             },
             "packaging": [],
-            "overview": [
-              {
-                "id": "f6a9d6e86669db",
-                "role": "overview",
-                "fileName": "产品总图 (2).jpeg",
-                "width": 790,
-                "height": 985,
-                "remark": "总体图片",
-                "url": "web-images/tonneau/991/991/overview-overview-f6a9d6e86669db-8ed3aeec10fe.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/overview-f6a9d6e86669db-758543ba477b.webp"
-              },
-              {
-                "id": "0298a965774074",
-                "role": "overview",
-                "fileName": "产品总图.jpeg",
-                "width": 790,
-                "height": 1003,
-                "remark": "总体图片",
-                "url": "web-images/tonneau/991/991/overview-overview-0298a965774074-e06e55b8895f.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/overview-0298a965774074-4a52aa256276.webp"
-              },
-              {
-                "id": "d0acf78cd6871a",
-                "role": "overview",
-                "fileName": "产品总图2.jpeg",
-                "width": 790,
-                "height": 1307,
-                "remark": "总体图片",
-                "url": "web-images/tonneau/991/991/overview-overview-d0acf78cd6871a-a89d88b6d310.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/overview-d0acf78cd6871a-8a3098bfecb5.webp"
-              }
-            ],
+            "overview": [],
             "gallery": []
           },
           "variants": [
             {
-              "id": "tonneau:991:dbb6b000259f",
-              "raw": "黑纲壳黑带",
-              "attributes": {
-                "strap": "黑带",
-                "unresolvedText": "黑纲壳"
-              },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "960829abfbd8e3",
-                "role": "variant",
-                "fileName": "991黑纲壳黑带 (9).JPG",
-                "width": 800,
-                "height": 800,
-                "remark": "可选配色：黑纲壳黑带",
-                "raw": "黑纲壳黑带",
-                "attributes": {
-                  "strap": "黑带",
-                  "unresolvedText": "黑纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-黑纲壳黑带-960829abfbd8e3-d65dd559d7d3.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-960829abfbd8e3-a0637551786f.webp"
-              },
-              "images": [
-                {
-                  "id": "960829abfbd8e3",
-                  "role": "variant",
-                  "fileName": "991黑纲壳黑带 (9).JPG",
-                  "width": 800,
-                  "height": 800,
-                  "remark": "可选配色：黑纲壳黑带",
-                  "raw": "黑纲壳黑带",
-                  "attributes": {
-                    "strap": "黑带",
-                    "unresolvedText": "黑纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-黑纲壳黑带-960829abfbd8e3-d65dd559d7d3.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-960829abfbd8e3-a0637551786f.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:991:3becf11cfd63",
-              "raw": "黑纲壳红带",
-              "attributes": {
-                "strap": "红带",
-                "unresolvedText": "黑纲壳"
-              },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "68b6a72e53f76f",
-                "role": "variant",
-                "fileName": "991黑纲壳红带 (1).JPG",
-                "width": 800,
-                "height": 800,
-                "remark": "可选配色：黑纲壳红带",
-                "raw": "黑纲壳红带",
-                "attributes": {
-                  "strap": "红带",
-                  "unresolvedText": "黑纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-黑纲壳红带-68b6a72e53f76f-45f133d22d65.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-68b6a72e53f76f-66ff1791f85b.webp"
-              },
-              "images": [
-                {
-                  "id": "68b6a72e53f76f",
-                  "role": "variant",
-                  "fileName": "991黑纲壳红带 (1).JPG",
-                  "width": 800,
-                  "height": 800,
-                  "remark": "可选配色：黑纲壳红带",
-                  "raw": "黑纲壳红带",
-                  "attributes": {
-                    "strap": "红带",
-                    "unresolvedText": "黑纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-黑纲壳红带-68b6a72e53f76f-45f133d22d65.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-68b6a72e53f76f-66ff1791f85b.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:991:d8e4fd3dd1da",
-              "raw": "黑纲壳黄带",
-              "attributes": {
-                "strap": "黄带",
-                "unresolvedText": "黑纲壳"
-              },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "99f1e507a65742",
-                "role": "variant",
-                "fileName": "991黑纲壳黄带 (3).JPG",
-                "width": 800,
-                "height": 800,
-                "remark": "可选配色：黑纲壳黄带",
-                "raw": "黑纲壳黄带",
-                "attributes": {
-                  "strap": "黄带",
-                  "unresolvedText": "黑纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-黑纲壳黄带-99f1e507a65742-cf7fa280106b.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-99f1e507a65742-89ca949569e8.webp"
-              },
-              "images": [
-                {
-                  "id": "99f1e507a65742",
-                  "role": "variant",
-                  "fileName": "991黑纲壳黄带 (3).JPG",
-                  "width": 800,
-                  "height": 800,
-                  "remark": "可选配色：黑纲壳黄带",
-                  "raw": "黑纲壳黄带",
-                  "attributes": {
-                    "strap": "黄带",
-                    "unresolvedText": "黑纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-黑纲壳黄带-99f1e507a65742-cf7fa280106b.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-99f1e507a65742-89ca949569e8.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:991:0c9893fdde18",
-              "raw": "黑纲壳蓝带",
-              "attributes": {
-                "strap": "蓝带",
-                "unresolvedText": "黑纲壳"
-              },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "86d128bbebc638",
-                "role": "variant",
-                "fileName": "991黑纲壳蓝带 (2).JPG",
-                "width": 800,
-                "height": 800,
-                "remark": "可选配色：黑纲壳蓝带",
-                "raw": "黑纲壳蓝带",
-                "attributes": {
-                  "strap": "蓝带",
-                  "unresolvedText": "黑纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-黑纲壳蓝带-86d128bbebc638-32e700bc3628.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-86d128bbebc638-bae292d7f376.webp"
-              },
-              "images": [
-                {
-                  "id": "86d128bbebc638",
-                  "role": "variant",
-                  "fileName": "991黑纲壳蓝带 (2).JPG",
-                  "width": 800,
-                  "height": 800,
-                  "remark": "可选配色：黑纲壳蓝带",
-                  "raw": "黑纲壳蓝带",
-                  "attributes": {
-                    "strap": "蓝带",
-                    "unresolvedText": "黑纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-黑纲壳蓝带-86d128bbebc638-32e700bc3628.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-86d128bbebc638-bae292d7f376.webp"
-                }
-              ]
-            },
-            {
-              "id": "tonneau:991:5d29f489c996",
-              "raw": "玫瑰金纲壳黑带",
-              "attributes": {
-                "strap": "黑带",
-                "color": "玫瑰金",
-                "unresolvedText": "纲壳"
-              },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "4a38d2858e0ed8",
-                "role": "variant",
-                "fileName": "991玫瑰金纲壳黑带 (6).JPG",
-                "width": 800,
-                "height": 800,
-                "remark": "可选配色：玫瑰金纲壳黑带",
-                "raw": "玫瑰金纲壳黑带",
-                "attributes": {
-                  "strap": "黑带",
-                  "color": "玫瑰金",
-                  "unresolvedText": "纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-玫瑰金纲壳黑带-4a38d2858e0ed8-d858057d00ff.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-4a38d2858e0ed8-120f5c66f8ab.webp"
-              },
-              "images": [
-                {
-                  "id": "4a38d2858e0ed8",
-                  "role": "variant",
-                  "fileName": "991玫瑰金纲壳黑带 (6).JPG",
-                  "width": 800,
-                  "height": 800,
-                  "remark": "可选配色：玫瑰金纲壳黑带",
-                  "raw": "玫瑰金纲壳黑带",
-                  "attributes": {
-                    "strap": "黑带",
-                    "color": "玫瑰金",
-                    "unresolvedText": "纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-玫瑰金纲壳黑带-4a38d2858e0ed8-d858057d00ff.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-4a38d2858e0ed8-120f5c66f8ab.webp"
-                }
-              ]
-            },
-            {
               "id": "tonneau:991:8d079b8fce24",
-              "raw": "玫瑰金纲壳红带",
+              "raw": "玫瑰金纲壳红带 (4)",
               "attributes": {
                 "strap": "红带",
-                "color": "玫瑰金",
-                "unresolvedText": "纲壳"
+                "unresolvedText": "玫瑰金纲壳 (4)"
               },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "c9c55fcfb482cb",
                 "role": "variant",
                 "fileName": "991玫瑰金纲壳红带 (4).JPG",
                 "width": 800,
                 "height": 800,
-                "remark": "可选配色：玫瑰金纲壳红带",
-                "raw": "玫瑰金纲壳红带",
+                "remark": "tonneau / 991 / 991玫瑰金纲壳红带 (4).JPG",
+                "url": "web-images/tonneau/991/991/variant-c9c55fcfb482cb-6a716c6b3ff0.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-c9c55fcfb482cb-778e0e21f1db.webp",
+                "raw": "玫瑰金纲壳红带 (4)",
                 "attributes": {
                   "strap": "红带",
-                  "color": "玫瑰金",
-                  "unresolvedText": "纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-玫瑰金纲壳红带-c9c55fcfb482cb-b4522be99ecd.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-c9c55fcfb482cb-06aaaead4a30.webp"
+                  "unresolvedText": "玫瑰金纲壳 (4)"
+                }
               },
               "images": [
                 {
@@ -19045,43 +18841,38 @@
                   "fileName": "991玫瑰金纲壳红带 (4).JPG",
                   "width": 800,
                   "height": 800,
-                  "remark": "可选配色：玫瑰金纲壳红带",
-                  "raw": "玫瑰金纲壳红带",
+                  "remark": "tonneau / 991 / 991玫瑰金纲壳红带 (4).JPG",
+                  "url": "web-images/tonneau/991/991/variant-c9c55fcfb482cb-6a716c6b3ff0.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-c9c55fcfb482cb-778e0e21f1db.webp",
+                  "raw": "玫瑰金纲壳红带 (4)",
                   "attributes": {
                     "strap": "红带",
-                    "color": "玫瑰金",
-                    "unresolvedText": "纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-玫瑰金纲壳红带-c9c55fcfb482cb-b4522be99ecd.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-c9c55fcfb482cb-06aaaead4a30.webp"
+                    "unresolvedText": "玫瑰金纲壳 (4)"
+                  }
                 }
               ]
             },
             {
               "id": "tonneau:991:5b32a14f7ebb",
-              "raw": "玫瑰金纲壳蓝带",
+              "raw": "玫瑰金纲壳蓝带 (5)",
               "attributes": {
                 "strap": "蓝带",
-                "color": "玫瑰金",
-                "unresolvedText": "纲壳"
+                "unresolvedText": "玫瑰金纲壳 (5)"
               },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "3ee3bdef8d0749",
                 "role": "variant",
                 "fileName": "991玫瑰金纲壳蓝带 (5).JPG",
                 "width": 800,
                 "height": 800,
-                "remark": "可选配色：玫瑰金纲壳蓝带",
-                "raw": "玫瑰金纲壳蓝带",
+                "remark": "tonneau / 991 / 991玫瑰金纲壳蓝带 (5).JPG",
+                "url": "web-images/tonneau/991/991/variant-3ee3bdef8d0749-1e2ef8d9f693.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-3ee3bdef8d0749-7708e5485ef5.webp",
+                "raw": "玫瑰金纲壳蓝带 (5)",
                 "attributes": {
                   "strap": "蓝带",
-                  "color": "玫瑰金",
-                  "unresolvedText": "纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-玫瑰金纲壳蓝带-3ee3bdef8d0749-f5289de91f23.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-3ee3bdef8d0749-0e03120d9d68.webp"
+                  "unresolvedText": "玫瑰金纲壳 (5)"
+                }
               },
               "images": [
                 {
@@ -19090,41 +18881,118 @@
                   "fileName": "991玫瑰金纲壳蓝带 (5).JPG",
                   "width": 800,
                   "height": 800,
-                  "remark": "可选配色：玫瑰金纲壳蓝带",
-                  "raw": "玫瑰金纲壳蓝带",
+                  "remark": "tonneau / 991 / 991玫瑰金纲壳蓝带 (5).JPG",
+                  "url": "web-images/tonneau/991/991/variant-3ee3bdef8d0749-1e2ef8d9f693.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-3ee3bdef8d0749-7708e5485ef5.webp",
+                  "raw": "玫瑰金纲壳蓝带 (5)",
                   "attributes": {
                     "strap": "蓝带",
-                    "color": "玫瑰金",
-                    "unresolvedText": "纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-玫瑰金纲壳蓝带-3ee3bdef8d0749-f5289de91f23.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-3ee3bdef8d0749-0e03120d9d68.webp"
+                    "unresolvedText": "玫瑰金纲壳 (5)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:991:5d29f489c996",
+              "raw": "玫瑰金纲壳黑带 (6)",
+              "attributes": {
+                "strap": "黑带",
+                "unresolvedText": "玫瑰金纲壳 (6)"
+              },
+              "image": {
+                "id": "4a38d2858e0ed8",
+                "role": "variant",
+                "fileName": "991玫瑰金纲壳黑带 (6).JPG",
+                "width": 800,
+                "height": 800,
+                "remark": "tonneau / 991 / 991玫瑰金纲壳黑带 (6).JPG",
+                "url": "web-images/tonneau/991/991/variant-4a38d2858e0ed8-ec85b87678db.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-4a38d2858e0ed8-2fa7e3d939e4.webp",
+                "raw": "玫瑰金纲壳黑带 (6)",
+                "attributes": {
+                  "strap": "黑带",
+                  "unresolvedText": "玫瑰金纲壳 (6)"
+                }
+              },
+              "images": [
+                {
+                  "id": "4a38d2858e0ed8",
+                  "role": "variant",
+                  "fileName": "991玫瑰金纲壳黑带 (6).JPG",
+                  "width": 800,
+                  "height": 800,
+                  "remark": "tonneau / 991 / 991玫瑰金纲壳黑带 (6).JPG",
+                  "url": "web-images/tonneau/991/991/variant-4a38d2858e0ed8-ec85b87678db.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-4a38d2858e0ed8-2fa7e3d939e4.webp",
+                  "raw": "玫瑰金纲壳黑带 (6)",
+                  "attributes": {
+                    "strap": "黑带",
+                    "unresolvedText": "玫瑰金纲壳 (6)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:991:ed79a1682f36",
+              "raw": "银壳黄胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "unresolvedText": "黄胶带"
+              },
+              "image": {
+                "id": "8127006eaa9956",
+                "role": "variant",
+                "fileName": "991银壳黄胶带.png",
+                "width": 1200,
+                "height": 1200,
+                "remark": "tonneau / 991 / 991银壳黄胶带.png",
+                "url": "web-images/tonneau/991/991/variant-8127006eaa9956-dda7d00c8030.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-8127006eaa9956-9203594651df.webp",
+                "raw": "银壳黄胶带",
+                "attributes": {
+                  "caseColor": "银壳",
+                  "unresolvedText": "黄胶带"
+                }
+              },
+              "images": [
+                {
+                  "id": "8127006eaa9956",
+                  "role": "variant",
+                  "fileName": "991银壳黄胶带.png",
+                  "width": 1200,
+                  "height": 1200,
+                  "remark": "tonneau / 991 / 991银壳黄胶带.png",
+                  "url": "web-images/tonneau/991/991/variant-8127006eaa9956-dda7d00c8030.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-8127006eaa9956-9203594651df.webp",
+                  "raw": "银壳黄胶带",
+                  "attributes": {
+                    "caseColor": "银壳",
+                    "unresolvedText": "黄胶带"
+                  }
                 }
               ]
             },
             {
               "id": "tonneau:991:fb9ddd711b17",
-              "raw": "银纲壳白带",
+              "raw": "银纲壳白带 (10)",
               "attributes": {
                 "strap": "白带",
-                "unresolvedText": "银纲壳"
+                "unresolvedText": "银纲壳 (10)"
               },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "e547874aedfaa2",
                 "role": "variant",
                 "fileName": "991银纲壳白带 (10).JPG",
                 "width": 800,
                 "height": 800,
-                "remark": "可选配色：银纲壳白带",
-                "raw": "银纲壳白带",
+                "remark": "tonneau / 991 / 991银纲壳白带 (10).JPG",
+                "url": "web-images/tonneau/991/991/variant-e547874aedfaa2-549914fb258c.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-e547874aedfaa2-0e025ab9a54e.webp",
+                "raw": "银纲壳白带 (10)",
                 "attributes": {
                   "strap": "白带",
-                  "unresolvedText": "银纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-银纲壳白带-e547874aedfaa2-938eec79bc65.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-e547874aedfaa2-abec434726d5.webp"
+                  "unresolvedText": "银纲壳 (10)"
+                }
               },
               "images": [
                 {
@@ -19133,40 +19001,38 @@
                   "fileName": "991银纲壳白带 (10).JPG",
                   "width": 800,
                   "height": 800,
-                  "remark": "可选配色：银纲壳白带",
-                  "raw": "银纲壳白带",
+                  "remark": "tonneau / 991 / 991银纲壳白带 (10).JPG",
+                  "url": "web-images/tonneau/991/991/variant-e547874aedfaa2-549914fb258c.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-e547874aedfaa2-0e025ab9a54e.webp",
+                  "raw": "银纲壳白带 (10)",
                   "attributes": {
                     "strap": "白带",
-                    "unresolvedText": "银纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-银纲壳白带-e547874aedfaa2-938eec79bc65.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-e547874aedfaa2-abec434726d5.webp"
+                    "unresolvedText": "银纲壳 (10)"
+                  }
                 }
               ]
             },
             {
               "id": "tonneau:991:3e958dbc99a0",
-              "raw": "银纲壳红带",
+              "raw": "银纲壳红带 (7)",
               "attributes": {
                 "strap": "红带",
-                "unresolvedText": "银纲壳"
+                "unresolvedText": "银纲壳 (7)"
               },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "619997d3848580",
                 "role": "variant",
                 "fileName": "991银纲壳红带 (7).JPG",
                 "width": 800,
                 "height": 800,
-                "remark": "可选配色：银纲壳红带",
-                "raw": "银纲壳红带",
+                "remark": "tonneau / 991 / 991银纲壳红带 (7).JPG",
+                "url": "web-images/tonneau/991/991/variant-619997d3848580-466e2ef5bc53.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-619997d3848580-18396f2b5b9e.webp",
+                "raw": "银纲壳红带 (7)",
                 "attributes": {
                   "strap": "红带",
-                  "unresolvedText": "银纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-银纲壳红带-619997d3848580-31f2d45be6fa.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-619997d3848580-7182566c9260.webp"
+                  "unresolvedText": "银纲壳 (7)"
+                }
               },
               "images": [
                 {
@@ -19175,40 +19041,38 @@
                   "fileName": "991银纲壳红带 (7).JPG",
                   "width": 800,
                   "height": 800,
-                  "remark": "可选配色：银纲壳红带",
-                  "raw": "银纲壳红带",
+                  "remark": "tonneau / 991 / 991银纲壳红带 (7).JPG",
+                  "url": "web-images/tonneau/991/991/variant-619997d3848580-466e2ef5bc53.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-619997d3848580-18396f2b5b9e.webp",
+                  "raw": "银纲壳红带 (7)",
                   "attributes": {
                     "strap": "红带",
-                    "unresolvedText": "银纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-银纲壳红带-619997d3848580-31f2d45be6fa.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-619997d3848580-7182566c9260.webp"
+                    "unresolvedText": "银纲壳 (7)"
+                  }
                 }
               ]
             },
             {
               "id": "tonneau:991:993cea73b74e",
-              "raw": "银纲壳蓝带",
+              "raw": "银纲壳蓝带 (8)",
               "attributes": {
                 "strap": "蓝带",
-                "unresolvedText": "银纲壳"
+                "unresolvedText": "银纲壳 (8)"
               },
-              "priceCny": 3180,
-              "priceSource": "sku-list-price",
               "image": {
                 "id": "3771130e9360bd",
                 "role": "variant",
                 "fileName": "991银纲壳蓝带 (8).JPG",
                 "width": 800,
                 "height": 800,
-                "remark": "可选配色：银纲壳蓝带",
-                "raw": "银纲壳蓝带",
+                "remark": "tonneau / 991 / 991银纲壳蓝带 (8).JPG",
+                "url": "web-images/tonneau/991/991/variant-3771130e9360bd-4b9bedea1707.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-3771130e9360bd-082c8f588ee5.webp",
+                "raw": "银纲壳蓝带 (8)",
                 "attributes": {
                   "strap": "蓝带",
-                  "unresolvedText": "银纲壳"
-                },
-                "url": "web-images/tonneau/991/991/variant-银纲壳蓝带-3771130e9360bd-5cdea9996b45.webp",
-                "thumb": "web-images/tonneau/991/991/thumbnails/variant-3771130e9360bd-cf07cd2b5fce.webp"
+                  "unresolvedText": "银纲壳 (8)"
+                }
               },
               "images": [
                 {
@@ -19217,14 +19081,171 @@
                   "fileName": "991银纲壳蓝带 (8).JPG",
                   "width": 800,
                   "height": 800,
-                  "remark": "可选配色：银纲壳蓝带",
-                  "raw": "银纲壳蓝带",
+                  "remark": "tonneau / 991 / 991银纲壳蓝带 (8).JPG",
+                  "url": "web-images/tonneau/991/991/variant-3771130e9360bd-4b9bedea1707.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-3771130e9360bd-082c8f588ee5.webp",
+                  "raw": "银纲壳蓝带 (8)",
                   "attributes": {
                     "strap": "蓝带",
-                    "unresolvedText": "银纲壳"
-                  },
-                  "url": "web-images/tonneau/991/991/variant-银纲壳蓝带-3771130e9360bd-5cdea9996b45.webp",
-                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-3771130e9360bd-cf07cd2b5fce.webp"
+                    "unresolvedText": "银纲壳 (8)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:991:3becf11cfd63",
+              "raw": "黑纲壳红带 (1)",
+              "attributes": {
+                "strap": "红带",
+                "unresolvedText": "黑纲壳 (1)"
+              },
+              "image": {
+                "id": "68b6a72e53f76f",
+                "role": "variant",
+                "fileName": "991黑纲壳红带 (1).JPG",
+                "width": 800,
+                "height": 800,
+                "remark": "tonneau / 991 / 991黑纲壳红带 (1).JPG",
+                "url": "web-images/tonneau/991/991/variant-68b6a72e53f76f-80e58e16d5e1.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-68b6a72e53f76f-2d153df95c1c.webp",
+                "raw": "黑纲壳红带 (1)",
+                "attributes": {
+                  "strap": "红带",
+                  "unresolvedText": "黑纲壳 (1)"
+                }
+              },
+              "images": [
+                {
+                  "id": "68b6a72e53f76f",
+                  "role": "variant",
+                  "fileName": "991黑纲壳红带 (1).JPG",
+                  "width": 800,
+                  "height": 800,
+                  "remark": "tonneau / 991 / 991黑纲壳红带 (1).JPG",
+                  "url": "web-images/tonneau/991/991/variant-68b6a72e53f76f-80e58e16d5e1.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-68b6a72e53f76f-2d153df95c1c.webp",
+                  "raw": "黑纲壳红带 (1)",
+                  "attributes": {
+                    "strap": "红带",
+                    "unresolvedText": "黑纲壳 (1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:991:0c9893fdde18",
+              "raw": "黑纲壳蓝带 (2)",
+              "attributes": {
+                "strap": "蓝带",
+                "unresolvedText": "黑纲壳 (2)"
+              },
+              "image": {
+                "id": "86d128bbebc638",
+                "role": "variant",
+                "fileName": "991黑纲壳蓝带 (2).JPG",
+                "width": 800,
+                "height": 800,
+                "remark": "tonneau / 991 / 991黑纲壳蓝带 (2).JPG",
+                "url": "web-images/tonneau/991/991/variant-86d128bbebc638-ce88dcd0f5a6.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-86d128bbebc638-9bcc0fc954ce.webp",
+                "raw": "黑纲壳蓝带 (2)",
+                "attributes": {
+                  "strap": "蓝带",
+                  "unresolvedText": "黑纲壳 (2)"
+                }
+              },
+              "images": [
+                {
+                  "id": "86d128bbebc638",
+                  "role": "variant",
+                  "fileName": "991黑纲壳蓝带 (2).JPG",
+                  "width": 800,
+                  "height": 800,
+                  "remark": "tonneau / 991 / 991黑纲壳蓝带 (2).JPG",
+                  "url": "web-images/tonneau/991/991/variant-86d128bbebc638-ce88dcd0f5a6.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-86d128bbebc638-9bcc0fc954ce.webp",
+                  "raw": "黑纲壳蓝带 (2)",
+                  "attributes": {
+                    "strap": "蓝带",
+                    "unresolvedText": "黑纲壳 (2)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:991:d8e4fd3dd1da",
+              "raw": "黑纲壳黄带 (3)",
+              "attributes": {
+                "unresolvedText": "黑纲壳黄带 (3)"
+              },
+              "image": {
+                "id": "99f1e507a65742",
+                "role": "variant",
+                "fileName": "991黑纲壳黄带 (3).JPG",
+                "width": 800,
+                "height": 800,
+                "remark": "tonneau / 991 / 991黑纲壳黄带 (3).JPG",
+                "url": "web-images/tonneau/991/991/variant-99f1e507a65742-fd2bfec74cd8.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-99f1e507a65742-0d3d5324d1cc.webp",
+                "raw": "黑纲壳黄带 (3)",
+                "attributes": {
+                  "unresolvedText": "黑纲壳黄带 (3)"
+                }
+              },
+              "images": [
+                {
+                  "id": "99f1e507a65742",
+                  "role": "variant",
+                  "fileName": "991黑纲壳黄带 (3).JPG",
+                  "width": 800,
+                  "height": 800,
+                  "remark": "tonneau / 991 / 991黑纲壳黄带 (3).JPG",
+                  "url": "web-images/tonneau/991/991/variant-99f1e507a65742-fd2bfec74cd8.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-99f1e507a65742-0d3d5324d1cc.webp",
+                  "raw": "黑纲壳黄带 (3)",
+                  "attributes": {
+                    "unresolvedText": "黑纲壳黄带 (3)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "tonneau:991:dbb6b000259f",
+              "raw": "黑纲壳黑带 (9)",
+              "attributes": {
+                "strap": "黑带",
+                "unresolvedText": "黑纲壳 (9)"
+              },
+              "image": {
+                "id": "960829abfbd8e3",
+                "role": "variant",
+                "fileName": "991黑纲壳黑带 (9).JPG",
+                "width": 800,
+                "height": 800,
+                "remark": "tonneau / 991 / 991黑纲壳黑带 (9).JPG",
+                "url": "web-images/tonneau/991/991/variant-960829abfbd8e3-81cc7b5b099f.webp",
+                "thumb": "web-images/tonneau/991/991/thumbnails/variant-960829abfbd8e3-6efe4a7b7223.webp",
+                "raw": "黑纲壳黑带 (9)",
+                "attributes": {
+                  "strap": "黑带",
+                  "unresolvedText": "黑纲壳 (9)"
+                }
+              },
+              "images": [
+                {
+                  "id": "960829abfbd8e3",
+                  "role": "variant",
+                  "fileName": "991黑纲壳黑带 (9).JPG",
+                  "width": 800,
+                  "height": 800,
+                  "remark": "tonneau / 991 / 991黑纲壳黑带 (9).JPG",
+                  "url": "web-images/tonneau/991/991/variant-960829abfbd8e3-81cc7b5b099f.webp",
+                  "thumb": "web-images/tonneau/991/991/thumbnails/variant-960829abfbd8e3-6efe4a7b7223.webp",
+                  "raw": "黑纲壳黑带 (9)",
+                  "attributes": {
+                    "strap": "黑带",
+                    "unresolvedText": "黑纲壳 (9)"
+                  }
                 }
               ]
             }
@@ -26304,12 +26325,12 @@
         "main": {
           "id": "5c7f7740b7bcc3",
           "role": "main",
-          "fileName": "产品主图.png",
-          "width": 167,
-          "height": 283,
-          "remark": "产品卡与详情页主图",
-          "url": "web-images/round/718/718G/main-main-5c7f7740b7bcc3-d25a34d99725.webp",
-          "thumb": "web-images/round/718/718G/thumbnails/main-5c7f7740b7bcc3-8ba41a392c19.webp"
+          "fileName": "产品主图.jpg",
+          "width": 940,
+          "height": 1600,
+          "remark": "round / 718G / 产品主图.jpg",
+          "url": "web-images/round/718/718G/main-5c7f7740b7bcc3-be6ae9d5045b.webp",
+          "thumb": "web-images/round/718/718G/thumbnails/main-5c7f7740b7bcc3-c0f13ad52f75.webp"
         }
       },
       "products": [
@@ -26355,12 +26376,12 @@
             "main": {
               "id": "5c7f7740b7bcc3",
               "role": "main",
-              "fileName": "产品主图.png",
-              "width": 167,
-              "height": 283,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/round/718/718G/main-main-5c7f7740b7bcc3-d25a34d99725.webp",
-              "thumb": "web-images/round/718/718G/thumbnails/main-5c7f7740b7bcc3-8ba41a392c19.webp"
+              "fileName": "产品主图.jpg",
+              "width": 940,
+              "height": 1600,
+              "remark": "round / 718G / 产品主图.jpg",
+              "url": "web-images/round/718/718G/main-5c7f7740b7bcc3-be6ae9d5045b.webp",
+              "thumb": "web-images/round/718/718G/thumbnails/main-5c7f7740b7bcc3-c0f13ad52f75.webp"
             },
             "packaging": [],
             "overview": [],
@@ -26368,47 +26389,42 @@
           },
           "variants": [
             {
-              "id": "round:718G:e15b9c4b701d",
+              "id": "round:718G:14ca94509444",
               "raw": "间金壳间金纲带",
               "attributes": {
-                "caseColor": "金壳",
-                "strap": "金纲带",
-                "unresolvedText": "间间"
+                "caseColor": "间金壳",
+                "strap": "间金纲带"
               },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
               "image": {
-                "id": "2c102b8aedd916",
+                "id": "4d6ff0db48d2dd",
                 "role": "variant",
-                "fileName": "间金壳间金纲带.png",
-                "width": 255,
-                "height": 383,
-                "remark": "可选配色：间金壳间金纲带",
+                "fileName": "间金壳间金纲带.jpg",
+                "width": 893,
+                "height": 1600,
+                "remark": "round / 718G / 间金壳间金纲带.jpg",
+                "url": "web-images/round/718/718G/variant-4d6ff0db48d2dd-fdacee38ef98.webp",
+                "thumb": "web-images/round/718/718G/thumbnails/variant-4d6ff0db48d2dd-ec4fd6620332.webp",
                 "raw": "间金壳间金纲带",
                 "attributes": {
-                  "caseColor": "金壳",
-                  "strap": "金纲带",
-                  "unresolvedText": "间间"
-                },
-                "url": "web-images/round/718/718G/variant-间金壳间金纲带-2c102b8aedd916-15e791574ede.webp",
-                "thumb": "web-images/round/718/718G/thumbnails/variant-2c102b8aedd916-fc369011e5c5.webp"
+                  "caseColor": "间金壳",
+                  "strap": "间金纲带"
+                }
               },
               "images": [
                 {
-                  "id": "2c102b8aedd916",
+                  "id": "4d6ff0db48d2dd",
                   "role": "variant",
-                  "fileName": "间金壳间金纲带.png",
-                  "width": 255,
-                  "height": 383,
-                  "remark": "可选配色：间金壳间金纲带",
+                  "fileName": "间金壳间金纲带.jpg",
+                  "width": 893,
+                  "height": 1600,
+                  "remark": "round / 718G / 间金壳间金纲带.jpg",
+                  "url": "web-images/round/718/718G/variant-4d6ff0db48d2dd-fdacee38ef98.webp",
+                  "thumb": "web-images/round/718/718G/thumbnails/variant-4d6ff0db48d2dd-ec4fd6620332.webp",
                   "raw": "间金壳间金纲带",
                   "attributes": {
-                    "caseColor": "金壳",
-                    "strap": "金纲带",
-                    "unresolvedText": "间间"
-                  },
-                  "url": "web-images/round/718/718G/variant-间金壳间金纲带-2c102b8aedd916-15e791574ede.webp",
-                  "thumb": "web-images/round/718/718G/thumbnails/variant-2c102b8aedd916-fc369011e5c5.webp"
+                    "caseColor": "间金壳",
+                    "strap": "间金纲带"
+                  }
                 }
               ]
             }
@@ -27280,12 +27296,12 @@
         "main": {
           "id": "634aa25ff7cd46",
           "role": "main",
-          "fileName": "产品主图_0.png",
-          "width": 1013,
-          "height": 1436,
-          "remark": "产品卡与详情页主图",
-          "url": "web-images/round/751/751/main-main-634aa25ff7cd46-17ff83361a87.webp",
-          "thumb": "web-images/round/751/751/thumbnails/main-634aa25ff7cd46-28cba8893da5.webp"
+          "fileName": "产品主图.png",
+          "width": 416,
+          "height": 695,
+          "remark": "round / 751 / 产品主图.png",
+          "url": "web-images/round/751/751/main-634aa25ff7cd46-1b42d48fa5df.webp",
+          "thumb": "web-images/round/751/751/thumbnails/main-634aa25ff7cd46-c40d9e016904.webp"
         }
       },
       "products": [
@@ -27335,206 +27351,58 @@
             "main": {
               "id": "634aa25ff7cd46",
               "role": "main",
-              "fileName": "产品主图_0.png",
-              "width": 1013,
-              "height": 1436,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/round/751/751/main-main-634aa25ff7cd46-17ff83361a87.webp",
-              "thumb": "web-images/round/751/751/thumbnails/main-634aa25ff7cd46-28cba8893da5.webp"
+              "fileName": "产品主图.png",
+              "width": 416,
+              "height": 695,
+              "remark": "round / 751 / 产品主图.png",
+              "url": "web-images/round/751/751/main-634aa25ff7cd46-1b42d48fa5df.webp",
+              "thumb": "web-images/round/751/751/thumbnails/main-634aa25ff7cd46-c40d9e016904.webp"
             },
             "packaging": [],
-            "overview": [
-              {
-                "id": "96a139528c88b4",
-                "role": "overview",
-                "fileName": "产品总图.jpg",
-                "width": 1600,
-                "height": 1600,
-                "remark": "总体图片",
-                "url": "web-images/round/751/751/overview-overview-96a139528c88b4-f265586cbdfd.webp",
-                "thumb": "web-images/round/751/751/thumbnails/overview-96a139528c88b4-557dfd7f76b3.webp"
-              }
-            ],
+            "overview": [],
             "gallery": []
           },
           "variants": [
             {
-              "id": "round:751:42ce65d980d3",
-              "raw": "玫瑰金壳白面黑胶带",
-              "attributes": {
-                "caseColor": "玫瑰金壳",
-                "dial": "白面",
-                "strap": "黑胶带"
-              },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "b8340be131cac6",
-                "role": "variant",
-                "fileName": "751 玫瑰金壳白面黑胶带.jpg",
-                "width": 697,
-                "height": 917,
-                "remark": "可选配色：玫瑰金壳白面黑胶带",
-                "raw": "玫瑰金壳白面黑胶带",
-                "attributes": {
-                  "caseColor": "玫瑰金壳",
-                  "dial": "白面",
-                  "strap": "黑胶带"
-                },
-                "url": "web-images/round/751/751/variant-玫瑰金壳白面黑胶带-b8340be131cac6-4d44ddd9ea2d.webp",
-                "thumb": "web-images/round/751/751/thumbnails/variant-b8340be131cac6-762df44263ab.webp"
-              },
-              "images": [
-                {
-                  "id": "b8340be131cac6",
-                  "role": "variant",
-                  "fileName": "751 玫瑰金壳白面黑胶带.jpg",
-                  "width": 697,
-                  "height": 917,
-                  "remark": "可选配色：玫瑰金壳白面黑胶带",
-                  "raw": "玫瑰金壳白面黑胶带",
-                  "attributes": {
-                    "caseColor": "玫瑰金壳",
-                    "dial": "白面",
-                    "strap": "黑胶带"
-                  },
-                  "url": "web-images/round/751/751/variant-玫瑰金壳白面黑胶带-b8340be131cac6-4d44ddd9ea2d.webp",
-                  "thumb": "web-images/round/751/751/thumbnails/variant-b8340be131cac6-762df44263ab.webp"
-                }
-              ]
-            },
-            {
-              "id": "round:751:143490551387",
-              "raw": "玫瑰金壳蓝面黑胶带",
-              "attributes": {
-                "caseColor": "玫瑰金壳",
-                "dial": "蓝面",
-                "strap": "黑胶带"
-              },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "1a90eb9de11a6b",
-                "role": "variant",
-                "fileName": "751 玫瑰金壳蓝面黑胶带.jpg",
-                "width": 685,
-                "height": 1004,
-                "remark": "可选配色：玫瑰金壳蓝面黑胶带",
-                "raw": "玫瑰金壳蓝面黑胶带",
-                "attributes": {
-                  "caseColor": "玫瑰金壳",
-                  "dial": "蓝面",
-                  "strap": "黑胶带"
-                },
-                "url": "web-images/round/751/751/variant-玫瑰金壳蓝面黑胶带-1a90eb9de11a6b-9e919b3b8952.webp",
-                "thumb": "web-images/round/751/751/thumbnails/variant-1a90eb9de11a6b-08b94f3b99bc.webp"
-              },
-              "images": [
-                {
-                  "id": "1a90eb9de11a6b",
-                  "role": "variant",
-                  "fileName": "751 玫瑰金壳蓝面黑胶带.jpg",
-                  "width": 685,
-                  "height": 1004,
-                  "remark": "可选配色：玫瑰金壳蓝面黑胶带",
-                  "raw": "玫瑰金壳蓝面黑胶带",
-                  "attributes": {
-                    "caseColor": "玫瑰金壳",
-                    "dial": "蓝面",
-                    "strap": "黑胶带"
-                  },
-                  "url": "web-images/round/751/751/variant-玫瑰金壳蓝面黑胶带-1a90eb9de11a6b-9e919b3b8952.webp",
-                  "thumb": "web-images/round/751/751/thumbnails/variant-1a90eb9de11a6b-08b94f3b99bc.webp"
-                }
-              ]
-            },
-            {
-              "id": "round:751:c598f4403eb5",
-              "raw": "银壳黑面黑胶带",
-              "attributes": {
-                "caseColor": "银壳",
-                "dial": "黑面",
-                "strap": "黑胶带"
-              },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
-              "image": {
-                "id": "ea22be2852cfb4",
-                "role": "variant",
-                "fileName": "751 银壳黑面黑胶带.jpg",
-                "width": 726,
-                "height": 996,
-                "remark": "可选配色：银壳黑面黑胶带",
-                "raw": "银壳黑面黑胶带",
-                "attributes": {
-                  "caseColor": "银壳",
-                  "dial": "黑面",
-                  "strap": "黑胶带"
-                },
-                "url": "web-images/round/751/751/variant-银壳黑面黑胶带-ea22be2852cfb4-638b6a03c6ed.webp",
-                "thumb": "web-images/round/751/751/thumbnails/variant-ea22be2852cfb4-8afcfe72f2e0.webp"
-              },
-              "images": [
-                {
-                  "id": "ea22be2852cfb4",
-                  "role": "variant",
-                  "fileName": "751 银壳黑面黑胶带.jpg",
-                  "width": 726,
-                  "height": 996,
-                  "remark": "可选配色：银壳黑面黑胶带",
-                  "raw": "银壳黑面黑胶带",
-                  "attributes": {
-                    "caseColor": "银壳",
-                    "dial": "黑面",
-                    "strap": "黑胶带"
-                  },
-                  "url": "web-images/round/751/751/variant-银壳黑面黑胶带-ea22be2852cfb4-638b6a03c6ed.webp",
-                  "thumb": "web-images/round/751/751/thumbnails/variant-ea22be2852cfb4-8afcfe72f2e0.webp"
-                }
-              ]
-            },
-            {
-              "id": "round:751:f0dbf30f91a0",
+              "id": "round:751:703c7d061332",
               "raw": "银壳蓝面黑胶带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "蓝面",
                 "strap": "黑胶带"
               },
-              "priceCny": 1180,
-              "priceSource": "sku-list-price",
               "image": {
-                "id": "c479bd1ed00c34",
+                "id": "e4f64f1b6a2fa6",
                 "role": "variant",
-                "fileName": "751 银壳蓝面黑胶带.jpg",
-                "width": 810,
-                "height": 964,
-                "remark": "可选配色：银壳蓝面黑胶带",
+                "fileName": "751 银壳蓝面黑胶带.png",
+                "width": 800,
+                "height": 800,
+                "remark": "round / 751 / 751 银壳蓝面黑胶带.png",
+                "url": "web-images/round/751/751/variant-e4f64f1b6a2fa6-fa0400a6bd81.webp",
+                "thumb": "web-images/round/751/751/thumbnails/variant-e4f64f1b6a2fa6-f7f1e14f90f3.webp",
                 "raw": "银壳蓝面黑胶带",
                 "attributes": {
                   "caseColor": "银壳",
                   "dial": "蓝面",
                   "strap": "黑胶带"
-                },
-                "url": "web-images/round/751/751/variant-银壳蓝面黑胶带-c479bd1ed00c34-a94fb460c8cf.webp",
-                "thumb": "web-images/round/751/751/thumbnails/variant-c479bd1ed00c34-e1498985e03a.webp"
+                }
               },
               "images": [
                 {
-                  "id": "c479bd1ed00c34",
+                  "id": "e4f64f1b6a2fa6",
                   "role": "variant",
-                  "fileName": "751 银壳蓝面黑胶带.jpg",
-                  "width": 810,
-                  "height": 964,
-                  "remark": "可选配色：银壳蓝面黑胶带",
+                  "fileName": "751 银壳蓝面黑胶带.png",
+                  "width": 800,
+                  "height": 800,
+                  "remark": "round / 751 / 751 银壳蓝面黑胶带.png",
+                  "url": "web-images/round/751/751/variant-e4f64f1b6a2fa6-fa0400a6bd81.webp",
+                  "thumb": "web-images/round/751/751/thumbnails/variant-e4f64f1b6a2fa6-f7f1e14f90f3.webp",
                   "raw": "银壳蓝面黑胶带",
                   "attributes": {
                     "caseColor": "银壳",
                     "dial": "蓝面",
                     "strap": "黑胶带"
-                  },
-                  "url": "web-images/round/751/751/variant-银壳蓝面黑胶带-c479bd1ed00c34-a94fb460c8cf.webp",
-                  "thumb": "web-images/round/751/751/thumbnails/variant-c479bd1ed00c34-e1498985e03a.webp"
+                  }
                 }
               ]
             }
@@ -55833,12 +55701,12 @@
         "main": {
           "id": "4a9c0264160a9e",
           "role": "main",
-          "fileName": "产品主图_0.png",
-          "width": 984,
-          "height": 1600,
-          "remark": "产品卡与详情页主图",
-          "url": "web-images/round/8821/8821-1/main-main-4a9c0264160a9e-bd833069eab1.webp",
-          "thumb": "web-images/round/8821/8821-1/thumbnails/main-4a9c0264160a9e-fbf245a7550f.webp"
+          "fileName": "产品主图.JPG",
+          "width": 454,
+          "height": 737,
+          "remark": "round / 8821-1 / 产品主图.JPG",
+          "url": "web-images/round/8821/8821-1/main-4a9c0264160a9e-d6895bb81acd.webp",
+          "thumb": "web-images/round/8821/8821-1/thumbnails/main-4a9c0264160a9e-05794f53933f.webp"
         }
       },
       "products": [
@@ -55888,12 +55756,12 @@
             "main": {
               "id": "4a9c0264160a9e",
               "role": "main",
-              "fileName": "产品主图_0.png",
-              "width": 984,
-              "height": 1600,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/round/8821/8821-1/main-main-4a9c0264160a9e-bd833069eab1.webp",
-              "thumb": "web-images/round/8821/8821-1/thumbnails/main-4a9c0264160a9e-fbf245a7550f.webp"
+              "fileName": "产品主图.JPG",
+              "width": 454,
+              "height": 737,
+              "remark": "round / 8821-1 / 产品主图.JPG",
+              "url": "web-images/round/8821/8821-1/main-4a9c0264160a9e-d6895bb81acd.webp",
+              "thumb": "web-images/round/8821/8821-1/thumbnails/main-4a9c0264160a9e-05794f53933f.webp"
             },
             "packaging": [],
             "overview": [
@@ -56232,9 +56100,9 @@
               "fileName": "产品主图_0.png",
               "width": 402,
               "height": 617,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/round/8821/8821-2/main-main-6e2ca737925f99-fa67ed55e75a.webp",
-              "thumb": "web-images/round/8821/8821-2/thumbnails/main-6e2ca737925f99-4a64477aff72.webp"
+              "remark": "round / 8821-2 / 产品主图_0.png",
+              "url": "web-images/round/8821/8821-2/main-6e2ca737925f99-c3efad9aca83.webp",
+              "thumb": "web-images/round/8821/8821-2/thumbnails/main-6e2ca737925f99-f510fbb2272a.webp"
             },
             "packaging": [],
             "overview": [
@@ -56576,9 +56444,9 @@
               "fileName": "产品主图_0.png",
               "width": 454,
               "height": 737,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/round/8821/8821-3/main-main-4007200bbb2818-f271f8ba2143.webp",
-              "thumb": "web-images/round/8821/8821-3/thumbnails/main-4007200bbb2818-54f4224748dd.webp"
+              "remark": "round / 8821-3 / 产品主图_0.png",
+              "url": "web-images/round/8821/8821-3/main-4007200bbb2818-77184376f896.webp",
+              "thumb": "web-images/round/8821/8821-3/thumbnails/main-4007200bbb2818-ce17cb22d76c.webp"
             },
             "packaging": [],
             "overview": [],
@@ -64906,12 +64774,12 @@
         "main": {
           "id": "19148928387acb",
           "role": "main",
-          "fileName": "产品主图.png",
-          "width": 209,
-          "height": 368,
-          "remark": "产品卡与详情页主图",
-          "url": "web-images/round/88492/88492-2/main-main-19148928387acb-832728fb9b5d.webp",
-          "thumb": "web-images/round/88492/88492-2/thumbnails/main-19148928387acb-a8f5aa0d4877.webp"
+          "fileName": "产品主图.jpg",
+          "width": 562,
+          "height": 988,
+          "remark": "round / 88492-2 / 产品主图.jpg",
+          "url": "web-images/round/88492/88492-2/main-19148928387acb-d392837c209f.webp",
+          "thumb": "web-images/round/88492/88492-2/thumbnails/main-19148928387acb-0182414a3f94.webp"
         }
       },
       "products": [
@@ -64958,12 +64826,12 @@
             "main": {
               "id": "19148928387acb",
               "role": "main",
-              "fileName": "产品主图.png",
-              "width": 209,
-              "height": 368,
-              "remark": "产品卡与详情页主图",
-              "url": "web-images/round/88492/88492-2/main-main-19148928387acb-832728fb9b5d.webp",
-              "thumb": "web-images/round/88492/88492-2/thumbnails/main-19148928387acb-a8f5aa0d4877.webp"
+              "fileName": "产品主图.jpg",
+              "width": 562,
+              "height": 988,
+              "remark": "round / 88492-2 / 产品主图.jpg",
+              "url": "web-images/round/88492/88492-2/main-19148928387acb-d392837c209f.webp",
+              "thumb": "web-images/round/88492/88492-2/thumbnails/main-19148928387acb-0182414a3f94.webp"
             },
             "packaging": [],
             "overview": [

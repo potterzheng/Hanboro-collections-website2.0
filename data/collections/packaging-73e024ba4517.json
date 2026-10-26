@@ -1,0 +1,82 @@
+{
+  "id": "packaging-73e024ba4517",
+  "model": "凌角礼盒",
+  "title": "凌角礼盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "凌角礼盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "f5d81d1bf3ecdc",
+      "role": "main",
+      "fileName": "凌角礼盒.jpg",
+      "width": 567,
+      "height": 359,
+      "remark": "packaging / 凌角礼盒 / 凌角礼盒.jpg",
+      "url": "web-images/packaging/凌角礼盒/凌角礼盒/main-f5d81d1bf3ecdc-bf1d46617c54.webp",
+      "thumb": "web-images/packaging/凌角礼盒/凌角礼盒/thumbnails/main-f5d81d1bf3ecdc-88986ee7df31.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:73e024ba4517",
+      "modelId": "packaging-73e024ba4517",
+      "model": "凌角礼盒",
+      "sku": "凌角礼盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "凌角礼盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "f5d81d1bf3ecdc",
+          "role": "main",
+          "fileName": "凌角礼盒.jpg",
+          "width": 567,
+          "height": 359,
+          "remark": "packaging / 凌角礼盒 / 凌角礼盒.jpg",
+          "url": "web-images/packaging/凌角礼盒/凌角礼盒/main-f5d81d1bf3ecdc-bf1d46617c54.webp",
+          "thumb": "web-images/packaging/凌角礼盒/凌角礼盒/thumbnails/main-f5d81d1bf3ecdc-88986ee7df31.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "f5d81d1bf3ecdc-view",
+            "role": "gallery",
+            "fileName": "凌角礼盒.jpg",
+            "width": 567,
+            "height": 359,
+            "remark": "packaging / 凌角礼盒 / 凌角礼盒.jpg",
+            "url": "web-images/packaging/凌角礼盒/凌角礼盒/main-f5d81d1bf3ecdc-bf1d46617c54.webp",
+            "thumb": "web-images/packaging/凌角礼盒/凌角礼盒/thumbnails/main-f5d81d1bf3ecdc-88986ee7df31.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

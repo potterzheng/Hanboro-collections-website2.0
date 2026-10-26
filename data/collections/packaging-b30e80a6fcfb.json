@@ -1,0 +1,82 @@
+{
+  "id": "packaging-b30e80a6fcfb",
+  "model": "脸谱",
+  "title": "脸谱",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "脸谱",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "a4b9f9af1bdb54",
+      "role": "main",
+      "fileName": "脸谱.jpg",
+      "width": 600,
+      "height": 576,
+      "remark": "packaging / 脸谱 / 脸谱.jpg",
+      "url": "web-images/packaging/脸谱/脸谱/main-a4b9f9af1bdb54-d9e99f8e364a.webp",
+      "thumb": "web-images/packaging/脸谱/脸谱/thumbnails/main-a4b9f9af1bdb54-10c20b996176.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:b30e80a6fcfb",
+      "modelId": "packaging-b30e80a6fcfb",
+      "model": "脸谱",
+      "sku": "脸谱",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "脸谱"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "a4b9f9af1bdb54",
+          "role": "main",
+          "fileName": "脸谱.jpg",
+          "width": 600,
+          "height": 576,
+          "remark": "packaging / 脸谱 / 脸谱.jpg",
+          "url": "web-images/packaging/脸谱/脸谱/main-a4b9f9af1bdb54-d9e99f8e364a.webp",
+          "thumb": "web-images/packaging/脸谱/脸谱/thumbnails/main-a4b9f9af1bdb54-10c20b996176.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "a4b9f9af1bdb54-view",
+            "role": "gallery",
+            "fileName": "脸谱.jpg",
+            "width": 600,
+            "height": 576,
+            "remark": "packaging / 脸谱 / 脸谱.jpg",
+            "url": "web-images/packaging/脸谱/脸谱/main-a4b9f9af1bdb54-d9e99f8e364a.webp",
+            "thumb": "web-images/packaging/脸谱/脸谱/thumbnails/main-a4b9f9af1bdb54-10c20b996176.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

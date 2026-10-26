@@ -12,12 +12,12 @@
     "main": {
       "id": "5a2aaaa0c8cd21",
       "role": "main",
-      "fileName": "749_产品主图.png",
-      "width": 584,
-      "height": 958,
-      "remark": "超薄系列 HB-749 / 产品主图",
-      "url": "web-images/slim/749/749/main-5a2aaaa0c8cd21-950c2a6071d5.webp",
-      "thumb": "web-images/slim/749/749/thumbnails/main-5a2aaaa0c8cd21-acfc33f9d5ec.webp"
+      "fileName": "749_产品主图.jpg",
+      "width": 921,
+      "height": 1600,
+      "remark": "slim / 749 / 749_产品主图.jpg",
+      "url": "web-images/slim/749/749/main-5a2aaaa0c8cd21-9d902ddad93e.webp",
+      "thumb": "web-images/slim/749/749/thumbnails/main-5a2aaaa0c8cd21-09b42b268699.webp"
     }
   },
   "products": [
@@ -49,197 +49,198 @@
         "main": {
           "id": "5a2aaaa0c8cd21",
           "role": "main",
-          "fileName": "749_产品主图.png",
-          "width": 584,
-          "height": 958,
-          "remark": "超薄系列 HB-749 / 产品主图",
-          "url": "web-images/slim/749/749/main-5a2aaaa0c8cd21-950c2a6071d5.webp",
-          "thumb": "web-images/slim/749/749/thumbnails/main-5a2aaaa0c8cd21-acfc33f9d5ec.webp"
+          "fileName": "749_产品主图.jpg",
+          "width": 921,
+          "height": 1600,
+          "remark": "slim / 749 / 749_产品主图.jpg",
+          "url": "web-images/slim/749/749/main-5a2aaaa0c8cd21-9d902ddad93e.webp",
+          "thumb": "web-images/slim/749/749/thumbnails/main-5a2aaaa0c8cd21-09b42b268699.webp"
         },
         "packaging": [],
-        "overview": [
-          {
-            "id": "840e36829a24fb",
-            "role": "overview",
-            "fileName": "产品总图.jpg",
-            "width": 1200,
-            "height": 670,
-            "remark": "超薄系列 HB-749 / 总体图片",
-            "url": "web-images/slim/749/749/overview-840e36829a24fb-d0cf09ea264c.webp",
-            "thumb": "web-images/slim/749/749/thumbnails/overview-840e36829a24fb-ea6c44329dde.webp"
-          }
-        ],
+        "overview": [],
         "gallery": []
       },
       "variants": [
         {
-          "id": "slim:749:de4151cc92b6",
-          "raw": "玫瑰金壳间面咖啡皮带",
+          "id": "slim:749:fa1dd88991f7",
+          "raw": "玫瑰金壳白面玫瑰金圈咖啡带",
           "attributes": {
             "caseColor": "玫瑰金壳",
-            "strap": "咖啡皮带",
-            "unresolvedText": "间面"
+            "dial": "白面",
+            "strap": "咖啡带",
+            "unresolvedText": "玫瑰金圈"
           },
           "image": {
-            "id": "95005c2672a6fe",
+            "id": "56bbc892cd73f9",
             "role": "variant",
-            "fileName": "749_玫瑰金壳间面咖啡皮带.jpg",
+            "fileName": "玫瑰金壳白面玫瑰金圈咖啡带.jpg",
             "width": 893,
             "height": 1600,
-            "remark": "超薄系列 HB-749 / 配色与视角：玫瑰金壳间面咖啡皮带",
-            "url": "web-images/slim/749/749/variant-95005c2672a6fe-67b9a307a609.webp",
-            "thumb": "web-images/slim/749/749/thumbnails/variant-95005c2672a6fe-4fba1eaadc43.webp",
-            "raw": "玫瑰金壳间面咖啡皮带",
+            "remark": "slim / 749 / 玫瑰金壳白面玫瑰金圈咖啡带.jpg",
+            "url": "web-images/slim/749/749/variant-56bbc892cd73f9-9a0274095e5a.webp",
+            "thumb": "web-images/slim/749/749/thumbnails/variant-56bbc892cd73f9-c09a3988b0fa.webp",
+            "raw": "玫瑰金壳白面玫瑰金圈咖啡带",
             "attributes": {
               "caseColor": "玫瑰金壳",
-              "strap": "咖啡皮带",
-              "unresolvedText": "间面"
+              "dial": "白面",
+              "strap": "咖啡带",
+              "unresolvedText": "玫瑰金圈"
             }
           },
           "images": [
             {
-              "id": "95005c2672a6fe",
+              "id": "56bbc892cd73f9",
               "role": "variant",
-              "fileName": "749_玫瑰金壳间面咖啡皮带.jpg",
+              "fileName": "玫瑰金壳白面玫瑰金圈咖啡带.jpg",
               "width": 893,
               "height": 1600,
-              "remark": "超薄系列 HB-749 / 配色与视角：玫瑰金壳间面咖啡皮带",
-              "url": "web-images/slim/749/749/variant-95005c2672a6fe-67b9a307a609.webp",
-              "thumb": "web-images/slim/749/749/thumbnails/variant-95005c2672a6fe-4fba1eaadc43.webp",
-              "raw": "玫瑰金壳间面咖啡皮带",
+              "remark": "slim / 749 / 玫瑰金壳白面玫瑰金圈咖啡带.jpg",
+              "url": "web-images/slim/749/749/variant-56bbc892cd73f9-9a0274095e5a.webp",
+              "thumb": "web-images/slim/749/749/thumbnails/variant-56bbc892cd73f9-c09a3988b0fa.webp",
+              "raw": "玫瑰金壳白面玫瑰金圈咖啡带",
               "attributes": {
                 "caseColor": "玫瑰金壳",
-                "strap": "咖啡皮带",
-                "unresolvedText": "间面"
+                "dial": "白面",
+                "strap": "咖啡带",
+                "unresolvedText": "玫瑰金圈"
               }
             }
           ]
         },
         {
-          "id": "slim:749:cc15d378e2d5",
-          "raw": "玫瑰金黑面咖啡皮带",
+          "id": "slim:749:7db0820d5640",
+          "raw": "玫瑰金壳白面黑圈咖啡带",
           "attributes": {
-            "dial": "黑面",
-            "strap": "咖啡皮带",
-            "unresolvedText": "玫瑰金"
+            "caseColor": "玫瑰金壳",
+            "dial": "白面",
+            "strap": "咖啡带",
+            "unresolvedText": "黑圈"
           },
           "image": {
-            "id": "e22543298631a2",
+            "id": "b1cc4c63353ce4",
             "role": "variant",
-            "fileName": "749_玫瑰金黑面咖啡皮带.jpg",
+            "fileName": "玫瑰金壳白面黑圈咖啡带.jpg",
             "width": 893,
             "height": 1600,
-            "remark": "超薄系列 HB-749 / 配色与视角：玫瑰金黑面咖啡皮带",
-            "url": "web-images/slim/749/749/variant-e22543298631a2-4bbf10049d6f.webp",
-            "thumb": "web-images/slim/749/749/thumbnails/variant-e22543298631a2-54eb03613441.webp",
-            "raw": "玫瑰金黑面咖啡皮带",
+            "remark": "slim / 749 / 玫瑰金壳白面黑圈咖啡带.jpg",
+            "url": "web-images/slim/749/749/variant-b1cc4c63353ce4-0a14b964f4e5.webp",
+            "thumb": "web-images/slim/749/749/thumbnails/variant-b1cc4c63353ce4-9fb0871b19d8.webp",
+            "raw": "玫瑰金壳白面黑圈咖啡带",
             "attributes": {
-              "dial": "黑面",
-              "strap": "咖啡皮带",
-              "unresolvedText": "玫瑰金"
+              "caseColor": "玫瑰金壳",
+              "dial": "白面",
+              "strap": "咖啡带",
+              "unresolvedText": "黑圈"
             }
           },
           "images": [
             {
-              "id": "e22543298631a2",
+              "id": "b1cc4c63353ce4",
               "role": "variant",
-              "fileName": "749_玫瑰金黑面咖啡皮带.jpg",
+              "fileName": "玫瑰金壳白面黑圈咖啡带.jpg",
               "width": 893,
               "height": 1600,
-              "remark": "超薄系列 HB-749 / 配色与视角：玫瑰金黑面咖啡皮带",
-              "url": "web-images/slim/749/749/variant-e22543298631a2-4bbf10049d6f.webp",
-              "thumb": "web-images/slim/749/749/thumbnails/variant-e22543298631a2-54eb03613441.webp",
-              "raw": "玫瑰金黑面咖啡皮带",
+              "remark": "slim / 749 / 玫瑰金壳白面黑圈咖啡带.jpg",
+              "url": "web-images/slim/749/749/variant-b1cc4c63353ce4-0a14b964f4e5.webp",
+              "thumb": "web-images/slim/749/749/thumbnails/variant-b1cc4c63353ce4-9fb0871b19d8.webp",
+              "raw": "玫瑰金壳白面黑圈咖啡带",
               "attributes": {
-                "dial": "黑面",
-                "strap": "咖啡皮带",
-                "unresolvedText": "玫瑰金"
+                "caseColor": "玫瑰金壳",
+                "dial": "白面",
+                "strap": "咖啡带",
+                "unresolvedText": "黑圈"
               }
             }
           ]
         },
         {
-          "id": "slim:749:89ee0d2fedfe",
-          "raw": "银壳白面黑皮带",
+          "id": "slim:749:7cf98ce8db3d",
+          "raw": "银壳白面黑圈黑皮带",
           "attributes": {
             "caseColor": "银壳",
             "dial": "白面",
-            "strap": "黑皮带"
+            "strap": "黑皮带",
+            "unresolvedText": "黑圈"
           },
           "image": {
-            "id": "926adb1d3f9cc7",
+            "id": "41383714c2db75",
             "role": "variant",
-            "fileName": "749_银壳白面黑皮带.jpg",
-            "width": 373,
-            "height": 485,
-            "remark": "超薄系列 HB-749 / 配色与视角：银壳白面黑皮带",
-            "url": "web-images/slim/749/749/variant-926adb1d3f9cc7-490af473a27c.webp",
-            "thumb": "web-images/slim/749/749/thumbnails/variant-926adb1d3f9cc7-b3159572ba8e.webp",
-            "raw": "银壳白面黑皮带",
+            "fileName": "银壳白面黑圈黑皮带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "slim / 749 / 银壳白面黑圈黑皮带.jpg",
+            "url": "web-images/slim/749/749/variant-41383714c2db75-8354d430682c.webp",
+            "thumb": "web-images/slim/749/749/thumbnails/variant-41383714c2db75-ee839c8f2ea3.webp",
+            "raw": "银壳白面黑圈黑皮带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "白面",
-              "strap": "黑皮带"
+              "strap": "黑皮带",
+              "unresolvedText": "黑圈"
             }
           },
           "images": [
             {
-              "id": "926adb1d3f9cc7",
+              "id": "41383714c2db75",
               "role": "variant",
-              "fileName": "749_银壳白面黑皮带.jpg",
-              "width": 373,
-              "height": 485,
-              "remark": "超薄系列 HB-749 / 配色与视角：银壳白面黑皮带",
-              "url": "web-images/slim/749/749/variant-926adb1d3f9cc7-490af473a27c.webp",
-              "thumb": "web-images/slim/749/749/thumbnails/variant-926adb1d3f9cc7-b3159572ba8e.webp",
-              "raw": "银壳白面黑皮带",
+              "fileName": "银壳白面黑圈黑皮带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "slim / 749 / 银壳白面黑圈黑皮带.jpg",
+              "url": "web-images/slim/749/749/variant-41383714c2db75-8354d430682c.webp",
+              "thumb": "web-images/slim/749/749/thumbnails/variant-41383714c2db75-ee839c8f2ea3.webp",
+              "raw": "银壳白面黑圈黑皮带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "白面",
-                "strap": "黑皮带"
+                "strap": "黑皮带",
+                "unresolvedText": "黑圈"
               }
             }
           ]
         },
         {
-          "id": "slim:749:fda72e385de0",
-          "raw": "银壳黑面黑皮带",
+          "id": "slim:749:7377733c313b",
+          "raw": "银壳黑面白圈黑皮带",
           "attributes": {
             "caseColor": "银壳",
             "dial": "黑面",
-            "strap": "黑皮带"
+            "strap": "黑皮带",
+            "unresolvedText": "白圈"
           },
           "image": {
-            "id": "947a06b5673d2a",
+            "id": "89db12b2810868",
             "role": "variant",
-            "fileName": "749_银壳黑面黑皮带.jpg",
+            "fileName": "银壳黑面白圈黑皮带.jpg",
             "width": 893,
             "height": 1600,
-            "remark": "超薄系列 HB-749 / 配色与视角：银壳黑面黑皮带",
-            "url": "web-images/slim/749/749/variant-947a06b5673d2a-a6bea6b29e1f.webp",
-            "thumb": "web-images/slim/749/749/thumbnails/variant-947a06b5673d2a-9b5f296780ba.webp",
-            "raw": "银壳黑面黑皮带",
+            "remark": "slim / 749 / 银壳黑面白圈黑皮带.jpg",
+            "url": "web-images/slim/749/749/variant-89db12b2810868-eff7c3e7409d.webp",
+            "thumb": "web-images/slim/749/749/thumbnails/variant-89db12b2810868-d3c8c304418d.webp",
+            "raw": "银壳黑面白圈黑皮带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "黑面",
-              "strap": "黑皮带"
+              "strap": "黑皮带",
+              "unresolvedText": "白圈"
             }
           },
           "images": [
             {
-              "id": "947a06b5673d2a",
+              "id": "89db12b2810868",
               "role": "variant",
-              "fileName": "749_银壳黑面黑皮带.jpg",
+              "fileName": "银壳黑面白圈黑皮带.jpg",
               "width": 893,
               "height": 1600,
-              "remark": "超薄系列 HB-749 / 配色与视角：银壳黑面黑皮带",
-              "url": "web-images/slim/749/749/variant-947a06b5673d2a-a6bea6b29e1f.webp",
-              "thumb": "web-images/slim/749/749/thumbnails/variant-947a06b5673d2a-9b5f296780ba.webp",
-              "raw": "银壳黑面黑皮带",
+              "remark": "slim / 749 / 银壳黑面白圈黑皮带.jpg",
+              "url": "web-images/slim/749/749/variant-89db12b2810868-eff7c3e7409d.webp",
+              "thumb": "web-images/slim/749/749/thumbnails/variant-89db12b2810868-d3c8c304418d.webp",
+              "raw": "银壳黑面白圈黑皮带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "黑面",
-                "strap": "黑皮带"
+                "strap": "黑皮带",
+                "unresolvedText": "白圈"
               }
             }
           ]

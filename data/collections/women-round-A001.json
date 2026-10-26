@@ -1,0 +1,197 @@
+{
+  "id": "women-round-A001",
+  "model": "A001",
+  "title": "HB-A001",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "A001-1",
+  "images": {
+    "main": {
+      "id": "65ad5fa17cd63a",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 339,
+      "height": 678,
+      "remark": "women-round / A001-1 / 产品主图_0.png",
+      "url": "web-images/women-round/A001/A001-1/main-65ad5fa17cd63a-da43ba52e768.webp",
+      "thumb": "web-images/women-round/A001/A001-1/thumbnails/main-65ad5fa17cd63a-ca938c6f10b4.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:A001-1",
+      "modelId": "women-round-A001",
+      "model": "A001",
+      "sku": "A001-1",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 638,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "65ad5fa17cd63a",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 339,
+          "height": 678,
+          "remark": "women-round / A001-1 / 产品主图_0.png",
+          "url": "web-images/women-round/A001/A001-1/main-65ad5fa17cd63a-da43ba52e768.webp",
+          "thumb": "web-images/women-round/A001/A001-1/thumbnails/main-65ad5fa17cd63a-ca938c6f10b4.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:A001-1:2d947edcede7",
+          "raw": "银壳银纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "银纲带"
+          },
+          "image": {
+            "id": "a994b9ea2fd622",
+            "role": "variant",
+            "fileName": "银壳银纲带.png",
+            "width": 418,
+            "height": 754,
+            "remark": "women-round / A001-1 / 银壳银纲带.png",
+            "url": "web-images/women-round/A001/A001-1/variant-a994b9ea2fd622-f00376b2daae.webp",
+            "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-a994b9ea2fd622-b737bc203000.webp",
+            "raw": "银壳银纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "银纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "a994b9ea2fd622",
+              "role": "variant",
+              "fileName": "银壳银纲带.png",
+              "width": 418,
+              "height": 754,
+              "remark": "women-round / A001-1 / 银壳银纲带.png",
+              "url": "web-images/women-round/A001/A001-1/variant-a994b9ea2fd622-f00376b2daae.webp",
+              "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-a994b9ea2fd622-b737bc203000.webp",
+              "raw": "银壳银纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "银纲带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:A001-2",
+      "modelId": "women-round-A001",
+      "model": "A001",
+      "sku": "A001-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 638,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "93a2c7dd11d2e7",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 327,
+          "height": 651,
+          "remark": "women-round / A001-2 / 产品主图_0.png",
+          "url": "web-images/women-round/A001/A001-2/main-93a2c7dd11d2e7-da9bd16c3838.webp",
+          "thumb": "web-images/women-round/A001/A001-2/thumbnails/main-93a2c7dd11d2e7-bf142ee2a2bc.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:A001-2:e757d84629f8",
+          "raw": "玫瑰金壳间金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "间金钢带"
+          },
+          "image": {
+            "id": "428ac72b1e0b6f",
+            "role": "variant",
+            "fileName": "玫瑰金壳间金钢带.png",
+            "width": 452,
+            "height": 705,
+            "remark": "women-round / A001-2 / 玫瑰金壳间金钢带.png",
+            "url": "web-images/women-round/A001/A001-2/variant-428ac72b1e0b6f-70b05c3574f1.webp",
+            "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-428ac72b1e0b6f-2e280080b8d9.webp",
+            "raw": "玫瑰金壳间金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "间金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "428ac72b1e0b6f",
+              "role": "variant",
+              "fileName": "玫瑰金壳间金钢带.png",
+              "width": 452,
+              "height": 705,
+              "remark": "women-round / A001-2 / 玫瑰金壳间金钢带.png",
+              "url": "web-images/women-round/A001/A001-2/variant-428ac72b1e0b6f-70b05c3574f1.webp",
+              "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-428ac72b1e0b6f-2e280080b8d9.webp",
+              "raw": "玫瑰金壳间金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "间金钢带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 638
+}

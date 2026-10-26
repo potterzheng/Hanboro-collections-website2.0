@@ -1,0 +1,158 @@
+{
+  "id": "women-round-386",
+  "model": "386",
+  "title": "HB-386",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "386",
+  "images": {
+    "main": {
+      "id": "1065c4fa328f8a",
+      "role": "main",
+      "fileName": "产品主图.jpg",
+      "width": 733,
+      "height": 1600,
+      "remark": "women-round / 386 / 产品主图.jpg",
+      "url": "web-images/women-round/386/386/main-1065c4fa328f8a-999dca72aa0f.webp",
+      "thumb": "web-images/women-round/386/386/thumbnails/main-1065c4fa328f8a-37bb83fd2c8a.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:386",
+      "modelId": "women-round-386",
+      "model": "386",
+      "sku": "386",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 880,
+        "priceBasis": "list-price",
+        "caseSize": "31.5 mm",
+        "movement": "进口石英机芯",
+        "thickness": "8 mm",
+        "strapWidth": "13.6 × 12 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "30 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304铜壳钻石刀包镶水晶钻表壳，彰显时尚潮流",
+          "304铜壳钻石刀包镶水晶钻圈口。",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠",
+          "包镶水晶钻表盘/日历显示。",
+          "钻石刀批花工艺包镶水晶钻表带，配置双按保险表扣，操作方便。",
+          "30米深度防水性能，日常洗手、下雨、佩戴更安心。"
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 30 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "1065c4fa328f8a",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 733,
+          "height": 1600,
+          "remark": "women-round / 386 / 产品主图.jpg",
+          "url": "web-images/women-round/386/386/main-1065c4fa328f8a-999dca72aa0f.webp",
+          "thumb": "web-images/women-round/386/386/thumbnails/main-1065c4fa328f8a-37bb83fd2c8a.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:386:f7e57e0d7355",
+          "raw": "玫壳银纲带",
+          "attributes": {
+            "strap": "银纲带",
+            "unresolvedText": "玫壳"
+          },
+          "image": {
+            "id": "7d921973e8ed72",
+            "role": "variant",
+            "fileName": "玫壳银纲带.png",
+            "width": 1200,
+            "height": 1200,
+            "remark": "women-round / 386 / 玫壳银纲带.png",
+            "url": "web-images/women-round/386/386/variant-7d921973e8ed72-88291a87a297.webp",
+            "thumb": "web-images/women-round/386/386/thumbnails/variant-7d921973e8ed72-23b9138e8877.webp",
+            "raw": "玫壳银纲带",
+            "attributes": {
+              "strap": "银纲带",
+              "unresolvedText": "玫壳"
+            }
+          },
+          "images": [
+            {
+              "id": "7d921973e8ed72",
+              "role": "variant",
+              "fileName": "玫壳银纲带.png",
+              "width": 1200,
+              "height": 1200,
+              "remark": "women-round / 386 / 玫壳银纲带.png",
+              "url": "web-images/women-round/386/386/variant-7d921973e8ed72-88291a87a297.webp",
+              "thumb": "web-images/women-round/386/386/thumbnails/variant-7d921973e8ed72-23b9138e8877.webp",
+              "raw": "玫壳银纲带",
+              "attributes": {
+                "strap": "银纲带",
+                "unresolvedText": "玫壳"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:386:8d28e727d047",
+          "raw": "银壳银纲带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "银纲带"
+          },
+          "image": {
+            "id": "a2320194536e28",
+            "role": "variant",
+            "fileName": "银壳银纲带.jpg",
+            "width": 893,
+            "height": 1600,
+            "remark": "women-round / 386 / 银壳银纲带.jpg",
+            "url": "web-images/women-round/386/386/variant-a2320194536e28-59b1830df556.webp",
+            "thumb": "web-images/women-round/386/386/thumbnails/variant-a2320194536e28-bb10a7d5b653.webp",
+            "raw": "银壳银纲带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "银纲带"
+            }
+          },
+          "images": [
+            {
+              "id": "a2320194536e28",
+              "role": "variant",
+              "fileName": "银壳银纲带.jpg",
+              "width": 893,
+              "height": 1600,
+              "remark": "women-round / 386 / 银壳银纲带.jpg",
+              "url": "web-images/women-round/386/386/variant-a2320194536e28-59b1830df556.webp",
+              "thumb": "web-images/women-round/386/386/thumbnails/variant-a2320194536e28-bb10a7d5b653.webp",
+              "raw": "银壳银纲带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "银纲带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 880
+}

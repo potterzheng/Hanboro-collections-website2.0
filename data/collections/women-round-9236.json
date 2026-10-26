@@ -1,0 +1,249 @@
+{
+  "id": "women-round-9236",
+  "model": "9236",
+  "title": "HB-9236",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "9236",
+  "images": {
+    "main": {
+      "id": "106d95bd50fd3b",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 942,
+      "height": 1600,
+      "remark": "women-round / 9236 / 产品主图_0.png",
+      "url": "web-images/women-round/9236/9236/main-106d95bd50fd3b-8aefbc082a53.webp",
+      "thumb": "web-images/women-round/9236/9236/thumbnails/main-106d95bd50fd3b-76b02a4dbf60.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:9236",
+      "modelId": "women-round-9236",
+      "model": "9236",
+      "sku": "9236",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 1080,
+        "priceBasis": "list-price",
+        "caseSize": "34.5 mm",
+        "movement": "进口石英机芯",
+        "thickness": "10 mm",
+        "strapWidth": "20 × 18 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "304精钢镶嵌水晶钻表壳，圈口镶嵌36粒水晶钻，彰显时尚潮流。",
+          "进口石英机芯，走时精准。",
+          "钻石刀工艺水晶玻璃镜面，亮泽通透，滴水成珠。",
+          "钻石刀工艺批花纹表盘，日历显示。",
+          "柔软硅胶表带，双按保险表扣，操作方便简单。",
+          "50米深度防水性能，日常洗手、下雨、游泳、佩戴更安心."
+        ],
+        "en": [
+          "Quartz movement.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "106d95bd50fd3b",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 942,
+          "height": 1600,
+          "remark": "women-round / 9236 / 产品主图_0.png",
+          "url": "web-images/women-round/9236/9236/main-106d95bd50fd3b-8aefbc082a53.webp",
+          "thumb": "web-images/women-round/9236/9236/thumbnails/main-106d95bd50fd3b-76b02a4dbf60.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:9236:cbc24b9c70ee",
+          "raw": "玫瑰金壳咖啡面咖啡胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "咖啡面",
+            "strap": "咖啡胶带"
+          },
+          "image": {
+            "id": "01ea8fa9813df7",
+            "role": "variant",
+            "fileName": "玫瑰金壳咖啡面咖啡胶带.jpeg",
+            "width": 759,
+            "height": 1256,
+            "remark": "women-round / 9236 / 玫瑰金壳咖啡面咖啡胶带.jpeg",
+            "url": "web-images/women-round/9236/9236/variant-01ea8fa9813df7-49f86a4f1321.webp",
+            "thumb": "web-images/women-round/9236/9236/thumbnails/variant-01ea8fa9813df7-c25cbfeb916c.webp",
+            "raw": "玫瑰金壳咖啡面咖啡胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "咖啡面",
+              "strap": "咖啡胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "01ea8fa9813df7",
+              "role": "variant",
+              "fileName": "玫瑰金壳咖啡面咖啡胶带.jpeg",
+              "width": 759,
+              "height": 1256,
+              "remark": "women-round / 9236 / 玫瑰金壳咖啡面咖啡胶带.jpeg",
+              "url": "web-images/women-round/9236/9236/variant-01ea8fa9813df7-49f86a4f1321.webp",
+              "thumb": "web-images/women-round/9236/9236/thumbnails/variant-01ea8fa9813df7-c25cbfeb916c.webp",
+              "raw": "玫瑰金壳咖啡面咖啡胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "咖啡面",
+                "strap": "咖啡胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:9236:d59db56c8814",
+          "raw": "玫瑰金壳粉面粉胶带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "dial": "粉面",
+            "strap": "粉胶带"
+          },
+          "image": {
+            "id": "dc346f2b9f3a14",
+            "role": "variant",
+            "fileName": "玫瑰金壳粉面粉胶带.jpeg",
+            "width": 773,
+            "height": 1304,
+            "remark": "women-round / 9236 / 玫瑰金壳粉面粉胶带.jpeg",
+            "url": "web-images/women-round/9236/9236/variant-dc346f2b9f3a14-94acb8337a14.webp",
+            "thumb": "web-images/women-round/9236/9236/thumbnails/variant-dc346f2b9f3a14-e96130d9989e.webp",
+            "raw": "玫瑰金壳粉面粉胶带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "dial": "粉面",
+              "strap": "粉胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "dc346f2b9f3a14",
+              "role": "variant",
+              "fileName": "玫瑰金壳粉面粉胶带.jpeg",
+              "width": 773,
+              "height": 1304,
+              "remark": "women-round / 9236 / 玫瑰金壳粉面粉胶带.jpeg",
+              "url": "web-images/women-round/9236/9236/variant-dc346f2b9f3a14-94acb8337a14.webp",
+              "thumb": "web-images/women-round/9236/9236/thumbnails/variant-dc346f2b9f3a14-e96130d9989e.webp",
+              "raw": "玫瑰金壳粉面粉胶带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "dial": "粉面",
+                "strap": "粉胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:9236:2ded3c55d299",
+          "raw": "银壳咖啡面咖啡胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "咖啡面",
+            "strap": "咖啡胶带"
+          },
+          "image": {
+            "id": "f5e20b9945f8e2",
+            "role": "variant",
+            "fileName": "银壳咖啡面咖啡胶带.jpeg",
+            "width": 754,
+            "height": 1240,
+            "remark": "women-round / 9236 / 银壳咖啡面咖啡胶带.jpeg",
+            "url": "web-images/women-round/9236/9236/variant-f5e20b9945f8e2-4000f9eb1f48.webp",
+            "thumb": "web-images/women-round/9236/9236/thumbnails/variant-f5e20b9945f8e2-e57ae6c4d34e.webp",
+            "raw": "银壳咖啡面咖啡胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "咖啡面",
+              "strap": "咖啡胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "f5e20b9945f8e2",
+              "role": "variant",
+              "fileName": "银壳咖啡面咖啡胶带.jpeg",
+              "width": 754,
+              "height": 1240,
+              "remark": "women-round / 9236 / 银壳咖啡面咖啡胶带.jpeg",
+              "url": "web-images/women-round/9236/9236/variant-f5e20b9945f8e2-4000f9eb1f48.webp",
+              "thumb": "web-images/women-round/9236/9236/thumbnails/variant-f5e20b9945f8e2-e57ae6c4d34e.webp",
+              "raw": "银壳咖啡面咖啡胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "咖啡面",
+                "strap": "咖啡胶带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:9236:7f7c6de4a08c",
+          "raw": "银壳粉面粉胶带",
+          "attributes": {
+            "caseColor": "银壳",
+            "dial": "粉面",
+            "strap": "粉胶带"
+          },
+          "image": {
+            "id": "e311a3f5b18051",
+            "role": "variant",
+            "fileName": "银壳粉面粉胶带.jpeg",
+            "width": 805,
+            "height": 1263,
+            "remark": "women-round / 9236 / 银壳粉面粉胶带.jpeg",
+            "url": "web-images/women-round/9236/9236/variant-e311a3f5b18051-648cf6ceb471.webp",
+            "thumb": "web-images/women-round/9236/9236/thumbnails/variant-e311a3f5b18051-803b80bd09f9.webp",
+            "raw": "银壳粉面粉胶带",
+            "attributes": {
+              "caseColor": "银壳",
+              "dial": "粉面",
+              "strap": "粉胶带"
+            }
+          },
+          "images": [
+            {
+              "id": "e311a3f5b18051",
+              "role": "variant",
+              "fileName": "银壳粉面粉胶带.jpeg",
+              "width": 805,
+              "height": 1263,
+              "remark": "women-round / 9236 / 银壳粉面粉胶带.jpeg",
+              "url": "web-images/women-round/9236/9236/variant-e311a3f5b18051-648cf6ceb471.webp",
+              "thumb": "web-images/women-round/9236/9236/thumbnails/variant-e311a3f5b18051-803b80bd09f9.webp",
+              "raw": "银壳粉面粉胶带",
+              "attributes": {
+                "caseColor": "银壳",
+                "dial": "粉面",
+                "strap": "粉胶带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 1080
+}

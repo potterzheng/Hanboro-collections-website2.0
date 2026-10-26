@@ -1,0 +1,82 @@
+{
+  "id": "packaging-1fb8b58a6034",
+  "model": "小皮盒",
+  "title": "小皮盒",
+  "kind": "packaging",
+  "category": "packaging",
+  "gender": null,
+  "shape": null,
+  "defaultSku": "小皮盒",
+  "priceFromCny": null,
+  "images": {
+    "main": {
+      "id": "45b46690b56a36",
+      "role": "main",
+      "fileName": "小皮盒.jpg",
+      "width": 668,
+      "height": 731,
+      "remark": "packaging / 小皮盒 / 小皮盒.jpg",
+      "url": "web-images/packaging/小皮盒/小皮盒/main-45b46690b56a36-d7e1d03d001f.webp",
+      "thumb": "web-images/packaging/小皮盒/小皮盒/thumbnails/main-45b46690b56a36-626338f56cf0.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "packaging:1fb8b58a6034",
+      "modelId": "packaging-1fb8b58a6034",
+      "model": "小皮盒",
+      "sku": "小皮盒",
+      "kind": "packaging",
+      "category": "packaging",
+      "gender": null,
+      "shape": null,
+      "outOfStock": false,
+      "specs": {
+        "priceCny": null,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": null,
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "小皮盒"
+        ],
+        "en": [
+          "Presentation packaging."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "45b46690b56a36",
+          "role": "main",
+          "fileName": "小皮盒.jpg",
+          "width": 668,
+          "height": 731,
+          "remark": "packaging / 小皮盒 / 小皮盒.jpg",
+          "url": "web-images/packaging/小皮盒/小皮盒/main-45b46690b56a36-d7e1d03d001f.webp",
+          "thumb": "web-images/packaging/小皮盒/小皮盒/thumbnails/main-45b46690b56a36-626338f56cf0.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": [
+          {
+            "id": "45b46690b56a36-view",
+            "role": "gallery",
+            "fileName": "小皮盒.jpg",
+            "width": 668,
+            "height": 731,
+            "remark": "packaging / 小皮盒 / 小皮盒.jpg",
+            "url": "web-images/packaging/小皮盒/小皮盒/main-45b46690b56a36-d7e1d03d001f.webp",
+            "thumb": "web-images/packaging/小皮盒/小皮盒/thumbnails/main-45b46690b56a36-626338f56cf0.webp"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "women-round-8433",
+  "model": "8433",
+  "title": "HB-8433",
+  "gender": "women",
+  "shape": "round",
+  "shapeLabel": "女款圆形",
+  "category": "women-round",
+  "defaultSku": "8433-1",
+  "images": {
+    "main": {
+      "id": "ecf0a06de84aa6",
+      "role": "main",
+      "fileName": "产品主图_0.png",
+      "width": 697,
+      "height": 1600,
+      "remark": "women-round / 8433-1 / 产品主图_0.png",
+      "url": "web-images/women-round/8433/8433-1/main-ecf0a06de84aa6-36c4ec14e346.webp",
+      "thumb": "web-images/women-round/8433/8433-1/thumbnails/main-ecf0a06de84aa6-94dcddd3585d.webp"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:8433-1",
+      "modelId": "women-round-8433",
+      "model": "8433",
+      "sku": "8433-1",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 880,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "ecf0a06de84aa6",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 697,
+          "height": 1600,
+          "remark": "women-round / 8433-1 / 产品主图_0.png",
+          "url": "web-images/women-round/8433/8433-1/main-ecf0a06de84aa6-36c4ec14e346.webp",
+          "thumb": "web-images/women-round/8433/8433-1/thumbnails/main-ecf0a06de84aa6-94dcddd3585d.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:8433-1:ec3d0e16908d",
+          "raw": "玫瑰金壳玫瑰金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "玫瑰金钢带"
+          },
+          "image": {
+            "id": "a33ac89cb249f3",
+            "role": "variant",
+            "fileName": "玫瑰金壳玫瑰金钢带.png",
+            "width": 1066,
+            "height": 1600,
+            "remark": "women-round / 8433-1 / 玫瑰金壳玫瑰金钢带.png",
+            "url": "web-images/women-round/8433/8433-1/variant-a33ac89cb249f3-337c4def0ec2.webp",
+            "thumb": "web-images/women-round/8433/8433-1/thumbnails/variant-a33ac89cb249f3-6d7712816566.webp",
+            "raw": "玫瑰金壳玫瑰金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "玫瑰金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "a33ac89cb249f3",
+              "role": "variant",
+              "fileName": "玫瑰金壳玫瑰金钢带.png",
+              "width": 1066,
+              "height": 1600,
+              "remark": "women-round / 8433-1 / 玫瑰金壳玫瑰金钢带.png",
+              "url": "web-images/women-round/8433/8433-1/variant-a33ac89cb249f3-337c4def0ec2.webp",
+              "thumb": "web-images/women-round/8433/8433-1/thumbnails/variant-a33ac89cb249f3-6d7712816566.webp",
+              "raw": "玫瑰金壳玫瑰金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "玫瑰金钢带"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women-round:8433-2",
+      "modelId": "women-round-8433",
+      "model": "8433",
+      "sku": "8433-2",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 980,
+        "priceBasis": "list-price",
+        "caseSize": null,
+        "movement": "石英机芯",
+        "thickness": null,
+        "strapWidth": null,
+        "strapLength": null,
+        "waterResistance": null
+      },
+      "legacyVariantIds": {},
+      "description": {
+        "zh": [
+          "石英机芯"
+        ],
+        "en": [
+          "Quartz movement."
+        ]
+      },
+      "images": {
+        "main": {
+          "id": "bb0a1248e4998d",
+          "role": "main",
+          "fileName": "产品主图_0.png",
+          "width": 696,
+          "height": 1600,
+          "remark": "women-round / 8433-2 / 产品主图_0.png",
+          "url": "web-images/women-round/8433/8433-2/main-bb0a1248e4998d-c13611907380.webp",
+          "thumb": "web-images/women-round/8433/8433-2/thumbnails/main-bb0a1248e4998d-096e44821f0c.webp"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      },
+      "variants": [
+        {
+          "id": "women-round:8433-2:ec3d0e16908d",
+          "raw": "玫瑰金壳玫瑰金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "玫瑰金钢带"
+          },
+          "image": {
+            "id": "679a1c6f3a788d",
+            "role": "variant",
+            "fileName": "玫瑰金壳玫瑰金钢带.png",
+            "width": 1066,
+            "height": 1600,
+            "remark": "women-round / 8433-2 / 玫瑰金壳玫瑰金钢带.png",
+            "url": "web-images/women-round/8433/8433-2/variant-679a1c6f3a788d-d885d09466d5.webp",
+            "thumb": "web-images/women-round/8433/8433-2/thumbnails/variant-679a1c6f3a788d-892621de8a8d.webp",
+            "raw": "玫瑰金壳玫瑰金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "玫瑰金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "679a1c6f3a788d",
+              "role": "variant",
+              "fileName": "玫瑰金壳玫瑰金钢带.png",
+              "width": 1066,
+              "height": 1600,
+              "remark": "women-round / 8433-2 / 玫瑰金壳玫瑰金钢带.png",
+              "url": "web-images/women-round/8433/8433-2/variant-679a1c6f3a788d-d885d09466d5.webp",
+              "thumb": "web-images/women-round/8433/8433-2/thumbnails/variant-679a1c6f3a788d-892621de8a8d.webp",
+              "raw": "玫瑰金壳玫瑰金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "玫瑰金钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:8433-2:2011d3f8cc0f",
+          "raw": "银壳银钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "银钢带"
+          },
+          "image": {
+            "id": "f07d5aff7d8f44",
+            "role": "variant",
+            "fileName": "银壳银钢带.jpg",
+            "width": 668,
+            "height": 1600,
+            "remark": "women-round / 8433-2 / 银壳银钢带.jpg",
+            "url": "web-images/women-round/8433/8433-2/variant-f07d5aff7d8f44-7d1775c83abc.webp",
+            "thumb": "web-images/women-round/8433/8433-2/thumbnails/variant-f07d5aff7d8f44-f0777dbbf0f5.webp",
+            "raw": "银壳银钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "银钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "f07d5aff7d8f44",
+              "role": "variant",
+              "fileName": "银壳银钢带.jpg",
+              "width": 668,
+              "height": 1600,
+              "remark": "women-round / 8433-2 / 银壳银钢带.jpg",
+              "url": "web-images/women-round/8433/8433-2/variant-f07d5aff7d8f44-7d1775c83abc.webp",
+              "thumb": "web-images/women-round/8433/8433-2/thumbnails/variant-f07d5aff7d8f44-f0777dbbf0f5.webp",
+              "raw": "银壳银钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "银钢带"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceFromCny": 880
+}
