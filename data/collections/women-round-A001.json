@@ -65,21 +65,61 @@
       },
       "variants": [
         {
-          "id": "women-round:A001-1:2d947edcede7",
+          "id": "women-round:A001-1:f9b2d936f6da",
+          "raw": "玫瑰金壳间金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "间金钢带"
+          },
+          "image": {
+            "id": "e602779ce98f06",
+            "role": "variant",
+            "fileName": "玫瑰金壳间金钢带.jpg",
+            "width": 800,
+            "height": 800,
+            "url": "web-images/women-round/A001/A001-1/variant-e602779ce98f06-b50f9281935e.webp",
+            "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-e602779ce98f06-610ca7548394.webp",
+            "remark": "women-round / A001-1 / 玫瑰金壳间金钢带.jpg",
+            "raw": "玫瑰金壳间金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "间金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "e602779ce98f06",
+              "role": "variant",
+              "fileName": "玫瑰金壳间金钢带.jpg",
+              "width": 800,
+              "height": 800,
+              "url": "web-images/women-round/A001/A001-1/variant-e602779ce98f06-b50f9281935e.webp",
+              "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-e602779ce98f06-610ca7548394.webp",
+              "remark": "women-round / A001-1 / 玫瑰金壳间金钢带.jpg",
+              "raw": "玫瑰金壳间金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "间金钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:A001-1:a95f6a9c5d87",
           "raw": "银壳银纲带",
           "attributes": {
             "caseColor": "银壳",
             "strap": "银纲带"
           },
           "image": {
-            "id": "a994b9ea2fd622",
+            "id": "690ff99cbafefd",
             "role": "variant",
-            "fileName": "银壳银纲带.png",
-            "width": 418,
-            "height": 754,
-            "remark": "women-round / A001-1 / 银壳银纲带.png",
-            "url": "web-images/women-round/A001/A001-1/variant-a994b9ea2fd622-f00376b2daae.webp",
-            "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-a994b9ea2fd622-b737bc203000.webp",
+            "fileName": "银壳银纲带 .png",
+            "width": 893,
+            "height": 1600,
+            "url": "web-images/women-round/A001/A001-1/variant-690ff99cbafefd-54d96acb12f6.webp",
+            "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-690ff99cbafefd-e734e95a140f.webp",
+            "remark": "women-round / A001-1 / 银壳银纲带 .png",
             "raw": "银壳银纲带",
             "attributes": {
               "caseColor": "银壳",
@@ -88,14 +128,14 @@
           },
           "images": [
             {
-              "id": "a994b9ea2fd622",
+              "id": "690ff99cbafefd",
               "role": "variant",
-              "fileName": "银壳银纲带.png",
-              "width": 418,
-              "height": 754,
-              "remark": "women-round / A001-1 / 银壳银纲带.png",
-              "url": "web-images/women-round/A001/A001-1/variant-a994b9ea2fd622-f00376b2daae.webp",
-              "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-a994b9ea2fd622-b737bc203000.webp",
+              "fileName": "银壳银纲带 .png",
+              "width": 893,
+              "height": 1600,
+              "url": "web-images/women-round/A001/A001-1/variant-690ff99cbafefd-54d96acb12f6.webp",
+              "thumb": "web-images/women-round/A001/A001-1/thumbnails/variant-690ff99cbafefd-e734e95a140f.webp",
+              "remark": "women-round / A001-1 / 银壳银纲带 .png",
               "raw": "银壳银纲带",
               "attributes": {
                 "caseColor": "银壳",
@@ -151,21 +191,21 @@
       },
       "variants": [
         {
-          "id": "women-round:A001-2:e757d84629f8",
+          "id": "women-round:A001-2:f9b2d936f6da",
           "raw": "玫瑰金壳间金钢带",
           "attributes": {
             "caseColor": "玫瑰金壳",
             "strap": "间金钢带"
           },
           "image": {
-            "id": "428ac72b1e0b6f",
+            "id": "83edd46e5901b5",
             "role": "variant",
-            "fileName": "玫瑰金壳间金钢带.png",
-            "width": 452,
-            "height": 705,
-            "remark": "women-round / A001-2 / 玫瑰金壳间金钢带.png",
-            "url": "web-images/women-round/A001/A001-2/variant-428ac72b1e0b6f-70b05c3574f1.webp",
-            "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-428ac72b1e0b6f-2e280080b8d9.webp",
+            "fileName": "玫瑰金壳间金钢带.jpg",
+            "width": 800,
+            "height": 800,
+            "url": "web-images/women-round/A001/A001-2/variant-83edd46e5901b5-0962c5499ecc.webp",
+            "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-83edd46e5901b5-0237ae0d8ac9.webp",
+            "remark": "women-round / A001-2 / 玫瑰金壳间金钢带.jpg",
             "raw": "玫瑰金壳间金钢带",
             "attributes": {
               "caseColor": "玫瑰金壳",
@@ -174,18 +214,58 @@
           },
           "images": [
             {
-              "id": "428ac72b1e0b6f",
+              "id": "83edd46e5901b5",
               "role": "variant",
-              "fileName": "玫瑰金壳间金钢带.png",
-              "width": 452,
-              "height": 705,
-              "remark": "women-round / A001-2 / 玫瑰金壳间金钢带.png",
-              "url": "web-images/women-round/A001/A001-2/variant-428ac72b1e0b6f-70b05c3574f1.webp",
-              "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-428ac72b1e0b6f-2e280080b8d9.webp",
+              "fileName": "玫瑰金壳间金钢带.jpg",
+              "width": 800,
+              "height": 800,
+              "url": "web-images/women-round/A001/A001-2/variant-83edd46e5901b5-0962c5499ecc.webp",
+              "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-83edd46e5901b5-0237ae0d8ac9.webp",
+              "remark": "women-round / A001-2 / 玫瑰金壳间金钢带.jpg",
               "raw": "玫瑰金壳间金钢带",
               "attributes": {
                 "caseColor": "玫瑰金壳",
                 "strap": "间金钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:A001-2:9ba244efcc2a",
+          "raw": "银壳白钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "白钢带"
+          },
+          "image": {
+            "id": "2578230e52c1c5",
+            "role": "variant",
+            "fileName": "银壳白钢带.jpg",
+            "width": 800,
+            "height": 800,
+            "url": "web-images/women-round/A001/A001-2/variant-2578230e52c1c5-db71258b37d9.webp",
+            "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-2578230e52c1c5-b1bf8d1ddea6.webp",
+            "remark": "women-round / A001-2 / 银壳白钢带.jpg",
+            "raw": "银壳白钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "白钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "2578230e52c1c5",
+              "role": "variant",
+              "fileName": "银壳白钢带.jpg",
+              "width": 800,
+              "height": 800,
+              "url": "web-images/women-round/A001/A001-2/variant-2578230e52c1c5-db71258b37d9.webp",
+              "thumb": "web-images/women-round/A001/A001-2/thumbnails/variant-2578230e52c1c5-b1bf8d1ddea6.webp",
+              "remark": "women-round / A001-2 / 银壳白钢带.jpg",
+              "raw": "银壳白钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "白钢带"
               }
             }
           ]

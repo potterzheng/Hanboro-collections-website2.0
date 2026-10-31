@@ -15,7 +15,7 @@
       "fileName": "005_产品主图.png",
       "width": 907,
       "height": 1600,
-      "remark": "超薄系列 HB-005 / 产品主图",
+      "remark": "slim / 005 / 005_产品主图.png",
       "url": "web-images/slim/005/005/main-9a69920edbf7bb-d7c3f1ddc1d2.webp",
       "thumb": "web-images/slim/005/005/thumbnails/main-9a69920edbf7bb-7502d37ac673.webp"
     }
@@ -67,33 +67,12 @@
           "fileName": "005_产品主图.png",
           "width": 907,
           "height": 1600,
-          "remark": "超薄系列 HB-005 / 产品主图",
+          "remark": "slim / 005 / 005_产品主图.png",
           "url": "web-images/slim/005/005/main-9a69920edbf7bb-d7c3f1ddc1d2.webp",
           "thumb": "web-images/slim/005/005/thumbnails/main-9a69920edbf7bb-7502d37ac673.webp"
         },
         "packaging": [],
-        "overview": [
-          {
-            "id": "e3c45491a156fe",
-            "role": "overview",
-            "fileName": "005_产品总图-硅胶.png",
-            "width": 1200,
-            "height": 1345,
-            "remark": "超薄系列 HB-005 / 总体图片",
-            "url": "web-images/slim/005/005/overview-e3c45491a156fe-21a99cee0c2f.webp",
-            "thumb": "web-images/slim/005/005/thumbnails/overview-e3c45491a156fe-a219ded1344c.webp"
-          },
-          {
-            "id": "7caa919d0701e7",
-            "role": "overview",
-            "fileName": "005_产品总图-钢带.png",
-            "width": 1200,
-            "height": 1171,
-            "remark": "超薄系列 HB-005 / 总体图片",
-            "url": "web-images/slim/005/005/overview-7caa919d0701e7-67a2b3352c92.webp",
-            "thumb": "web-images/slim/005/005/thumbnails/overview-7caa919d0701e7-a92c019df324.webp"
-          }
-        ],
+        "overview": [],
         "gallery": []
       },
       "variants": [
@@ -103,8 +82,8 @@
           "attributes": {
             "caseColor": "玫瑰金壳",
             "dial": "玫瑰金面",
-            "bezel": "玫瑰金表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "玫瑰金表圈"
           },
           "image": {
             "id": "8a1a8853051b8b",
@@ -112,15 +91,15 @@
             "fileName": "玫瑰金壳玫瑰金面玫瑰金表圈黑胶带.png",
             "width": 555,
             "height": 1052,
-            "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金表圈黑胶带",
+            "remark": "slim / 005 / 玫瑰金壳玫瑰金面玫瑰金表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-8a1a8853051b8b-3be99d15492e.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-8a1a8853051b8b-d56a3c33e814.webp",
             "raw": "玫瑰金壳玫瑰金面玫瑰金表圈黑胶带",
             "attributes": {
               "caseColor": "玫瑰金壳",
               "dial": "玫瑰金面",
-              "bezel": "玫瑰金表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "玫瑰金表圈"
             }
           },
           "images": [
@@ -130,15 +109,15 @@
               "fileName": "玫瑰金壳玫瑰金面玫瑰金表圈黑胶带.png",
               "width": 555,
               "height": 1052,
-              "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金表圈黑胶带",
+              "remark": "slim / 005 / 玫瑰金壳玫瑰金面玫瑰金表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-8a1a8853051b8b-3be99d15492e.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-8a1a8853051b8b-d56a3c33e814.webp",
               "raw": "玫瑰金壳玫瑰金面玫瑰金表圈黑胶带",
               "attributes": {
                 "caseColor": "玫瑰金壳",
                 "dial": "玫瑰金面",
-                "bezel": "玫瑰金表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "玫瑰金表圈"
               }
             }
           ]
@@ -157,7 +136,7 @@
             "fileName": "玫瑰金壳玫瑰金面玫瑰金钢带 (2).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金钢带",
+            "remark": "slim / 005 / 玫瑰金壳玫瑰金面玫瑰金钢带 (2).JPG",
             "url": "web-images/slim/005/005/variant-bb6274201f502d-37a5545a78b5.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-bb6274201f502d-023253c74e6c.webp",
             "raw": "玫瑰金壳玫瑰金面玫瑰金钢带",
@@ -174,7 +153,7 @@
               "fileName": "玫瑰金壳玫瑰金面玫瑰金钢带 (2).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金钢带",
+              "remark": "slim / 005 / 玫瑰金壳玫瑰金面玫瑰金钢带 (2).JPG",
               "url": "web-images/slim/005/005/variant-bb6274201f502d-37a5545a78b5.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-bb6274201f502d-023253c74e6c.webp",
               "raw": "玫瑰金壳玫瑰金面玫瑰金钢带",
@@ -192,8 +171,8 @@
           "attributes": {
             "caseColor": "玫瑰金壳",
             "dial": "黑面",
-            "bezel": "玫瑰金表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "玫瑰金表圈"
           },
           "image": {
             "id": "b8fccc686bcdb3",
@@ -201,15 +180,15 @@
             "fileName": "玫瑰金壳黑面玫瑰金表圈黑胶带.png",
             "width": 550,
             "height": 1061,
-            "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳黑面玫瑰金表圈黑胶带",
+            "remark": "slim / 005 / 玫瑰金壳黑面玫瑰金表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-b8fccc686bcdb3-1ad059034238.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-b8fccc686bcdb3-141ea76561b5.webp",
             "raw": "玫瑰金壳黑面玫瑰金表圈黑胶带",
             "attributes": {
               "caseColor": "玫瑰金壳",
               "dial": "黑面",
-              "bezel": "玫瑰金表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "玫瑰金表圈"
             }
           },
           "images": [
@@ -219,15 +198,15 @@
               "fileName": "玫瑰金壳黑面玫瑰金表圈黑胶带.png",
               "width": 550,
               "height": 1061,
-              "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳黑面玫瑰金表圈黑胶带",
+              "remark": "slim / 005 / 玫瑰金壳黑面玫瑰金表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-b8fccc686bcdb3-1ad059034238.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-b8fccc686bcdb3-141ea76561b5.webp",
               "raw": "玫瑰金壳黑面玫瑰金表圈黑胶带",
               "attributes": {
                 "caseColor": "玫瑰金壳",
                 "dial": "黑面",
-                "bezel": "玫瑰金表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "玫瑰金表圈"
               }
             }
           ]
@@ -246,7 +225,7 @@
             "fileName": "玫瑰金壳黑面玫瑰金钢带 (1).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳黑面玫瑰金钢带",
+            "remark": "slim / 005 / 玫瑰金壳黑面玫瑰金钢带 (1).JPG",
             "url": "web-images/slim/005/005/variant-7097789e05484c-bddfc2482827.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-7097789e05484c-b8de489c33fc.webp",
             "raw": "玫瑰金壳黑面玫瑰金钢带",
@@ -263,7 +242,7 @@
               "fileName": "玫瑰金壳黑面玫瑰金钢带 (1).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳黑面玫瑰金钢带",
+              "remark": "slim / 005 / 玫瑰金壳黑面玫瑰金钢带 (1).JPG",
               "url": "web-images/slim/005/005/variant-7097789e05484c-bddfc2482827.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-7097789e05484c-b8de489c33fc.webp",
               "raw": "玫瑰金壳黑面玫瑰金钢带",
@@ -279,7 +258,7 @@
               "fileName": "玫瑰金壳黑面玫瑰金钢带 (3).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳黑面玫瑰金钢带",
+              "remark": "slim / 005 / 玫瑰金壳黑面玫瑰金钢带 (3).JPG",
               "url": "web-images/slim/005/005/variant-a666d852e5e5a1-1c11cda6b607.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-a666d852e5e5a1-338acb058267.webp",
               "raw": "玫瑰金壳黑面玫瑰金钢带",
@@ -297,8 +276,8 @@
           "attributes": {
             "caseColor": "玫瑰金壳",
             "dial": "黑面",
-            "bezel": "黑表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "黑表圈"
           },
           "image": {
             "id": "cc24c190a92eb6",
@@ -306,15 +285,15 @@
             "fileName": "玫瑰金壳黑面黑表圈黑胶带.png",
             "width": 548,
             "height": 1055,
-            "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳黑面黑表圈黑胶带",
+            "remark": "slim / 005 / 玫瑰金壳黑面黑表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-cc24c190a92eb6-8fafa757f1cc.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-cc24c190a92eb6-c4ee445b8153.webp",
             "raw": "玫瑰金壳黑面黑表圈黑胶带",
             "attributes": {
               "caseColor": "玫瑰金壳",
               "dial": "黑面",
-              "bezel": "黑表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "黑表圈"
             }
           },
           "images": [
@@ -324,15 +303,15 @@
               "fileName": "玫瑰金壳黑面黑表圈黑胶带.png",
               "width": 548,
               "height": 1055,
-              "remark": "超薄系列 HB-005 / 配色与视角：玫瑰金壳黑面黑表圈黑胶带",
+              "remark": "slim / 005 / 玫瑰金壳黑面黑表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-cc24c190a92eb6-8fafa757f1cc.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-cc24c190a92eb6-c4ee445b8153.webp",
               "raw": "玫瑰金壳黑面黑表圈黑胶带",
               "attributes": {
                 "caseColor": "玫瑰金壳",
                 "dial": "黑面",
-                "bezel": "黑表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "黑表圈"
               }
             }
           ]
@@ -351,7 +330,7 @@
             "fileName": "金壳灰面金钢带 (11).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：金壳灰面金钢带",
+            "remark": "slim / 005 / 金壳灰面金钢带 (11).JPG",
             "url": "web-images/slim/005/005/variant-e31a844a60be14-3d73a2cdc9e5.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-e31a844a60be14-60a155eae02c.webp",
             "raw": "金壳灰面金钢带",
@@ -368,7 +347,7 @@
               "fileName": "金壳灰面金钢带 (11).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：金壳灰面金钢带",
+              "remark": "slim / 005 / 金壳灰面金钢带 (11).JPG",
               "url": "web-images/slim/005/005/variant-e31a844a60be14-3d73a2cdc9e5.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-e31a844a60be14-60a155eae02c.webp",
               "raw": "金壳灰面金钢带",
@@ -394,7 +373,7 @@
             "fileName": "金壳灰面黑胶带.png",
             "width": 549,
             "height": 974,
-            "remark": "超薄系列 HB-005 / 配色与视角：金壳灰面黑胶带",
+            "remark": "slim / 005 / 金壳灰面黑胶带.png",
             "url": "web-images/slim/005/005/variant-6c5a432e263b77-08e7ac99f98e.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-6c5a432e263b77-ed5ded3471cf.webp",
             "raw": "金壳灰面黑胶带",
@@ -411,7 +390,7 @@
               "fileName": "金壳灰面黑胶带.png",
               "width": 549,
               "height": 974,
-              "remark": "超薄系列 HB-005 / 配色与视角：金壳灰面黑胶带",
+              "remark": "slim / 005 / 金壳灰面黑胶带.png",
               "url": "web-images/slim/005/005/variant-6c5a432e263b77-08e7ac99f98e.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-6c5a432e263b77-ed5ded3471cf.webp",
               "raw": "金壳灰面黑胶带",
@@ -437,7 +416,7 @@
             "fileName": "金壳金面金钢带 (12).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：金壳金面金钢带",
+            "remark": "slim / 005 / 金壳金面金钢带 (12).JPG",
             "url": "web-images/slim/005/005/variant-429eebef4e008d-61d58f132176.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-429eebef4e008d-9c3b77d3cb65.webp",
             "raw": "金壳金面金钢带",
@@ -454,7 +433,7 @@
               "fileName": "金壳金面金钢带 (12).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：金壳金面金钢带",
+              "remark": "slim / 005 / 金壳金面金钢带 (12).JPG",
               "url": "web-images/slim/005/005/variant-429eebef4e008d-61d58f132176.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-429eebef4e008d-9c3b77d3cb65.webp",
               "raw": "金壳金面金钢带",
@@ -480,7 +459,7 @@
             "fileName": "金壳金面黑胶带.png",
             "width": 567,
             "height": 974,
-            "remark": "超薄系列 HB-005 / 配色与视角：金壳金面黑胶带",
+            "remark": "slim / 005 / 金壳金面黑胶带.png",
             "url": "web-images/slim/005/005/variant-22b5be625f793a-02218e32caff.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-22b5be625f793a-0d083400681c.webp",
             "raw": "金壳金面黑胶带",
@@ -497,7 +476,7 @@
               "fileName": "金壳金面黑胶带.png",
               "width": 567,
               "height": 974,
-              "remark": "超薄系列 HB-005 / 配色与视角：金壳金面黑胶带",
+              "remark": "slim / 005 / 金壳金面黑胶带.png",
               "url": "web-images/slim/005/005/variant-22b5be625f793a-02218e32caff.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-22b5be625f793a-0d083400681c.webp",
               "raw": "金壳金面黑胶带",
@@ -523,7 +502,7 @@
             "fileName": "金壳黑面金钢带 (13).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：金壳黑面金钢带",
+            "remark": "slim / 005 / 金壳黑面金钢带 (13).JPG",
             "url": "web-images/slim/005/005/variant-aa1f3f4159fa3a-db111c14b06a.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-aa1f3f4159fa3a-e375f5fc6cb8.webp",
             "raw": "金壳黑面金钢带",
@@ -540,7 +519,7 @@
               "fileName": "金壳黑面金钢带 (13).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：金壳黑面金钢带",
+              "remark": "slim / 005 / 金壳黑面金钢带 (13).JPG",
               "url": "web-images/slim/005/005/variant-aa1f3f4159fa3a-db111c14b06a.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-aa1f3f4159fa3a-e375f5fc6cb8.webp",
               "raw": "金壳黑面金钢带",
@@ -566,7 +545,7 @@
             "fileName": "金壳黑面黑胶带.png",
             "width": 558,
             "height": 957,
-            "remark": "超薄系列 HB-005 / 配色与视角：金壳黑面黑胶带",
+            "remark": "slim / 005 / 金壳黑面黑胶带.png",
             "url": "web-images/slim/005/005/variant-fa7cc49c989b4d-eb606a93683b.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-fa7cc49c989b4d-206a26774cfe.webp",
             "raw": "金壳黑面黑胶带",
@@ -583,7 +562,7 @@
               "fileName": "金壳黑面黑胶带.png",
               "width": 558,
               "height": 957,
-              "remark": "超薄系列 HB-005 / 配色与视角：金壳黑面黑胶带",
+              "remark": "slim / 005 / 金壳黑面黑胶带.png",
               "url": "web-images/slim/005/005/variant-fa7cc49c989b4d-eb606a93683b.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-fa7cc49c989b4d-206a26774cfe.webp",
               "raw": "金壳黑面黑胶带",
@@ -601,8 +580,8 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "灰面",
-            "bezel": "银表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "银表圈"
           },
           "image": {
             "id": "c262b86ade6b00",
@@ -610,15 +589,15 @@
             "fileName": "银壳灰面银表圈黑胶带.png",
             "width": 539,
             "height": 1011,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳灰面银表圈黑胶带",
+            "remark": "slim / 005 / 银壳灰面银表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-c262b86ade6b00-c36c8a14705f.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-c262b86ade6b00-4f773e699adc.webp",
             "raw": "银壳灰面银表圈黑胶带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "灰面",
-              "bezel": "银表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "银表圈"
             }
           },
           "images": [
@@ -628,15 +607,15 @@
               "fileName": "银壳灰面银表圈黑胶带.png",
               "width": 539,
               "height": 1011,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳灰面银表圈黑胶带",
+              "remark": "slim / 005 / 银壳灰面银表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-c262b86ade6b00-c36c8a14705f.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-c262b86ade6b00-4f773e699adc.webp",
               "raw": "银壳灰面银表圈黑胶带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "灰面",
-                "bezel": "银表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "银表圈"
               }
             }
           ]
@@ -655,7 +634,7 @@
             "fileName": "银壳灰面银钢带 (8).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳灰面银钢带",
+            "remark": "slim / 005 / 银壳灰面银钢带 (8).JPG",
             "url": "web-images/slim/005/005/variant-e47710ca6170ec-20403e251b4f.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-e47710ca6170ec-a8da5174057f.webp",
             "raw": "银壳灰面银钢带",
@@ -672,7 +651,7 @@
               "fileName": "银壳灰面银钢带 (8).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳灰面银钢带",
+              "remark": "slim / 005 / 银壳灰面银钢带 (8).JPG",
               "url": "web-images/slim/005/005/variant-e47710ca6170ec-20403e251b4f.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-e47710ca6170ec-a8da5174057f.webp",
               "raw": "银壳灰面银钢带",
@@ -688,7 +667,7 @@
               "fileName": "银壳灰面银钢带 (9).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳灰面银钢带",
+              "remark": "slim / 005 / 银壳灰面银钢带 (9).JPG",
               "url": "web-images/slim/005/005/variant-98b8386ba03426-ac233c15c7ca.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-98b8386ba03426-2a0fcb7f64eb.webp",
               "raw": "银壳灰面银钢带",
@@ -706,8 +685,8 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "灰面",
-            "bezel": "黑表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "黑表圈"
           },
           "image": {
             "id": "2e532003d6eba3",
@@ -715,15 +694,15 @@
             "fileName": "银壳灰面黑表圈黑胶带.png",
             "width": 596,
             "height": 1028,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳灰面黑表圈黑胶带",
+            "remark": "slim / 005 / 银壳灰面黑表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-2e532003d6eba3-8bfba5d99872.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-2e532003d6eba3-74bf6c487cf5.webp",
             "raw": "银壳灰面黑表圈黑胶带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "灰面",
-              "bezel": "黑表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "黑表圈"
             }
           },
           "images": [
@@ -733,15 +712,15 @@
               "fileName": "银壳灰面黑表圈黑胶带.png",
               "width": 596,
               "height": 1028,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳灰面黑表圈黑胶带",
+              "remark": "slim / 005 / 银壳灰面黑表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-2e532003d6eba3-8bfba5d99872.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-2e532003d6eba3-74bf6c487cf5.webp",
               "raw": "银壳灰面黑表圈黑胶带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "灰面",
-                "bezel": "黑表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "黑表圈"
               }
             }
           ]
@@ -752,8 +731,8 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "白面",
-            "bezel": "银表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "银表圈"
           },
           "image": {
             "id": "56ccef641a3e6a",
@@ -761,15 +740,15 @@
             "fileName": "银壳白面银表圈黑胶带.png",
             "width": 612,
             "height": 1094,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳白面银表圈黑胶带",
+            "remark": "slim / 005 / 银壳白面银表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-56ccef641a3e6a-afaa00c96e67.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-56ccef641a3e6a-e7537de806c8.webp",
             "raw": "银壳白面银表圈黑胶带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "白面",
-              "bezel": "银表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "银表圈"
             }
           },
           "images": [
@@ -779,15 +758,15 @@
               "fileName": "银壳白面银表圈黑胶带.png",
               "width": 612,
               "height": 1094,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳白面银表圈黑胶带",
+              "remark": "slim / 005 / 银壳白面银表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-56ccef641a3e6a-afaa00c96e67.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-56ccef641a3e6a-e7537de806c8.webp",
               "raw": "银壳白面银表圈黑胶带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "白面",
-                "bezel": "银表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "银表圈"
               }
             }
           ]
@@ -806,7 +785,7 @@
             "fileName": "银壳白面银钢带 (5).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳白面银钢带",
+            "remark": "slim / 005 / 银壳白面银钢带 (5).JPG",
             "url": "web-images/slim/005/005/variant-852001052c9f16-231e956a81a5.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-852001052c9f16-3ee7ea7d8399.webp",
             "raw": "银壳白面银钢带",
@@ -823,7 +802,7 @@
               "fileName": "银壳白面银钢带 (5).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳白面银钢带",
+              "remark": "slim / 005 / 银壳白面银钢带 (5).JPG",
               "url": "web-images/slim/005/005/variant-852001052c9f16-231e956a81a5.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-852001052c9f16-3ee7ea7d8399.webp",
               "raw": "银壳白面银钢带",
@@ -839,7 +818,7 @@
               "fileName": "银壳白面银钢带 (6).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳白面银钢带",
+              "remark": "slim / 005 / 银壳白面银钢带 (6).JPG",
               "url": "web-images/slim/005/005/variant-630d6cd899b3e3-b233cce36590.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-630d6cd899b3e3-de0bfc571b33.webp",
               "raw": "银壳白面银钢带",
@@ -857,8 +836,8 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "白面",
-            "bezel": "黑表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "黑表圈"
           },
           "image": {
             "id": "b8cac25077855b",
@@ -866,15 +845,15 @@
             "fileName": "银壳白面黑表圈黑胶带.png",
             "width": 566,
             "height": 1025,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳白面黑表圈黑胶带",
+            "remark": "slim / 005 / 银壳白面黑表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-b8cac25077855b-6d2dee7c32fa.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-b8cac25077855b-9aaa0e7106a9.webp",
             "raw": "银壳白面黑表圈黑胶带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "白面",
-              "bezel": "黑表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "黑表圈"
             }
           },
           "images": [
@@ -884,15 +863,15 @@
               "fileName": "银壳白面黑表圈黑胶带.png",
               "width": 566,
               "height": 1025,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳白面黑表圈黑胶带",
+              "remark": "slim / 005 / 银壳白面黑表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-b8cac25077855b-6d2dee7c32fa.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-b8cac25077855b-9aaa0e7106a9.webp",
               "raw": "银壳白面黑表圈黑胶带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "白面",
-                "bezel": "黑表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "黑表圈"
               }
             }
           ]
@@ -903,8 +882,8 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "黑面",
-            "bezel": "银表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "银表圈"
           },
           "image": {
             "id": "e8c61be2758685",
@@ -912,15 +891,15 @@
             "fileName": "银壳黑面银表圈黑胶带.png",
             "width": 563,
             "height": 967,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳黑面银表圈黑胶带",
+            "remark": "slim / 005 / 银壳黑面银表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-e8c61be2758685-39ad2c1f5d0c.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-e8c61be2758685-69bfb615075c.webp",
             "raw": "银壳黑面银表圈黑胶带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "黑面",
-              "bezel": "银表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "银表圈"
             }
           },
           "images": [
@@ -930,15 +909,15 @@
               "fileName": "银壳黑面银表圈黑胶带.png",
               "width": 563,
               "height": 967,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳黑面银表圈黑胶带",
+              "remark": "slim / 005 / 银壳黑面银表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-e8c61be2758685-39ad2c1f5d0c.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-e8c61be2758685-69bfb615075c.webp",
               "raw": "银壳黑面银表圈黑胶带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "黑面",
-                "bezel": "银表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "银表圈"
               }
             }
           ]
@@ -957,7 +936,7 @@
             "fileName": "银壳黑面银钢带 (4).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳黑面银钢带",
+            "remark": "slim / 005 / 银壳黑面银钢带 (4).JPG",
             "url": "web-images/slim/005/005/variant-5de5db62673855-64d294032152.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-5de5db62673855-2e83981b49e2.webp",
             "raw": "银壳黑面银钢带",
@@ -974,7 +953,7 @@
               "fileName": "银壳黑面银钢带 (4).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳黑面银钢带",
+              "remark": "slim / 005 / 银壳黑面银钢带 (4).JPG",
               "url": "web-images/slim/005/005/variant-5de5db62673855-64d294032152.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-5de5db62673855-2e83981b49e2.webp",
               "raw": "银壳黑面银钢带",
@@ -990,7 +969,7 @@
               "fileName": "银壳黑面银钢带 (7).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳黑面银钢带",
+              "remark": "slim / 005 / 银壳黑面银钢带 (7).JPG",
               "url": "web-images/slim/005/005/variant-a7a061e9cb28f7-cb3f4b0c5a77.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-a7a061e9cb28f7-7ce2d56bfa4a.webp",
               "raw": "银壳黑面银钢带",
@@ -1008,8 +987,8 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "黑面",
-            "bezel": "黑表圈",
-            "strap": "黑胶带"
+            "strap": "黑胶带",
+            "unresolvedText": "黑表圈"
           },
           "image": {
             "id": "8543a22efaa348",
@@ -1017,15 +996,15 @@
             "fileName": "银壳黑面黑表圈黑胶带.png",
             "width": 538,
             "height": 1009,
-            "remark": "超薄系列 HB-005 / 配色与视角：银壳黑面黑表圈黑胶带",
+            "remark": "slim / 005 / 银壳黑面黑表圈黑胶带.png",
             "url": "web-images/slim/005/005/variant-8543a22efaa348-c09baef1ccd1.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-8543a22efaa348-8a25f34f0370.webp",
             "raw": "银壳黑面黑表圈黑胶带",
             "attributes": {
               "caseColor": "银壳",
               "dial": "黑面",
-              "bezel": "黑表圈",
-              "strap": "黑胶带"
+              "strap": "黑胶带",
+              "unresolvedText": "黑表圈"
             }
           },
           "images": [
@@ -1035,15 +1014,15 @@
               "fileName": "银壳黑面黑表圈黑胶带.png",
               "width": 538,
               "height": 1009,
-              "remark": "超薄系列 HB-005 / 配色与视角：银壳黑面黑表圈黑胶带",
+              "remark": "slim / 005 / 银壳黑面黑表圈黑胶带.png",
               "url": "web-images/slim/005/005/variant-8543a22efaa348-c09baef1ccd1.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-8543a22efaa348-8a25f34f0370.webp",
               "raw": "银壳黑面黑表圈黑胶带",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "黑面",
-                "bezel": "黑表圈",
-                "strap": "黑胶带"
+                "strap": "黑胶带",
+                "unresolvedText": "黑表圈"
               }
             }
           ]
@@ -1063,7 +1042,7 @@
             "fileName": "间玫壳蓝玫瑰金面蓝胶带.png",
             "width": 557,
             "height": 1014,
-            "remark": "超薄系列 HB-005 / 配色与视角：间玫壳蓝玫瑰金面蓝胶带",
+            "remark": "slim / 005 / 间玫壳蓝玫瑰金面蓝胶带.png",
             "url": "web-images/slim/005/005/variant-d31fc5f0523f43-8aeccb8c6943.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-d31fc5f0523f43-0820df46cb38.webp",
             "raw": "间玫壳蓝玫瑰金面蓝胶带",
@@ -1081,7 +1060,7 @@
               "fileName": "间玫壳蓝玫瑰金面蓝胶带.png",
               "width": 557,
               "height": 1014,
-              "remark": "超薄系列 HB-005 / 配色与视角：间玫壳蓝玫瑰金面蓝胶带",
+              "remark": "slim / 005 / 间玫壳蓝玫瑰金面蓝胶带.png",
               "url": "web-images/slim/005/005/variant-d31fc5f0523f43-8aeccb8c6943.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-d31fc5f0523f43-0820df46cb38.webp",
               "raw": "间玫壳蓝玫瑰金面蓝胶带",
@@ -1108,7 +1087,7 @@
             "fileName": "间玫壳蓝面黑胶带.png",
             "width": 573,
             "height": 1010,
-            "remark": "超薄系列 HB-005 / 配色与视角：间玫壳蓝面黑胶带",
+            "remark": "slim / 005 / 间玫壳蓝面黑胶带.png",
             "url": "web-images/slim/005/005/variant-f723f136f4ffc0-11ea83c2c944.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-f723f136f4ffc0-12d03103807d.webp",
             "raw": "间玫壳蓝面黑胶带",
@@ -1125,7 +1104,7 @@
               "fileName": "间玫壳蓝面黑胶带.png",
               "width": 573,
               "height": 1010,
-              "remark": "超薄系列 HB-005 / 配色与视角：间玫壳蓝面黑胶带",
+              "remark": "slim / 005 / 间玫壳蓝面黑胶带.png",
               "url": "web-images/slim/005/005/variant-f723f136f4ffc0-11ea83c2c944.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-f723f136f4ffc0-12d03103807d.webp",
               "raw": "间玫壳蓝面黑胶带",
@@ -1151,7 +1130,7 @@
             "fileName": "间金壳蓝面银钢带 (10).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-005 / 配色与视角：间金壳蓝面银钢带",
+            "remark": "slim / 005 / 间金壳蓝面银钢带 (10).JPG",
             "url": "web-images/slim/005/005/variant-6556063241b92f-ee88338c80f3.webp",
             "thumb": "web-images/slim/005/005/thumbnails/variant-6556063241b92f-0ff15b9d27b8.webp",
             "raw": "间金壳蓝面银钢带",
@@ -1168,7 +1147,7 @@
               "fileName": "间金壳蓝面银钢带 (10).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-005 / 配色与视角：间金壳蓝面银钢带",
+              "remark": "slim / 005 / 间金壳蓝面银钢带 (10).JPG",
               "url": "web-images/slim/005/005/variant-6556063241b92f-ee88338c80f3.webp",
               "thumb": "web-images/slim/005/005/thumbnails/variant-6556063241b92f-0ff15b9d27b8.webp",
               "raw": "间金壳蓝面银钢带",
@@ -1180,7 +1159,8 @@
             }
           ]
         }
-      ]
+      ],
+      "category": "slim"
     }
   ]
 }

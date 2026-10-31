@@ -1,21 +1,21 @@
 {
   "id": "packaging-da877ea96a7e",
-  "model": "3",
-  "title": "3",
+  "model": "盒子 (3)",
+  "title": "盒子 (3)",
   "kind": "packaging",
   "category": "packaging",
   "gender": null,
   "shape": null,
-  "defaultSku": "3",
+  "defaultSku": "盒子 (3)",
   "priceFromCny": null,
   "images": {
     "main": {
       "id": "b9a303cf43e07b",
       "role": "main",
-      "fileName": "3.jpg",
+      "fileName": "盒子 (3).jpg",
       "width": 1200,
       "height": 800,
-      "remark": "packaging / 3 / 3.jpg",
+      "remark": "packaging / 盒子 (3) / 盒子 (3).jpg",
       "url": "web-images/packaging/3/3/main-b9a303cf43e07b-304480c65060.webp",
       "thumb": "web-images/packaging/3/3/thumbnails/main-b9a303cf43e07b-12f9926ff938.webp"
     }
@@ -24,8 +24,8 @@
     {
       "id": "packaging:da877ea96a7e",
       "modelId": "packaging-da877ea96a7e",
-      "model": "3",
-      "sku": "3",
+      "model": "盒子 (3)",
+      "sku": "盒子 (3)",
       "kind": "packaging",
       "category": "packaging",
       "gender": null,
@@ -44,7 +44,7 @@
       "legacyVariantIds": {},
       "description": {
         "zh": [
-          "3"
+          "盒子 (3)"
         ],
         "en": [
           "Presentation packaging."
@@ -54,10 +54,10 @@
         "main": {
           "id": "b9a303cf43e07b",
           "role": "main",
-          "fileName": "3.jpg",
+          "fileName": "盒子 (3).jpg",
           "width": 1200,
           "height": 800,
-          "remark": "packaging / 3 / 3.jpg",
+          "remark": "packaging / 盒子 (3) / 盒子 (3).jpg",
           "url": "web-images/packaging/3/3/main-b9a303cf43e07b-304480c65060.webp",
           "thumb": "web-images/packaging/3/3/thumbnails/main-b9a303cf43e07b-12f9926ff938.webp"
         },
@@ -67,10 +67,10 @@
           {
             "id": "b9a303cf43e07b-view",
             "role": "gallery",
-            "fileName": "3.jpg",
+            "fileName": "盒子 (3).jpg",
             "width": 1200,
             "height": 800,
-            "remark": "packaging / 3 / 3.jpg",
+            "remark": "packaging / 盒子 (3) / 盒子 (3).jpg",
             "url": "web-images/packaging/3/3/main-b9a303cf43e07b-304480c65060.webp",
             "thumb": "web-images/packaging/3/3/thumbnails/main-b9a303cf43e07b-12f9926ff938.webp"
           }

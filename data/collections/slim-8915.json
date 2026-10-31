@@ -15,7 +15,7 @@
       "fileName": "8915-1_产品主图.png",
       "width": 998,
       "height": 1600,
-      "remark": "超薄系列 HB-8915 / 产品主图",
+      "remark": "slim / 8915-1 / 8915-1_产品主图.png",
       "url": "web-images/slim/8915/8915-1/main-68fc22bbd8bd57-f095f11b5816.webp",
       "thumb": "web-images/slim/8915/8915-1/thumbnails/main-68fc22bbd8bd57-2706324dd701.webp"
     }
@@ -67,23 +67,12 @@
           "fileName": "8915-1_产品主图.png",
           "width": 998,
           "height": 1600,
-          "remark": "超薄系列 HB-8915 / 产品主图",
+          "remark": "slim / 8915-1 / 8915-1_产品主图.png",
           "url": "web-images/slim/8915/8915-1/main-68fc22bbd8bd57-f095f11b5816.webp",
           "thumb": "web-images/slim/8915/8915-1/thumbnails/main-68fc22bbd8bd57-2706324dd701.webp"
         },
         "packaging": [],
-        "overview": [
-          {
-            "id": "e2ced810f2df24",
-            "role": "overview",
-            "fileName": "8915-1_总照片总图.png",
-            "width": 1200,
-            "height": 1159,
-            "remark": "超薄系列 HB-8915 / 总体图片",
-            "url": "web-images/slim/8915/8915-1/overview-e2ced810f2df24-4a9de8ac9673.webp",
-            "thumb": "web-images/slim/8915/8915-1/thumbnails/overview-e2ced810f2df24-ef983b790187.webp"
-          }
-        ],
+        "overview": [],
         "gallery": []
       },
       "variants": [
@@ -101,7 +90,7 @@
             "fileName": "8915-1_玫瑰金壳白面咖啡皮带.png",
             "width": 707,
             "height": 1139,
-            "remark": "超薄系列 HB-8915 / 配色与视角：玫瑰金壳白面咖啡皮带",
+            "remark": "slim / 8915-1 / 8915-1_玫瑰金壳白面咖啡皮带.png",
             "url": "web-images/slim/8915/8915-1/variant-0185b3b7d53b30-ffdc02d63d47.webp",
             "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-0185b3b7d53b30-1d23e87c95ca.webp",
             "raw": "玫瑰金壳白面咖啡皮带",
@@ -118,7 +107,7 @@
               "fileName": "8915-1_玫瑰金壳白面咖啡皮带.png",
               "width": 707,
               "height": 1139,
-              "remark": "超薄系列 HB-8915 / 配色与视角：玫瑰金壳白面咖啡皮带",
+              "remark": "slim / 8915-1 / 8915-1_玫瑰金壳白面咖啡皮带.png",
               "url": "web-images/slim/8915/8915-1/variant-0185b3b7d53b30-ffdc02d63d47.webp",
               "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-0185b3b7d53b30-1d23e87c95ca.webp",
               "raw": "玫瑰金壳白面咖啡皮带",
@@ -144,7 +133,7 @@
             "fileName": "8915-1_玫瑰金壳白面黑皮带.png",
             "width": 764,
             "height": 1195,
-            "remark": "超薄系列 HB-8915 / 配色与视角：玫瑰金壳白面黑皮带",
+            "remark": "slim / 8915-1 / 8915-1_玫瑰金壳白面黑皮带.png",
             "url": "web-images/slim/8915/8915-1/variant-f95686c1ef8996-ef4cbdbe4078.webp",
             "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-f95686c1ef8996-ac9f4bd4b3c4.webp",
             "raw": "玫瑰金壳白面黑皮带",
@@ -161,7 +150,7 @@
               "fileName": "8915-1_玫瑰金壳白面黑皮带.png",
               "width": 764,
               "height": 1195,
-              "remark": "超薄系列 HB-8915 / 配色与视角：玫瑰金壳白面黑皮带",
+              "remark": "slim / 8915-1 / 8915-1_玫瑰金壳白面黑皮带.png",
               "url": "web-images/slim/8915/8915-1/variant-f95686c1ef8996-ef4cbdbe4078.webp",
               "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-f95686c1ef8996-ac9f4bd4b3c4.webp",
               "raw": "玫瑰金壳白面黑皮带",
@@ -187,7 +176,7 @@
             "fileName": "8915-1_银壳蓝面蓝皮带.png",
             "width": 710,
             "height": 1188,
-            "remark": "超薄系列 HB-8915 / 配色与视角：银壳蓝面蓝皮带",
+            "remark": "slim / 8915-1 / 8915-1_银壳蓝面蓝皮带.png",
             "url": "web-images/slim/8915/8915-1/variant-7b4dbf8a8b28a8-0d97d6c9de55.webp",
             "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-7b4dbf8a8b28a8-0266222387a8.webp",
             "raw": "银壳蓝面蓝皮带",
@@ -204,7 +193,7 @@
               "fileName": "8915-1_银壳蓝面蓝皮带.png",
               "width": 710,
               "height": 1188,
-              "remark": "超薄系列 HB-8915 / 配色与视角：银壳蓝面蓝皮带",
+              "remark": "slim / 8915-1 / 8915-1_银壳蓝面蓝皮带.png",
               "url": "web-images/slim/8915/8915-1/variant-7b4dbf8a8b28a8-0d97d6c9de55.webp",
               "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-7b4dbf8a8b28a8-0266222387a8.webp",
               "raw": "银壳蓝面蓝皮带",
@@ -230,7 +219,7 @@
             "fileName": "8915-1_银壳黑面咖啡皮带.png",
             "width": 727,
             "height": 1264,
-            "remark": "超薄系列 HB-8915 / 配色与视角：银壳黑面咖啡皮带",
+            "remark": "slim / 8915-1 / 8915-1_银壳黑面咖啡皮带.png",
             "url": "web-images/slim/8915/8915-1/variant-b34ce27bb2b0fd-9d423b5a7041.webp",
             "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-b34ce27bb2b0fd-56f6445c18d1.webp",
             "raw": "银壳黑面咖啡皮带",
@@ -247,7 +236,7 @@
               "fileName": "8915-1_银壳黑面咖啡皮带.png",
               "width": 727,
               "height": 1264,
-              "remark": "超薄系列 HB-8915 / 配色与视角：银壳黑面咖啡皮带",
+              "remark": "slim / 8915-1 / 8915-1_银壳黑面咖啡皮带.png",
               "url": "web-images/slim/8915/8915-1/variant-b34ce27bb2b0fd-9d423b5a7041.webp",
               "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-b34ce27bb2b0fd-56f6445c18d1.webp",
               "raw": "银壳黑面咖啡皮带",
@@ -273,7 +262,7 @@
             "fileName": "8915-1_银壳黑面黑皮带.png",
             "width": 787,
             "height": 1161,
-            "remark": "超薄系列 HB-8915 / 配色与视角：银壳黑面黑皮带",
+            "remark": "slim / 8915-1 / 8915-1_银壳黑面黑皮带.png",
             "url": "web-images/slim/8915/8915-1/variant-8e2d90273d33da-70309ce66531.webp",
             "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-8e2d90273d33da-f22a0433d7dd.webp",
             "raw": "银壳黑面黑皮带",
@@ -290,7 +279,7 @@
               "fileName": "8915-1_银壳黑面黑皮带.png",
               "width": 787,
               "height": 1161,
-              "remark": "超薄系列 HB-8915 / 配色与视角：银壳黑面黑皮带",
+              "remark": "slim / 8915-1 / 8915-1_银壳黑面黑皮带.png",
               "url": "web-images/slim/8915/8915-1/variant-8e2d90273d33da-70309ce66531.webp",
               "thumb": "web-images/slim/8915/8915-1/thumbnails/variant-8e2d90273d33da-f22a0433d7dd.webp",
               "raw": "银壳黑面黑皮带",
@@ -302,7 +291,8 @@
             }
           ]
         }
-      ]
+      ],
+      "category": "slim"
     },
     {
       "id": "slim:8915-2",
@@ -350,23 +340,12 @@
           "fileName": "8915-2_产品主图.png",
           "width": 1003,
           "height": 1600,
-          "remark": "超薄系列 HB-8915 / 产品主图",
+          "remark": "slim / 8915-2 / 8915-2_产品主图.png",
           "url": "web-images/slim/8915/8915-2/main-ce540a5d67da59-cc28b6870db3.webp",
           "thumb": "web-images/slim/8915/8915-2/thumbnails/main-ce540a5d67da59-4109f4702146.webp"
         },
         "packaging": [],
-        "overview": [
-          {
-            "id": "7c99840f68ee53",
-            "role": "overview",
-            "fileName": "8915-2_产品总图.png",
-            "width": 1200,
-            "height": 915,
-            "remark": "超薄系列 HB-8915 / 总体图片",
-            "url": "web-images/slim/8915/8915-2/overview-7c99840f68ee53-05ae9441bc17.webp",
-            "thumb": "web-images/slim/8915/8915-2/thumbnails/overview-7c99840f68ee53-be0dab2b2740.webp"
-          }
-        ],
+        "overview": [],
         "gallery": []
       },
       "variants": [
@@ -384,7 +363,7 @@
             "fileName": "8915-2_银壳蓝面蓝皮带.png",
             "width": 1069,
             "height": 1600,
-            "remark": "超薄系列 HB-8915 / 配色与视角：银壳蓝面蓝皮带",
+            "remark": "slim / 8915-2 / 8915-2_银壳蓝面蓝皮带.png",
             "url": "web-images/slim/8915/8915-2/variant-35451a174d31c1-7e917d05f4b6.webp",
             "thumb": "web-images/slim/8915/8915-2/thumbnails/variant-35451a174d31c1-087cf395556c.webp",
             "raw": "银壳蓝面蓝皮带",
@@ -401,7 +380,7 @@
               "fileName": "8915-2_银壳蓝面蓝皮带.png",
               "width": 1069,
               "height": 1600,
-              "remark": "超薄系列 HB-8915 / 配色与视角：银壳蓝面蓝皮带",
+              "remark": "slim / 8915-2 / 8915-2_银壳蓝面蓝皮带.png",
               "url": "web-images/slim/8915/8915-2/variant-35451a174d31c1-7e917d05f4b6.webp",
               "thumb": "web-images/slim/8915/8915-2/thumbnails/variant-35451a174d31c1-087cf395556c.webp",
               "raw": "银壳蓝面蓝皮带",
@@ -427,7 +406,7 @@
             "fileName": "8915-2_银壳黑面黑皮带.png",
             "width": 997,
             "height": 1600,
-            "remark": "超薄系列 HB-8915 / 配色与视角：银壳黑面黑皮带",
+            "remark": "slim / 8915-2 / 8915-2_银壳黑面黑皮带.png",
             "url": "web-images/slim/8915/8915-2/variant-9e3bf43c653e73-bc31f568204c.webp",
             "thumb": "web-images/slim/8915/8915-2/thumbnails/variant-9e3bf43c653e73-9d59f25f46a6.webp",
             "raw": "银壳黑面黑皮带",
@@ -444,7 +423,7 @@
               "fileName": "8915-2_银壳黑面黑皮带.png",
               "width": 997,
               "height": 1600,
-              "remark": "超薄系列 HB-8915 / 配色与视角：银壳黑面黑皮带",
+              "remark": "slim / 8915-2 / 8915-2_银壳黑面黑皮带.png",
               "url": "web-images/slim/8915/8915-2/variant-9e3bf43c653e73-bc31f568204c.webp",
               "thumb": "web-images/slim/8915/8915-2/thumbnails/variant-9e3bf43c653e73-9d59f25f46a6.webp",
               "raw": "银壳黑面黑皮带",
@@ -456,7 +435,8 @@
             }
           ]
         }
-      ]
+      ],
+      "category": "slim"
     }
   ]
 }

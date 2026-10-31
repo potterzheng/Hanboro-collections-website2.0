@@ -310,6 +310,43 @@
               }
             }
           ]
+        },
+        {
+          "id": "women-square:817:3d100bc8a924",
+          "raw": "其它颜色_0",
+          "attributes": {
+            "unresolvedText": "其它颜色_0"
+          },
+          "image": {
+            "id": "80c08d0a8176b2",
+            "role": "variant",
+            "fileName": "其它颜色_0.jpeg",
+            "width": 900,
+            "height": 1600,
+            "url": "web-images/women-square/817/817/variant-80c08d0a8176b2-f4c55b06ccf6.webp",
+            "thumb": "web-images/women-square/817/817/thumbnails/variant-80c08d0a8176b2-734ff503a205.webp",
+            "remark": "women-square / 817 / 其它颜色_0.jpeg",
+            "raw": "其它颜色_0",
+            "attributes": {
+              "unresolvedText": "其它颜色_0"
+            }
+          },
+          "images": [
+            {
+              "id": "80c08d0a8176b2",
+              "role": "variant",
+              "fileName": "其它颜色_0.jpeg",
+              "width": 900,
+              "height": 1600,
+              "url": "web-images/women-square/817/817/variant-80c08d0a8176b2-f4c55b06ccf6.webp",
+              "thumb": "web-images/women-square/817/817/thumbnails/variant-80c08d0a8176b2-734ff503a205.webp",
+              "remark": "women-square / 817 / 其它颜色_0.jpeg",
+              "raw": "其它颜色_0",
+              "attributes": {
+                "unresolvedText": "其它颜色_0"
+              }
+            }
+          ]
         }
       ]
     }

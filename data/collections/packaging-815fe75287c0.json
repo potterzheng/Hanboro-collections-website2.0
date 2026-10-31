@@ -1,21 +1,21 @@
 {
   "id": "packaging-815fe75287c0",
-  "model": "纸",
-  "title": "纸",
+  "model": "盒子",
+  "title": "盒子",
   "kind": "packaging",
   "category": "packaging",
   "gender": null,
   "shape": null,
-  "defaultSku": "纸",
+  "defaultSku": "盒子",
   "priceFromCny": null,
   "images": {
     "main": {
       "id": "62df485cdb0b48",
       "role": "main",
-      "fileName": "纸.jpg",
+      "fileName": "盒子.jpg",
       "width": 590,
       "height": 552,
-      "remark": "packaging / 纸 / 纸.jpg",
+      "remark": "packaging / 盒子 / 盒子.jpg",
       "url": "web-images/packaging/纸/纸/main-62df485cdb0b48-395875f4e9dd.webp",
       "thumb": "web-images/packaging/纸/纸/thumbnails/main-62df485cdb0b48-894b8a3e3cf8.webp"
     }
@@ -24,8 +24,8 @@
     {
       "id": "packaging:815fe75287c0",
       "modelId": "packaging-815fe75287c0",
-      "model": "纸",
-      "sku": "纸",
+      "model": "盒子",
+      "sku": "盒子",
       "kind": "packaging",
       "category": "packaging",
       "gender": null,
@@ -44,7 +44,7 @@
       "legacyVariantIds": {},
       "description": {
         "zh": [
-          "纸"
+          "盒子"
         ],
         "en": [
           "Presentation packaging."
@@ -54,10 +54,10 @@
         "main": {
           "id": "62df485cdb0b48",
           "role": "main",
-          "fileName": "纸.jpg",
+          "fileName": "盒子.jpg",
           "width": 590,
           "height": 552,
-          "remark": "packaging / 纸 / 纸.jpg",
+          "remark": "packaging / 盒子 / 盒子.jpg",
           "url": "web-images/packaging/纸/纸/main-62df485cdb0b48-395875f4e9dd.webp",
           "thumb": "web-images/packaging/纸/纸/thumbnails/main-62df485cdb0b48-894b8a3e3cf8.webp"
         },
@@ -67,10 +67,10 @@
           {
             "id": "62df485cdb0b48-view",
             "role": "gallery",
-            "fileName": "纸.jpg",
+            "fileName": "盒子.jpg",
             "width": 590,
             "height": 552,
-            "remark": "packaging / 纸 / 纸.jpg",
+            "remark": "packaging / 盒子 / 盒子.jpg",
             "url": "web-images/packaging/纸/纸/main-62df485cdb0b48-395875f4e9dd.webp",
             "thumb": "web-images/packaging/纸/纸/thumbnails/main-62df485cdb0b48-894b8a3e3cf8.webp"
           }

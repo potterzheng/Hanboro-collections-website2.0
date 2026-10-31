@@ -15,7 +15,7 @@
       "fileName": "007-2_产品主图.png",
       "width": 908,
       "height": 1600,
-      "remark": "超薄系列 HB-007 / 产品主图",
+      "remark": "slim / 007-2 / 007-2_产品主图.png",
       "url": "web-images/slim/007/007-2/main-ab2885f0e0c466-4f19f72da088.webp",
       "thumb": "web-images/slim/007/007-2/thumbnails/main-ab2885f0e0c466-ed7be7bd8f3d.webp"
     }
@@ -67,23 +67,12 @@
           "fileName": "007-2_产品主图.png",
           "width": 908,
           "height": 1600,
-          "remark": "超薄系列 HB-007 / 产品主图",
+          "remark": "slim / 007-2 / 007-2_产品主图.png",
           "url": "web-images/slim/007/007-2/main-ab2885f0e0c466-4f19f72da088.webp",
           "thumb": "web-images/slim/007/007-2/thumbnails/main-ab2885f0e0c466-ed7be7bd8f3d.webp"
         },
         "packaging": [],
-        "overview": [
-          {
-            "id": "51b7f4ee80fd41",
-            "role": "overview",
-            "fileName": "照片总图.jpg",
-            "width": 1200,
-            "height": 1200,
-            "remark": "超薄系列 HB-007 / 总体图片",
-            "url": "web-images/slim/007/007-2/overview-51b7f4ee80fd41-a1b6e3a8c9e3.webp",
-            "thumb": "web-images/slim/007/007-2/thumbnails/overview-51b7f4ee80fd41-8f0f09784901.webp"
-          }
-        ],
+        "overview": [],
         "gallery": []
       },
       "variants": [
@@ -93,8 +82,7 @@
           "attributes": {
             "caseColor": "玫瑰金壳",
             "dial": "绿面",
-            "bezel": "黑绿表圈",
-            "unresolvedText": "银钢壳"
+            "unresolvedText": "黑绿表圈银钢壳"
           },
           "image": {
             "id": "8ba3c25f4acb1d",
@@ -102,15 +90,14 @@
             "fileName": "玫瑰金壳绿面黑绿表圈银钢壳 (4).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：玫瑰金壳绿面黑绿表圈银钢壳",
+            "remark": "slim / 007-2 / 玫瑰金壳绿面黑绿表圈银钢壳 (4).JPG",
             "url": "web-images/slim/007/007-2/variant-8ba3c25f4acb1d-593bba219a96.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-8ba3c25f4acb1d-da21a46f17f8.webp",
             "raw": "玫瑰金壳绿面黑绿表圈银钢壳",
             "attributes": {
               "caseColor": "玫瑰金壳",
               "dial": "绿面",
-              "bezel": "黑绿表圈",
-              "unresolvedText": "银钢壳"
+              "unresolvedText": "黑绿表圈银钢壳"
             }
           },
           "images": [
@@ -120,15 +107,14 @@
               "fileName": "玫瑰金壳绿面黑绿表圈银钢壳 (4).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：玫瑰金壳绿面黑绿表圈银钢壳",
+              "remark": "slim / 007-2 / 玫瑰金壳绿面黑绿表圈银钢壳 (4).JPG",
               "url": "web-images/slim/007/007-2/variant-8ba3c25f4acb1d-593bba219a96.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-8ba3c25f4acb1d-da21a46f17f8.webp",
               "raw": "玫瑰金壳绿面黑绿表圈银钢壳",
               "attributes": {
                 "caseColor": "玫瑰金壳",
                 "dial": "绿面",
-                "bezel": "黑绿表圈",
-                "unresolvedText": "银钢壳"
+                "unresolvedText": "黑绿表圈银钢壳"
               }
             }
           ]
@@ -139,8 +125,7 @@
           "attributes": {
             "caseColor": "玫瑰金壳",
             "dial": "黑面",
-            "bezel": "红蓝表圈",
-            "unresolvedText": "玫瑰金钢壳"
+            "unresolvedText": "红蓝表圈玫瑰金钢壳"
           },
           "image": {
             "id": "0ff0c0a6398fe9",
@@ -148,15 +133,14 @@
             "fileName": "玫瑰金壳黑面红蓝表圈玫瑰金钢壳 (1).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：玫瑰金壳黑面红蓝表圈玫瑰金钢壳",
+            "remark": "slim / 007-2 / 玫瑰金壳黑面红蓝表圈玫瑰金钢壳 (1).JPG",
             "url": "web-images/slim/007/007-2/variant-0ff0c0a6398fe9-9277a2382ae0.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-0ff0c0a6398fe9-ae6a633fba75.webp",
             "raw": "玫瑰金壳黑面红蓝表圈玫瑰金钢壳",
             "attributes": {
               "caseColor": "玫瑰金壳",
               "dial": "黑面",
-              "bezel": "红蓝表圈",
-              "unresolvedText": "玫瑰金钢壳"
+              "unresolvedText": "红蓝表圈玫瑰金钢壳"
             }
           },
           "images": [
@@ -166,15 +150,14 @@
               "fileName": "玫瑰金壳黑面红蓝表圈玫瑰金钢壳 (1).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：玫瑰金壳黑面红蓝表圈玫瑰金钢壳",
+              "remark": "slim / 007-2 / 玫瑰金壳黑面红蓝表圈玫瑰金钢壳 (1).JPG",
               "url": "web-images/slim/007/007-2/variant-0ff0c0a6398fe9-9277a2382ae0.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-0ff0c0a6398fe9-ae6a633fba75.webp",
               "raw": "玫瑰金壳黑面红蓝表圈玫瑰金钢壳",
               "attributes": {
                 "caseColor": "玫瑰金壳",
                 "dial": "黑面",
-                "bezel": "红蓝表圈",
-                "unresolvedText": "玫瑰金钢壳"
+                "unresolvedText": "红蓝表圈玫瑰金钢壳"
               }
             }
           ]
@@ -185,8 +168,7 @@
           "attributes": {
             "caseColor": "玫瑰金壳",
             "dial": "黑面",
-            "bezel": "黑红表圈",
-            "unresolvedText": "玫瑰金钢壳"
+            "unresolvedText": "黑红表圈玫瑰金钢壳"
           },
           "image": {
             "id": "f42991c2eefb0e",
@@ -194,15 +176,14 @@
             "fileName": "玫瑰金壳黑面黑红表圈玫瑰金钢壳 (2).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：玫瑰金壳黑面黑红表圈玫瑰金钢壳",
+            "remark": "slim / 007-2 / 玫瑰金壳黑面黑红表圈玫瑰金钢壳 (2).JPG",
             "url": "web-images/slim/007/007-2/variant-f42991c2eefb0e-e0486baed68f.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-f42991c2eefb0e-b731aab3d967.webp",
             "raw": "玫瑰金壳黑面黑红表圈玫瑰金钢壳",
             "attributes": {
               "caseColor": "玫瑰金壳",
               "dial": "黑面",
-              "bezel": "黑红表圈",
-              "unresolvedText": "玫瑰金钢壳"
+              "unresolvedText": "黑红表圈玫瑰金钢壳"
             }
           },
           "images": [
@@ -212,15 +193,14 @@
               "fileName": "玫瑰金壳黑面黑红表圈玫瑰金钢壳 (2).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：玫瑰金壳黑面黑红表圈玫瑰金钢壳",
+              "remark": "slim / 007-2 / 玫瑰金壳黑面黑红表圈玫瑰金钢壳 (2).JPG",
               "url": "web-images/slim/007/007-2/variant-f42991c2eefb0e-e0486baed68f.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-f42991c2eefb0e-b731aab3d967.webp",
               "raw": "玫瑰金壳黑面黑红表圈玫瑰金钢壳",
               "attributes": {
                 "caseColor": "玫瑰金壳",
                 "dial": "黑面",
-                "bezel": "黑红表圈",
-                "unresolvedText": "玫瑰金钢壳"
+                "unresolvedText": "黑红表圈玫瑰金钢壳"
               }
             }
           ]
@@ -231,8 +211,7 @@
           "attributes": {
             "caseColor": "金壳",
             "dial": "黑面",
-            "bezel": "蓝红表圈",
-            "unresolvedText": "金钢壳"
+            "unresolvedText": "蓝红表圈金钢壳"
           },
           "image": {
             "id": "bd7b730519ffa2",
@@ -240,15 +219,14 @@
             "fileName": "金壳黑面蓝红表圈金钢壳 (6).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：金壳黑面蓝红表圈金钢壳",
+            "remark": "slim / 007-2 / 金壳黑面蓝红表圈金钢壳 (6).JPG",
             "url": "web-images/slim/007/007-2/variant-bd7b730519ffa2-b50ff454e891.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-bd7b730519ffa2-62b470a39214.webp",
             "raw": "金壳黑面蓝红表圈金钢壳",
             "attributes": {
               "caseColor": "金壳",
               "dial": "黑面",
-              "bezel": "蓝红表圈",
-              "unresolvedText": "金钢壳"
+              "unresolvedText": "蓝红表圈金钢壳"
             }
           },
           "images": [
@@ -258,15 +236,14 @@
               "fileName": "金壳黑面蓝红表圈金钢壳 (6).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：金壳黑面蓝红表圈金钢壳",
+              "remark": "slim / 007-2 / 金壳黑面蓝红表圈金钢壳 (6).JPG",
               "url": "web-images/slim/007/007-2/variant-bd7b730519ffa2-b50ff454e891.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-bd7b730519ffa2-62b470a39214.webp",
               "raw": "金壳黑面蓝红表圈金钢壳",
               "attributes": {
                 "caseColor": "金壳",
                 "dial": "黑面",
-                "bezel": "蓝红表圈",
-                "unresolvedText": "金钢壳"
+                "unresolvedText": "蓝红表圈金钢壳"
               }
             }
           ]
@@ -285,7 +262,7 @@
             "fileName": "金壳黑面金钢壳 (8).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：金壳黑面金钢壳",
+            "remark": "slim / 007-2 / 金壳黑面金钢壳 (8).JPG",
             "url": "web-images/slim/007/007-2/variant-4a4949efa664bf-46b2be25a6e9.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-4a4949efa664bf-8dc0e56a29d1.webp",
             "raw": "金壳黑面金钢壳",
@@ -302,7 +279,7 @@
               "fileName": "金壳黑面金钢壳 (8).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：金壳黑面金钢壳",
+              "remark": "slim / 007-2 / 金壳黑面金钢壳 (8).JPG",
               "url": "web-images/slim/007/007-2/variant-4a4949efa664bf-46b2be25a6e9.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-4a4949efa664bf-8dc0e56a29d1.webp",
               "raw": "金壳黑面金钢壳",
@@ -320,8 +297,7 @@
           "attributes": {
             "caseColor": "金壳",
             "dial": "黑面",
-            "bezel": "黑红表圈",
-            "unresolvedText": "金钢壳"
+            "unresolvedText": "黑红表圈金钢壳"
           },
           "image": {
             "id": "4ab00ce6721ad2",
@@ -329,15 +305,14 @@
             "fileName": "金壳黑面黑红表圈金钢壳 (7).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：金壳黑面黑红表圈金钢壳",
+            "remark": "slim / 007-2 / 金壳黑面黑红表圈金钢壳 (7).JPG",
             "url": "web-images/slim/007/007-2/variant-4ab00ce6721ad2-2282445b2fb0.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-4ab00ce6721ad2-ae1253df10d0.webp",
             "raw": "金壳黑面黑红表圈金钢壳",
             "attributes": {
               "caseColor": "金壳",
               "dial": "黑面",
-              "bezel": "黑红表圈",
-              "unresolvedText": "金钢壳"
+              "unresolvedText": "黑红表圈金钢壳"
             }
           },
           "images": [
@@ -347,15 +322,14 @@
               "fileName": "金壳黑面黑红表圈金钢壳 (7).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：金壳黑面黑红表圈金钢壳",
+              "remark": "slim / 007-2 / 金壳黑面黑红表圈金钢壳 (7).JPG",
               "url": "web-images/slim/007/007-2/variant-4ab00ce6721ad2-2282445b2fb0.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-4ab00ce6721ad2-ae1253df10d0.webp",
               "raw": "金壳黑面黑红表圈金钢壳",
               "attributes": {
                 "caseColor": "金壳",
                 "dial": "黑面",
-                "bezel": "黑红表圈",
-                "unresolvedText": "金钢壳"
+                "unresolvedText": "黑红表圈金钢壳"
               }
             }
           ]
@@ -366,8 +340,7 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "蓝面",
-            "bezel": "蓝红表圈",
-            "unresolvedText": "银钢壳"
+            "unresolvedText": "蓝红表圈银钢壳"
           },
           "image": {
             "id": "50bb4dfc91dc5b",
@@ -375,15 +348,14 @@
             "fileName": "银壳蓝面蓝红表圈银钢壳 (5).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：银壳蓝面蓝红表圈银钢壳",
+            "remark": "slim / 007-2 / 银壳蓝面蓝红表圈银钢壳 (5).JPG",
             "url": "web-images/slim/007/007-2/variant-50bb4dfc91dc5b-5131bc25c348.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-50bb4dfc91dc5b-ed8ab6aec267.webp",
             "raw": "银壳蓝面蓝红表圈银钢壳",
             "attributes": {
               "caseColor": "银壳",
               "dial": "蓝面",
-              "bezel": "蓝红表圈",
-              "unresolvedText": "银钢壳"
+              "unresolvedText": "蓝红表圈银钢壳"
             }
           },
           "images": [
@@ -393,15 +365,14 @@
               "fileName": "银壳蓝面蓝红表圈银钢壳 (5).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：银壳蓝面蓝红表圈银钢壳",
+              "remark": "slim / 007-2 / 银壳蓝面蓝红表圈银钢壳 (5).JPG",
               "url": "web-images/slim/007/007-2/variant-50bb4dfc91dc5b-5131bc25c348.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-50bb4dfc91dc5b-ed8ab6aec267.webp",
               "raw": "银壳蓝面蓝红表圈银钢壳",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "蓝面",
-                "bezel": "蓝红表圈",
-                "unresolvedText": "银钢壳"
+                "unresolvedText": "蓝红表圈银钢壳"
               }
             }
           ]
@@ -412,8 +383,7 @@
           "attributes": {
             "caseColor": "银壳",
             "dial": "黑面",
-            "bezel": "红黑表圈",
-            "unresolvedText": "银钢壳"
+            "unresolvedText": "红黑表圈银钢壳"
           },
           "image": {
             "id": "4dba489148fc57",
@@ -421,15 +391,14 @@
             "fileName": "银壳黑面红黑表圈银钢壳 (3).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：银壳黑面红黑表圈银钢壳",
+            "remark": "slim / 007-2 / 银壳黑面红黑表圈银钢壳 (3).JPG",
             "url": "web-images/slim/007/007-2/variant-4dba489148fc57-6ce534b5cfae.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-4dba489148fc57-f18ee35088e1.webp",
             "raw": "银壳黑面红黑表圈银钢壳",
             "attributes": {
               "caseColor": "银壳",
               "dial": "黑面",
-              "bezel": "红黑表圈",
-              "unresolvedText": "银钢壳"
+              "unresolvedText": "红黑表圈银钢壳"
             }
           },
           "images": [
@@ -439,15 +408,14 @@
               "fileName": "银壳黑面红黑表圈银钢壳 (3).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：银壳黑面红黑表圈银钢壳",
+              "remark": "slim / 007-2 / 银壳黑面红黑表圈银钢壳 (3).JPG",
               "url": "web-images/slim/007/007-2/variant-4dba489148fc57-6ce534b5cfae.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-4dba489148fc57-f18ee35088e1.webp",
               "raw": "银壳黑面红黑表圈银钢壳",
               "attributes": {
                 "caseColor": "银壳",
                 "dial": "黑面",
-                "bezel": "红黑表圈",
-                "unresolvedText": "银钢壳"
+                "unresolvedText": "红黑表圈银钢壳"
               }
             }
           ]
@@ -466,7 +434,7 @@
             "fileName": "银壳黑面银钢壳 (9).JPG",
             "width": 800,
             "height": 800,
-            "remark": "超薄系列 HB-007 / 配色与视角：银壳黑面银钢壳",
+            "remark": "slim / 007-2 / 银壳黑面银钢壳 (9).JPG",
             "url": "web-images/slim/007/007-2/variant-933476da501a79-95a9f6d0578d.webp",
             "thumb": "web-images/slim/007/007-2/thumbnails/variant-933476da501a79-dd69412f754d.webp",
             "raw": "银壳黑面银钢壳",
@@ -483,7 +451,7 @@
               "fileName": "银壳黑面银钢壳 (9).JPG",
               "width": 800,
               "height": 800,
-              "remark": "超薄系列 HB-007 / 配色与视角：银壳黑面银钢壳",
+              "remark": "slim / 007-2 / 银壳黑面银钢壳 (9).JPG",
               "url": "web-images/slim/007/007-2/variant-933476da501a79-95a9f6d0578d.webp",
               "thumb": "web-images/slim/007/007-2/thumbnails/variant-933476da501a79-dd69412f754d.webp",
               "raw": "银壳黑面银钢壳",
@@ -495,7 +463,8 @@
             }
           ]
         }
-      ]
+      ],
+      "category": "slim"
     }
   ]
 }

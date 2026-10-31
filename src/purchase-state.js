@@ -12,8 +12,9 @@ function purchaseSelection(product, variantId, imageId, allowLegacyMain = false)
   const requested = product.legacyVariantIds?.[variantId] || variantId;
   let variant = product.variants.find(item => item.id === requested) || null;
   const gallery = productGallery(product);
-  let image = gallery.find(item => item.id === imageId && (!variant || item.variantId === variant.id));
+  let image = gallery.find(item => item.id === imageId);
   if (image?.variantId) variant = product.variants.find(item => item.id === image.variantId) || null;
+  if (!image && imageId && !(allowLegacyMain && requested == null && imageId === product.images.main?.id)) return null;
   if (!image && variant) image = (variant.images?.length ? variant.images : [variant.image])[0];
   if (!image && requested != null) return null;
   if (!image && (allowLegacyMain || !product.variants.length)) image = product.kind === 'packaging' ? gallery[0] : product.images.main;

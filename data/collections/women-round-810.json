@@ -66,11 +66,10 @@
       "variants": [
         {
           "id": "women-round:810:d457c9665989",
-          "raw": "玫瑰金壳白皮带 (3)",
+          "raw": "玫瑰金壳白皮带",
           "attributes": {
             "caseColor": "玫瑰金壳",
-            "strap": "白皮带",
-            "unresolvedText": "(3)"
+            "strap": "白皮带"
           },
           "image": {
             "id": "a433d9f55e317e",
@@ -81,11 +80,10 @@
             "remark": "women-round / 810 / 玫瑰金壳白皮带 (3).png",
             "url": "web-images/women-round/810/810/variant-a433d9f55e317e-4f839b45581c.webp",
             "thumb": "web-images/women-round/810/810/thumbnails/variant-a433d9f55e317e-e2c560c6955d.webp",
-            "raw": "玫瑰金壳白皮带 (3)",
+            "raw": "玫瑰金壳白皮带",
             "attributes": {
               "caseColor": "玫瑰金壳",
-              "strap": "白皮带",
-              "unresolvedText": "(3)"
+              "strap": "白皮带"
             }
           },
           "images": [
@@ -98,22 +96,20 @@
               "remark": "women-round / 810 / 玫瑰金壳白皮带 (3).png",
               "url": "web-images/women-round/810/810/variant-a433d9f55e317e-4f839b45581c.webp",
               "thumb": "web-images/women-round/810/810/thumbnails/variant-a433d9f55e317e-e2c560c6955d.webp",
-              "raw": "玫瑰金壳白皮带 (3)",
+              "raw": "玫瑰金壳白皮带",
               "attributes": {
                 "caseColor": "玫瑰金壳",
-                "strap": "白皮带",
-                "unresolvedText": "(3)"
+                "strap": "白皮带"
               }
             }
           ]
         },
         {
           "id": "women-round:810:7813c5f54ebb",
-          "raw": "玫瑰金壳黑皮带 (2)",
+          "raw": "玫瑰金壳黑皮带",
           "attributes": {
             "caseColor": "玫瑰金壳",
-            "strap": "黑皮带",
-            "unresolvedText": "(2)"
+            "strap": "黑皮带"
           },
           "image": {
             "id": "780c111128acea",
@@ -124,11 +120,10 @@
             "remark": "women-round / 810 / 玫瑰金壳黑皮带 (2).png",
             "url": "web-images/women-round/810/810/variant-780c111128acea-f59dbf47b485.webp",
             "thumb": "web-images/women-round/810/810/thumbnails/variant-780c111128acea-502239af185a.webp",
-            "raw": "玫瑰金壳黑皮带 (2)",
+            "raw": "玫瑰金壳黑皮带",
             "attributes": {
               "caseColor": "玫瑰金壳",
-              "strap": "黑皮带",
-              "unresolvedText": "(2)"
+              "strap": "黑皮带"
             }
           },
           "images": [
@@ -141,22 +136,20 @@
               "remark": "women-round / 810 / 玫瑰金壳黑皮带 (2).png",
               "url": "web-images/women-round/810/810/variant-780c111128acea-f59dbf47b485.webp",
               "thumb": "web-images/women-round/810/810/thumbnails/variant-780c111128acea-502239af185a.webp",
-              "raw": "玫瑰金壳黑皮带 (2)",
+              "raw": "玫瑰金壳黑皮带",
               "attributes": {
                 "caseColor": "玫瑰金壳",
-                "strap": "黑皮带",
-                "unresolvedText": "(2)"
+                "strap": "黑皮带"
               }
             }
           ]
         },
         {
           "id": "women-round:810:81ddb4c449a1",
-          "raw": "银壳白皮带 (5)",
+          "raw": "银壳白皮带",
           "attributes": {
             "caseColor": "银壳",
-            "strap": "白皮带",
-            "unresolvedText": "(5)"
+            "strap": "白皮带"
           },
           "image": {
             "id": "b54cbaf8390188",
@@ -167,11 +160,10 @@
             "remark": "women-round / 810 / 银壳白皮带 (5).png",
             "url": "web-images/women-round/810/810/variant-b54cbaf8390188-65207a8b1fb2.webp",
             "thumb": "web-images/women-round/810/810/thumbnails/variant-b54cbaf8390188-b7f34d911034.webp",
-            "raw": "银壳白皮带 (5)",
+            "raw": "银壳白皮带",
             "attributes": {
               "caseColor": "银壳",
-              "strap": "白皮带",
-              "unresolvedText": "(5)"
+              "strap": "白皮带"
             }
           },
           "images": [
@@ -184,22 +176,20 @@
               "remark": "women-round / 810 / 银壳白皮带 (5).png",
               "url": "web-images/women-round/810/810/variant-b54cbaf8390188-65207a8b1fb2.webp",
               "thumb": "web-images/women-round/810/810/thumbnails/variant-b54cbaf8390188-b7f34d911034.webp",
-              "raw": "银壳白皮带 (5)",
+              "raw": "银壳白皮带",
               "attributes": {
                 "caseColor": "银壳",
-                "strap": "白皮带",
-                "unresolvedText": "(5)"
+                "strap": "白皮带"
               }
             }
           ]
         },
         {
           "id": "women-round:810:a8be4c281b5a",
-          "raw": "银壳红皮带 (4)",
+          "raw": "银壳红皮带",
           "attributes": {
             "caseColor": "银壳",
-            "strap": "红皮带",
-            "unresolvedText": "(4)"
+            "strap": "红皮带"
           },
           "image": {
             "id": "426beff9d5bf85",
@@ -210,11 +200,10 @@
             "remark": "women-round / 810 / 银壳红皮带 (4).png",
             "url": "web-images/women-round/810/810/variant-426beff9d5bf85-b8549eadefb0.webp",
             "thumb": "web-images/women-round/810/810/thumbnails/variant-426beff9d5bf85-dc80b473fca6.webp",
-            "raw": "银壳红皮带 (4)",
+            "raw": "银壳红皮带",
             "attributes": {
               "caseColor": "银壳",
-              "strap": "红皮带",
-              "unresolvedText": "(4)"
+              "strap": "红皮带"
             }
           },
           "images": [
@@ -227,22 +216,20 @@
               "remark": "women-round / 810 / 银壳红皮带 (4).png",
               "url": "web-images/women-round/810/810/variant-426beff9d5bf85-b8549eadefb0.webp",
               "thumb": "web-images/women-round/810/810/thumbnails/variant-426beff9d5bf85-dc80b473fca6.webp",
-              "raw": "银壳红皮带 (4)",
+              "raw": "银壳红皮带",
               "attributes": {
                 "caseColor": "银壳",
-                "strap": "红皮带",
-                "unresolvedText": "(4)"
+                "strap": "红皮带"
               }
             }
           ]
         },
         {
           "id": "women-round:810:e274c16b487a",
-          "raw": "银壳黑皮带 (1)",
+          "raw": "银壳黑皮带",
           "attributes": {
             "caseColor": "银壳",
-            "strap": "黑皮带",
-            "unresolvedText": "(1)"
+            "strap": "黑皮带"
           },
           "image": {
             "id": "d37e225ac907d1",
@@ -253,11 +240,10 @@
             "remark": "women-round / 810 / 银壳黑皮带 (1).png",
             "url": "web-images/women-round/810/810/variant-d37e225ac907d1-03d9e8ff6ba4.webp",
             "thumb": "web-images/women-round/810/810/thumbnails/variant-d37e225ac907d1-677109024a74.webp",
-            "raw": "银壳黑皮带 (1)",
+            "raw": "银壳黑皮带",
             "attributes": {
               "caseColor": "银壳",
-              "strap": "黑皮带",
-              "unresolvedText": "(1)"
+              "strap": "黑皮带"
             }
           },
           "images": [
@@ -270,11 +256,10 @@
               "remark": "women-round / 810 / 银壳黑皮带 (1).png",
               "url": "web-images/women-round/810/810/variant-d37e225ac907d1-03d9e8ff6ba4.webp",
               "thumb": "web-images/women-round/810/810/thumbnails/variant-d37e225ac907d1-677109024a74.webp",
-              "raw": "银壳黑皮带 (1)",
+              "raw": "银壳黑皮带",
               "attributes": {
                 "caseColor": "银壳",
-                "strap": "黑皮带",
-                "unresolvedText": "(1)"
+                "strap": "黑皮带"
               }
             }
           ]

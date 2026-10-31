@@ -1,0 +1,156 @@
+{
+  "id": "women-round-8100L",
+  "model": "8100L",
+  "title": "HB-8100L",
+  "gender": "women",
+  "shape": "round",
+  "category": "women-round",
+  "defaultSku": "8100L",
+  "images": {
+    "main": {
+      "id": "a97acb6ca58556",
+      "role": "main",
+      "fileName": "产品主图.jpg",
+      "width": 349,
+      "height": 686,
+      "url": "web-images/women-round/8100L/8100L/main-a97acb6ca58556-0705516348a8.webp",
+      "thumb": "web-images/women-round/8100L/8100L/thumbnails/main-a97acb6ca58556-1193990532be.webp",
+      "remark": "women-round / 8100L / 产品主图.jpg"
+    }
+  },
+  "products": [
+    {
+      "id": "women-round:8100L",
+      "modelId": "women-round-8100L",
+      "model": "8100L",
+      "sku": "8100L",
+      "gender": "women",
+      "shape": "round",
+      "category": "women-round",
+      "legacyVariantIds": {},
+      "outOfStock": false,
+      "specs": {
+        "priceCny": 880,
+        "priceBasis": "list-price",
+        "caseSize": "32 mm",
+        "movement": "进口VH32多功能石英机芯",
+        "thickness": "8 mm",
+        "strapWidth": "16 × 14 mm",
+        "strapLength": "18 cm",
+        "waterResistance": "50 m"
+      },
+      "description": {
+        "zh": [
+          "钻石刀工艺精钢表壳",
+          "进口VH32多功能石英机芯",
+          "蓝宝石玻璃镜面，亮泽通透，滴水成珠。 4纹镶嵌8粒水晶钻表盘，双日历窗口显示。",
+          "精钢表带，双按蝴蝶表扣，操作简单方便。",
+          "50米深度防水性能，日常洗手、下雨、游泳、佩戴更安心。 女款尺寸："
+        ],
+        "en": [
+          "Quartz movement.",
+          "Sapphire crystal.",
+          "Stated water resistance: 50 m."
+        ]
+      },
+      "variants": [
+        {
+          "id": "women-round:8100L:eb11e5fc5e42",
+          "raw": "玫瑰金壳玫瑰金钢带",
+          "attributes": {
+            "caseColor": "玫瑰金壳",
+            "strap": "玫瑰金钢带"
+          },
+          "image": {
+            "id": "99de7d7e6ce225",
+            "role": "variant",
+            "fileName": "玫瑰金壳玫瑰金钢带.jpg",
+            "width": 800,
+            "height": 800,
+            "url": "web-images/women-round/8100L/8100L/variant-99de7d7e6ce225-aea8c4c2869d.webp",
+            "thumb": "web-images/women-round/8100L/8100L/thumbnails/variant-99de7d7e6ce225-a67c124e9446.webp",
+            "remark": "women-round / 8100L / 玫瑰金壳玫瑰金钢带.jpg",
+            "raw": "玫瑰金壳玫瑰金钢带",
+            "attributes": {
+              "caseColor": "玫瑰金壳",
+              "strap": "玫瑰金钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "99de7d7e6ce225",
+              "role": "variant",
+              "fileName": "玫瑰金壳玫瑰金钢带.jpg",
+              "width": 800,
+              "height": 800,
+              "url": "web-images/women-round/8100L/8100L/variant-99de7d7e6ce225-aea8c4c2869d.webp",
+              "thumb": "web-images/women-round/8100L/8100L/thumbnails/variant-99de7d7e6ce225-a67c124e9446.webp",
+              "remark": "women-round / 8100L / 玫瑰金壳玫瑰金钢带.jpg",
+              "raw": "玫瑰金壳玫瑰金钢带",
+              "attributes": {
+                "caseColor": "玫瑰金壳",
+                "strap": "玫瑰金钢带"
+              }
+            }
+          ]
+        },
+        {
+          "id": "women-round:8100L:fd1833312922",
+          "raw": "银壳银钢带",
+          "attributes": {
+            "caseColor": "银壳",
+            "strap": "银钢带"
+          },
+          "image": {
+            "id": "8bd2280d1a00a0",
+            "role": "variant",
+            "fileName": "银壳银钢带.jpg",
+            "width": 800,
+            "height": 800,
+            "url": "web-images/women-round/8100L/8100L/variant-8bd2280d1a00a0-475f07c34798.webp",
+            "thumb": "web-images/women-round/8100L/8100L/thumbnails/variant-8bd2280d1a00a0-d87bfe866f95.webp",
+            "remark": "women-round / 8100L / 银壳银钢带.jpg",
+            "raw": "银壳银钢带",
+            "attributes": {
+              "caseColor": "银壳",
+              "strap": "银钢带"
+            }
+          },
+          "images": [
+            {
+              "id": "8bd2280d1a00a0",
+              "role": "variant",
+              "fileName": "银壳银钢带.jpg",
+              "width": 800,
+              "height": 800,
+              "url": "web-images/women-round/8100L/8100L/variant-8bd2280d1a00a0-475f07c34798.webp",
+              "thumb": "web-images/women-round/8100L/8100L/thumbnails/variant-8bd2280d1a00a0-d87bfe866f95.webp",
+              "remark": "women-round / 8100L / 银壳银钢带.jpg",
+              "raw": "银壳银钢带",
+              "attributes": {
+                "caseColor": "银壳",
+                "strap": "银钢带"
+              }
+            }
+          ]
+        }
+      ],
+      "images": {
+        "main": {
+          "id": "a97acb6ca58556",
+          "role": "main",
+          "fileName": "产品主图.jpg",
+          "width": 349,
+          "height": 686,
+          "url": "web-images/women-round/8100L/8100L/main-a97acb6ca58556-0705516348a8.webp",
+          "thumb": "web-images/women-round/8100L/8100L/thumbnails/main-a97acb6ca58556-1193990532be.webp",
+          "remark": "women-round / 8100L / 产品主图.jpg"
+        },
+        "packaging": [],
+        "overview": [],
+        "gallery": []
+      }
+    }
+  ],
+  "priceFromCny": 880
+}

@@ -33,6 +33,18 @@ test('003 keeps the selected view instead of switching to the color first photo'
   assert.equal(cart[0].imageId,'angle');
   assert.equal(api.purchaseSelection(p,cart[0].variantId,cart[0].imageId,true).image.url,'angle.webp');
 });
+
+test('a removed photo is not silently replaced by another photo in a saved cart',()=>{
+  const p=product();
+  assert.equal(api.purchaseSelection(p,p.variants[0].id,'removed-photo',true),null);
+  assert.equal(api.normalizeCartEntries([{productId:p.id,variantId:p.variants[0].id,imageId:'removed-photo',quantity:2}],[p]).length,0);
+});
+
+test('exact photo restores the correct color after a source color label is corrected',()=>{
+  const p=product();p.variants.push({id:'corrected-color',image:second,images:[second]});p.variants[0].images=[first];
+  const cart=api.normalizeCartEntries([{productId:p.id,variantId:p.variants[0].id,imageId:'angle',quantity:2}],[p]);
+  assert.equal(cart[0].imageId,'angle');assert.equal(cart[0].variantId,'corrected-color');
+});
 test('same SKU in separate collections does not resolve through an ambiguous alias',()=>{
   const a=product();const b=product('women-square:003-1');
   assert.equal(api.normalizeCartEntries([{sku:'003-1',quantity:1}],[a,b]).length,0);

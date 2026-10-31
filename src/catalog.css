@@ -238,6 +238,38 @@ dialog::backdrop { background:#111111bb; }
 @media (max-width:760px) { main.catalog-page { padding-right:max(56px,calc(env(safe-area-inset-right) + 50px)); } }
 @media (max-width:760px) { .card-main { aspect-ratio:auto; min-height:240px; padding-top:42px; } }
 @media (prefers-reduced-motion:reduce) { * { transition:none!important; } }
+.header { position:sticky;top:0;z-index:40;background:#fff; }
+.catalog-controls { position:sticky;top:var(--header-height,92px);z-index:30;background:#fff;padding-top:12px;box-shadow:0 5px 8px -8px #0005; }
+.catalog-controls .toolbar { margin-bottom:16px; }
+.catalog-controls .tabs { flex-wrap:nowrap;overflow-x:auto;min-width:0;gap:22px;scrollbar-width:thin; }
+.catalog-controls .toolbar { align-items:center; }
+.catalog-controls .catalog-top h1 { font-size:25px; }
+.remove-selection { width:100%;margin-top:10px; }
+.clear-all { color:#a5303c; }
+.list-actions { display:flex;align-items:center;gap:20px;flex-wrap:wrap; }
+.line-item { grid-template-columns:140px minmax(0,1fr) auto; }
+.line-image { width:140px;height:176px; }
+.inquiry-table { min-width:820px; }
+.inquiry-table th:first-child { width:44%; }
+.inquiry-table th:nth-child(2) { width:12%; }
+.inquiry-table th:nth-child(3) { width:16%; }
+.inquiry-table th:nth-child(4) { width:14%; }
+.inquiry-table th:nth-child(5) { width:14%; }
+.inquiry-product img { width:110px;height:148px; }
+.inquiry-totals { background:var(--surface); }
+.inquiry-table .inquiry-totals th,.inquiry-table .inquiry-totals td { border-top:2px solid var(--text);padding:16px 10px;white-space:normal; }
+.total-label { display:block;font-size:11px;font-weight:400;color:var(--muted);margin-bottom:4px; }
+.inquiry-totals strong { font-size:16px;font-weight:650; }
+.detail-visual,.lightbox-image { -webkit-touch-callout:none;-webkit-user-select:none;user-select:none; }
+.detail-visual img,.lightbox-image { -webkit-user-drag:none; }
+@media (max-width:1099px) { .catalog-controls .toolbar { flex-wrap:wrap;gap:0; }.catalog-controls .tabs { width:100%; }.catalog-controls .sort { margin-left:auto; } }
+@media (max-width:760px) {
+ .catalog-controls { padding-top:8px; }.catalog-controls .catalog-top { margin-bottom:8px;gap:8px; }.catalog-controls .catalog-top h1 { font-size:19px; }.catalog-controls .page-count { display:none; }.catalog-controls .tab { padding:9px 0;min-height:40px; }.catalog-controls .toolbar { margin-bottom:12px; }.catalog-controls .sort { min-height:34px; }.catalog-controls .sort select { padding-top:5px;padding-bottom:5px; }
+ .line-item { grid-template-columns:96px minmax(0,1fr);gap:12px; }.line-image { width:96px;height:146px; }.line-actions { grid-column:2;flex-direction:row;align-items:center;justify-content:space-between;gap:8px; }.line-item>a { grid-row:1/3; }.line-total { font-size:12px; }
+ .inquiry-table { min-width:0; }.inquiry-table .inquiry-product img { width:104px;height:150px; }.inquiry-table .inquiry-product { gap:12px; }
+ .inquiry-table tfoot { display:block;margin-top:16px; }.inquiry-table .inquiry-totals { display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--border); }.inquiry-table .inquiry-totals th { grid-column:1/-1;text-align:left; }.inquiry-table .inquiry-totals th,.inquiry-table .inquiry-totals td { padding:12px;border:0; }.inquiry-table .inquiry-totals td { display:block; }
+ .list-actions { gap:12px; }.list-actions .secondary { font-size:12px;min-height:42px;padding:8px 12px; }
+}
 @media print {
   .header,.footer,.back,.inquiry-actions,.toast,.icon-btn,.quantity button,.nav-link,.cart-layout,.skip-link,.back-to-top { display:none!important; }
   main { padding:0; max-width:none; } .inquiry-layout { display:block; } .inquiry-info { max-width:none; margin-top:24px; } .contact-form { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:0 20px; } .contact-form input,.contact-form textarea { border:0; padding:0; min-height:28px; } .inquiry-table .quantity,.inquiry-table input { border:0; } .inquiry-table .quantity input { width:35px; } .line-list { break-inside:avoid; } tr { break-inside:avoid; } .summary { max-width:330px; margin-left:auto; } .page-heading h1 { font-size:24px; } .inquiry-product { flex-direction:row; } .inquiry-table th:first-child { width:45%; } .inquiry-product img { width:76px; height:96px; } body { font-size:12px; }

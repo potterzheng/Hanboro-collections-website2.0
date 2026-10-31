@@ -71,7 +71,45 @@
         "overview": [],
         "gallery": []
       },
-      "variants": []
+      "variants": [
+        {
+          "id": "women-round:88491L:3d100bc8a924",
+          "raw": "其它颜色_0",
+          "attributes": {
+            "unresolvedText": "其它颜色_0"
+          },
+          "image": {
+            "id": "0cc6600cc46636",
+            "role": "variant",
+            "fileName": "其它颜色_0.jpeg",
+            "width": 790,
+            "height": 999,
+            "url": "web-images/women-round/88491L/88491L/variant-0cc6600cc46636-c44d639205cb.webp",
+            "thumb": "web-images/women-round/88491L/88491L/thumbnails/variant-0cc6600cc46636-cd097254ebd4.webp",
+            "remark": "women-round / 88491L / 其它颜色_0.jpeg",
+            "raw": "其它颜色_0",
+            "attributes": {
+              "unresolvedText": "其它颜色_0"
+            }
+          },
+          "images": [
+            {
+              "id": "0cc6600cc46636",
+              "role": "variant",
+              "fileName": "其它颜色_0.jpeg",
+              "width": 790,
+              "height": 999,
+              "url": "web-images/women-round/88491L/88491L/variant-0cc6600cc46636-c44d639205cb.webp",
+              "thumb": "web-images/women-round/88491L/88491L/thumbnails/variant-0cc6600cc46636-cd097254ebd4.webp",
+              "remark": "women-round / 88491L / 其它颜色_0.jpeg",
+              "raw": "其它颜色_0",
+              "attributes": {
+                "unresolvedText": "其它颜色_0"
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
   "priceFromCny": 1290

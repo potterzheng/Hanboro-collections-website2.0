@@ -15,7 +15,7 @@
       "fileName": "018_产品主图.png",
       "width": 689,
       "height": 677,
-      "remark": "超薄系列 HB-018 / 产品主图",
+      "remark": "slim / 018 / 018_产品主图.png",
       "url": "web-images/slim/018/018/main-c0736176071ce7-fbf81b16d3f1.webp",
       "thumb": "web-images/slim/018/018/thumbnails/main-c0736176071ce7-5fb31b71e0d8.webp"
     }
@@ -67,23 +67,12 @@
           "fileName": "018_产品主图.png",
           "width": 689,
           "height": 677,
-          "remark": "超薄系列 HB-018 / 产品主图",
+          "remark": "slim / 018 / 018_产品主图.png",
           "url": "web-images/slim/018/018/main-c0736176071ce7-fbf81b16d3f1.webp",
           "thumb": "web-images/slim/018/018/thumbnails/main-c0736176071ce7-5fb31b71e0d8.webp"
         },
         "packaging": [],
-        "overview": [
-          {
-            "id": "8e6582ce9ca1ed",
-            "role": "overview",
-            "fileName": "产品总图.png",
-            "width": 1200,
-            "height": 1572,
-            "remark": "超薄系列 HB-018 / 总体图片",
-            "url": "web-images/slim/018/018/overview-8e6582ce9ca1ed-92381760e906.webp",
-            "thumb": "web-images/slim/018/018/thumbnails/overview-8e6582ce9ca1ed-dbfa9220626f.webp"
-          }
-        ],
+        "overview": [],
         "gallery": []
       },
       "variants": [
@@ -101,7 +90,7 @@
             "fileName": "018玫瑰金壳玫瑰金面玫瑰金纲带.png",
             "width": 986,
             "height": 1600,
-            "remark": "超薄系列 HB-018 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金纲带",
+            "remark": "slim / 018 / 018玫瑰金壳玫瑰金面玫瑰金纲带.png",
             "url": "web-images/slim/018/018/variant-209d8f379b3408-cad9bfb2e9cc.webp",
             "thumb": "web-images/slim/018/018/thumbnails/variant-209d8f379b3408-7093c8fed5a5.webp",
             "raw": "玫瑰金壳玫瑰金面玫瑰金纲带",
@@ -118,7 +107,7 @@
               "fileName": "018玫瑰金壳玫瑰金面玫瑰金纲带.png",
               "width": 986,
               "height": 1600,
-              "remark": "超薄系列 HB-018 / 配色与视角：玫瑰金壳玫瑰金面玫瑰金纲带",
+              "remark": "slim / 018 / 018玫瑰金壳玫瑰金面玫瑰金纲带.png",
               "url": "web-images/slim/018/018/variant-209d8f379b3408-cad9bfb2e9cc.webp",
               "thumb": "web-images/slim/018/018/thumbnails/variant-209d8f379b3408-7093c8fed5a5.webp",
               "raw": "玫瑰金壳玫瑰金面玫瑰金纲带",
@@ -144,7 +133,7 @@
             "fileName": "018银壳灰面白纲带.png",
             "width": 1056,
             "height": 1600,
-            "remark": "超薄系列 HB-018 / 配色与视角：银壳灰面白纲带",
+            "remark": "slim / 018 / 018银壳灰面白纲带.png",
             "url": "web-images/slim/018/018/variant-9a63c89335d79e-2c3992e66ec9.webp",
             "thumb": "web-images/slim/018/018/thumbnails/variant-9a63c89335d79e-51c288fe3e31.webp",
             "raw": "银壳灰面白纲带",
@@ -161,7 +150,7 @@
               "fileName": "018银壳灰面白纲带.png",
               "width": 1056,
               "height": 1600,
-              "remark": "超薄系列 HB-018 / 配色与视角：银壳灰面白纲带",
+              "remark": "slim / 018 / 018银壳灰面白纲带.png",
               "url": "web-images/slim/018/018/variant-9a63c89335d79e-2c3992e66ec9.webp",
               "thumb": "web-images/slim/018/018/thumbnails/variant-9a63c89335d79e-51c288fe3e31.webp",
               "raw": "银壳灰面白纲带",
@@ -187,7 +176,7 @@
             "fileName": "018银壳蓝面白纲带.png",
             "width": 1082,
             "height": 1600,
-            "remark": "超薄系列 HB-018 / 配色与视角：银壳蓝面白纲带",
+            "remark": "slim / 018 / 018银壳蓝面白纲带.png",
             "url": "web-images/slim/018/018/variant-e50d81904f9c67-82cc2e800f6c.webp",
             "thumb": "web-images/slim/018/018/thumbnails/variant-e50d81904f9c67-f5946fbf3621.webp",
             "raw": "银壳蓝面白纲带",
@@ -204,7 +193,7 @@
               "fileName": "018银壳蓝面白纲带.png",
               "width": 1082,
               "height": 1600,
-              "remark": "超薄系列 HB-018 / 配色与视角：银壳蓝面白纲带",
+              "remark": "slim / 018 / 018银壳蓝面白纲带.png",
               "url": "web-images/slim/018/018/variant-e50d81904f9c67-82cc2e800f6c.webp",
               "thumb": "web-images/slim/018/018/thumbnails/variant-e50d81904f9c67-f5946fbf3621.webp",
               "raw": "银壳蓝面白纲带",
@@ -230,7 +219,7 @@
             "fileName": "018银壳黑面白纲带.png",
             "width": 1196,
             "height": 1600,
-            "remark": "超薄系列 HB-018 / 配色与视角：银壳黑面白纲带",
+            "remark": "slim / 018 / 018银壳黑面白纲带.png",
             "url": "web-images/slim/018/018/variant-a6101f69979597-2e0fd6cb8db1.webp",
             "thumb": "web-images/slim/018/018/thumbnails/variant-a6101f69979597-e43d6f2b20e4.webp",
             "raw": "银壳黑面白纲带",
@@ -247,7 +236,7 @@
               "fileName": "018银壳黑面白纲带.png",
               "width": 1196,
               "height": 1600,
-              "remark": "超薄系列 HB-018 / 配色与视角：银壳黑面白纲带",
+              "remark": "slim / 018 / 018银壳黑面白纲带.png",
               "url": "web-images/slim/018/018/variant-a6101f69979597-2e0fd6cb8db1.webp",
               "thumb": "web-images/slim/018/018/thumbnails/variant-a6101f69979597-e43d6f2b20e4.webp",
               "raw": "银壳黑面白纲带",
@@ -259,7 +248,8 @@
             }
           ]
         }
-      ]
+      ],
+      "category": "slim"
     }
   ]
 }
